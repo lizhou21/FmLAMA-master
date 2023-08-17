@@ -1,0 +1,782 @@
+{"url": "http://www.wikidata.org/entity/Q20129", "origin": "France", "lang": "pt", "sub_label": "omelete", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q3034906", "origin": "France", "lang": "pt", "sub_label": "Mona de Páscoa", "obj_label": "{'massa', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q273426", "origin": "France", "lang": "pt", "sub_label": "bomba de chocolate", "obj_label": "{'cobertura', 'Massa choux', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q846376", "origin": "France", "lang": "pt", "sub_label": "suflê", "obj_label": "{'vitelo'}"}
+{"url": "http://www.wikidata.org/entity/Q646003", "origin": "France", "lang": "pt", "sub_label": "pain aux raisins", "obj_label": "{'açúcar', 'água', 'manteiga', 'creme pasteleiro', 'passa', 'farinha', 'leite', 'ovo', 'amêndoa', 'avelã'}"}
+{"url": "http://www.wikidata.org/entity/Q1063560", "origin": "France", "lang": "pt", "sub_label": "trufa de chocolate", "obj_label": "{'ganache'}"}
+{"url": "http://www.wikidata.org/entity/Q58265", "origin": "France", "lang": "pt", "sub_label": "Molho béarnaise", "obj_label": "{'vitelo', 'Manteiga clarificada'}"}
+{"url": "http://www.wikidata.org/entity/Q58261", "origin": "France", "lang": "pt", "sub_label": "Molho de velouté", "obj_label": "{'roux'}"}
+{"url": "http://www.wikidata.org/entity/Q29221", "origin": "France", "lang": "pt", "sub_label": "massa folhada", "obj_label": "{'água', 'manteiga', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1197400", "origin": "France", "lang": "pt", "sub_label": "croûton", "obj_label": "{'pão', 'óleo alimentar'}"}
+{"url": "http://www.wikidata.org/entity/Q1142539", "origin": "France", "lang": "pt", "sub_label": "Crêpe Suzette", "obj_label": "{'crepe', 'caramelo', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q548319", "origin": "France", "lang": "pt", "sub_label": "Kouign-amann", "obj_label": "{'açúcar', 'manteiga', 'massa'}"}
+{"url": "http://www.wikidata.org/entity/Q655973", "origin": "France", "lang": "pt", "sub_label": "Gougère", "obj_label": "{'queijo', 'Massa choux'}"}
+{"url": "http://www.wikidata.org/entity/Q1760240", "origin": "France", "lang": "pt", "sub_label": "Quatre mendiants", "obj_label": "{'avelã'}"}
+{"url": "http://www.wikidata.org/entity/Q1504300", "origin": "France", "lang": "pt", "sub_label": "Streusel", "obj_label": "{'açúcar', 'farinha', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q851195", "origin": "France", "lang": "pt", "sub_label": "Beurre blanc", "obj_label": "{'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q890193", "origin": "France", "lang": "pt", "sub_label": "Lenha de Natal", "obj_label": "{'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q2838339", "origin": "France", "lang": "pt", "sub_label": "Hachis parmentier", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q913548", "origin": "France", "lang": "pt", "sub_label": "Ervas de Provença", "obj_label": "{'Folha de louro', 'Thymus', 'manjericão', 'Cerefólio', 'manjerona', 'Orégano', 'Thymus serpyllum', 'Levístico', 'funcho', 'Satureja', 'alecrim', 'Salvia'}"}
+{"url": "http://www.wikidata.org/entity/Q2921630", "origin": "France", "lang": "pt", "sub_label": "Caldo de awara", "obj_label": "{'Tucum'}"}
+{"url": "http://www.wikidata.org/entity/Q749593", "origin": "France", "lang": "pt", "sub_label": "bife tártaro", "obj_label": "{'carne equina', 'carne bovina', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q656071", "origin": "France", "lang": "pt", "sub_label": "bolo de cenoura", "obj_label": "{'açúcar', 'cenoura', 'casca de limão', 'vitelo', 'farinha', 'Kirsch', 'avelã', 'canela', 'levedura química', 'marzipã'}"}
+{"url": "http://www.wikidata.org/entity/Q1858875", "origin": "France", "lang": "pt", "sub_label": "Opéra (bolo)", "obj_label": "{'pão de ló'}"}
+{"url": "http://www.wikidata.org/entity/Q1509725", "origin": "France", "lang": "pt", "sub_label": "mirepoix", "obj_label": "{'cenoura', 'Aipo', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q207832", "origin": "France", "lang": "pt", "sub_label": "croissant", "obj_label": "{'manteiga', 'massa folhada'}"}
+{"url": "http://www.wikidata.org/entity/Q12478", "origin": "France", "lang": "pt", "sub_label": "macaron", "obj_label": "{'sal de cozinha', 'suspiro'}"}
+{"url": "http://www.wikidata.org/entity/Q193411", "origin": "France", "lang": "pt", "sub_label": "brie", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q2981323", "origin": "France", "lang": "pt", "sub_label": "Coco Boer", "obj_label": "{'alcaçuz'}"}
+{"url": "http://www.wikidata.org/entity/Q12491", "origin": "France", "lang": "pt", "sub_label": "mil-folhas", "obj_label": "{'Fondant', 'açúcar de confeiteiro', 'creme pasteleiro', 'massa folhada'}"}
+{"url": "http://www.wikidata.org/entity/Q1191278", "origin": "France", "lang": "pt", "sub_label": "Blanquette de veau", "obj_label": "{'vitela'}"}
+{"url": "http://www.wikidata.org/entity/Q1147946", "origin": "France", "lang": "pt", "sub_label": "Tarte Tatin", "obj_label": "{'maçã'}"}
+{"url": "http://www.wikidata.org/entity/Q197973", "origin": "France", "lang": "pt", "sub_label": "Rabanada", "obj_label": "{'ovo', 'pão', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q304868", "origin": "France", "lang": "pt", "sub_label": "Vol-au-vent", "obj_label": "{'massa folhada'}"}
+{"url": "http://www.wikidata.org/entity/Q6521367", "origin": "France", "lang": "pt", "sub_label": "torta de limão", "obj_label": "{'açúcar', 'vitelo', 'limão'}"}
+{"url": "http://www.wikidata.org/entity/Q312839", "origin": "France", "lang": "pt", "sub_label": "crème brûlée", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q20053", "origin": "France", "lang": "pt", "sub_label": "ravioli", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q828043", "origin": "France", "lang": "pt", "sub_label": "bouillabaisse", "obj_label": "{'peixe', 'croûton', 'vinho', 'alho', 'óleo vegetal', 'tomateiro'}"}
+{"url": "http://www.wikidata.org/entity/Q2894632", "origin": "France", "lang": "pt", "sub_label": "Pièce montée", "obj_label": "{'nougat'}"}
+{"url": "http://www.wikidata.org/entity/Q738", "origin": "France", "lang": "pt", "sub_label": "Croque-monsieur", "obj_label": "{'presunto', 'pão de forma', 'Emmental'}"}
+{"url": "http://www.wikidata.org/entity/Q110184114", "origin": "France", "lang": "pt", "sub_label": "farinha de milho", "obj_label": "{'milho'}"}
+{"url": "http://www.wikidata.org/entity/Q847441", "origin": "France", "lang": "pt", "sub_label": "vinagrete", "obj_label": "{'óleo vegetal'}"}
+{"url": "http://www.wikidata.org/entity/Q265457", "origin": "France", "lang": "pt", "sub_label": "babá ao rum", "obj_label": "{'ovo', 'rum'}"}
+{"url": "http://www.wikidata.org/entity/Q3561340", "origin": "France", "lang": "pt", "sub_label": "Vitréais", "obj_label": "{'maçã'}"}
+{"url": "http://www.wikidata.org/entity/Q791790", "origin": "France", "lang": "pt", "sub_label": "fricassé", "obj_label": "{'molho branco', 'carne branca'}"}
+{"url": "http://www.wikidata.org/entity/Q1137495", "origin": "France", "lang": "pt", "sub_label": "Paris–Brest", "obj_label": "{'Massa choux', 'amêndoa'}"}
+{"url": "http://www.wikidata.org/entity/Q1190414", "origin": "France", "lang": "pt", "sub_label": "remoulade", "obj_label": "{'mostarda', 'maionese', 'erva'}"}
+{"url": "http://www.wikidata.org/entity/Q851428", "origin": "France", "lang": "pt", "sub_label": "pralinê", "obj_label": "{'caramelo', 'avelã'}"}
+{"url": "http://www.wikidata.org/entity/Q1022124", "origin": "France", "lang": "pt", "sub_label": "bife bourguignon", "obj_label": "{'vinho tinto', 'caldo', 'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q1142459", "origin": "France", "lang": "pt", "sub_label": "crème fraîche", "obj_label": "{'nata'}"}
+{"url": "http://www.wikidata.org/entity/Q1381277", "origin": "France", "lang": "pt", "sub_label": "mousse de chocolate", "obj_label": "{'creme chantili', 'clara do ovo', 'chocolate'}"}
+{"url": "http://www.wikidata.org/entity/Q20063", "origin": "France", "lang": "pt", "sub_label": "nhoque", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q129031", "origin": "France", "lang": "pt", "sub_label": "tapenade", "obj_label": "{'Alcaparra', 'azeitona'}"}
+{"url": "http://www.wikidata.org/entity/Q2303610", "origin": "France", "lang": "pt", "sub_label": "Tournedos Rossini", "obj_label": "{'Filé mignon', 'croûton', 'Tuber melanosporum', 'foie gras'}"}
+{"url": "http://www.wikidata.org/entity/Q1294686", "origin": "France", "lang": "pt", "sub_label": "Vichyssoise", "obj_label": "{'nata', 'alho-porro', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q624004", "origin": "France", "lang": "pt", "sub_label": "mousse", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q2724885", "origin": "France", "lang": "pt", "sub_label": "Aligot", "obj_label": "{'puré de batata'}"}
+{"url": "http://www.wikidata.org/entity/Q58263", "origin": "France", "lang": "pt", "sub_label": "Ovos Beneditinos", "obj_label": "{'Molho holandês', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q3039", "origin": "France", "lang": "pt", "sub_label": "cassoulet", "obj_label": "{'guisado'}"}
+{"url": "http://www.wikidata.org/entity/Q58259", "origin": "France", "lang": "pt", "sub_label": "Molho holandês", "obj_label": "{'vitelo', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q6384329", "origin": "France", "lang": "pt", "sub_label": "Creme chantili", "obj_label": "{'creme chantili', 'açúcar de confeiteiro'}"}
+{"url": "http://www.wikidata.org/entity/Q1227562", "origin": "France", "lang": "pt", "sub_label": "Bacalhau al pil pil", "obj_label": "{'alho', 'bacalhau', 'chili', 'azeite'}"}
+{"url": "http://www.wikidata.org/entity/Q1242466", "origin": "France", "lang": "pt", "sub_label": "ganache", "obj_label": "{'nata', 'chocolate', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q12200", "origin": "France", "lang": "pt", "sub_label": "crepe", "obj_label": "{'leite de vaca', 'ovo', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q917761", "origin": "France", "lang": "pt", "sub_label": "doce de leite", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q152088", "origin": "France", "lang": "pt", "sub_label": "batata frita", "obj_label": "{'óleo vegetal', 'sal de cozinha', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q849058", "origin": "France", "lang": "pt", "sub_label": "estrogonofe de carne", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q348947", "origin": "France", "lang": "pt", "sub_label": "molho tártaro", "obj_label": "{'Cerefólio', 'salsa', 'maionese', 'estragão', 'alcaparras', 'cebolinho', 'Picles'}"}
+{"url": "http://www.wikidata.org/entity/Q814709", "origin": "France", "lang": "pt", "sub_label": "carolina", "obj_label": "{'massa', 'açúcar de confeiteiro'}"}
+{"url": "http://www.wikidata.org/entity/Q55152", "origin": "France", "lang": "pt", "sub_label": "Religieuse", "obj_label": "{'Massa choux'}"}
+{"url": "http://www.wikidata.org/entity/Q1363043", "origin": "France", "lang": "pt", "sub_label": "ovos escalfados", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q16976", "origin": "France", "lang": "pt", "sub_label": "pastis", "obj_label": "{'Estrela-de-anis'}"}
+{"url": "http://www.wikidata.org/entity/Q1412533", "origin": "France", "lang": "pt", "sub_label": "erva aromática", "obj_label": "{'Cerefólio', 'salsa', 'estragão', 'cebolinho', 'Sanguisorba minor'}"}
+{"url": "http://www.wikidata.org/entity/Q895177", "origin": "France", "lang": "pt", "sub_label": "bouquet garni", "obj_label": "{'Thymus', 'Folha de louro'}"}
+{"url": "http://www.wikidata.org/entity/Q208172", "origin": "France", "lang": "pt", "sub_label": "baguete", "obj_label": "{'sal de cozinha', 'levedura', 'água', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q167893", "origin": "France", "lang": "pt", "sub_label": "maionese", "obj_label": "{'vitelo', 'óleo alimentar'}"}
+{"url": "http://www.wikidata.org/entity/Q283231", "origin": "France", "lang": "pt", "sub_label": "aioli", "obj_label": "{'alho', 'azeite'}"}
+{"url": "http://www.wikidata.org/entity/Q2096475", "origin": "France", "lang": "pt", "sub_label": "palmier", "obj_label": "{'massa folhada'}"}
+{"url": "http://www.wikidata.org/entity/Q2334489", "origin": "France", "lang": "pt", "sub_label": "Marron-glacé", "obj_label": "{'açúcar', 'castanha'}"}
+{"url": "http://www.wikidata.org/entity/Q209974", "origin": "France", "lang": "pt", "sub_label": "molho béchamel", "obj_label": "{'leite', 'manteiga', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q30004878", "origin": "France", "lang": "pt", "sub_label": "tarte aux pralines", "obj_label": "{'pralinê'}"}
+{"url": "http://www.wikidata.org/entity/Q244617", "origin": "France", "lang": "pt", "sub_label": "Sopa de cebola", "obj_label": "{'queijo', 'pão', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q1815839", "origin": "France", "lang": "pt", "sub_label": "Pissaladière", "obj_label": "{'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q183095", "origin": "France", "lang": "pt", "sub_label": "ratatouille", "obj_label": "{'manjericão', 'manjerona', 'tomate', 'curgete', 'pimento', 'cebola', 'alho'}"}
+{"url": "http://www.wikidata.org/entity/Q527323", "origin": "France", "lang": "pt", "sub_label": "Coq au vin", "obj_label": "{'vinho tinto', 'frango'}"}
+{"url": "http://www.wikidata.org/entity/Q131480", "origin": "France", "lang": "pt", "sub_label": "Camembert", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q12958", "origin": "France", "lang": "pt", "sub_label": "Quenelle", "obj_label": "{'fígado', 'medula óssea', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q604408", "origin": "France", "lang": "pt", "sub_label": "madeleine (gastronomia)", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q20065", "origin": "France", "lang": "pt", "sub_label": "spätzle", "obj_label": "{'farinha de espelta', 'água', 'ovo', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1361859", "origin": "France", "lang": "pt", "sub_label": "Molho bordelaise", "obj_label": "{'vinho tinto'}"}
+{"url": "http://www.wikidata.org/entity/Q1555816", "origin": "France", "lang": "pt", "sub_label": "Piperrada", "obj_label": "{'Cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q597836", "origin": "France", "lang": "pt", "sub_label": "Bacalhau à biscainha", "obj_label": "{'bacalhau-do-atlântico'}"}
+{"url": "http://www.wikidata.org/entity/Q866640", "origin": "France", "lang": "pt", "sub_label": "bisque", "obj_label": "{'vinho branco', 'crustáceo'}"}
+{"url": "http://www.wikidata.org/entity/Q1891041", "origin": "France", "lang": "pt", "sub_label": "Vinhedo do vale do Rhône", "obj_label": "{'Auvérnia-Ródano-Alpes'}"}
+{"url": "http://www.wikidata.org/entity/Q2463769", "origin": "France", "lang": "pt", "sub_label": "Molho branco", "obj_label": "{'Gruyère', 'molho béchamel'}"}
+{"url": "http://www.wikidata.org/entity/Q3463262", "origin": "France", "lang": "pt", "sub_label": "Saint-Raphaël", "obj_label": "{'Quinquina'}"}
+{"url": "http://www.wikidata.org/entity/Q727605", "origin": "France", "lang": "pt", "sub_label": "churro", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q84087415", "origin": "France", "lang": "pt", "sub_label": "catless", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q1152821", "origin": "France", "lang": "pt", "sub_label": "profiteroles", "obj_label": "{'Massa choux', 'ganache'}"}
+{"url": "http://www.wikidata.org/entity/Q2720622", "origin": "France", "lang": "pt", "sub_label": "Salsicha de Morteau", "obj_label": "{'carne de porco'}"}
+{"url": "http://www.wikidata.org/entity/Q44541", "origin": "France", "lang": "pt", "sub_label": "panqueca", "obj_label": "{'leite', 'ovo', 'farinha', 'óleo'}"}
+{"url": "http://www.wikidata.org/entity/Q837480", "origin": "France", "lang": "pt", "sub_label": "aspic", "obj_label": "{'carne de porco', 'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q3001487", "origin": "France", "lang": "pt", "sub_label": "Court-bouillon", "obj_label": "{'cenoura', 'Cebola', 'pimenta', 'bouquet garni', 'vinho branco', 'vinho tinto', 'sal de cozinha', 'vinagre'}"}
+{"url": "http://www.wikidata.org/entity/Q2992508", "origin": "France", "lang": "pt", "sub_label": "Confit byaldi", "obj_label": "{'curgete', 'Piperrada'}"}
+{"url": "http://www.wikidata.org/entity/Q7564064", "origin": "France", "lang": "pt", "sub_label": "Molho Soubise", "obj_label": "{'molho béchamel', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q898344", "origin": "France", "lang": "pt", "sub_label": "Massa choux", "obj_label": "{'manteiga', 'farinha', 'ovo', 'água'}"}
+{"url": "http://www.wikidata.org/entity/Q10398", "origin": "France", "lang": "pt", "sub_label": "Pot-au-feu", "obj_label": "{'cenoura', 'Cebola', 'carne bovina', 'Brassica rapa'}"}
+{"url": "http://www.wikidata.org/entity/Q564278", "origin": "France", "lang": "pt", "sub_label": "Molho Meunière", "obj_label": "{'sumo de limão', 'salsa'}"}
+{"url": "http://www.wikidata.org/entity/Q12502", "origin": "France", "lang": "pt", "sub_label": "Charlotte Russe", "obj_label": "{'pão de ló', 'pão', 'ovo', 'custard'}"}
+{"url": "http://www.wikidata.org/entity/Q154166", "origin": "France", "lang": "pt", "sub_label": "chucrute", "obj_label": "{'repolho', 'Ácido láctico'}"}
+{"url": "http://www.wikidata.org/entity/Q204226", "origin": "France", "lang": "pt", "sub_label": "Mostarda de Dijon", "obj_label": "{'semente de mostarda', 'vinho branco'}"}
+{"url": "http://www.wikidata.org/entity/Q623923", "origin": "France", "lang": "pt", "sub_label": "Croquembouche", "obj_label": "{'caramelo', 'profiteroles'}"}
+{"url": "http://www.wikidata.org/entity/Q3146449", "origin": "France", "lang": "pt", "sub_label": "Steak au poivre", "obj_label": "{'Filé mignon', 'Pimenta-preta'}"}
+{"url": "http://www.wikidata.org/entity/Q872939", "origin": "Japan", "lang": "pt", "sub_label": "Gelatina de café", "obj_label": "{'café'}"}
+{"url": "http://www.wikidata.org/entity/Q1067842", "origin": "Japan", "lang": "pt", "sub_label": "Daifuku", "obj_label": "{'arroz glutinoso', 'anko'}"}
+{"url": "http://www.wikidata.org/entity/Q1073862", "origin": "Japan", "lang": "pt", "sub_label": "kuzuko", "obj_label": "{'Pueraria montana'}"}
+{"url": "http://www.wikidata.org/entity/Q714027", "origin": "Japan", "lang": "pt", "sub_label": "Nikujaga", "obj_label": "{'carne', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q113739", "origin": "Japan", "lang": "pt", "sub_label": "Katsuobushi", "obj_label": "{'bonito'}"}
+{"url": "http://www.wikidata.org/entity/Q1541119", "origin": "Japan", "lang": "pt", "sub_label": "Yuzukoshō", "obj_label": "{'Capsicum annuum', 'Yuzu', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1494260", "origin": "Japan", "lang": "pt", "sub_label": "gari (culinária japonesa)", "obj_label": "{'açúcar', 'corante alimentar', 'gengibre', 'vinagre'}"}
+{"url": "http://www.wikidata.org/entity/Q1372354", "origin": "Japan", "lang": "pt", "sub_label": "Ohagi", "obj_label": "{'arroz glutinoso'}"}
+{"url": "http://www.wikidata.org/entity/Q4701955", "origin": "Japan", "lang": "pt", "sub_label": "Akumaki", "obj_label": "{'arroz glutinoso', 'Bambusoideae'}"}
+{"url": "http://www.wikidata.org/entity/Q198788", "origin": "Japan", "lang": "pt", "sub_label": "Sembei", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q647175", "origin": "Japan", "lang": "pt", "sub_label": "Teriyaki", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q11273150", "origin": "Japan", "lang": "pt", "sub_label": "Tokoroten", "obj_label": "{'alga'}"}
+{"url": "http://www.wikidata.org/entity/Q2722814", "origin": "Japan", "lang": "pt", "sub_label": "Ponzu", "obj_label": "{'molho de soja'}"}
+{"url": "http://www.wikidata.org/entity/Q905204", "origin": "Japan", "lang": "pt", "sub_label": "Kakigōri", "obj_label": "{'gelo'}"}
+{"url": "http://www.wikidata.org/entity/Q235169", "origin": "Japan", "lang": "pt", "sub_label": "missô", "obj_label": "{'soja'}"}
+{"url": "http://www.wikidata.org/entity/Q540171", "origin": "Japan", "lang": "pt", "sub_label": "Kompeitō", "obj_label": "{'açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q878624", "origin": "Japan", "lang": "pt", "sub_label": "congee", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q1051265", "origin": "Japan", "lang": "pt", "sub_label": "massa alimentícia instantânea", "obj_label": "{'sopa', 'talharim'}"}
+{"url": "http://www.wikidata.org/entity/Q470519", "origin": "Japan", "lang": "pt", "sub_label": "mochi", "obj_label": "{'arroz glutinoso'}"}
+{"url": "http://www.wikidata.org/entity/Q1317601", "origin": "Japan", "lang": "pt", "sub_label": "Sata andagi", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q2981197", "origin": "Japan", "lang": "pt", "sub_label": "Coca-Cola Light Plus", "obj_label": "{'água gaseificada'}"}
+{"url": "http://www.wikidata.org/entity/Q2076907", "origin": "Japan", "lang": "pt", "sub_label": "Yubeshi", "obj_label": "{'arroz glutinoso'}"}
+{"url": "http://www.wikidata.org/entity/Q483163", "origin": "Japan", "lang": "pt", "sub_label": "yakitori", "obj_label": "{'frango'}"}
+{"url": "http://www.wikidata.org/entity/Q733844", "origin": "Japan", "lang": "pt", "sub_label": "Naruto", "obj_label": "{'Surimi'}"}
+{"url": "http://www.wikidata.org/entity/Q1165352", "origin": "Japan", "lang": "pt", "sub_label": "Shochu", "obj_label": "{'arroz', 'barley'}"}
+{"url": "http://www.wikidata.org/entity/Q181195", "origin": "Japan", "lang": "pt", "sub_label": "Taiyaki", "obj_label": "{'waffle'}"}
+{"url": "http://www.wikidata.org/entity/Q817282", "origin": "Japan", "lang": "pt", "sub_label": "Beni shōga", "obj_label": "{'gengibre'}"}
+{"url": "http://www.wikidata.org/entity/Q557968", "origin": "Japan", "lang": "pt", "sub_label": "anmitsu", "obj_label": "{'Rhodophyta'}"}
+{"url": "http://www.wikidata.org/entity/Q858345", "origin": "Japan", "lang": "pt", "sub_label": "Kusaya", "obj_label": "{'Carangidae'}"}
+{"url": "http://www.wikidata.org/entity/Q3665589", "origin": "Japan", "lang": "pt", "sub_label": "Baumkuchen", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q3046286", "origin": "Japan", "lang": "pt", "sub_label": "Wasanbon", "obj_label": "{'cana-de-açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q3206076", "origin": "Japan", "lang": "pt", "sub_label": "Niboshi", "obj_label": "{'Poisson'}"}
+{"url": "http://www.wikidata.org/entity/Q87590", "origin": "Japan", "lang": "pt", "sub_label": "kasutera", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1045417", "origin": "Japan", "lang": "pt", "sub_label": "umeboshi", "obj_label": "{'sal', 'Prunus mume'}"}
+{"url": "http://www.wikidata.org/entity/Q1377879", "origin": "Japan", "lang": "pt", "sub_label": "edamame", "obj_label": "{'grão de soja'}"}
+{"url": "http://www.wikidata.org/entity/Q1051482", "origin": "Japan", "lang": "pt", "sub_label": "dorayaki", "obj_label": "{'anko', 'kasutera'}"}
+{"url": "http://www.wikidata.org/entity/Q2756985", "origin": "Japan", "lang": "pt", "sub_label": "Agedashi dofu", "obj_label": "{'tofu'}"}
+{"url": "http://www.wikidata.org/entity/Q234646", "origin": "Japan", "lang": "pt", "sub_label": "lámen", "obj_label": "{'caldo', 'talharim'}"}
+{"url": "http://www.wikidata.org/entity/Q869080", "origin": "Japan", "lang": "pt", "sub_label": "Shogayaki", "obj_label": "{'carne de porco', 'molho de soja', 'gengibre', 'Mirin'}"}
+{"url": "http://www.wikidata.org/entity/Q3296415", "origin": "Japan", "lang": "pt", "sub_label": "Sakura", "obj_label": "{'flor de cerejeira'}"}
+{"url": "http://www.wikidata.org/entity/Q1045248", "origin": "Japan", "lang": "pt", "sub_label": "Tendon", "obj_label": "{'arroz', 'tempura'}"}
+{"url": "http://www.wikidata.org/entity/Q336039", "origin": "Japan", "lang": "pt", "sub_label": "Abura-age", "obj_label": "{'grão de soja'}"}
+{"url": "http://www.wikidata.org/entity/Q1068307", "origin": "Japan", "lang": "pt", "sub_label": "Pocky", "obj_label": "{'biscoito'}"}
+{"url": "http://www.wikidata.org/entity/Q862569", "origin": "Japan", "lang": "pt", "sub_label": "sukiyaki", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q599548", "origin": "Japan", "lang": "pt", "sub_label": "manjū", "obj_label": "{'anko'}"}
+{"url": "http://www.wikidata.org/entity/Q388983", "origin": "Japan", "lang": "pt", "sub_label": "Takikomi gohan", "obj_label": "{'Arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q1304390", "origin": "Japan", "lang": "pt", "sub_label": "Oyakodon", "obj_label": "{'frango', 'ovo de galinha', 'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q505711", "origin": "Japan", "lang": "pt", "sub_label": "nattō", "obj_label": "{'grão de soja'}"}
+{"url": "http://www.wikidata.org/entity/Q1316624", "origin": "Japan", "lang": "pt", "sub_label": "Imagawayaki", "obj_label": "{'polme', 'anko'}"}
+{"url": "http://www.wikidata.org/entity/Q13393", "origin": "Japan", "lang": "pt", "sub_label": "onigiri", "obj_label": "{'Nori', 'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q427226", "origin": "Japan", "lang": "pt", "sub_label": "omu-raisu", "obj_label": "{'ovo de galinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1205609", "origin": "Japan", "lang": "pt", "sub_label": "Arroz hayashi", "obj_label": "{'carne bovina', 'Demi-glace', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q249169", "origin": "Japan", "lang": "pt", "sub_label": "Zōni", "obj_label": "{'mochi'}"}
+{"url": "http://www.wikidata.org/entity/Q1144102", "origin": "Japan", "lang": "pt", "sub_label": "Yakisoba", "obj_label": "{'talharim'}"}
+{"url": "http://www.wikidata.org/entity/Q3122937", "origin": "Japan", "lang": "pt", "sub_label": "Kakuni", "obj_label": "{'toucinho'}"}
+{"url": "http://www.wikidata.org/entity/Q700643", "origin": "Japan", "lang": "pt", "sub_label": "shiruko", "obj_label": "{'Feijão-azuqui'}"}
+{"url": "http://www.wikidata.org/entity/Q1188911", "origin": "Japan", "lang": "pt", "sub_label": "kani-kama", "obj_label": "{'Surimi'}"}
+{"url": "http://www.wikidata.org/entity/Q703286", "origin": "Japan", "lang": "pt", "sub_label": "Champon", "obj_label": "{'carne de porco'}"}
+{"url": "http://www.wikidata.org/entity/Q685077", "origin": "Japan", "lang": "pt", "sub_label": "Gomásio", "obj_label": "{'sementes de sésamo', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q10313790", "origin": "Japan", "lang": "pt", "sub_label": "Kappa maki", "obj_label": "{'Nori'}"}
+{"url": "http://www.wikidata.org/entity/Q1352696", "origin": "Japan", "lang": "pt", "sub_label": "Chankonabe", "obj_label": "{'dashi'}"}
+{"url": "http://www.wikidata.org/entity/Q1140464", "origin": "Japan", "lang": "pt", "sub_label": "anko", "obj_label": "{'Feijão-azuqui'}"}
+{"url": "http://www.wikidata.org/entity/Q55636014", "origin": "Japan", "lang": "pt", "sub_label": "Molho tonkatsu", "obj_label": "{'açúcar', 'maçã', 'tomate', 'tamarindus', 'extracto de levedura', 'cebola', 'sal de cozinha', 'vinagre'}"}
+{"url": "http://www.wikidata.org/entity/Q203176", "origin": "Japan", "lang": "pt", "sub_label": "gyudon", "obj_label": "{'carne bovina', 'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q559408", "origin": "Japan", "lang": "pt", "sub_label": "Yokan", "obj_label": "{'ágar-ágar'}"}
+{"url": "http://www.wikidata.org/entity/Q1087577", "origin": "Japan", "lang": "pt", "sub_label": "Sakuramochi", "obj_label": "{'anko'}"}
+{"url": "http://www.wikidata.org/entity/Q1148919", "origin": "Japan", "lang": "pt", "sub_label": "shichimi", "obj_label": "{'Zanthoxylum piperitum', 'Gergelim', 'cânhamo', 'gengibre', 'chili', 'sementes de papoila'}"}
+{"url": "http://www.wikidata.org/entity/Q2421871", "origin": "Japan", "lang": "pt", "sub_label": "Satsuma age", "obj_label": "{'Surimi'}"}
+{"url": "http://www.wikidata.org/entity/Q1061842", "origin": "Japan", "lang": "pt", "sub_label": "donburi", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q1061824", "origin": "Japan", "lang": "pt", "sub_label": "Ochazuke", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q471866", "origin": "Japan", "lang": "pt", "sub_label": "sopa de missô", "obj_label": "{'água', 'missô'}"}
+{"url": "http://www.wikidata.org/entity/Q1151092", "origin": "Japan", "lang": "pt", "sub_label": "Jingisukan", "obj_label": "{'carne de cordeiro'}"}
+{"url": "http://www.wikidata.org/entity/Q177378", "origin": "Japan", "lang": "pt", "sub_label": "tofu", "obj_label": "{'leite de soja', 'grão de soja'}"}
+{"url": "http://www.wikidata.org/entity/Q3847402", "origin": "Japan", "lang": "pt", "sub_label": "Hanabiramochi", "obj_label": "{'Bardana', 'missô', 'mochi'}"}
+{"url": "http://www.wikidata.org/entity/Q1195290", "origin": "Japan", "lang": "pt", "sub_label": "Korokke", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q702028", "origin": "Japan", "lang": "pt", "sub_label": "Katsudon", "obj_label": "{'tonkatsu', 'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q1061532", "origin": "Japan", "lang": "pt", "sub_label": "chanpurū", "obj_label": "{'legume', 'óleo alimentar'}"}
+{"url": "http://www.wikidata.org/entity/Q1061856", "origin": "Japan", "lang": "pt", "sub_label": "shabu-shabu", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q1200915", "origin": "Japan", "lang": "pt", "sub_label": "Sekihan", "obj_label": "{'Feijão-azuqui', 'arroz glutinoso'}"}
+{"url": "http://www.wikidata.org/entity/Q229385", "origin": "Japan", "lang": "pt", "sub_label": "molho de soja", "obj_label": "{'grão de soja'}"}
+{"url": "http://www.wikidata.org/entity/Q2625025", "origin": "Japan", "lang": "pt", "sub_label": "Zosui", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q166204", "origin": "Japan", "lang": "pt", "sub_label": "kamaboko", "obj_label": "{'Surimi'}"}
+{"url": "http://www.wikidata.org/entity/Q1422437", "origin": "Japan", "lang": "pt", "sub_label": "unagui", "obj_label": "{'Anguilla japonica'}"}
+{"url": "http://www.wikidata.org/entity/Q2700600", "origin": "Japan", "lang": "pt", "sub_label": "Amanattō", "obj_label": "{'açúcar', 'Feijão-azuqui'}"}
+{"url": "http://www.wikidata.org/entity/Q4881235", "origin": "Japan", "lang": "pt", "sub_label": "Beika", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q1044246", "origin": "Japan", "lang": "pt", "sub_label": "Furikake", "obj_label": "{'Gergelim'}"}
+{"url": "http://www.wikidata.org/entity/Q8103680", "origin": "Hungary", "lang": "pt", "sub_label": "kalach", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q205762", "origin": "Hungary", "lang": "pt", "sub_label": "goulash", "obj_label": "{'Folha de louro', 'cenoura', 'molho de soja', 'manteiga', 'azeite', 'Pimenta dioica', 'farinha', 'Agaricus', 'cebola', 'alho', 'especiaria', 'carne', 'chili', 'páprica'}"}
+{"url": "http://www.wikidata.org/entity/Q268114", "origin": "Hungary", "lang": "pt", "sub_label": "Halászlé", "obj_label": "{'peixe'}"}
+{"url": "http://www.wikidata.org/entity/Q30698", "origin": "Hungary", "lang": "pt", "sub_label": "Sopa de ginjas", "obj_label": "{'Ginja'}"}
+{"url": "http://www.wikidata.org/entity/Q645522", "origin": "Hungary", "lang": "pt", "sub_label": "Paprikahendl", "obj_label": "{'frango', 'páprica'}"}
+{"url": "http://www.wikidata.org/entity/Q263948", "origin": "Austria", "lang": "pt", "sub_label": "Žemlovka", "obj_label": "{'maçã'}"}
+{"url": "http://www.wikidata.org/entity/Q158382", "origin": "Austria", "lang": "pt", "sub_label": "Knödel", "obj_label": "{'massa'}"}
+{"url": "http://www.wikidata.org/entity/Q156036", "origin": "Austria", "lang": "pt", "sub_label": "Vianinha", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q250875", "origin": "Austria", "lang": "pt", "sub_label": "Tafelspitz", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q552287", "origin": "Austria", "lang": "pt", "sub_label": "Linzertorte", "obj_label": "{'casca de limão', 'vitelo', 'manteiga', 'farinha', 'doce', 'canela'}"}
+{"url": "http://www.wikidata.org/entity/Q51482", "origin": "Austria", "lang": "pt", "sub_label": "Red Bull", "obj_label": "{'açúcar', 'taurina', 'cafeína', 'água gaseificada'}"}
+{"url": "http://www.wikidata.org/entity/Q264215", "origin": "Austria", "lang": "pt", "sub_label": "Salzburger Nockerln", "obj_label": "{'açúcar', 'ovo de galinha', 'farinha', 'leite', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q327316", "origin": "Austria", "lang": "pt", "sub_label": "Wiener", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q261387", "origin": "Austria", "lang": "pt", "sub_label": "apfelstrudel", "obj_label": "{'açúcar', 'açúcar de confeiteiro', 'maçã', 'manteiga', 'pão ralado', 'canela'}"}
+{"url": "http://www.wikidata.org/entity/Q540543", "origin": "Austria", "lang": "pt", "sub_label": "Kartoffelkäse", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q266540", "origin": "Austria", "lang": "pt", "sub_label": "Kaiserschmarrn", "obj_label": "{'açúcar', 'leite', 'ovo', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q152964", "origin": "Austria", "lang": "pt", "sub_label": "kartoffelsalat", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q899882", "origin": "Austria", "lang": "pt", "sub_label": "Bratwurst", "obj_label": "{'carne de porco', 'vitela', 'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q131442", "origin": "Austria", "lang": "pt", "sub_label": "Sachertorte", "obj_label": "{'ganache', 'doce', 'chocolate amargo', 'pão de ló', 'damasco', 'chocolate'}"}
+{"url": "http://www.wikidata.org/entity/Q6497852", "origin": "Austria", "lang": "pt", "sub_label": "Wiener Schnitzel", "obj_label": "{'pão ralado', 'vitela'}"}
+{"url": "http://www.wikidata.org/entity/Q154482", "origin": "Austria", "lang": "pt", "sub_label": "morcela", "obj_label": "{'sangue'}"}
+{"url": "http://www.wikidata.org/entity/Q2312651", "origin": "Mexico", "lang": "pt", "sub_label": "atole", "obj_label": "{'massa de milho'}"}
+{"url": "http://www.wikidata.org/entity/Q787325", "origin": "Mexico", "lang": "pt", "sub_label": "sumo de tomate", "obj_label": "{'tomate'}"}
+{"url": "http://www.wikidata.org/entity/Q871272", "origin": "Mexico", "lang": "pt", "sub_label": "fajita", "obj_label": "{'Capsicum annuum', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q177564", "origin": "Mexico", "lang": "pt", "sub_label": "pico de gallo", "obj_label": "{'Suco de lima', 'tomate', 'cebola', 'coentro', 'sal de cozinha', 'chili'}"}
+{"url": "http://www.wikidata.org/entity/Q596215", "origin": "Mexico", "lang": "pt", "sub_label": "Feijão refrito", "obj_label": "{'alho', 'feijão', 'banha', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q206978", "origin": "Mexico", "lang": "pt", "sub_label": "Sprite", "obj_label": "{'limão'}"}
+{"url": "http://www.wikidata.org/entity/Q2963582", "origin": "Mexico", "lang": "pt", "sub_label": "Chilaquiles", "obj_label": "{'queijo', 'Cebola', 'Tortilla', 'chouriço', 'ovo', 'molho', 'nata', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q107478965", "origin": "Mexico", "lang": "pt", "sub_label": "Glorias de Linares", "obj_label": "{'açúcar', 'Nogueira-pecã', 'bicarbonato', 'leite', 'canela'}"}
+{"url": "http://www.wikidata.org/entity/Q7695264", "origin": "Mexico", "lang": "pt", "sub_label": "Tejuino", "obj_label": "{'milho'}"}
+{"url": "http://www.wikidata.org/entity/Q863794", "origin": "Mexico", "lang": "pt", "sub_label": "Chili con carne", "obj_label": "{'chili'}"}
+{"url": "http://www.wikidata.org/entity/Q48782623", "origin": "Mexico", "lang": "pt", "sub_label": "Torrefacto", "obj_label": "{'torrador de café'}"}
+{"url": "http://www.wikidata.org/entity/Q191655", "origin": "Mexico", "lang": "pt", "sub_label": "taco", "obj_label": "{'Tortilla', 'recheio'}"}
+{"url": "http://www.wikidata.org/entity/Q16490824", "origin": "Mexico", "lang": "pt", "sub_label": "chamoyada", "obj_label": "{'fruta', 'Tamarindus', 'chamoy'}"}
+{"url": "http://www.wikidata.org/entity/Q1495652", "origin": "Mexico", "lang": "pt", "sub_label": "mole (molho)", "obj_label": "{'Capsicum'}"}
+{"url": "http://www.wikidata.org/entity/Q15660894", "origin": "Mexico", "lang": "pt", "sub_label": "Tortilla", "obj_label": "{'milho'}"}
+{"url": "http://www.wikidata.org/entity/Q2889371", "origin": "Mexico", "lang": "pt", "sub_label": "Orchata", "obj_label": "{'Cyperus esculentus'}"}
+{"url": "http://www.wikidata.org/entity/Q865325", "origin": "Mexico", "lang": "pt", "sub_label": "quesadilla", "obj_label": "{'queijo', 'Tortilla'}"}
+{"url": "http://www.wikidata.org/entity/Q7843249", "origin": "Mexico", "lang": "pt", "sub_label": "Machito", "obj_label": "{'intestino delgado'}"}
+{"url": "http://www.wikidata.org/entity/Q390823", "origin": "Mexico", "lang": "pt", "sub_label": "burrito", "obj_label": "{'recheio'}"}
+{"url": "http://www.wikidata.org/entity/Q1599125", "origin": "Mexico", "lang": "pt", "sub_label": "wrap", "obj_label": "{'recheio'}"}
+{"url": "http://www.wikidata.org/entity/Q5069848", "origin": "Mexico", "lang": "pt", "sub_label": "chamoy", "obj_label": "{'fruta'}"}
+{"url": "http://www.wikidata.org/entity/Q275508", "origin": "Mexico", "lang": "pt", "sub_label": "caesar salad", "obj_label": "{'Parmesão', 'azeite', 'sumo de limão', 'croûton', 'alface romana', 'ovo', 'Molho inglês', 'Pimenta-preta'}"}
+{"url": "http://www.wikidata.org/entity/Q3543686", "origin": "Mexico", "lang": "pt", "sub_label": "Ginataan", "obj_label": "{'leite de coco'}"}
+{"url": "http://www.wikidata.org/entity/Q2626928", "origin": "Mexico", "lang": "pt", "sub_label": "Calavera", "obj_label": "{'sacarose', 'argila'}"}
+{"url": "http://www.wikidata.org/entity/Q207968", "origin": "Mexico", "lang": "pt", "sub_label": "guacamole", "obj_label": "{'Suco de lima', 'abacate', 'jalapeño', 'coentro', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q195", "origin": "Mexico", "lang": "pt", "sub_label": "chocolate", "obj_label": "{'açúcar', 'grão de cacau'}"}
+{"url": "http://www.wikidata.org/entity/Q105635905", "origin": "Mexico", "lang": "pt", "sub_label": "Tacos gobernador", "obj_label": "{'queijo', 'Cebola', 'Camarão', 'Poblano', 'tomateiro'}"}
+{"url": "http://www.wikidata.org/entity/Q516592", "origin": "Mexico", "lang": "pt", "sub_label": "chicha", "obj_label": "{'milho'}"}
+{"url": "http://www.wikidata.org/entity/Q2386967", "origin": "Mexico", "lang": "pt", "sub_label": "Al pastor", "obj_label": "{'carne de porco', 'Abacaxi'}"}
+{"url": "http://www.wikidata.org/entity/Q876096", "origin": "Mexico", "lang": "pt", "sub_label": "enchilada", "obj_label": "{'Tortilla', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q515692", "origin": "Mexico", "lang": "pt", "sub_label": "Pozole", "obj_label": "{'Canjica (grão)'}"}
+{"url": "http://www.wikidata.org/entity/Q109502070", "origin": "Mexico", "lang": "pt", "sub_label": "Fruta de horno", "obj_label": "{'açúcar', 'banha', 'água', 'rapadura'}"}
+{"url": "http://www.wikidata.org/entity/Q5753018", "origin": "Mexico", "lang": "pt", "sub_label": "carne en su jugo", "obj_label": "{'toucinho', 'cebola', 'Feijão', 'carne bovina', 'coentro'}"}
+{"url": "http://www.wikidata.org/entity/Q5069084", "origin": "Mexico", "lang": "pt", "sub_label": "Chalupa (culinária)", "obj_label": "{'massa de milho'}"}
+{"url": "http://www.wikidata.org/entity/Q1720857", "origin": "Saudi Arabia", "lang": "pt", "sub_label": "kabsa", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q1142836", "origin": "Saudi Arabia", "lang": "pt", "sub_label": "khash", "obj_label": "{'Rúmen', 'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q6420111", "origin": "Saudi Arabia", "lang": "pt", "sub_label": "kleicha", "obj_label": "{'cardamomo'}"}
+{"url": "http://www.wikidata.org/entity/Q491517", "origin": "Saudi Arabia", "lang": "pt", "sub_label": "chamuça", "obj_label": "{'cenoura', 'Ervilha', 'carne', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q188788", "origin": "Saudi Arabia", "lang": "pt", "sub_label": "falafel", "obj_label": "{'sementes de cominhos', 'Mahlab', 'grão-de-bico'}"}
+{"url": "http://www.wikidata.org/entity/Q219123", "origin": "Saudi Arabia", "lang": "pt", "sub_label": "kanafeh", "obj_label": "{'açúcar', 'aletria', 'queijo'}"}
+{"url": "http://www.wikidata.org/entity/Q148306", "origin": "Saudi Arabia", "lang": "pt", "sub_label": "Za'atar", "obj_label": "{'sementes de sésamo', 'sal de cozinha', 'tomilho'}"}
+{"url": "http://www.wikidata.org/entity/Q375", "origin": "Belgium", "lang": "pt", "sub_label": "waffle", "obj_label": "{'polme'}"}
+{"url": "http://www.wikidata.org/entity/Q473271", "origin": "Belgium", "lang": "pt", "sub_label": "pepernoot", "obj_label": "{'pimenta', 'noz-moscada', 'manteiga', 'mel', 'canela'}"}
+{"url": "http://www.wikidata.org/entity/Q657007", "origin": "Belgium", "lang": "pt", "sub_label": "chocoladeletter", "obj_label": "{'chocolate'}"}
+{"url": "http://www.wikidata.org/entity/Q635675", "origin": "Belgium", "lang": "pt", "sub_label": "Waterzooi", "obj_label": "{'peixe'}"}
+{"url": "http://www.wikidata.org/entity/Q154043", "origin": "Belgium", "lang": "pt", "sub_label": "Rijstevlaai", "obj_label": "{'arroz-doce'}"}
+{"url": "http://www.wikidata.org/entity/Q1130250", "origin": "United States of America", "lang": "pt", "sub_label": "Succotash", "obj_label": "{'Zea mays Saccharata Group'}"}
+{"url": "http://www.wikidata.org/entity/Q507816", "origin": "United States of America", "lang": "pt", "sub_label": "molho rancheiro", "obj_label": "{'leitelho', 'salsa', 'maionese', 'cebola', 'cebolinho', 'alho', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1068892", "origin": "United States of America", "lang": "pt", "sub_label": "Cheesesteak", "obj_label": "{'queijo processado'}"}
+{"url": "http://www.wikidata.org/entity/Q4917272", "origin": "United States of America", "lang": "pt", "sub_label": "biscuit", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q632832", "origin": "United States of America", "lang": "pt", "sub_label": "cachorro-quente vegetariano", "obj_label": "{'grão de soja'}"}
+{"url": "http://www.wikidata.org/entity/Q244611", "origin": "United States of America", "lang": "pt", "sub_label": "Anel de cebola", "obj_label": "{'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q2975184", "origin": "United States of America", "lang": "pt", "sub_label": "Clamato", "obj_label": "{'tomate'}"}
+{"url": "http://www.wikidata.org/entity/Q13319", "origin": "United States of America", "lang": "pt", "sub_label": "iogurte gelado", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q908963", "origin": "United States of America", "lang": "pt", "sub_label": "Mofongo", "obj_label": "{'banana-da-terra'}"}
+{"url": "http://www.wikidata.org/entity/Q29415", "origin": "United States of America", "lang": "pt", "sub_label": "bolo angel's food", "obj_label": "{'açúcar', 'clara do ovo', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q5096304", "origin": "United States of America", "lang": "pt", "sub_label": "chicken fried steak", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q2339814", "origin": "United States of America", "lang": "pt", "sub_label": "S'more", "obj_label": "{'marshmallow', 'chocolate'}"}
+{"url": "http://www.wikidata.org/entity/Q1072190", "origin": "United States of America", "lang": "pt", "sub_label": "nugget de frango", "obj_label": "{'frango'}"}
+{"url": "http://www.wikidata.org/entity/Q606132", "origin": "United States of America", "lang": "pt", "sub_label": "Spam", "obj_label": "{'carne de porco'}"}
+{"url": "http://www.wikidata.org/entity/Q379138", "origin": "United States of America", "lang": "pt", "sub_label": "fudge", "obj_label": "{'açúcar', 'leite', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q6505317", "origin": "United States of America", "lang": "pt", "sub_label": "Stax", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q272198", "origin": "United States of America", "lang": "pt", "sub_label": "marshmallow", "obj_label": "{'água', 'dança', 'xarope de milho', 'gelatina', 'petróleo'}"}
+{"url": "http://www.wikidata.org/entity/Q207220", "origin": "United States of America", "lang": "pt", "sub_label": "queque", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q855131", "origin": "United States of America", "lang": "pt", "sub_label": "pepperoni", "obj_label": "{'carne de porco', 'carne bovina', 'chili', 'páprica'}"}
+{"url": "http://www.wikidata.org/entity/Q7208574", "origin": "United States of America", "lang": "pt", "sub_label": "Poke", "obj_label": "{'albacora', 'arroz', 'sashimi'}"}
+{"url": "http://www.wikidata.org/entity/Q816851", "origin": "United States of America", "lang": "pt", "sub_label": "cupcake", "obj_label": "{'açúcar', 'manteiga', 'farinha', 'Levedante', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q1763911", "origin": "United States of America", "lang": "pt", "sub_label": "hoppin’ john", "obj_label": "{'toucinho', 'arroz', 'Vigna unguiculata', 'Allium', 'couve', 'Oryza', 'Vigna'}"}
+{"url": "http://www.wikidata.org/entity/Q807791", "origin": "United States of America", "lang": "pt", "sub_label": "molho barbecue", "obj_label": "{'açúcar', 'água', 'vinagre'}"}
+{"url": "http://www.wikidata.org/entity/Q1369093", "origin": "United States of America", "lang": "pt", "sub_label": "Sanduíche de manteiga de amendoim e geleia", "obj_label": "{'manteiga de amendoim', 'pão', 'doce'}"}
+{"url": "http://www.wikidata.org/entity/Q181055", "origin": "United States of America", "lang": "pt", "sub_label": "cachorro-quente", "obj_label": "{'molho', 'Wiener', 'pãozinho'}"}
+{"url": "http://www.wikidata.org/entity/Q1284887", "origin": "United States of America", "lang": "pt", "sub_label": "Bolo Veludo vermelho", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1160522", "origin": "United States of America", "lang": "pt", "sub_label": "gumbo", "obj_label": "{'roux', 'pimento', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q859553", "origin": "United States of America", "lang": "pt", "sub_label": "sundae", "obj_label": "{'gelado'}"}
+{"url": "http://www.wikidata.org/entity/Q1358074", "origin": "United States of America", "lang": "pt", "sub_label": "maçã do amor", "obj_label": "{'maçã'}"}
+{"url": "http://www.wikidata.org/entity/Q37159", "origin": "United States of America", "lang": "pt", "sub_label": "milk-shake", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q7166440", "origin": "United States of America", "lang": "pt", "sub_label": "pepperoni roll", "obj_label": "{'pão branco'}"}
+{"url": "http://www.wikidata.org/entity/Q856330", "origin": "United States of America", "lang": "pt", "sub_label": "cracker", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q782794", "origin": "United States of America", "lang": "pt", "sub_label": "Biscoito da sorte", "obj_label": "{'açúcar', 'baunilha', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q503129", "origin": "United States of America", "lang": "pt", "sub_label": "Brownie", "obj_label": "{'açúcar', 'manteiga', 'grão de cacau', 'farinha', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q387405", "origin": "United States of America", "lang": "pt", "sub_label": "vaca preta", "obj_label": "{'gelado'}"}
+{"url": "http://www.wikidata.org/entity/Q1094882", "origin": "United States of America", "lang": "pt", "sub_label": "clam chowder", "obj_label": "{'amêijoa'}"}
+{"url": "http://www.wikidata.org/entity/Q667478", "origin": "United States of America", "lang": "pt", "sub_label": "Cheeseburger", "obj_label": "{'queijo'}"}
+{"url": "http://www.wikidata.org/entity/Q14169302", "origin": "United States of America", "lang": "pt", "sub_label": "cookie com gotas de chocolate", "obj_label": "{'gotas de chocolate', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q6663", "origin": "United States of America", "lang": "pt", "sub_label": "hambúrguer", "obj_label": "{'pão', 'tomate', 'alface', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q245752", "origin": "United States of America", "lang": "pt", "sub_label": "banana split", "obj_label": "{'creme chantili', 'banana', 'cereja marrasquino'}"}
+{"url": "http://www.wikidata.org/entity/Q1145832", "origin": "United States of America", "lang": "pt", "sub_label": "Fried Coke", "obj_label": "{'polme'}"}
+{"url": "http://www.wikidata.org/entity/Q267129", "origin": "United States of America", "lang": "pt", "sub_label": "Chicken and dumplings", "obj_label": "{'frango'}"}
+{"url": "http://www.wikidata.org/entity/Q3500519", "origin": "United States of America", "lang": "pt", "sub_label": "Stromboli (alimento)", "obj_label": "{'queijo', 'carne', 'massa', 'azeite'}"}
+{"url": "http://www.wikidata.org/entity/Q4385016", "origin": "United States of America", "lang": "pt", "sub_label": "Saimin", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q29477", "origin": "United States of America", "lang": "pt", "sub_label": "Bolo Devil's food", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1329680", "origin": "United States of America", "lang": "pt", "sub_label": "gotas de chocolate", "obj_label": "{'chocolate'}"}
+{"url": "http://www.wikidata.org/entity/Q1373466", "origin": "United States of America", "lang": "pt", "sub_label": "Bolo Chiffon", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q5642869", "origin": "United States of America", "lang": "pt", "sub_label": "Étoufée", "obj_label": "{'marisco'}"}
+{"url": "http://www.wikidata.org/entity/Q1076824", "origin": "United States of America", "lang": "pt", "sub_label": "chowder", "obj_label": "{'fruto do mar'}"}
+{"url": "http://www.wikidata.org/entity/Q714179", "origin": "United States of America", "lang": "pt", "sub_label": "Snickers", "obj_label": "{'caramelo', 'chocolate', 'nougat'}"}
+{"url": "http://www.wikidata.org/entity/Q134041", "origin": "United States of America", "lang": "pt", "sub_label": "bebida de cola", "obj_label": "{'corante de caramelo'}"}
+{"url": "http://www.wikidata.org/entity/Q2291684", "origin": "United States of America", "lang": "pt", "sub_label": "Bundt", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q4849055", "origin": "United States of America", "lang": "pt", "sub_label": "Sanduíche de feijão cozido", "obj_label": "{'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q4959490", "origin": "United States of America", "lang": "pt", "sub_label": "Sanduíche de café da manhã", "obj_label": "{'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q1621603", "origin": "United States of America", "lang": "pt", "sub_label": "mulligan stew", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q2915430", "origin": "United States of America", "lang": "pt", "sub_label": "Doce de oxicoco", "obj_label": "{'açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q1364509", "origin": "United States of America", "lang": "pt", "sub_label": "jambalaya", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q7450022", "origin": "United States of America", "lang": "pt", "sub_label": "Senate bean soup", "obj_label": "{'Feijão-branco'}"}
+{"url": "http://www.wikidata.org/entity/Q335016", "origin": "United States of America", "lang": "pt", "sub_label": "Molho Tabasco", "obj_label": "{'sal de cozinha', \"Capsicum frutescens 'Tabasco'\"}"}
+{"url": "http://www.wikidata.org/entity/Q1104585", "origin": "United States of America", "lang": "pt", "sub_label": "Salada Cobb", "obj_label": "{'Gallus gallus domesticus', 'toucinho', 'queijo', 'Lactuca', 'tomate', 'abacateiro', 'abacate', 'ovo', 'vinagrete', 'tomateiro'}"}
+{"url": "http://www.wikidata.org/entity/Q5465590", "origin": "United States of America", "lang": "pt", "sub_label": "Fool's Gold Loaf", "obj_label": "{'geleia', 'toucinho', 'manteiga de amendoim', 'baguete'}"}
+{"url": "http://www.wikidata.org/entity/Q667951", "origin": "United States of America", "lang": "pt", "sub_label": "screwdriver", "obj_label": "{'vodca', 'suco de laranja'}"}
+{"url": "http://www.wikidata.org/entity/Q796270", "origin": "United States of America", "lang": "pt", "sub_label": "Sanduíche BLT", "obj_label": "{'toucinho', 'pão', 'tomate', 'maionese', 'alface'}"}
+{"url": "http://www.wikidata.org/entity/Q7007443", "origin": "United States of America", "lang": "pt", "sub_label": "Clambake", "obj_label": "{'marisco'}"}
+{"url": "http://www.wikidata.org/entity/Q1139527", "origin": "United States of America", "lang": "pt", "sub_label": "California Roll", "obj_label": "{'abacate', 'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q5194921", "origin": "Spain", "lang": "pt", "sub_label": "Fabes con amasueles", "obj_label": "{'amêijoa'}"}
+{"url": "http://www.wikidata.org/entity/Q1635129", "origin": "Spain", "lang": "pt", "sub_label": "salmorejo", "obj_label": "{'pão', 'tomate', 'azeite', 'alho', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q6150980", "origin": "Spain", "lang": "pt", "sub_label": "Torta parda", "obj_label": "{'especiaria', 'amêndoa', 'farinha', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q868158", "origin": "Spain", "lang": "pt", "sub_label": "Cozido", "obj_label": "{'cenoura', 'Salo', 'Feijão', 'carnes frias', 'grão-de-bico', 'carne', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q2101181", "origin": "Spain", "lang": "pt", "sub_label": "Polvo à galega", "obj_label": "{'Polvo'}"}
+{"url": "http://www.wikidata.org/entity/Q938682", "origin": "Spain", "lang": "pt", "sub_label": "Alfajor", "obj_label": "{'farinha', 'doce de leite'}"}
+{"url": "http://www.wikidata.org/entity/Q2706236", "origin": "Spain", "lang": "pt", "sub_label": "natilla", "obj_label": "{'açúcar', 'leite', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q177166", "origin": "Spain", "lang": "pt", "sub_label": "bolo-rei", "obj_label": "{'massa'}"}
+{"url": "http://www.wikidata.org/entity/Q6060099", "origin": "Spain", "lang": "pt", "sub_label": "Papas aliñás", "obj_label": "{'salsa', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q555084", "origin": "Spain", "lang": "pt", "sub_label": "doce de marmelo", "obj_label": "{'açúcar', 'Marmeleiro'}"}
+{"url": "http://www.wikidata.org/entity/Q3543394", "origin": "Spain", "lang": "pt", "sub_label": "Arròs negre", "obj_label": "{'arroz branco'}"}
+{"url": "http://www.wikidata.org/entity/Q374381", "origin": "Spain", "lang": "pt", "sub_label": "flan", "obj_label": "{'açúcar', 'leite', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q1078150", "origin": "Spain", "lang": "pt", "sub_label": "cereja marrasquino", "obj_label": "{'cereja'}"}
+{"url": "http://www.wikidata.org/entity/Q3848112", "origin": "Spain", "lang": "pt", "sub_label": "carcamusas", "obj_label": "{'carne de porco', 'legume'}"}
+{"url": "http://www.wikidata.org/entity/Q273296", "origin": "Spain", "lang": "pt", "sub_label": "sangria", "obj_label": "{'açúcar', 'vinho tinto', 'fruta', 'refrigerante'}"}
+{"url": "http://www.wikidata.org/entity/Q202677", "origin": "Spain", "lang": "pt", "sub_label": "Gaspacho", "obj_label": "{'Cebola', 'Capsicum', 'tomate', 'pão', 'azeite', 'água', 'sumo de limão', 'Alho', 'Pepino', 'Capsicum annuum', 'sal de cozinha', 'tomateiro', 'vinagre'}"}
+{"url": "http://www.wikidata.org/entity/Q97749998", "origin": "Spain", "lang": "pt", "sub_label": "Mostillo de mel", "obj_label": "{'mel'}"}
+{"url": "http://www.wikidata.org/entity/Q956137", "origin": "Spain", "lang": "pt", "sub_label": "Toucinho do céu", "obj_label": "{'vitelo'}"}
+{"url": "http://www.wikidata.org/entity/Q2981212", "origin": "Spain", "lang": "pt", "sub_label": "Cocada", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q16567691", "origin": "Spain", "lang": "pt", "sub_label": "Fideos con caballa", "obj_label": "{'alho', 'tomate', 'azeite', 'talharim'}"}
+{"url": "http://www.wikidata.org/entity/Q7230368", "origin": "Spain", "lang": "pt", "sub_label": "Porra antequerana", "obj_label": "{'alho', 'pão', 'tomateiro'}"}
+{"url": "http://www.wikidata.org/entity/Q23374", "origin": "Spain", "lang": "pt", "sub_label": "chouriço", "obj_label": "{'carne de porco'}"}
+{"url": "http://www.wikidata.org/entity/Q957776", "origin": "Spain", "lang": "pt", "sub_label": "Migas", "obj_label": "{'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q3826092", "origin": "Spain", "lang": "pt", "sub_label": "Arrossejat", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q2227296", "origin": "Spain", "lang": "pt", "sub_label": "Pestiño", "obj_label": "{'massa'}"}
+{"url": "http://www.wikidata.org/entity/Q586770", "origin": "Spain", "lang": "pt", "sub_label": "Romesco", "obj_label": "{'noz', 'tomate', 'alho'}"}
+{"url": "http://www.wikidata.org/entity/Q9019810", "origin": "Spain", "lang": "pt", "sub_label": "Lacão com grelos", "obj_label": "{'Eisbein', 'Brassica rapa'}"}
+{"url": "http://www.wikidata.org/entity/Q551514", "origin": "Spain", "lang": "pt", "sub_label": "manjar branco", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q5978645", "origin": "Spain", "lang": "pt", "sub_label": "Lomo en adobo", "obj_label": "{'orégãos', 'Lombo', 'páprica', 'alho', 'sal de cozinha', 'Adobo', 'vinagre'}"}
+{"url": "http://www.wikidata.org/entity/Q5856045", "origin": "Spain", "lang": "pt", "sub_label": "Farinato", "obj_label": "{'pão', 'aguardente', 'banha', 'cebola', 'alho', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q4774679", "origin": "Spain", "lang": "pt", "sub_label": "Presunto ibérico", "obj_label": "{'presunto'}"}
+{"url": "http://www.wikidata.org/entity/Q1784786", "origin": "Spain", "lang": "pt", "sub_label": "Pisto", "obj_label": "{'Cebola', 'beringela', 'tomateiro'}"}
+{"url": "http://www.wikidata.org/entity/Q1105215", "origin": "Spain", "lang": "pt", "sub_label": "Cozido madrileno", "obj_label": "{'grão-de-bico'}"}
+{"url": "http://www.wikidata.org/entity/Q413126", "origin": "Spain", "lang": "pt", "sub_label": "Ajoblanco", "obj_label": "{'alho', 'pão', 'amêndoa', 'azeite'}"}
+{"url": "http://www.wikidata.org/entity/Q212121", "origin": "Spain", "lang": "pt", "sub_label": "paella", "obj_label": "{'Gallus gallus domesticus', 'tomate', 'azeite', 'feijão-verde', 'açafrão', 'arroz', 'Feijão-de-lima', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q3623912", "origin": "Spain", "lang": "pt", "sub_label": "Arroz com crosta", "obj_label": "{'Arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q995376", "origin": "Spain", "lang": "pt", "sub_label": "Fabada asturiana", "obj_label": "{'chouriço'}"}
+{"url": "http://www.wikidata.org/entity/Q159304", "origin": "Spain", "lang": "pt", "sub_label": "Torrão de Alicante", "obj_label": "{'clara do ovo', 'amêndoa', 'mel'}"}
+{"url": "http://www.wikidata.org/entity/Q1089959", "origin": "Spain", "lang": "pt", "sub_label": "churrasco", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q281751", "origin": "Spain", "lang": "pt", "sub_label": "Tortilha espanhola", "obj_label": "{'ovo de galinha', 'azeite', 'cebola', 'sal de cozinha', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q15927529", "origin": "Spain", "lang": "pt", "sub_label": "zanahorias aliñadas", "obj_label": "{'orégãos', 'cenoura', 'salsa', 'sementes de cominhos', 'alho'}"}
+{"url": "http://www.wikidata.org/entity/Q842566", "origin": "Spain", "lang": "pt", "sub_label": "Creme catalão", "obj_label": "{'açúcar', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q8705390", "origin": "Spain", "lang": "pt", "sub_label": "Bolinho", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q3573026", "origin": "Spain", "lang": "pt", "sub_label": "Torta", "obj_label": "{'queijo', 'Cebola', 'pão', 'maionese', 'Feijão refrito', 'tamal', 'enchido', 'alface romana', 'jalapeño', 'abacate', 'carnes frias', 'ovo', 'Cochinita pibil', 'tomateiro'}"}
+{"url": "http://www.wikidata.org/entity/Q1411695", "origin": "Spain", "lang": "pt", "sub_label": "Pa amb tomàquet", "obj_label": "{'pão', 'tomate'}"}
+{"url": "http://www.wikidata.org/entity/Q659636", "origin": "Spain", "lang": "pt", "sub_label": "Chocolate com churros", "obj_label": "{'churro', 'chocolate'}"}
+{"url": "http://www.wikidata.org/entity/Q1539635", "origin": "Sweden", "lang": "pt", "sub_label": "Blåbärssoppa", "obj_label": "{'açúcar', 'mirtilo', 'amido', 'água'}"}
+{"url": "http://www.wikidata.org/entity/Q609344", "origin": "Sweden", "lang": "pt", "sub_label": "pão de cardamomo", "obj_label": "{'cardamomo'}"}
+{"url": "http://www.wikidata.org/entity/Q251113", "origin": "Sweden", "lang": "pt", "sub_label": "Julmust", "obj_label": "{'flor de lúpulo', 'água gaseificada'}"}
+{"url": "http://www.wikidata.org/entity/Q890197", "origin": "Sweden", "lang": "pt", "sub_label": "lutefisk", "obj_label": "{'hidróxido de sódio', 'bacalhau-do-atlântico'}"}
+{"url": "http://www.wikidata.org/entity/Q6419571", "origin": "Sweden", "lang": "pt", "sub_label": "Kladdkaka", "obj_label": "{'açúcar', 'cacau em pó', 'ovo de galinha', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q252630", "origin": "Sweden", "lang": "pt", "sub_label": "gravad lax", "obj_label": "{'açúcar', 'salmão atlântico', 'pimenta branca', 'salmão', 'Endro', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q251981", "origin": "Sweden", "lang": "pt", "sub_label": "knäckebröd", "obj_label": "{'semente', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q6502741", "origin": "Sweden", "lang": "pt", "sub_label": "Pitepalt", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q734527", "origin": "Sweden", "lang": "pt", "sub_label": "Svartsoppa", "obj_label": "{'sangue'}"}
+{"url": "http://www.wikidata.org/entity/Q374", "origin": "Sweden", "lang": "pt", "sub_label": "vodca", "obj_label": "{'etanol', 'água potável'}"}
+{"url": "http://www.wikidata.org/entity/Q186817", "origin": "Sweden", "lang": "pt", "sub_label": "mingau", "obj_label": "{'cereal'}"}
+{"url": "http://www.wikidata.org/entity/Q1197873", "origin": "Sweden", "lang": "pt", "sub_label": "Janssons frestelse", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q2414031", "origin": "Indonesia", "lang": "pt", "sub_label": "Lemper", "obj_label": "{'arroz glutinoso'}"}
+{"url": "http://www.wikidata.org/entity/Q1520293", "origin": "Indonesia", "lang": "pt", "sub_label": "Rendang", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q93189", "origin": "Indonesia", "lang": "pt", "sub_label": "ovo", "obj_label": "{'clara do ovo', 'vitelo'}"}
+{"url": "http://www.wikidata.org/entity/Q2427282", "origin": "Indonesia", "lang": "pt", "sub_label": "Spekkoek", "obj_label": "{'vitelo'}"}
+{"url": "http://www.wikidata.org/entity/Q1056554", "origin": "Indonesia", "lang": "pt", "sub_label": "sambal", "obj_label": "{'chili'}"}
+{"url": "http://www.wikidata.org/entity/Q5018040", "origin": "Indonesia", "lang": "pt", "sub_label": "Cakalang fufu", "obj_label": "{'fumagem'}"}
+{"url": "http://www.wikidata.org/entity/Q713879", "origin": "Indonesia", "lang": "pt", "sub_label": "Youtiao", "obj_label": "{'massa'}"}
+{"url": "http://www.wikidata.org/entity/Q867426", "origin": "Indonesia", "lang": "pt", "sub_label": "Cendol", "obj_label": "{'Feijão-azuqui', 'açúcar de coco', 'leite de coco'}"}
+{"url": "http://www.wikidata.org/entity/Q209304", "origin": "Indonesia", "lang": "pt", "sub_label": "Gado-gado", "obj_label": "{'legume', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q16739299", "origin": "Indonesia", "lang": "pt", "sub_label": "Wajik", "obj_label": "{'arroz glutinoso'}"}
+{"url": "http://www.wikidata.org/entity/Q120096", "origin": "Indonesia", "lang": "pt", "sub_label": "tempeh", "obj_label": "{'grão de soja'}"}
+{"url": "http://www.wikidata.org/entity/Q839492", "origin": "Indonesia", "lang": "pt", "sub_label": "Vinho de palma", "obj_label": "{'seiva'}"}
+{"url": "http://www.wikidata.org/entity/Q209253", "origin": "Indonesia", "lang": "pt", "sub_label": "satay", "obj_label": "{'frango', 'fruto do mar', 'peixe', 'víscera', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q20034", "origin": "Italy", "lang": "pt", "sub_label": "lasanha", "obj_label": "{'Parmesão', 'molho béchamel', 'ragu'}"}
+{"url": "http://www.wikidata.org/entity/Q815080", "origin": "Italy", "lang": "pt", "sub_label": "Bel Paese", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q6914349", "origin": "Italy", "lang": "pt", "sub_label": "sanduíche de mortadela", "obj_label": "{'pão', 'mortadela'}"}
+{"url": "http://www.wikidata.org/entity/Q136701", "origin": "Italy", "lang": "pt", "sub_label": "zabaglione", "obj_label": "{'açúcar', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q854342", "origin": "Italy", "lang": "pt", "sub_label": "panetone", "obj_label": "{'farinha', 'passa', 'fruta cristalizada'}"}
+{"url": "http://www.wikidata.org/entity/Q504941", "origin": "Italy", "lang": "pt", "sub_label": "panna cotta", "obj_label": "{'açúcar', 'nata', 'gelatina'}"}
+{"url": "http://www.wikidata.org/entity/Q538296", "origin": "Italy", "lang": "pt", "sub_label": "Pancetta", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q736208", "origin": "Italy", "lang": "pt", "sub_label": "Limoncello", "obj_label": "{'etanol', 'casca de limão', 'açúcar', 'água potável'}"}
+{"url": "http://www.wikidata.org/entity/Q841774", "origin": "Italy", "lang": "pt", "sub_label": "latte", "obj_label": "{'café expresso', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q1137803", "origin": "Italy", "lang": "pt", "sub_label": "pasta e fagioli", "obj_label": "{'massa alimentícia'}"}
+{"url": "http://www.wikidata.org/entity/Q1359006", "origin": "Italy", "lang": "pt", "sub_label": "pão de alho", "obj_label": "{'alho', 'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q209889", "origin": "Italy", "lang": "pt", "sub_label": "mascarpone", "obj_label": "{'nata'}"}
+{"url": "http://www.wikidata.org/entity/Q70612", "origin": "Italy", "lang": "pt", "sub_label": "Granita", "obj_label": "{'açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q5571808", "origin": "Italy", "lang": "pt", "sub_label": "ragu", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q188655", "origin": "Italy", "lang": "pt", "sub_label": "salame", "obj_label": "{'carne de porco'}"}
+{"url": "http://www.wikidata.org/entity/Q17280693", "origin": "Italy", "lang": "pt", "sub_label": "Baccalà alla lucana", "obj_label": "{'bacalhau'}"}
+{"url": "http://www.wikidata.org/entity/Q918216", "origin": "Italy", "lang": "pt", "sub_label": "Zeppola", "obj_label": "{'massa'}"}
+{"url": "http://www.wikidata.org/entity/Q808584", "origin": "Italy", "lang": "pt", "sub_label": "Barolo (vinho)", "obj_label": "{'Nebbiolo'}"}
+{"url": "http://www.wikidata.org/entity/Q194632", "origin": "Italy", "lang": "pt", "sub_label": "Guanciale", "obj_label": "{'Faceira'}"}
+{"url": "http://www.wikidata.org/entity/Q910095", "origin": "Italy", "lang": "pt", "sub_label": "Bresaola", "obj_label": "{'carne bovina', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q15042119", "origin": "Italy", "lang": "pt", "sub_label": "Stracciatella", "obj_label": "{'caldo', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q1278788", "origin": "Italy", "lang": "pt", "sub_label": "Panforte", "obj_label": "{'noz'}"}
+{"url": "http://www.wikidata.org/entity/Q1199738", "origin": "Italy", "lang": "pt", "sub_label": "Pandoro", "obj_label": "{'açúcar', 'farinha', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q1761000", "origin": "Italy", "lang": "pt", "sub_label": "Pasta con le sarde", "obj_label": "{'massa alimentícia'}"}
+{"url": "http://www.wikidata.org/entity/Q723464", "origin": "Italy", "lang": "pt", "sub_label": "Sambuca", "obj_label": "{'etanol', 'água potável'}"}
+{"url": "http://www.wikidata.org/entity/Q1066260", "origin": "Italy", "lang": "pt", "sub_label": "sopa de tomate", "obj_label": "{'tomate'}"}
+{"url": "http://www.wikidata.org/entity/Q20044", "origin": "Italy", "lang": "pt", "sub_label": "tagliatelle", "obj_label": "{'farinha', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q20057", "origin": "Italy", "lang": "pt", "sub_label": "tortellini", "obj_label": "{'Parmesão', 'noz-moscada', 'mortadela', 'ovo', 'trigo'}"}
+{"url": "http://www.wikidata.org/entity/Q3646090", "origin": "Italy", "lang": "pt", "sub_label": "brustico", "obj_label": "{'Perca fluviatilis'}"}
+{"url": "http://www.wikidata.org/entity/Q840392", "origin": "Italy", "lang": "pt", "sub_label": "Carpaccio", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q581462", "origin": "Italy", "lang": "pt", "sub_label": "minestrone", "obj_label": "{'legume'}"}
+{"url": "http://www.wikidata.org/entity/Q208105", "origin": "Italy", "lang": "pt", "sub_label": "risotto", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q769635", "origin": "Italy", "lang": "pt", "sub_label": "Cantuccio", "obj_label": "{'açúcar', 'farinha', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q731543", "origin": "Italy", "lang": "pt", "sub_label": "Caffè macchiato", "obj_label": "{'café expresso', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q1048282", "origin": "Italy", "lang": "pt", "sub_label": "Cassata siciliana", "obj_label": "{'pão de ló'}"}
+{"url": "http://www.wikidata.org/entity/Q1922854", "origin": "Italy", "lang": "pt", "sub_label": "Pizza seca", "obj_label": "{'sêmola de trigo duro'}"}
+{"url": "http://www.wikidata.org/entity/Q20019", "origin": "Italy", "lang": "pt", "sub_label": "macarrão", "obj_label": "{'sêmola de trigo duro'}"}
+{"url": "http://www.wikidata.org/entity/Q20032", "origin": "Italy", "lang": "pt", "sub_label": "fettuccine", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1262980", "origin": "Italy", "lang": "pt", "sub_label": "Spaghetti alla puttanesca", "obj_label": "{'Orégano', 'salsa', 'tomate', 'azeitonas pretas', 'alcaparras', 'esparguete', 'Engraulidae', 'alho', 'chili'}"}
+{"url": "http://www.wikidata.org/entity/Q500445", "origin": "Italy", "lang": "pt", "sub_label": "Pizza napolitana", "obj_label": "{'tomate', 'mozarela'}"}
+{"url": "http://www.wikidata.org/entity/Q1057256", "origin": "Italy", "lang": "pt", "sub_label": "Ossobuco", "obj_label": "{'vitela'}"}
+{"url": "http://www.wikidata.org/entity/Q208729", "origin": "Italy", "lang": "pt", "sub_label": "nougat", "obj_label": "{'açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q1891043", "origin": "Italy", "lang": "pt", "sub_label": "Penne all'arrabbiata", "obj_label": "{'tomate', 'chili'}"}
+{"url": "http://www.wikidata.org/entity/Q20039", "origin": "Italy", "lang": "pt", "sub_label": "Mafaldine", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q5435340", "origin": "Italy", "lang": "pt", "sub_label": "farinata", "obj_label": "{'água', 'grão-de-bico', 'azeite'}"}
+{"url": "http://www.wikidata.org/entity/Q1051155", "origin": "Italy", "lang": "pt", "sub_label": "Frittata", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q997642", "origin": "Italy", "lang": "pt", "sub_label": "Buccellato", "obj_label": "{'fruta cristalizada'}"}
+{"url": "http://www.wikidata.org/entity/Q131582", "origin": "Italy", "lang": "pt", "sub_label": "tiramisù", "obj_label": "{'cacau em pó', 'ovo de galinha', 'mascarpone', 'café'}"}
+{"url": "http://www.wikidata.org/entity/Q1162965", "origin": "Italy", "lang": "pt", "sub_label": "Molho à bolonhesa", "obj_label": "{'cenoura', 'tomate', 'cebola', 'Aipo', 'leite', 'vinho'}"}
+{"url": "http://www.wikidata.org/entity/Q3596097", "origin": "Italy", "lang": "pt", "sub_label": "molho de tomate", "obj_label": "{'tomate'}"}
+{"url": "http://www.wikidata.org/entity/Q1060834", "origin": "Italy", "lang": "pt", "sub_label": "Saltimbocca", "obj_label": "{'vitela', 'Salvia', 'Prosciutto'}"}
+{"url": "http://www.wikidata.org/entity/Q869617", "origin": "Italy", "lang": "pt", "sub_label": "Garganelli", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q733196", "origin": "Italy", "lang": "pt", "sub_label": "bollito misto", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q3650544", "origin": "Italy", "lang": "pt", "sub_label": "castanhas assadas", "obj_label": "{'castanha'}"}
+{"url": "http://www.wikidata.org/entity/Q866714", "origin": "Italy", "lang": "pt", "sub_label": "Bistecca alla fiorentina", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q1152551", "origin": "Italy", "lang": "pt", "sub_label": "Café americano", "obj_label": "{'café expresso', 'água potável'}"}
+{"url": "http://www.wikidata.org/entity/Q1863568", "origin": "Italy", "lang": "pt", "sub_label": "Avgolemono", "obj_label": "{'sumo de limão', 'ovo', 'caldo'}"}
+{"url": "http://www.wikidata.org/entity/Q24940091", "origin": "Italy", "lang": "pt", "sub_label": "Mostaccino", "obj_label": "{'açúcar', 'noz-moscada', 'manteiga', 'sementes de cominhos', 'cacau em pó', 'macis', 'ovo', 'canela', 'Pimenta-preta'}"}
+{"url": "http://www.wikidata.org/entity/Q429383", "origin": "Italy", "lang": "pt", "sub_label": "Gremolata", "obj_label": "{'alho', 'casca de limão', 'salsa'}"}
+{"url": "http://www.wikidata.org/entity/Q614448", "origin": "Italy", "lang": "pt", "sub_label": "bruschetta", "obj_label": "{'ciabatta', 'tempero', 'tomate', 'alho'}"}
+{"url": "http://www.wikidata.org/entity/Q799938", "origin": "Italy", "lang": "pt", "sub_label": "bagna càuda", "obj_label": "{'Alho'}"}
+{"url": "http://www.wikidata.org/entity/Q2915859", "origin": "Italy", "lang": "pt", "sub_label": "Fettuccine Alfredo", "obj_label": "{'fettuccine'}"}
+{"url": "http://www.wikidata.org/entity/Q2270630", "origin": "Italy", "lang": "pt", "sub_label": "Gianduja", "obj_label": "{'chocolate', 'avelã'}"}
+{"url": "http://www.wikidata.org/entity/Q268857", "origin": "Italy", "lang": "pt", "sub_label": "arancino", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q1815560", "origin": "Italy", "lang": "pt", "sub_label": "calzone", "obj_label": "{'requeijão'}"}
+{"url": "http://www.wikidata.org/entity/Q177", "origin": "Italy", "lang": "pt", "sub_label": "pizza", "obj_label": "{'molho de tomate', 'óleo', 'farinha', 'mozarela', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q131748", "origin": "Italy", "lang": "pt", "sub_label": "mostarda", "obj_label": "{'semente de mostarda'}"}
+{"url": "http://www.wikidata.org/entity/Q836151", "origin": "Italy", "lang": "pt", "sub_label": "Cannoli", "obj_label": "{'massa', 'requeijão'}"}
+{"url": "http://www.wikidata.org/entity/Q2739119", "origin": "Italy", "lang": "pt", "sub_label": "Colomba Pascal", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q622440", "origin": "Italy", "lang": "pt", "sub_label": "antepasto", "obj_label": "{'carnes frias'}"}
+{"url": "http://www.wikidata.org/entity/Q106252", "origin": "Italy", "lang": "pt", "sub_label": "marzipã", "obj_label": "{'açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q9896", "origin": "Italy", "lang": "pt", "sub_label": "pesto", "obj_label": "{'Parmesão', 'manjericão', 'azeite', 'pinhão', 'alho'}"}
+{"url": "http://www.wikidata.org/entity/Q11413827", "origin": "Italy", "lang": "pt", "sub_label": "Génoise", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1827035", "origin": "Italy", "lang": "pt", "sub_label": "sopa de lentilhas", "obj_label": "{'especiaria', 'lentilha', 'água'}"}
+{"url": "http://www.wikidata.org/entity/Q1429469", "origin": "Italy", "lang": "pt", "sub_label": "Biscoito florentino", "obj_label": "{'mel'}"}
+{"url": "http://www.wikidata.org/entity/Q1419233", "origin": "Italy", "lang": "pt", "sub_label": "Spaghetti aglio e olio", "obj_label": "{'alho', 'azeite', 'esparguete'}"}
+{"url": "http://www.wikidata.org/entity/Q997633", "origin": "Italy", "lang": "pt", "sub_label": "Sugo all'amatriciana", "obj_label": "{'Guanciale', 'molho de tomate', 'vinho branco', 'esparguete', 'Pecorino', 'chili', 'óleo', 'sal de cozinha', 'tomateiro'}"}
+{"url": "http://www.wikidata.org/entity/Q926532", "origin": "Italy", "lang": "pt", "sub_label": "Piadina", "obj_label": "{'água', 'farinha', 'azeite'}"}
+{"url": "http://www.wikidata.org/entity/Q568364", "origin": "Italy", "lang": "pt", "sub_label": "salada caprese", "obj_label": "{'manjericão', 'tomate', 'azeite', 'mozarela'}"}
+{"url": "http://www.wikidata.org/entity/Q1362405", "origin": "Italy", "lang": "pt", "sub_label": "gelato", "obj_label": "{'açúcar', 'nata', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q876624", "origin": "Italy", "lang": "pt", "sub_label": "Carbonara", "obj_label": "{'Guanciale', 'pimenta', 'esparguete', 'Pecorino', 'ovo', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1156634", "origin": "Italy", "lang": "pt", "sub_label": "Casquinha de sorvete", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q2415718", "origin": "Italy", "lang": "pt", "sub_label": "Panzanella", "obj_label": "{'pão', 'tomateiro'}"}
+{"url": "http://www.wikidata.org/entity/Q20026", "origin": "Italy", "lang": "pt", "sub_label": "esparguete", "obj_label": "{'sêmola de trigo duro'}"}
+{"url": "http://www.wikidata.org/entity/Q3748739", "origin": "Italy", "lang": "pt", "sub_label": "Biscoito amaretto", "obj_label": "{'açúcar', 'clara do ovo', 'Pasta de amêndoas'}"}
+{"url": "http://www.wikidata.org/entity/Q500724", "origin": "Italy", "lang": "pt", "sub_label": "Pizza Margherita", "obj_label": "{'manjericão', 'sal de cozinha', 'mozarela'}"}
+{"url": "http://www.wikidata.org/entity/Q4551", "origin": "Poland", "lang": "pt", "sub_label": "borsch", "obj_label": "{'beterraba', 'cenoura', 'Cebola', 'repolho', 'cebola', 'Beterraba', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q2635144", "origin": "Poland", "lang": "pt", "sub_label": "Sopa de azedas", "obj_label": "{'cenoura', 'água', 'Azeda', 'cebola', 'ovo', 'Flæskesteg', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q698632", "origin": "Poland", "lang": "pt", "sub_label": "Bryndza", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q451645", "origin": "Poland", "lang": "pt", "sub_label": "Streuselkuchen", "obj_label": "{'Streusel'}"}
+{"url": "http://www.wikidata.org/entity/Q2752204", "origin": "Poland", "lang": "pt", "sub_label": "Krakowska", "obj_label": "{'carne de porco'}"}
+{"url": "http://www.wikidata.org/entity/Q1650718", "origin": "Poland", "lang": "pt", "sub_label": "kompot", "obj_label": "{'água'}"}
+{"url": "http://www.wikidata.org/entity/Q16247075", "origin": "Poland", "lang": "pt", "sub_label": "zupa ogórkowa", "obj_label": "{'caldo'}"}
+{"url": "http://www.wikidata.org/entity/Q2479287", "origin": "Poland", "lang": "pt", "sub_label": "Babka-de-batata", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q462758", "origin": "Poland", "lang": "pt", "sub_label": "Kabanos", "obj_label": "{'carne de porco'}"}
+{"url": "http://www.wikidata.org/entity/Q2996033", "origin": "Poland", "lang": "pt", "sub_label": "Salceson", "obj_label": "{'víscera'}"}
+{"url": "http://www.wikidata.org/entity/Q152981", "origin": "Poland", "lang": "pt", "sub_label": "reibekuchen", "obj_label": "{'farinha', 'cebola', 'ovo', 'óleo vegetal', 'sal de cozinha', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q703313", "origin": "Poland", "lang": "pt", "sub_label": "Żurek", "obj_label": "{'água', 'massa lêveda'}"}
+{"url": "http://www.wikidata.org/entity/Q899976", "origin": "Poland", "lang": "pt", "sub_label": "Czernina", "obj_label": "{'carne de pato', 'sangue'}"}
+{"url": "http://www.wikidata.org/entity/Q281278", "origin": "Poland", "lang": "pt", "sub_label": "Salada russa", "obj_label": "{'cenoura', 'salsicha', 'maionese', 'Apium', 'Daucus', 'carne', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q598222", "origin": "Poland", "lang": "pt", "sub_label": "Bigos", "obj_label": "{'Cebola', 'carne de porco', 'salsicha', 'couve', 'cogumelo comestível', 'chucrute'}"}
+{"url": "http://www.wikidata.org/entity/Q147372", "origin": "Poland", "lang": "pt", "sub_label": "Zapiekanka", "obj_label": "{'queijo', 'Champignon', 'baguete'}"}
+{"url": "http://www.wikidata.org/entity/Q272502", "origin": "Poland", "lang": "pt", "sub_label": "bagel", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q173773", "origin": "Poland", "lang": "pt", "sub_label": "kvas", "obj_label": "{'levedura', 'erva', 'fruta', 'água', 'passa', 'mel', 'malte', 'pão de centeio'}"}
+{"url": "http://www.wikidata.org/entity/Q1690265", "origin": "Lithuania", "lang": "pt", "sub_label": "Kugelis", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q383389", "origin": "Turkey", "lang": "pt", "sub_label": "tahine", "obj_label": "{'sementes de sésamo', 'óleo vegetal', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q208021", "origin": "Turkey", "lang": "pt", "sub_label": "noz", "obj_label": "{'semente'}"}
+{"url": "http://www.wikidata.org/entity/Q1920415", "origin": "Turkey", "lang": "pt", "sub_label": "Menemen (alimento)", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q6068180", "origin": "Turkey", "lang": "pt", "sub_label": "İskilip dolması", "obj_label": "{'arroz', 'carne', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q11343150", "origin": "Turkey", "lang": "pt", "sub_label": "malabi", "obj_label": "{'açúcar', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q19979570", "origin": "Turkey", "lang": "pt", "sub_label": "Hamsi tava", "obj_label": "{'Engraulis encrasicolus'}"}
+{"url": "http://www.wikidata.org/entity/Q1432724", "origin": "Turkey", "lang": "pt", "sub_label": "Sucuk", "obj_label": "{'especiaria', 'víscera'}"}
+{"url": "http://www.wikidata.org/entity/Q7675482", "origin": "Turkey", "lang": "pt", "sub_label": "tahinli pide", "obj_label": "{'tahine'}"}
+{"url": "http://www.wikidata.org/entity/Q8196212", "origin": "Turkey", "lang": "pt", "sub_label": "Börek", "obj_label": "{'massa filo'}"}
+{"url": "http://www.wikidata.org/entity/Q66311565", "origin": "Turkey", "lang": "pt", "sub_label": "revani", "obj_label": "{'açúcar', 'sêmola', 'iogurte', 'farinha', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q4822751", "origin": "Turkey", "lang": "pt", "sub_label": "Ash", "obj_label": "{'iogurte', 'barley', 'caldo', 'talharim'}"}
+{"url": "http://www.wikidata.org/entity/Q343864", "origin": "Turkey", "lang": "pt", "sub_label": "imambayıldı", "obj_label": "{'Cebola', 'azeite', 'Alho', 'cebola', 'beringela', 'tomateiro'}"}
+{"url": "http://www.wikidata.org/entity/Q586307", "origin": "Turkey", "lang": "pt", "sub_label": "lokma", "obj_label": "{'massa', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q20203475", "origin": "Turkey", "lang": "pt", "sub_label": "Hamsili pilav", "obj_label": "{'arroz', 'Engraulis encrasicolus'}"}
+{"url": "http://www.wikidata.org/entity/Q1897605", "origin": "Turkey", "lang": "pt", "sub_label": "beyaz peynir", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q2631692", "origin": "Turkey", "lang": "pt", "sub_label": "Pasta de amêndoas", "obj_label": "{'amêndoa'}"}
+{"url": "http://www.wikidata.org/entity/Q13317", "origin": "Turkey", "lang": "pt", "sub_label": "iogurte", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q4873584", "origin": "Turkey", "lang": "pt", "sub_label": "Baursak", "obj_label": "{'ovo', 'manteiga', 'massa'}"}
+{"url": "http://www.wikidata.org/entity/Q933433", "origin": "Turkey", "lang": "pt", "sub_label": "Kokoretsi", "obj_label": "{'víscera'}"}
+{"url": "http://www.wikidata.org/entity/Q2444993", "origin": "Turkey", "lang": "pt", "sub_label": "çiğ köfte", "obj_label": "{'triguilho', 'carne de cordeiro'}"}
+{"url": "http://www.wikidata.org/entity/Q485796", "origin": "Turkey", "lang": "pt", "sub_label": "pilaf", "obj_label": "{'cenoura', 'Cebola', 'arroz', 'óleo vegetal', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q19841241", "origin": "Turkey", "lang": "pt", "sub_label": "açma", "obj_label": "{'levedura', 'margarina', 'manteiga', 'água potável', 'óleo alimentar', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q3497556", "origin": "Turkey", "lang": "pt", "sub_label": "karnıyarık", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q20734", "origin": "Turkey", "lang": "pt", "sub_label": "döner kebab", "obj_label": "{'legume', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q12812711", "origin": "Turkey", "lang": "pt", "sub_label": "Zerde", "obj_label": "{'arroz', 'água', 'açafrão'}"}
+{"url": "http://www.wikidata.org/entity/Q903997", "origin": "Turkey", "lang": "pt", "sub_label": "simit", "obj_label": "{'sementes de sésamo', 'sal de cozinha', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1644022", "origin": "Turkey", "lang": "pt", "sub_label": "quibe", "obj_label": "{'triguilho', 'carne', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q192892", "origin": "Turkey", "lang": "pt", "sub_label": "ayran", "obj_label": "{'iogurte', 'sal de cozinha', 'água potável'}"}
+{"url": "http://www.wikidata.org/entity/Q17372871", "origin": "Turkey", "lang": "pt", "sub_label": "boyoz", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q54815990", "origin": "Turkey", "lang": "pt", "sub_label": "cacık", "obj_label": "{'alho', 'iogurte', 'sal de cozinha', 'água potável'}"}
+{"url": "http://www.wikidata.org/entity/Q97207900", "origin": "Turkey", "lang": "pt", "sub_label": "haşıl", "obj_label": "{'iogurte', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q909438", "origin": "Turkey", "lang": "pt", "sub_label": "lavash", "obj_label": "{'massa'}"}
+{"url": "http://www.wikidata.org/entity/Q478654", "origin": "Turkey", "lang": "pt", "sub_label": "kaymak", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q85428376", "origin": "Turkey", "lang": "pt", "sub_label": "Ayvalık tostu", "obj_label": "{'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q25535839", "origin": "Turkey", "lang": "pt", "sub_label": "tarama", "obj_label": "{'ova', 'sal de cozinha', 'azeite'}"}
+{"url": "http://www.wikidata.org/entity/Q1089051", "origin": "Turkey", "lang": "pt", "sub_label": "sopa de tripas", "obj_label": "{'tripa'}"}
+{"url": "http://www.wikidata.org/entity/Q19819989", "origin": "Turkey", "lang": "pt", "sub_label": "kabak kalye", "obj_label": "{'curgete'}"}
+{"url": "http://www.wikidata.org/entity/Q107337960", "origin": "Turkey", "lang": "pt", "sub_label": "kıvratma", "obj_label": "{'iogurte', 'ovo', 'óleo alimentar'}"}
+{"url": "http://www.wikidata.org/entity/Q141293", "origin": "Turkey", "lang": "pt", "sub_label": "dondurma", "obj_label": "{'açúcar', 'leite', 'Mástique', 'Salep'}"}
+{"url": "http://www.wikidata.org/entity/Q6002018", "origin": "Turkey", "lang": "pt", "sub_label": "ıslama köfte", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q2056399", "origin": "Turkey", "lang": "pt", "sub_label": "Pastırma", "obj_label": "{'vitela'}"}
+{"url": "http://www.wikidata.org/entity/Q19961671", "origin": "Turkey", "lang": "pt", "sub_label": "Menudo (Espanha)", "obj_label": "{'tripa', 'grão-de-bico'}"}
+{"url": "http://www.wikidata.org/entity/Q4833482", "origin": "Turkey", "lang": "pt", "sub_label": "kumru", "obj_label": "{'pão', 'tomate', 'kaşar', 'ovo estrelado', 'Sucuk'}"}
+{"url": "http://www.wikidata.org/entity/Q187495", "origin": "Turkey", "lang": "pt", "sub_label": "baklava", "obj_label": "{'açúcar', 'noz', 'massa filo', 'xarope', 'amêndoa', 'canela'}"}
+{"url": "http://www.wikidata.org/entity/Q17279856", "origin": "Turkey", "lang": "pt", "sub_label": "fırın sütlaç", "obj_label": "{'arroz', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q84239181", "origin": "Turkey", "lang": "pt", "sub_label": "yayık ayran", "obj_label": "{'iogurte', 'sal de cozinha', 'água potável'}"}
+{"url": "http://www.wikidata.org/entity/Q2118339", "origin": "Turkey", "lang": "pt", "sub_label": "Tarhana", "obj_label": "{'cereal'}"}
+{"url": "http://www.wikidata.org/entity/Q19029", "origin": "Turkey", "lang": "pt", "sub_label": "arroz-doce", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q7198960", "origin": "Turkey", "lang": "pt", "sub_label": "piti", "obj_label": "{'carne de cordeiro', 'grão-de-bico'}"}
+{"url": "http://www.wikidata.org/entity/Q206918", "origin": "Turkey", "lang": "pt", "sub_label": "Mussaca", "obj_label": "{'Cebola', 'tomate', 'molho béchamel', 'beringela', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q14552200", "origin": "Turkey", "lang": "pt", "sub_label": "aletria", "obj_label": "{'farinha', 'água potável'}"}
+{"url": "http://www.wikidata.org/entity/Q21225089", "origin": "Turkey", "lang": "pt", "sub_label": "uyutma", "obj_label": "{'açúcar', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q61075818", "origin": "Turkey", "lang": "pt", "sub_label": "atom", "obj_label": "{'açúcar', 'clara do ovo', 'água potável'}"}
+{"url": "http://www.wikidata.org/entity/Q20650605", "origin": "Turkey", "lang": "pt", "sub_label": "kuru köfte", "obj_label": "{'Allium', 'especiaria', 'pão', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q1049425", "origin": "Turkey", "lang": "pt", "sub_label": "kısır", "obj_label": "{'triguilho'}"}
+{"url": "http://www.wikidata.org/entity/Q6029320", "origin": "Turkey", "lang": "pt", "sub_label": "tahinli çörek", "obj_label": "{'massa', 'tahine'}"}
+{"url": "http://www.wikidata.org/entity/Q17355815", "origin": "Turkey", "lang": "pt", "sub_label": "balık-ekmek", "obj_label": "{'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q1246721", "origin": "Turkey", "lang": "pt", "sub_label": "taramosalata", "obj_label": "{'tarama'}"}
+{"url": "http://www.wikidata.org/entity/Q6006788", "origin": "Turkey", "lang": "pt", "sub_label": "büryan", "obj_label": "{'carne de cordeiro'}"}
+{"url": "http://www.wikidata.org/entity/Q6006053", "origin": "Turkey", "lang": "pt", "sub_label": "Manisa kebap", "obj_label": "{'pide', 'molho de tomate'}"}
+{"url": "http://www.wikidata.org/entity/Q982758", "origin": "Peru", "lang": "pt", "sub_label": "pão francês", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q3129784", "origin": "Peru", "lang": "pt", "sub_label": "Salchipapas", "obj_label": "{'salsicha', 'batata frita'}"}
+{"url": "http://www.wikidata.org/entity/Q747457", "origin": "Peru", "lang": "pt", "sub_label": "empanada", "obj_label": "{'pastelaria'}"}
+{"url": "http://www.wikidata.org/entity/Q2967656", "origin": "Peru", "lang": "pt", "sub_label": "Chupe", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q3277835", "origin": "Peru", "lang": "pt", "sub_label": "Pastel de Choclo", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q2665744", "origin": "Peru", "lang": "pt", "sub_label": "humita", "obj_label": "{'milho', 'manjericão de folha-larga', 'manteiga', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q5204114", "origin": "Peru", "lang": "pt", "sub_label": "salsa criolla", "obj_label": "{'Cebola', 'azeite', 'Pimenta-preta', 'Alho', 'pimento', 'chili', 'sal de cozinha', 'tomateiro', 'vinagre'}"}
+{"url": "http://www.wikidata.org/entity/Q2550606", "origin": "People's Republic of China", "lang": "pt", "sub_label": "molho agridoce", "obj_label": "{'açúcar', 'molho de tomate', 'vinagre'}"}
+{"url": "http://www.wikidata.org/entity/Q3371451", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Suanmeitang", "obj_label": "{'Osmanthus fragrans', 'umeboshi'}"}
+{"url": "http://www.wikidata.org/entity/Q713869", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Gelatina de grama", "obj_label": "{'Platostoma palustre'}"}
+{"url": "http://www.wikidata.org/entity/Q5033997", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Sopa cantonesa de mariscos", "obj_label": "{'fruto do mar'}"}
+{"url": "http://www.wikidata.org/entity/Q4939235", "origin": "People's Republic of China", "lang": "pt", "sub_label": "sopa de fitas", "obj_label": "{'talharim'}"}
+{"url": "http://www.wikidata.org/entity/Q7132274", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Paomo", "obj_label": "{'carne de cordeiro', 'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q770977", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Caldo verde", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q2476688", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Tanghulu", "obj_label": "{'fruta'}"}
+{"url": "http://www.wikidata.org/entity/Q1133722", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Arroz chau chau", "obj_label": "{'Char siu', 'legume', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q2505233", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Fu yung hai", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q715858", "origin": "People's Republic of China", "lang": "pt", "sub_label": "chá de bolhas", "obj_label": "{'tapioca'}"}
+{"url": "http://www.wikidata.org/entity/Q1204605", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Char siu", "obj_label": "{'mel', 'tofu fermentado', 'carne de porco', 'molho de hoisin', 'vinho fortificado', 'vinho de arroz', 'Cinco-perfumes-chineses'}"}
+{"url": "http://www.wikidata.org/entity/Q7548429", "origin": "People's Republic of China", "lang": "pt", "sub_label": "bolo lunar nevado", "obj_label": "{'arroz glutinoso'}"}
+{"url": "http://www.wikidata.org/entity/Q702662", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Xiaolongbao", "obj_label": "{'massa', 'carne de porco', 'shiitake', 'Brassica rapa subsp. pekinensis'}"}
+{"url": "http://www.wikidata.org/entity/Q25381365", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Lücha fobing", "obj_label": "{'sementes de sésamo', 'chá verde'}"}
+{"url": "http://www.wikidata.org/entity/Q1040612", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Tian mian jiang", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q8786613", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Vinho de realgar", "obj_label": "{'realgar', 'Huangjiu'}"}
+{"url": "http://www.wikidata.org/entity/Q178", "origin": "People's Republic of China", "lang": "pt", "sub_label": "massa alimentícia", "obj_label": "{'Triticum durum'}"}
+{"url": "http://www.wikidata.org/entity/Q1298577", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Mapo doufu", "obj_label": "{'tofu'}"}
+{"url": "http://www.wikidata.org/entity/Q701628", "origin": "People's Republic of China", "lang": "pt", "sub_label": "tofu fedido", "obj_label": "{'tofu'}"}
+{"url": "http://www.wikidata.org/entity/Q15181", "origin": "People's Republic of China", "lang": "pt", "sub_label": "chachlik", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q1137679", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Baozi", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1144889", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Tsampa", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1026822", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Óleo de pimenta", "obj_label": "{'óleo alimentar'}"}
+{"url": "http://www.wikidata.org/entity/Q5311489", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Sopa de sangue de pato com massa", "obj_label": "{'carne de pato'}"}
+{"url": "http://www.wikidata.org/entity/Q404973", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Pato-à-pequim", "obj_label": "{'Pepino', 'Tian mian jiang', 'carne de pato', 'Allium fistulosum'}"}
+{"url": "http://www.wikidata.org/entity/Q553905", "origin": "People's Republic of China", "lang": "pt", "sub_label": "wonton", "obj_label": "{'massa'}"}
+{"url": "http://www.wikidata.org/entity/Q718680", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Caldo de cana", "obj_label": "{'cana-de-açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q1026857", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Molho XO", "obj_label": "{'Conpoy'}"}
+{"url": "http://www.wikidata.org/entity/Q549713", "origin": "People's Republic of China", "lang": "pt", "sub_label": "frango Kung Pao", "obj_label": "{'amendoim', 'frango', 'Pimenta-de-sichuan'}"}
+{"url": "http://www.wikidata.org/entity/Q713466", "origin": "People's Republic of China", "lang": "pt", "sub_label": "zongzi", "obj_label": "{'Juncus effusus', 'arroz glutinoso', 'Sasa'}"}
+{"url": "http://www.wikidata.org/entity/Q3365433", "origin": "People's Republic of China", "lang": "pt", "sub_label": "Bakkwa", "obj_label": "{'carne de porco', 'carne-seca'}"}
+{"url": "http://www.wikidata.org/entity/Q1139546", "origin": "India", "lang": "pt", "sub_label": "paneer", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q1339633", "origin": "India", "lang": "pt", "sub_label": "Vindalho", "obj_label": "{'açúcar', 'carne de porco', 'gengibre', 'chili', 'vinagre'}"}
+{"url": "http://www.wikidata.org/entity/Q3270102", "origin": "India", "lang": "pt", "sub_label": "Bebinca", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q1126275", "origin": "India", "lang": "pt", "sub_label": "Pakora", "obj_label": "{'grão-de-bico'}"}
+{"url": "http://www.wikidata.org/entity/Q9017517", "origin": "India", "lang": "pt", "sub_label": "Khoa", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q877661", "origin": "India", "lang": "pt", "sub_label": "Masala chai", "obj_label": "{'chá preto'}"}
+{"url": "http://www.wikidata.org/entity/Q1979684", "origin": "India", "lang": "pt", "sub_label": "korma", "obj_label": "{'iogurte'}"}
+{"url": "http://www.wikidata.org/entity/Q2722122", "origin": "India", "lang": "pt", "sub_label": "Panipuri", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q918148", "origin": "India", "lang": "pt", "sub_label": "Paparis", "obj_label": "{'lentilha'}"}
+{"url": "http://www.wikidata.org/entity/Q1554207", "origin": "India", "lang": "pt", "sub_label": "Gulab jamun", "obj_label": "{'açafrão', 'cardamomo', 'Khoa'}"}
+{"url": "http://www.wikidata.org/entity/Q1737699", "origin": "India", "lang": "pt", "sub_label": "Kedgeree", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q654159", "origin": "India", "lang": "pt", "sub_label": "frango tikka masala", "obj_label": "{'frango', 'tomate', 'iogurte', 'cebola', 'coco', 'gengibre', 'alho', 'nata', 'chili'}"}
+{"url": "http://www.wikidata.org/entity/Q164606", "origin": "India", "lang": "pt", "sub_label": "caril", "obj_label": "{'especiaria', 'erva'}"}
+{"url": "http://www.wikidata.org/entity/Q14624", "origin": "India", "lang": "pt", "sub_label": "garam masala", "obj_label": "{'especiaria'}"}
+{"url": "http://www.wikidata.org/entity/Q275650", "origin": "India", "lang": "pt", "sub_label": "chutney", "obj_label": "{'cloreto de sódio'}"}
+{"url": "http://www.wikidata.org/entity/Q7901691", "origin": "India", "lang": "pt", "sub_label": "Usal", "obj_label": "{'lentilha'}"}
+{"url": "http://www.wikidata.org/entity/Q752006", "origin": "India", "lang": "pt", "sub_label": "chapati", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q827654", "origin": "India", "lang": "pt", "sub_label": "Lassi", "obj_label": "{'iogurte'}"}
+{"url": "http://www.wikidata.org/entity/Q956595", "origin": "India", "lang": "pt", "sub_label": "Idli", "obj_label": "{'Feijão-da-índia'}"}
+{"url": "http://www.wikidata.org/entity/Q2918182", "origin": "India", "lang": "pt", "sub_label": "Pirulito de frango", "obj_label": "{'frango'}"}
+{"url": "http://www.wikidata.org/entity/Q2918079", "origin": "India", "lang": "pt", "sub_label": "falooda", "obj_label": "{'Ocimum', 'agua de rosas', 'leite', 'Aletria'}"}
+{"url": "http://www.wikidata.org/entity/Q1061604", "origin": "India", "lang": "pt", "sub_label": "Chana masala", "obj_label": "{'molho', 'Masala', 'grão-de-bico'}"}
+{"url": "http://www.wikidata.org/entity/Q59134", "origin": "India", "lang": "pt", "sub_label": "Kheer", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q1483397", "origin": "India", "lang": "pt", "sub_label": "raita", "obj_label": "{'iogurte'}"}
+{"url": "http://www.wikidata.org/entity/Q2557649", "origin": "India", "lang": "pt", "sub_label": "amba", "obj_label": "{'manga'}"}
+{"url": "http://www.wikidata.org/entity/Q34292", "origin": "Russia", "lang": "pt", "sub_label": "Xi", "obj_label": "{'chucrute'}"}
+{"url": "http://www.wikidata.org/entity/Q1455040", "origin": "Russia", "lang": "pt", "sub_label": "chiburekki", "obj_label": "{'Cebola', 'carne de cordeiro', 'farinha', 'óleo vegetal', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q6496411", "origin": "Russia", "lang": "pt", "sub_label": "Salo", "obj_label": "{'fatback'}"}
+{"url": "http://www.wikidata.org/entity/Q41415", "origin": "Russia", "lang": "pt", "sub_label": "sopa", "obj_label": "{'especiaria', 'caldo', 'legume'}"}
+{"url": "http://www.wikidata.org/entity/Q598113", "origin": "Russia", "lang": "pt", "sub_label": "Pastel da Carélia", "obj_label": "{'centeio', 'arroz-doce', 'pão de centeio', 'Oryza', 'sal de cozinha', 'batata', 'Hordeum'}"}
+{"url": "http://www.wikidata.org/entity/Q611164", "origin": "Russia", "lang": "pt", "sub_label": "okroshka", "obj_label": "{'kvas', 'cebolinha', 'ovo cozido', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q2679937", "origin": "Russia", "lang": "pt", "sub_label": "Pelmeni", "obj_label": "{'pimenta', 'manteiga', 'cebola', 'ovo', 'massa', 'sal de cozinha', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q542283", "origin": "Russia", "lang": "pt", "sub_label": "frango à Kiev", "obj_label": "{'pão ralado', 'frango', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q550490", "origin": "Russia", "lang": "pt", "sub_label": "solyanka", "obj_label": "{'carne', 'caldo', 'limão', 'azeitona'}"}
+{"url": "http://www.wikidata.org/entity/Q176436", "origin": "Russia", "lang": "pt", "sub_label": "Zrazy", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q1791462", "origin": "Russia", "lang": "pt", "sub_label": "coulibiac", "obj_label": "{'salmão'}"}
+{"url": "http://www.wikidata.org/entity/Q52406", "origin": "Germany", "lang": "pt", "sub_label": "muesli", "obj_label": "{'fruta seca', 'flocos de aveia'}"}
+{"url": "http://www.wikidata.org/entity/Q258279", "origin": "Germany", "lang": "pt", "sub_label": "Frittatensuppe", "obj_label": "{'caldo'}"}
+{"url": "http://www.wikidata.org/entity/Q661871", "origin": "Germany", "lang": "pt", "sub_label": "Jägermeister", "obj_label": "{'gengibre'}"}
+{"url": "http://www.wikidata.org/entity/Q152526", "origin": "Germany", "lang": "pt", "sub_label": "Bola de berlim", "obj_label": "{'recheio', 'ovo', 'óleo alimentar'}"}
+{"url": "http://www.wikidata.org/entity/Q160525", "origin": "Germany", "lang": "pt", "sub_label": "pretzel", "obj_label": "{'sementes de cominhos', 'sal de cozinha', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q4122049", "origin": "Germany", "lang": "pt", "sub_label": "beschuit", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q707636", "origin": "Germany", "lang": "pt", "sub_label": "Weisswurst", "obj_label": "{'carne de porco', 'vitela'}"}
+{"url": "http://www.wikidata.org/entity/Q24249983", "origin": "Germany", "lang": "pt", "sub_label": "bola de Berlim", "obj_label": "{'custard'}"}
+{"url": "http://www.wikidata.org/entity/Q176063", "origin": "Germany", "lang": "pt", "sub_label": "currywurst", "obj_label": "{'salsicha', 'caril'}"}
+{"url": "http://www.wikidata.org/entity/Q259642", "origin": "Germany", "lang": "pt", "sub_label": "quark", "obj_label": "{'queijo', 'Streptococcus cremoris', 'leite', 'Streptococcus lactis'}"}
+{"url": "http://www.wikidata.org/entity/Q1929741", "origin": "Germany", "lang": "pt", "sub_label": "Banketbakkersspijs", "obj_label": "{'damasco'}"}
+{"url": "http://www.wikidata.org/entity/Q17103699", "origin": "Germany", "lang": "pt", "sub_label": "Bengala doce", "obj_label": "{'açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q16242003", "origin": "Germany", "lang": "pt", "sub_label": "Arretjescake", "obj_label": "{'biscoito', 'amêndoa', 'chocolate', 'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q565715", "origin": "Germany", "lang": "pt", "sub_label": "Reibekuchen", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q650685", "origin": "Germany", "lang": "pt", "sub_label": "Kasseler", "obj_label": "{'picles'}"}
+{"url": "http://www.wikidata.org/entity/Q2740122", "origin": "Germany", "lang": "pt", "sub_label": "lebkuchen", "obj_label": "{'mel'}"}
+{"url": "http://www.wikidata.org/entity/Q19028", "origin": "Germany", "lang": "pt", "sub_label": "Bolo Floresta Negra", "obj_label": "{'bolo de chocolate'}"}
+{"url": "http://www.wikidata.org/entity/Q113038928", "origin": "Nigeria", "lang": "pt", "sub_label": "Ebô", "obj_label": "{'Capsicum', 'cebola', 'milho'}"}
+{"url": "http://www.wikidata.org/entity/Q107790439", "origin": "Nigeria", "lang": "pt", "sub_label": "Corchorus olitorius", "obj_label": "{'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q7650627", "origin": "Nigeria", "lang": "pt", "sub_label": "Suya", "obj_label": "{'carne', 'pimenta-caiena'}"}
+{"url": "http://www.wikidata.org/entity/Q2916401", "origin": "Nigeria", "lang": "pt", "sub_label": "arroz e feijão", "obj_label": "{'feijão'}"}
+{"url": "http://www.wikidata.org/entity/Q6894609", "origin": "Nigeria", "lang": "pt", "sub_label": "abará", "obj_label": "{'Vigna unguiculata'}"}
+{"url": "http://www.wikidata.org/entity/Q10271107", "origin": "Nigeria", "lang": "pt", "sub_label": "Ekuru", "obj_label": "{'noz-moscada', 'cebola', 'feijão', 'sopa de tomate', 'óleo vegetal', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q112911886", "origin": "Nigeria", "lang": "pt", "sub_label": "Treculia africana", "obj_label": "{'Capsicum', 'azeite de dendê', 'Potassa', 'peixe', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q816663", "origin": "Nigeria", "lang": "pt", "sub_label": "arroz jollof", "obj_label": "{'pimenta', 'tomate', 'água potável', 'azeite de dendê', 'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q392935", "origin": "Nigeria", "lang": "pt", "sub_label": "acarajé", "obj_label": "{'Vigna unguiculata'}"}
+{"url": "http://www.wikidata.org/entity/Q4739207", "origin": "Nigeria", "lang": "pt", "sub_label": "Amala", "obj_label": "{'yam (vegetable)'}"}
+{"url": "http://www.wikidata.org/entity/Q2920954", "origin": "South Africa", "lang": "pt", "sub_label": "Potjiekos", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q26211079", "origin": "South Africa", "lang": "pt", "sub_label": "pão de milho", "obj_label": "{'Zea mays Saccharata Group'}"}
+{"url": "http://www.wikidata.org/entity/Q7818558", "origin": "South Africa", "lang": "pt", "sub_label": "Bredie", "obj_label": "{'tomate'}"}
+{"url": "http://www.wikidata.org/entity/Q863394", "origin": "South Africa", "lang": "pt", "sub_label": "Biltong", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q3133597", "origin": "South Africa", "lang": "pt", "sub_label": "Sosatie", "obj_label": "{'carne de cordeiro'}"}
+{"url": "http://www.wikidata.org/entity/Q4997887", "origin": "South Africa", "lang": "pt", "sub_label": "bunny chow", "obj_label": "{'caril', 'pão branco'}"}
+{"url": "http://www.wikidata.org/entity/Q2742714", "origin": "South Africa", "lang": "pt", "sub_label": "Melktert", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q935807", "origin": "Ethiopia", "lang": "pt", "sub_label": "injera", "obj_label": "{'água', 'Teff'}"}
+{"url": "http://www.wikidata.org/entity/Q1301968", "origin": "Ethiopia", "lang": "pt", "sub_label": "wot", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q322787", "origin": "United Kingdom", "lang": "pt", "sub_label": "puré de batata", "obj_label": "{'leite', 'manteiga', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q804411", "origin": "United Kingdom", "lang": "pt", "sub_label": "bakewell tart", "obj_label": "{'amêndoa'}"}
+{"url": "http://www.wikidata.org/entity/Q1850311", "origin": "United Kingdom", "lang": "pt", "sub_label": "Sunday roast", "obj_label": "{'Yorkshire pudding', 'recheio', 'molho de carne', 'rosbife', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q951669", "origin": "United Kingdom", "lang": "pt", "sub_label": "Yorkshire pudding", "obj_label": "{'leite de vaca', 'farinha', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q1331998", "origin": "United Kingdom", "lang": "pt", "sub_label": "Marmite", "obj_label": "{'levedura', 'extracto de levedura'}"}
+{"url": "http://www.wikidata.org/entity/Q2975676", "origin": "United Kingdom", "lang": "pt", "sub_label": "Cock-a-leekie", "obj_label": "{'alho-porro'}"}
+{"url": "http://www.wikidata.org/entity/Q1412680", "origin": "United Kingdom", "lang": "pt", "sub_label": "bife Wellington", "obj_label": "{'Contrafilé'}"}
+{"url": "http://www.wikidata.org/entity/Q531184", "origin": "United Kingdom", "lang": "pt", "sub_label": "Frango da coroação", "obj_label": "{'caril', 'frango'}"}
+{"url": "http://www.wikidata.org/entity/Q1568296", "origin": "United Kingdom", "lang": "pt", "sub_label": "Bolovo", "obj_label": "{'ovo cozido', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q2477614", "origin": "United Kingdom", "lang": "pt", "sub_label": "cebola em conserva", "obj_label": "{'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q2882471", "origin": "United Kingdom", "lang": "pt", "sub_label": "Bangers and mash", "obj_label": "{'puré de batata'}"}
+{"url": "http://www.wikidata.org/entity/Q2009326", "origin": "United Kingdom", "lang": "pt", "sub_label": "Butterscotch", "obj_label": "{'manteiga'}"}
+{"url": "http://www.wikidata.org/entity/Q1533561", "origin": "United Kingdom", "lang": "pt", "sub_label": "Quebra-queixo", "obj_label": "{'açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q1068180", "origin": "United Kingdom", "lang": "pt", "sub_label": "Bife à Chateaubriand", "obj_label": "{'Contrafilé'}"}
+{"url": "http://www.wikidata.org/entity/Q56345506", "origin": "United Kingdom", "lang": "pt", "sub_label": "Ulster fry", "obj_label": "{'toucinho', 'tomate', 'salsicha', 'pão de batata', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q613665", "origin": "United Kingdom", "lang": "pt", "sub_label": "Cullen Skink", "obj_label": "{'batata', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q203925", "origin": "United Kingdom", "lang": "pt", "sub_label": "fish and chips", "obj_label": "{'batata frita', 'peixe'}"}
+{"url": "http://www.wikidata.org/entity/Q860465", "origin": "United Kingdom", "lang": "pt", "sub_label": "rosbife", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q869660", "origin": "United Kingdom", "lang": "pt", "sub_label": "Scone", "obj_label": "{'Aveia-comum', 'cevada', 'trigo', 'Levedante'}"}
+{"url": "http://www.wikidata.org/entity/Q4839953", "origin": "United Kingdom", "lang": "pt", "sub_label": "Sanduíche de bacon", "obj_label": "{'toucinho', 'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q573516", "origin": "United Kingdom", "lang": "pt", "sub_label": "Bubble and squeak", "obj_label": "{'couve', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q5135110", "origin": "United Kingdom", "lang": "pt", "sub_label": "clootie dumpling", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q6516224", "origin": "United Kingdom", "lang": "pt", "sub_label": "cawn cennin", "obj_label": "{'alho-porro', 'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q181761", "origin": "United Kingdom", "lang": "pt", "sub_label": "Mars frito", "obj_label": "{'polme'}"}
+{"url": "http://www.wikidata.org/entity/Q2849577", "origin": "United Kingdom", "lang": "pt", "sub_label": "Angels on horseback", "obj_label": "{'toucinho', 'ostra'}"}
+{"url": "http://www.wikidata.org/entity/Q28803", "origin": "United Kingdom", "lang": "pt", "sub_label": "sanduíche", "obj_label": "{'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q5002841", "origin": "United Kingdom", "lang": "pt", "sub_label": "Butter pie (torta de manteiga)", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q3276353", "origin": "United Kingdom", "lang": "pt", "sub_label": "Dansk æblekage", "obj_label": "{'açúcar', 'noz-moscada', 'maçã', 'manteiga', 'bicarbonato de sódio', 'farinha', 'ovo', 'canela'}"}
+{"url": "http://www.wikidata.org/entity/Q2628185", "origin": "United Kingdom", "lang": "pt", "sub_label": "cranachan", "obj_label": "{'creme chantili'}"}
+{"url": "http://www.wikidata.org/entity/Q7616334", "origin": "United Kingdom", "lang": "pt", "sub_label": "Sticky toffee pudding", "obj_label": "{'pão de ló'}"}
+{"url": "http://www.wikidata.org/entity/Q4545971", "origin": "United Kingdom", "lang": "pt", "sub_label": "gelatina", "obj_label": "{'gelatina'}"}
+{"url": "http://www.wikidata.org/entity/Q1068034", "origin": "United Kingdom", "lang": "pt", "sub_label": "torta de maçã", "obj_label": "{'maçã'}"}
+{"url": "http://www.wikidata.org/entity/Q2896374", "origin": "United Kingdom", "lang": "pt", "sub_label": "Scotch broth", "obj_label": "{'carne de cordeiro', 'barley'}"}
+{"url": "http://www.wikidata.org/entity/Q1320123", "origin": "United Kingdom", "lang": "pt", "sub_label": "Virgin Cola", "obj_label": "{'água gaseificada'}"}
+{"url": "http://www.wikidata.org/entity/Q2303056", "origin": "United Kingdom", "lang": "pt", "sub_label": "cottage pie", "obj_label": "{'carne', 'batata', 'puré de batata'}"}
+{"url": "http://www.wikidata.org/entity/Q217525", "origin": "United Kingdom", "lang": "pt", "sub_label": "cheddar", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q616601", "origin": "United Kingdom", "lang": "pt", "sub_label": "trifle", "obj_label": "{'creme pasteleiro'}"}
+{"url": "http://www.wikidata.org/entity/Q378341", "origin": "United Kingdom", "lang": "pt", "sub_label": "macaroni and cheese", "obj_label": "{'macarrão', 'manteiga', 'cheddar'}"}
+{"url": "http://www.wikidata.org/entity/Q2330783", "origin": "United Kingdom", "lang": "pt", "sub_label": "Angel cake", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q5347834", "origin": "United Kingdom", "lang": "pt", "sub_label": "Ovos com batatas fritas", "obj_label": "{'batata frita', 'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q396184", "origin": "Canada", "lang": "pt", "sub_label": "poutine", "obj_label": "{'batata frita', 'molho de carne'}"}
+{"url": "http://www.wikidata.org/entity/Q590076", "origin": "Canada", "lang": "pt", "sub_label": "pizza havaiana", "obj_label": "{'Abacaxi', 'molho de tomate', 'Prosciutto'}"}
+{"url": "http://www.wikidata.org/entity/Q2002721", "origin": "Brazil", "lang": "pt", "sub_label": "Paçoca de amendoim", "obj_label": "{'açúcar'}"}
+{"url": "http://www.wikidata.org/entity/Q10333251", "origin": "Brazil", "lang": "pt", "sub_label": "Mupy", "obj_label": "{'leite de soja'}"}
+{"url": "http://www.wikidata.org/entity/Q4833218", "origin": "Brazil", "lang": "pt", "sub_label": "açaí na tigela", "obj_label": "{'açaí', 'açaizeiro'}"}
+{"url": "http://www.wikidata.org/entity/Q1544629", "origin": "Brazil", "lang": "pt", "sub_label": "Vatapá", "obj_label": "{'pão'}"}
+{"url": "http://www.wikidata.org/entity/Q119230232", "origin": "Brazil", "lang": "pt", "sub_label": "Unha de caranguejo", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q118189128", "origin": "Brazil", "lang": "pt", "sub_label": "Reviro", "obj_label": "{'sal de cozinha', 'água', 'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q10346967", "origin": "Brazil", "lang": "pt", "sub_label": "pavê", "obj_label": "{'ovo', 'nata', 'chocolate', 'leite condensado'}"}
+{"url": "http://www.wikidata.org/entity/Q8245687", "origin": "Brazil", "lang": "pt", "sub_label": "Beirute (sanduíche)", "obj_label": "{'pita'}"}
+{"url": "http://www.wikidata.org/entity/Q2065278", "origin": "Brazil", "lang": "pt", "sub_label": "pão de queijo", "obj_label": "{'raiz da mandioca'}"}
+{"url": "http://www.wikidata.org/entity/Q491222", "origin": "Brazil", "lang": "pt", "sub_label": "tucupi", "obj_label": "{'raiz da mandioca'}"}
+{"url": "http://www.wikidata.org/entity/Q873761", "origin": "Brazil", "lang": "pt", "sub_label": "tapioca", "obj_label": "{'raiz da mandioca'}"}
+{"url": "http://www.wikidata.org/entity/Q2914862", "origin": "Brazil", "lang": "pt", "sub_label": "brigadeiro", "obj_label": "{'granulado', 'chocolate em pó', 'manteiga', 'leite condensado'}"}
+{"url": "http://www.wikidata.org/entity/Q10394334", "origin": "Brazil", "lang": "pt", "sub_label": "Xerém (culinária)", "obj_label": "{'farinha de milho'}"}
+{"url": "http://www.wikidata.org/entity/Q119820702", "origin": "Brazil", "lang": "pt", "sub_label": "Farinha de Bragança", "obj_label": "{'mandioca'}"}
+{"url": "http://www.wikidata.org/entity/Q564500", "origin": "Brazil", "lang": "pt", "sub_label": "Caruru", "obj_label": "{'azeite de dendê', 'cebola'}"}
+{"url": "http://www.wikidata.org/entity/Q5194622", "origin": "Brazil", "lang": "pt", "sub_label": "curau", "obj_label": "{'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q27690735", "origin": "Brazil", "lang": "pt", "sub_label": "limonada suíça", "obj_label": "{'gelo', 'água', 'lima'}"}
+{"url": "http://www.wikidata.org/entity/Q7145144", "origin": "Brazil", "lang": "pt", "sub_label": "Pato no tucupi", "obj_label": "{'tucupi', 'carne de pato'}"}
+{"url": "http://www.wikidata.org/entity/Q10333224", "origin": "Brazil", "lang": "pt", "sub_label": "canjica", "obj_label": "{'canjica'}"}
+{"url": "http://www.wikidata.org/entity/Q6750354", "origin": "Brazil", "lang": "pt", "sub_label": "Manjar branco", "obj_label": "{'coqueiro'}"}
+{"url": "http://www.wikidata.org/entity/Q9658011", "origin": "Brazil", "lang": "pt", "sub_label": "avoador", "obj_label": "{'tapioca'}"}
+{"url": "http://www.wikidata.org/entity/Q113685888", "origin": "Brazil", "lang": "pt", "sub_label": "Cupim casqueirado", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q3107885", "origin": "Brazil", "lang": "pt", "sub_label": "Quindim", "obj_label": "{'ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q10271001", "origin": "Brazil", "lang": "pt", "sub_label": "Efó", "obj_label": "{'alho', 'camarão'}"}
+{"url": "http://www.wikidata.org/entity/Q10332768", "origin": "Brazil", "lang": "pt", "sub_label": "Mousse de maracujá", "obj_label": "{'gelatina', 'Maracujá', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q19833038", "origin": "Brazil", "lang": "pt", "sub_label": "tofupiry", "obj_label": "{'tofu'}"}
+{"url": "http://www.wikidata.org/entity/Q2919225", "origin": "Brazil", "lang": "pt", "sub_label": "Maria-mole", "obj_label": "{'clara do ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q10355404", "origin": "Brazil", "lang": "pt", "sub_label": "Puba", "obj_label": "{'mandioca'}"}
+{"url": "http://www.wikidata.org/entity/Q956379", "origin": "Brazil", "lang": "pt", "sub_label": "quibebe", "obj_label": "{'Cucurbita'}"}
+{"url": "http://www.wikidata.org/entity/Q10280817", "origin": "Brazil", "lang": "pt", "sub_label": "feijoada à brasileira", "obj_label": "{'Feijão preto'}"}
+{"url": "http://www.wikidata.org/entity/Q7086753", "origin": "Brazil", "lang": "pt", "sub_label": "Olho-de-sogra", "obj_label": "{'coqueiro'}"}
+{"url": "http://www.wikidata.org/entity/Q2634653", "origin": "Brazil", "lang": "pt", "sub_label": "Coxinha", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q1929676", "origin": "Brazil", "lang": "pt", "sub_label": "moqueca", "obj_label": "{'fruto do mar'}"}
+{"url": "http://www.wikidata.org/entity/Q1459788", "origin": "Brazil", "lang": "pt", "sub_label": "Goiabada", "obj_label": "{'açúcar', 'goiaba', 'Psidium'}"}
+{"url": "http://www.wikidata.org/entity/Q4939956", "origin": "Brazil", "lang": "pt", "sub_label": "Bolo de rolo (Brazil), torta (Portugal)", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q16901617", "origin": "Brazil", "lang": "pt", "sub_label": "Bolinho de chuva", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q16496166", "origin": "Brazil", "lang": "pt", "sub_label": "Baião de dois", "obj_label": "{'arroz'}"}
+{"url": "http://www.wikidata.org/entity/Q10387497", "origin": "Brazil", "lang": "pt", "sub_label": "Umbuzada", "obj_label": "{'açúcar', 'Umbuzeiro', 'leite'}"}
+{"url": "http://www.wikidata.org/entity/Q720254", "origin": "Argentina", "lang": "pt", "sub_label": "Asado", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q2713498", "origin": "Argentina", "lang": "pt", "sub_label": "Choripán", "obj_label": "{'chouriço'}"}
+{"url": "http://www.wikidata.org/entity/Q1819455", "origin": "Argentina", "lang": "pt", "sub_label": "Locro", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q12821", "origin": "Argentina", "lang": "pt", "sub_label": "Bife à milanesa", "obj_label": "{'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q1073142", "origin": "Argentina", "lang": "pt", "sub_label": "Chimichurri", "obj_label": "{'alho', 'salsa'}"}
+{"url": "http://www.wikidata.org/entity/Q5484859", "origin": "Argentina", "lang": "pt", "sub_label": "Chajá", "obj_label": "{'Culinária do Uruguai'}"}
+{"url": "http://www.wikidata.org/entity/Q642702", "origin": "Colombia", "lang": "pt", "sub_label": "arepa", "obj_label": "{'farinha de milho'}"}
+{"url": "http://www.wikidata.org/entity/Q412754", "origin": "Colombia", "lang": "pt", "sub_label": "Ajiaco", "obj_label": "{'batata'}"}
+{"url": "http://www.wikidata.org/entity/Q5636956", "origin": "Chile", "lang": "pt", "sub_label": "pantruca", "obj_label": "{'farinha'}"}
+{"url": "http://www.wikidata.org/entity/Q3277130", "origin": "Chile", "lang": "pt", "sub_label": "mote con huesillo", "obj_label": "{'açúcar', 'canela', 'água', 'trigo'}"}
+{"url": "http://www.wikidata.org/entity/Q841470", "origin": "Australia", "lang": "pt", "sub_label": "Vegemite", "obj_label": "{'corante de caramelo', 'cloreto de potássio', 'malte', 'extracto de levedura', 'sal de cozinha'}"}
+{"url": "http://www.wikidata.org/entity/Q4118695", "origin": "New Zealand", "lang": "pt", "sub_label": "Colonial goose", "obj_label": "{'carne de cordeiro'}"}
+{"url": "http://www.wikidata.org/entity/Q1419824", "origin": "New Zealand", "lang": "pt", "sub_label": "Pavlova", "obj_label": "{'açúcar', 'clara do ovo'}"}
+{"url": "http://www.wikidata.org/entity/Q683682", "origin": "Korea", "lang": "pt", "sub_label": "Bulgogi", "obj_label": "{'carne bovina'}"}
+{"url": "http://www.wikidata.org/entity/Q1335219", "origin": "Korea", "lang": "pt", "sub_label": "samgyetang", "obj_label": "{'frango', 'Panax ginseng'}"}
+{"url": "http://www.wikidata.org/entity/Q704006", "origin": "Korea", "lang": "pt", "sub_label": "Budae-jjigae", "obj_label": "{'salsicha', 'Boston baked beans', 'presunto', 'kimchi', 'Spam', 'gochujang'}"}
+{"url": "http://www.wikidata.org/entity/Q495360", "origin": "Korea", "lang": "pt", "sub_label": "Gimbap", "obj_label": "{'legume', 'presunto', 'fruto do mar', 'omelete', 'arroz', 'alga'}"}
+{"url": "http://www.wikidata.org/entity/Q712554", "origin": "Korea", "lang": "pt", "sub_label": "kimchi-bokkeum-bap", "obj_label": "{'kimchi'}"}
+{"url": "http://www.wikidata.org/entity/Q648352", "origin": "Korea", "lang": "pt", "sub_label": "bibimbap", "obj_label": "{'gochujang', 'ovo', 'arroz', 'carne'}"}
+{"url": "http://www.wikidata.org/entity/Q703413", "origin": "Korea", "lang": "pt", "sub_label": "Tteok", "obj_label": "{'arroz glutinoso'}"}
+{"url": "http://www.wikidata.org/entity/Q715084", "origin": "Korea", "lang": "pt", "sub_label": "naengmyeon", "obj_label": "{'talharim'}"}
+{"url": "http://www.wikidata.org/entity/Q1328259", "origin": "Korea", "lang": "pt", "sub_label": "sannakji", "obj_label": "{'Octopus minor'}"}
+{"url": "http://www.wikidata.org/entity/Q682384", "origin": "Korea", "lang": "pt", "sub_label": "Galbi", "obj_label": "{'gado bovino'}"}
+{"url": "http://www.wikidata.org/entity/Q705375", "origin": "Korea", "lang": "pt", "sub_label": "Haejangguk", "obj_label": "{'Brassica rapa subsp. pekinensis'}"}
+{"url": "http://www.wikidata.org/entity/Q493784", "origin": "Korea", "lang": "pt", "sub_label": "bingsu", "obj_label": "{'Feijão-azuqui'}"}

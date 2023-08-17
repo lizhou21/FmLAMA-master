@@ -1,0 +1,799 @@
+{"url": "http://www.wikidata.org/entity/Q849058", "origin": "France", "lang": "id", "sub_label": "Stroganoff daging sapi", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q12478", "origin": "France", "lang": "id", "sub_label": "Macarons", "obj_label": "{'garam dapur', 'Kue busa'}"}
+{"url": "http://www.wikidata.org/entity/Q316849", "origin": "France", "lang": "id", "sub_label": "Tarte flambée", "obj_label": "{'Krim', 'bawang', 'Bacon'}"}
+{"url": "http://www.wikidata.org/entity/Q154166", "origin": "France", "lang": "id", "sub_label": "Sauerkraut", "obj_label": "{'Asam laktat', 'Kubis'}"}
+{"url": "http://www.wikidata.org/entity/Q890193", "origin": "France", "lang": "id", "sub_label": "Kue batang kayu", "obj_label": "{'mentega'}"}
+{"url": "http://www.wikidata.org/entity/Q20053", "origin": "France", "lang": "id", "sub_label": "Ravioli", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q58261", "origin": "France", "lang": "id", "sub_label": "Saus Velouté", "obj_label": "{'Kuah kaldu', 'Roux'}"}
+{"url": "http://www.wikidata.org/entity/Q1800458", "origin": "France", "lang": "id", "sub_label": "Pommes Anna", "obj_label": "{'kentang'}"}
+{"url": "http://www.wikidata.org/entity/Q837480", "origin": "France", "lang": "id", "sub_label": "Aspic", "obj_label": "{'daging sapi', 'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q1759775", "origin": "France", "lang": "id", "sub_label": "Tartiflette", "obj_label": "{'kentang', 'bawang', 'Reblochon'}"}
+{"url": "http://www.wikidata.org/entity/Q304868", "origin": "France", "lang": "id", "sub_label": "Vol-au-vent", "obj_label": "{'Puff pastry'}"}
+{"url": "http://www.wikidata.org/entity/Q180289", "origin": "France", "lang": "id", "sub_label": "espresso", "obj_label": "{'Krema'}"}
+{"url": "http://www.wikidata.org/entity/Q917325", "origin": "France", "lang": "id", "sub_label": "Fleur du Maquis", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q207832", "origin": "France", "lang": "id", "sub_label": "roti bulan sabit", "obj_label": "{'mentega', 'Puff pastry'}"}
+{"url": "http://www.wikidata.org/entity/Q208172", "origin": "France", "lang": "id", "sub_label": "Baguette", "obj_label": "{'garam dapur', 'tepung', 'khamir', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q44541", "origin": "France", "lang": "id", "sub_label": "panekuk", "obj_label": "{'susu', 'telur', 'tepung', 'minyak'}"}
+{"url": "http://www.wikidata.org/entity/Q816704", "origin": "France", "lang": "id", "sub_label": "Pâté", "obj_label": "{'hati', 'daging cincang'}"}
+{"url": "http://www.wikidata.org/entity/Q738", "origin": "France", "lang": "id", "sub_label": "Croque-monsieur", "obj_label": "{'Keju Emmental', 'ham'}"}
+{"url": "http://www.wikidata.org/entity/Q749593", "origin": "France", "lang": "id", "sub_label": "Bistik tartar", "obj_label": "{'daging kuda', 'telur', 'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q540289", "origin": "France", "lang": "id", "sub_label": "Baked Alaska", "obj_label": "{'Es krim', 'Kue busa', 'kue sponge'}"}
+{"url": "http://www.wikidata.org/entity/Q429483", "origin": "France", "lang": "id", "sub_label": "Muffin Inggris", "obj_label": "{'mentega', 'tepung terigu', 'susu', 'gula', 'khamir'}"}
+{"url": "http://www.wikidata.org/entity/Q828043", "origin": "France", "lang": "id", "sub_label": "Bouillabaisse", "obj_label": "{'anggur', 'Ikan', 'bawang putih', 'minyak nabati', 'ikan', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q167893", "origin": "France", "lang": "id", "sub_label": "Mayones", "obj_label": "{'minyak goreng', 'kuning telur'}"}
+{"url": "http://www.wikidata.org/entity/Q58259", "origin": "France", "lang": "id", "sub_label": "Saus Hollandaise", "obj_label": "{'kuning telur', 'mentega'}"}
+{"url": "http://www.wikidata.org/entity/Q772326", "origin": "France", "lang": "id", "sub_label": "Banon", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q866640", "origin": "France", "lang": "id", "sub_label": "Bisque (makanan)", "obj_label": "{'Krustasea'}"}
+{"url": "http://www.wikidata.org/entity/Q20063", "origin": "France", "lang": "id", "sub_label": "Gnocchi", "obj_label": "{'kentang'}"}
+{"url": "http://www.wikidata.org/entity/Q2724885", "origin": "France", "lang": "id", "sub_label": "Aligot", "obj_label": "{'Kentang tumbuk'}"}
+{"url": "http://www.wikidata.org/entity/Q1242466", "origin": "France", "lang": "id", "sub_label": "Ganache", "obj_label": "{'Krim', 'cokelat', 'mentega'}"}
+{"url": "http://www.wikidata.org/entity/Q681539", "origin": "France", "lang": "id", "sub_label": "Cantal", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q13314", "origin": "France", "lang": "id", "sub_label": "Parfait", "obj_label": "{'sirup'}"}
+{"url": "http://www.wikidata.org/entity/Q58263", "origin": "France", "lang": "id", "sub_label": "Eggs Benedict", "obj_label": "{'Muffin Inggris', 'telur', 'Saus Hollandaise'}"}
+{"url": "http://www.wikidata.org/entity/Q727605", "origin": "France", "lang": "id", "sub_label": "Churro", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q1501244", "origin": "France", "lang": "id", "sub_label": "Sup sayur", "obj_label": "{'sayuran', 'rempah-rempah', 'garam dapur', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q847441", "origin": "France", "lang": "id", "sub_label": "rasa", "obj_label": "{'minyak nabati'}"}
+{"url": "http://www.wikidata.org/entity/Q2893975", "origin": "France", "lang": "id", "sub_label": "Donat kentang", "obj_label": "{'kentang'}"}
+{"url": "http://www.wikidata.org/entity/Q898344", "origin": "France", "lang": "id", "sub_label": "Pastri choux", "obj_label": "{'tepung', 'telur', 'air', 'mentega'}"}
+{"url": "http://www.wikidata.org/entity/Q640839", "origin": "France", "lang": "id", "sub_label": "Pouligny-Saint-Pierre", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q152088", "origin": "France", "lang": "id", "sub_label": "Kentang goreng", "obj_label": "{'garam dapur', 'kentang', 'minyak nabati'}"}
+{"url": "http://www.wikidata.org/entity/Q1142459", "origin": "France", "lang": "id", "sub_label": "Crème fraîche", "obj_label": "{'Krim'}"}
+{"url": "http://www.wikidata.org/entity/Q209974", "origin": "France", "lang": "id", "sub_label": "Saus Béchamel", "obj_label": "{'susu', 'tepung', 'mentega'}"}
+{"url": "http://www.wikidata.org/entity/Q2615138", "origin": "France", "lang": "id", "sub_label": "Telur panggang", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q18127202", "origin": "France", "lang": "id", "sub_label": "Sup selada", "obj_label": "{'Selada'}"}
+{"url": "http://www.wikidata.org/entity/Q84087415", "origin": "France", "lang": "id", "sub_label": "catless", "obj_label": "{'kentang'}"}
+{"url": "http://www.wikidata.org/entity/Q2751128", "origin": "France", "lang": "id", "sub_label": "Fougasse", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q527323", "origin": "France", "lang": "id", "sub_label": "Coq au vin", "obj_label": "{'anggur merah', 'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q1891041", "origin": "France", "lang": "id", "sub_label": "Kebun anggur Lembah Rhône", "obj_label": "{'Auvergne-Rhône-Alpes'}"}
+{"url": "http://www.wikidata.org/entity/Q624004", "origin": "France", "lang": "id", "sub_label": "mousse", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q131480", "origin": "France", "lang": "id", "sub_label": "Camembert", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q917761", "origin": "France", "lang": "id", "sub_label": "Dulce de leche", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q851428", "origin": "France", "lang": "id", "sub_label": "Praline", "obj_label": "{'Karamel', 'Kacang hazel'}"}
+{"url": "http://www.wikidata.org/entity/Q2919135", "origin": "France", "lang": "id", "sub_label": "Pan bagnat", "obj_label": "{'Minyak zaitun', 'Teri', 'artichoke', 'garam dapur', 'Lobak', 'lada', 'roti putih', 'Bawang daun', 'Seledri', 'Selasih', 'Paprika', 'Thunnus', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q646003", "origin": "France", "lang": "id", "sub_label": "pain aux raisins", "obj_label": "{'Kacang hazel', 'mentega', 'tepung', 'Kismis', 'telur', 'susu', 'gula', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q322899", "origin": "France", "lang": "id", "sub_label": "Abondance", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q2746070", "origin": "France", "lang": "id", "sub_label": "Canelé", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q20065", "origin": "France", "lang": "id", "sub_label": "Spätzle", "obj_label": "{'garam dapur', 'telur', 'air', 'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q12200", "origin": "France", "lang": "id", "sub_label": "Crêpe", "obj_label": "{'telur', 'mentega', 'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q1152821", "origin": "France", "lang": "id", "sub_label": "Kue sus", "obj_label": "{'Pastri choux', 'Ganache'}"}
+{"url": "http://www.wikidata.org/entity/Q2992508", "origin": "France", "lang": "id", "sub_label": "Confit byaldi", "obj_label": "{'terung', 'zukini'}"}
+{"url": "http://www.wikidata.org/entity/Q183095", "origin": "France", "lang": "id", "sub_label": "Ratatouille", "obj_label": "{'bawang', 'terung', 'bawang putih', 'Marjoram', 'Paprika', 'zukini', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q209486", "origin": "France", "lang": "id", "sub_label": "Salade niçoise", "obj_label": "{'telur rebus', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q348947", "origin": "France", "lang": "id", "sub_label": "Saus tartar", "obj_label": "{'Peterseli', 'Cerwil', 'tarragon', 'Mayones', 'Timun acar'}"}
+{"url": "http://www.wikidata.org/entity/Q2082064", "origin": "France", "lang": "id", "sub_label": "Consommé", "obj_label": "{'Kuah kaldu'}"}
+{"url": "http://www.wikidata.org/entity/Q29221", "origin": "France", "lang": "id", "sub_label": "Puff pastry", "obj_label": "{'tepung', 'mentega', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q244617", "origin": "France", "lang": "id", "sub_label": "Soupe à l'oignon gratinée", "obj_label": "{'keju', 'bawang', 'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q20129", "origin": "France", "lang": "id", "sub_label": "Telur dadar", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q34807", "origin": "France", "lang": "id", "sub_label": "Foie gras", "obj_label": "{'hati'}"}
+{"url": "http://www.wikidata.org/entity/Q2998597", "origin": "France", "lang": "id", "sub_label": "Cotriade", "obj_label": "{'Ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q249873", "origin": "France", "lang": "id", "sub_label": "Crottin de Chavignol", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q761524", "origin": "France", "lang": "id", "sub_label": "Brocciu", "obj_label": "{'whey'}"}
+{"url": "http://www.wikidata.org/entity/Q883031", "origin": "France", "lang": "id", "sub_label": "Kue apung", "obj_label": "{'Kue busa'}"}
+{"url": "http://www.wikidata.org/entity/Q1363043", "origin": "France", "lang": "id", "sub_label": "Telur apung", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q193411", "origin": "France", "lang": "id", "sub_label": "brie", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q2922200", "origin": "France", "lang": "id", "sub_label": "Bouneschlupp", "obj_label": "{'buncis'}"}
+{"url": "http://www.wikidata.org/entity/Q1063560", "origin": "France", "lang": "id", "sub_label": "Truffle cokelat", "obj_label": "{'Ganache'}"}
+{"url": "http://www.wikidata.org/entity/Q273426", "origin": "France", "lang": "id", "sub_label": "Éclair", "obj_label": "{'Lapisan gula', 'Pastri choux', 'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q1316624", "origin": "Japan", "lang": "id", "sub_label": "Imagawayaki", "obj_label": "{'Adonan encer', 'Selai kacang merah'}"}
+{"url": "http://www.wikidata.org/entity/Q702028", "origin": "Japan", "lang": "id", "sub_label": "Katsudon", "obj_label": "{'Tonkatsu', 'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q235169", "origin": "Japan", "lang": "id", "sub_label": "Miso", "obj_label": "{'kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q1051265", "origin": "Japan", "lang": "id", "sub_label": "Mi instan", "obj_label": "{'kuah', 'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q3109041", "origin": "Japan", "lang": "id", "sub_label": "Kaki no tane", "obj_label": "{'Peanuts'}"}
+{"url": "http://www.wikidata.org/entity/Q905204", "origin": "Japan", "lang": "id", "sub_label": "Kakigōri", "obj_label": "{'es'}"}
+{"url": "http://www.wikidata.org/entity/Q166204", "origin": "Japan", "lang": "id", "sub_label": "Kamaboko", "obj_label": "{'Surimi'}"}
+{"url": "http://www.wikidata.org/entity/Q470519", "origin": "Japan", "lang": "id", "sub_label": "Mochi", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q3509587", "origin": "Japan", "lang": "id", "sub_label": "Agemochi", "obj_label": "{'Mochi'}"}
+{"url": "http://www.wikidata.org/entity/Q540171", "origin": "Japan", "lang": "id", "sub_label": "Kompeito", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q1317601", "origin": "Japan", "lang": "id", "sub_label": "Sata andagi", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q11276269", "origin": "Japan", "lang": "id", "sub_label": "hitsumabushi", "obj_label": "{'Nasi', 'Unagi'}"}
+{"url": "http://www.wikidata.org/entity/Q3273961", "origin": "Japan", "lang": "id", "sub_label": "Hishimochi", "obj_label": "{'Mochi'}"}
+{"url": "http://www.wikidata.org/entity/Q13393", "origin": "Japan", "lang": "id", "sub_label": "Onigiri", "obj_label": "{'Nori', 'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q471866", "origin": "Japan", "lang": "id", "sub_label": "Sup miso", "obj_label": "{'Miso', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q3665589", "origin": "Japan", "lang": "id", "sub_label": "Baumkuchen", "obj_label": "{'lapisan', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q1185324", "origin": "Japan", "lang": "id", "sub_label": "Sanuki udon", "obj_label": "{'Udon'}"}
+{"url": "http://www.wikidata.org/entity/Q1377879", "origin": "Japan", "lang": "id", "sub_label": "Edamame", "obj_label": "{'Kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q1304390", "origin": "Japan", "lang": "id", "sub_label": "Oyakodon", "obj_label": "{'telur ayam', 'daging ayam', 'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q3046286", "origin": "Japan", "lang": "id", "sub_label": "Wasanbon", "obj_label": "{'tebu'}"}
+{"url": "http://www.wikidata.org/entity/Q1621290", "origin": "Japan", "lang": "id", "sub_label": "Hiyamugi", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q1188911", "origin": "Japan", "lang": "id", "sub_label": "Stik kepiting", "obj_label": "{'Surimi'}"}
+{"url": "http://www.wikidata.org/entity/Q3296415", "origin": "Japan", "lang": "id", "sub_label": "Keju sakura", "obj_label": "{'Sakura'}"}
+{"url": "http://www.wikidata.org/entity/Q7967970", "origin": "Japan", "lang": "id", "sub_label": "Wanko soba", "obj_label": "{'Soba'}"}
+{"url": "http://www.wikidata.org/entity/Q647175", "origin": "Japan", "lang": "id", "sub_label": "Teriyaki", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q229385", "origin": "Japan", "lang": "id", "sub_label": "kecap asin", "obj_label": "{'Kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q10859806", "origin": "Japan", "lang": "id", "sub_label": "Norimaki", "obj_label": "{'Nori'}"}
+{"url": "http://www.wikidata.org/entity/Q181195", "origin": "Japan", "lang": "id", "sub_label": "Taiyaki", "obj_label": "{'Wafel'}"}
+{"url": "http://www.wikidata.org/entity/Q5929611", "origin": "Japan", "lang": "id", "sub_label": "Gotgam", "obj_label": "{'Persimmon'}"}
+{"url": "http://www.wikidata.org/entity/Q878624", "origin": "Japan", "lang": "id", "sub_label": "Bubur", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q877913", "origin": "Japan", "lang": "id", "sub_label": "Dango", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q377570", "origin": "Japan", "lang": "id", "sub_label": "Arare", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q1067842", "origin": "Japan", "lang": "id", "sub_label": "Daifuku", "obj_label": "{'Beras ketan', 'Selai kacang merah'}"}
+{"url": "http://www.wikidata.org/entity/Q1140464", "origin": "Japan", "lang": "id", "sub_label": "Selai kacang merah", "obj_label": "{'Kacang azuki'}"}
+{"url": "http://www.wikidata.org/entity/Q1045417", "origin": "Japan", "lang": "id", "sub_label": "Umeboshi", "obj_label": "{'garam (kimia)', 'Prunus mume'}"}
+{"url": "http://www.wikidata.org/entity/Q427226", "origin": "Japan", "lang": "id", "sub_label": "Omurice", "obj_label": "{'telur ayam', 'Nasi goreng'}"}
+{"url": "http://www.wikidata.org/entity/Q4261477", "origin": "Japan", "lang": "id", "sub_label": "Mitsumame", "obj_label": "{'Agar-agar', 'sirup'}"}
+{"url": "http://www.wikidata.org/entity/Q11417014", "origin": "Japan", "lang": "id", "sub_label": "Miso-katsu", "obj_label": "{'Miso', 'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q714027", "origin": "Japan", "lang": "id", "sub_label": "Nikujaga", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q703286", "origin": "Japan", "lang": "id", "sub_label": "Champon", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q336039", "origin": "Japan", "lang": "id", "sub_label": "Aburage", "obj_label": "{'Kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q599548", "origin": "Japan", "lang": "id", "sub_label": "Manjū", "obj_label": "{'Selai kacang merah'}"}
+{"url": "http://www.wikidata.org/entity/Q1352696", "origin": "Japan", "lang": "id", "sub_label": "Chankonabe", "obj_label": "{'Dashi'}"}
+{"url": "http://www.wikidata.org/entity/Q1061532", "origin": "Japan", "lang": "id", "sub_label": "Chanpurū", "obj_label": "{'sayuran', 'minyak goreng'}"}
+{"url": "http://www.wikidata.org/entity/Q2279318", "origin": "Japan", "lang": "id", "sub_label": "Mi shirataki", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q5369868", "origin": "Japan", "lang": "id", "sub_label": "Burger nasi", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q1087577", "origin": "Japan", "lang": "id", "sub_label": "Sakuramochi", "obj_label": "{'Selai kacang merah'}"}
+{"url": "http://www.wikidata.org/entity/Q483163", "origin": "Japan", "lang": "id", "sub_label": "Yakitori", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q1148919", "origin": "Japan", "lang": "id", "sub_label": "shichimi", "obj_label": "{'cabe merah', 'Hemp', 'Wijen', 'jahe', 'Aonori'}"}
+{"url": "http://www.wikidata.org/entity/Q505711", "origin": "Japan", "lang": "id", "sub_label": "Nattō", "obj_label": "{'Kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q559408", "origin": "Japan", "lang": "id", "sub_label": "Yōkan", "obj_label": "{'Agar-agar'}"}
+{"url": "http://www.wikidata.org/entity/Q7700692", "origin": "Japan", "lang": "id", "sub_label": "Tensoba", "obj_label": "{'Tempura', 'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q2421871", "origin": "Japan", "lang": "id", "sub_label": "Satsuma-age", "obj_label": "{'Surimi'}"}
+{"url": "http://www.wikidata.org/entity/Q1051482", "origin": "Japan", "lang": "id", "sub_label": "Dorayaki", "obj_label": "{'castella', 'Selai kacang merah'}"}
+{"url": "http://www.wikidata.org/entity/Q858345", "origin": "Japan", "lang": "id", "sub_label": "Kusaya", "obj_label": "{'Carangidae'}"}
+{"url": "http://www.wikidata.org/entity/Q1422437", "origin": "Japan", "lang": "id", "sub_label": "Unagi", "obj_label": "{'Sidat jepang'}"}
+{"url": "http://www.wikidata.org/entity/Q203176", "origin": "Japan", "lang": "id", "sub_label": "gyudon", "obj_label": "{'beras', 'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q1144102", "origin": "Japan", "lang": "id", "sub_label": "Yakisoba", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q1044246", "origin": "Japan", "lang": "id", "sub_label": "Furikake", "obj_label": "{'Wijen'}"}
+{"url": "http://www.wikidata.org/entity/Q2196880", "origin": "Japan", "lang": "id", "sub_label": "Giri choco", "obj_label": "{'cokelat'}"}
+{"url": "http://www.wikidata.org/entity/Q113739", "origin": "Japan", "lang": "id", "sub_label": "Katsuobushi", "obj_label": "{'Cakalang'}"}
+{"url": "http://www.wikidata.org/entity/Q1068307", "origin": "Japan", "lang": "id", "sub_label": "Pocky", "obj_label": "{'biskuit'}"}
+{"url": "http://www.wikidata.org/entity/Q700643", "origin": "Japan", "lang": "id", "sub_label": "Shiruko", "obj_label": "{'Kacang azuki'}"}
+{"url": "http://www.wikidata.org/entity/Q1165352", "origin": "Japan", "lang": "id", "sub_label": "Shōchū", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q1068574", "origin": "Japan", "lang": "id", "sub_label": "Chawanmushi", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q3141360", "origin": "Japan", "lang": "id", "sub_label": "Kashiwamochi", "obj_label": "{'daun'}"}
+{"url": "http://www.wikidata.org/entity/Q1995435", "origin": "Japan", "lang": "id", "sub_label": "Tiradito", "obj_label": "{'Ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q177378", "origin": "Japan", "lang": "id", "sub_label": "tahu", "obj_label": "{'Kedelai', 'Susu kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q1205609", "origin": "Japan", "lang": "id", "sub_label": "Nasi Hayashi", "obj_label": "{'Nasi', 'bawang', 'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q234646", "origin": "Japan", "lang": "id", "sub_label": "Ramen", "obj_label": "{'kaldu', 'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q198788", "origin": "Japan", "lang": "id", "sub_label": "Senbei", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q116327", "origin": "Japan", "lang": "id", "sub_label": "Akashiyaki", "obj_label": "{'Adonan encer'}"}
+{"url": "http://www.wikidata.org/entity/Q1509709", "origin": "Japan", "lang": "id", "sub_label": "Tentsuyu", "obj_label": "{'kecap asin', 'Sake', 'Dashi', 'Mirin'}"}
+{"url": "http://www.wikidata.org/entity/Q87590", "origin": "Japan", "lang": "id", "sub_label": "castella", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q733844", "origin": "Japan", "lang": "id", "sub_label": "Narutomaki", "obj_label": "{'Surimi'}"}
+{"url": "http://www.wikidata.org/entity/Q3108889", "origin": "Japan", "lang": "id", "sub_label": "Kusa mochi", "obj_label": "{'Mochi'}"}
+{"url": "http://www.wikidata.org/entity/Q388983", "origin": "Japan", "lang": "id", "sub_label": "Takikomi gohan", "obj_label": "{'padi'}"}
+{"url": "http://www.wikidata.org/entity/Q1061856", "origin": "Japan", "lang": "id", "sub_label": "Shabu-shabu", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q3888994", "origin": "Japan", "lang": "id", "sub_label": "Naporitan", "obj_label": "{'spageti', 'saus tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q862569", "origin": "Japan", "lang": "id", "sub_label": "Sukiyaki", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q1051978", "origin": "Japan", "lang": "id", "sub_label": "Katsukarē", "obj_label": "{'Nasi', 'Tonkatsu'}"}
+{"url": "http://www.wikidata.org/entity/Q249169", "origin": "Japan", "lang": "id", "sub_label": "Zōni", "obj_label": "{'Mochi'}"}
+{"url": "http://www.wikidata.org/entity/Q3206076", "origin": "Japan", "lang": "id", "sub_label": "Niboshi", "obj_label": "{'Poisson'}"}
+{"url": "http://www.wikidata.org/entity/Q453174", "origin": "Japan", "lang": "id", "sub_label": "Onsen tamago", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q471861", "origin": "Japan", "lang": "id", "sub_label": "Udon", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q1061842", "origin": "Japan", "lang": "id", "sub_label": "Donburi", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q1061824", "origin": "Japan", "lang": "id", "sub_label": "Ochazuke", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q1046006", "origin": "Japan", "lang": "id", "sub_label": "Roti kari", "obj_label": "{'Kari Jepang', 'Adonan'}"}
+{"url": "http://www.wikidata.org/entity/Q1352897", "origin": "Japan", "lang": "id", "sub_label": "Unadon", "obj_label": "{'beras', 'Unagi'}"}
+{"url": "http://www.wikidata.org/entity/Q59170", "origin": "Hungary", "lang": "id", "sub_label": "Strudel", "obj_label": "{'tepung', 'telur', 'Phyllo', 'minyak', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q205762", "origin": "Hungary", "lang": "id", "sub_label": "Goulash", "obj_label": "{'Minyak zaitun', 'bawang', 'cabe merah', 'tepung', 'mentega', 'pasta tomat', 'bawang putih', 'paprika', 'rempah-rempah', 'Agaricus', 'wortel', 'kecap asin', 'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q295568", "origin": "Hungary", "lang": "id", "sub_label": "Dobos torte", "obj_label": "{'jus lemon', 'Rum', 'Tepung gula', 'cokelat', 'vanili', 'kue sponge'}"}
+{"url": "http://www.wikidata.org/entity/Q575790", "origin": "Hungary", "lang": "id", "sub_label": "Lángos", "obj_label": "{'Ragi nutrisional', 'garam dapur', 'tepung terigu', 'susu', 'kentang', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q268114", "origin": "Hungary", "lang": "id", "sub_label": "Halászlé", "obj_label": "{'ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q1058306", "origin": "Hungary", "lang": "id", "sub_label": "Pörkölt", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q51482", "origin": "Austria", "lang": "id", "sub_label": "Red Bull", "obj_label": "{'air soda', 'Taurina', 'kafeina', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q327316", "origin": "Austria", "lang": "id", "sub_label": "Sosis Wina", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q261387", "origin": "Austria", "lang": "id", "sub_label": "Apfelstrudel", "obj_label": "{'mentega', 'kulit kayu manis', 'apel', 'Tepung gula', 'gula', 'Tepung roti'}"}
+{"url": "http://www.wikidata.org/entity/Q22976", "origin": "Austria", "lang": "id", "sub_label": "Dampfnudel", "obj_label": "{'marmalade', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q376845", "origin": "Austria", "lang": "id", "sub_label": "Vanillekipferl", "obj_label": "{'tepung', 'mentega', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q158382", "origin": "Austria", "lang": "id", "sub_label": "Klöße", "obj_label": "{'Adonan'}"}
+{"url": "http://www.wikidata.org/entity/Q358507", "origin": "Austria", "lang": "id", "sub_label": "Bosna", "obj_label": "{'roti putih', 'Allium', 'Moster', 'Bratwurst', 'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q154482", "origin": "Austria", "lang": "id", "sub_label": "sosis darah", "obj_label": "{'Darah sebagai makanan'}"}
+{"url": "http://www.wikidata.org/entity/Q131442", "origin": "Austria", "lang": "id", "sub_label": "Sachertorte", "obj_label": "{'Ganache', 'aprikot', 'ccokelat hitam', 'cokelat', 'kue sponge'}"}
+{"url": "http://www.wikidata.org/entity/Q12264276", "origin": "Austria", "lang": "id", "sub_label": "Palatschinke", "obj_label": "{'susu', 'telur', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q6497852", "origin": "Austria", "lang": "id", "sub_label": "Wiener schnitzel", "obj_label": "{'daging sapi muda', 'Tepung roti'}"}
+{"url": "http://www.wikidata.org/entity/Q899882", "origin": "Austria", "lang": "id", "sub_label": "Bratwurst", "obj_label": "{'daging sapi muda', 'daging sapi', 'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q263223", "origin": "Austria", "lang": "id", "sub_label": "Mozartkugel", "obj_label": "{'marzipan', 'cokelat'}"}
+{"url": "http://www.wikidata.org/entity/Q156036", "origin": "Austria", "lang": "id", "sub_label": "Kaisersemmel", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q195", "origin": "Mexico", "lang": "id", "sub_label": "cokelat", "obj_label": "{'Biji kakao', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q16490824", "origin": "Mexico", "lang": "id", "sub_label": "chamoyada", "obj_label": "{'es serut', 'buah', 'asam jawa', 'Cabai bubuk', 'chamoy'}"}
+{"url": "http://www.wikidata.org/entity/Q516592", "origin": "Mexico", "lang": "id", "sub_label": "Chicha", "obj_label": "{'jagung'}"}
+{"url": "http://www.wikidata.org/entity/Q206978", "origin": "Mexico", "lang": "id", "sub_label": "Sprite", "obj_label": "{'lemon'}"}
+{"url": "http://www.wikidata.org/entity/Q1599125", "origin": "Mexico", "lang": "id", "sub_label": "Roti lapis gulung", "obj_label": "{'Roti datar', 'Isian'}"}
+{"url": "http://www.wikidata.org/entity/Q2336063", "origin": "Mexico", "lang": "id", "sub_label": "Roti soda", "obj_label": "{'Natrium bikarbonat', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q390823", "origin": "Mexico", "lang": "id", "sub_label": "Burrito", "obj_label": "{'Isian'}"}
+{"url": "http://www.wikidata.org/entity/Q275508", "origin": "Mexico", "lang": "id", "sub_label": "Salad caesar", "obj_label": "{'Minyak zaitun', 'jus lemon', 'kecap inggris', 'telur', 'lada', 'Parmigiano-Reggiano'}"}
+{"url": "http://www.wikidata.org/entity/Q207968", "origin": "Mexico", "lang": "id", "sub_label": "Guacamole", "obj_label": "{'Jalapeño', 'alpukat', 'garam dapur'}"}
+{"url": "http://www.wikidata.org/entity/Q15660894", "origin": "Mexico", "lang": "id", "sub_label": "Tortilla", "obj_label": "{'jagung'}"}
+{"url": "http://www.wikidata.org/entity/Q5069848", "origin": "Mexico", "lang": "id", "sub_label": "chamoy", "obj_label": "{'buah', 'Cabai bubuk'}"}
+{"url": "http://www.wikidata.org/entity/Q466430", "origin": "Mexico", "lang": "id", "sub_label": "Nacho", "obj_label": "{'Keripik tortilla'}"}
+{"url": "http://www.wikidata.org/entity/Q175641", "origin": "Mexico", "lang": "id", "sub_label": "Keripik tortilla", "obj_label": "{'Tortilla'}"}
+{"url": "http://www.wikidata.org/entity/Q876096", "origin": "Mexico", "lang": "id", "sub_label": "Enchilada", "obj_label": "{'saus pedas', 'daging', 'Tortilla'}"}
+{"url": "http://www.wikidata.org/entity/Q191655", "origin": "Mexico", "lang": "id", "sub_label": "taco", "obj_label": "{'Isian', 'Tortilla'}"}
+{"url": "http://www.wikidata.org/entity/Q1495652", "origin": "Mexico", "lang": "id", "sub_label": "Mole", "obj_label": "{'Capsicum'}"}
+{"url": "http://www.wikidata.org/entity/Q865325", "origin": "Mexico", "lang": "id", "sub_label": "Quesadilla", "obj_label": "{'keju', 'Tortilla'}"}
+{"url": "http://www.wikidata.org/entity/Q787325", "origin": "Mexico", "lang": "id", "sub_label": "Jus tomat", "obj_label": "{'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q1720857", "origin": "Saudi Arabia", "lang": "id", "sub_label": "Nasi kabsah", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q188788", "origin": "Saudi Arabia", "lang": "id", "sub_label": "falafel", "obj_label": "{'ketumbar'}"}
+{"url": "http://www.wikidata.org/entity/Q1142836", "origin": "Saudi Arabia", "lang": "id", "sub_label": "khash", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q219123", "origin": "Saudi Arabia", "lang": "id", "sub_label": "Kanafeh", "obj_label": "{'keju', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q148306", "origin": "Saudi Arabia", "lang": "id", "sub_label": "Za'atar", "obj_label": "{'garam dapur', 'wijen', 'timi'}"}
+{"url": "http://www.wikidata.org/entity/Q491517", "origin": "Saudi Arabia", "lang": "id", "sub_label": "Samosa", "obj_label": "{'tepung terigu', 'daging', 'wortel', 'Ercis'}"}
+{"url": "http://www.wikidata.org/entity/Q1200514", "origin": "Belgium", "lang": "id", "sub_label": "moules-frites", "obj_label": "{'Kentang goreng'}"}
+{"url": "http://www.wikidata.org/entity/Q375", "origin": "Belgium", "lang": "id", "sub_label": "Wafel", "obj_label": "{'Adonan encer'}"}
+{"url": "http://www.wikidata.org/entity/Q2485491", "origin": "Belgium", "lang": "id", "sub_label": "mitraillette", "obj_label": "{'Kentang goreng', 'daging', 'Baguette', 'saus'}"}
+{"url": "http://www.wikidata.org/entity/Q153352", "origin": "Belgium", "lang": "id", "sub_label": "Sauerbraten", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q635675", "origin": "Belgium", "lang": "id", "sub_label": "Waterzooi", "obj_label": "{'ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q807791", "origin": "United States of America", "lang": "id", "sub_label": "Saus barbeku", "obj_label": "{'vinegar', 'air', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q2910489", "origin": "United States of America", "lang": "id", "sub_label": "Lekach", "obj_label": "{'madu', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q7208574", "origin": "United States of America", "lang": "id", "sub_label": "Poke (hidangan Hawaii)", "obj_label": "{'Sashimi', 'beras', 'Madidihang'}"}
+{"url": "http://www.wikidata.org/entity/Q1207626", "origin": "United States of America", "lang": "id", "sub_label": "Kacang jeli", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q7689067", "origin": "United States of America", "lang": "id", "sub_label": "Roti lapis Tavern", "obj_label": "{'Roti bulat'}"}
+{"url": "http://www.wikidata.org/entity/Q534023", "origin": "United States of America", "lang": "id", "sub_label": "Turducken", "obj_label": "{'Bebek', 'daging ayam', 'daging kalkun'}"}
+{"url": "http://www.wikidata.org/entity/Q7148741", "origin": "United States of America", "lang": "id", "sub_label": "Patty melt", "obj_label": "{'roti hitam'}"}
+{"url": "http://www.wikidata.org/entity/Q5096304", "origin": "United States of America", "lang": "id", "sub_label": "Bistik ayam goreng", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q1068892", "origin": "United States of America", "lang": "id", "sub_label": "Cheesesteak", "obj_label": "{'Keju olahan'}"}
+{"url": "http://www.wikidata.org/entity/Q1133127", "origin": "United States of America", "lang": "id", "sub_label": "corn dog", "obj_label": "{'Sosis Wina', 'Hot dog'}"}
+{"url": "http://www.wikidata.org/entity/Q22115527", "origin": "United States of America", "lang": "id", "sub_label": "Roti lapis pelaut", "obj_label": "{'Pastrami'}"}
+{"url": "http://www.wikidata.org/entity/Q5105519", "origin": "United States of America", "lang": "id", "sub_label": "Roti lapis chow mein", "obj_label": "{'Hamburger'}"}
+{"url": "http://www.wikidata.org/entity/Q5171047", "origin": "United States of America", "lang": "id", "sub_label": "Sup jagung kental", "obj_label": "{'bawang'}"}
+{"url": "http://www.wikidata.org/entity/Q1284887", "origin": "United States of America", "lang": "id", "sub_label": "Red velvet cake", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q503129", "origin": "United States of America", "lang": "id", "sub_label": "Brownies", "obj_label": "{'tepung', 'mentega', 'telur', 'gula', 'Biji kakao'}"}
+{"url": "http://www.wikidata.org/entity/Q1297383", "origin": "United States of America", "lang": "id", "sub_label": "Krim telur", "obj_label": "{'Sirup coklat'}"}
+{"url": "http://www.wikidata.org/entity/Q272198", "origin": "United States of America", "lang": "id", "sub_label": "marshmallow", "obj_label": "{'tari', 'Gelatin', 'minyak bumi', 'Sirup jagung', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q207220", "origin": "United States of America", "lang": "id", "sub_label": "Muffin", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q6813732", "origin": "United States of America", "lang": "id", "sub_label": "roti lapis leleh", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q978397", "origin": "United States of America", "lang": "id", "sub_label": "roti lapis tuna", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q782794", "origin": "United States of America", "lang": "id", "sub_label": "Kue keberuntungan", "obj_label": "{'tepung', 'vanili', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q13319", "origin": "United States of America", "lang": "id", "sub_label": "Yogurt beku", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q1160522", "origin": "United States of America", "lang": "id", "sub_label": "Gumbo", "obj_label": "{'Paprika', 'bawang', 'Roux', 'seledri'}"}
+{"url": "http://www.wikidata.org/entity/Q1202221", "origin": "United States of America", "lang": "id", "sub_label": "Lox", "obj_label": "{'Salmon'}"}
+{"url": "http://www.wikidata.org/entity/Q855131", "origin": "United States of America", "lang": "id", "sub_label": "Pepperoni", "obj_label": "{'paprika', 'cabe merah', 'daging sapi', 'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q856330", "origin": "United States of America", "lang": "id", "sub_label": "Kraker", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q806097", "origin": "United States of America", "lang": "id", "sub_label": "Roti pisang", "obj_label": "{'pisang', 'tepung', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q14169302", "origin": "United States of America", "lang": "id", "sub_label": "Biskuit butir cokelat", "obj_label": "{'Butir cokelat', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q606132", "origin": "United States of America", "lang": "id", "sub_label": "Spam", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q5089400", "origin": "United States of America", "lang": "id", "sub_label": "Kentang goreng keju", "obj_label": "{'keju', 'Kentang goreng'}"}
+{"url": "http://www.wikidata.org/entity/Q1421521", "origin": "United States of America", "lang": "id", "sub_label": "Fluffernutter", "obj_label": "{'selai kacang'}"}
+{"url": "http://www.wikidata.org/entity/Q1055940", "origin": "United States of America", "lang": "id", "sub_label": "Stik mozzarella", "obj_label": "{'Mozarela'}"}
+{"url": "http://www.wikidata.org/entity/Q667478", "origin": "United States of America", "lang": "id", "sub_label": "Burger keju", "obj_label": "{'keju', 'Roti bulat', 'Patty'}"}
+{"url": "http://www.wikidata.org/entity/Q1094882", "origin": "United States of America", "lang": "id", "sub_label": "Sup kerang kental", "obj_label": "{'Kerang'}"}
+{"url": "http://www.wikidata.org/entity/Q387405", "origin": "United States of America", "lang": "id", "sub_label": "Es krim soda", "obj_label": "{'Es krim'}"}
+{"url": "http://www.wikidata.org/entity/Q2904970", "origin": "United States of America", "lang": "id", "sub_label": "Tomat hijau goreng", "obj_label": "{'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q2917139", "origin": "United States of America", "lang": "id", "sub_label": "Roti lapis daging babi, pisang, dan selai kacang", "obj_label": "{'pisang', 'selai kacang', 'roti', 'Bacon'}"}
+{"url": "http://www.wikidata.org/entity/Q1329680", "origin": "United States of America", "lang": "id", "sub_label": "Butir cokelat", "obj_label": "{'cokelat'}"}
+{"url": "http://www.wikidata.org/entity/Q2662315", "origin": "United States of America", "lang": "id", "sub_label": "Roti lapis bakso", "obj_label": "{'Bola daging', 'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q5125441", "origin": "United States of America", "lang": "id", "sub_label": "Saus kerang cocol", "obj_label": "{'krim asam', 'Kerang'}"}
+{"url": "http://www.wikidata.org/entity/Q4841538", "origin": "United States of America", "lang": "id", "sub_label": "Bagel dog", "obj_label": "{'Bagel'}"}
+{"url": "http://www.wikidata.org/entity/Q1104585", "origin": "United States of America", "lang": "id", "sub_label": "Salad cobb", "obj_label": "{'Lactuca', 'ayam', 'keju', 'telur', 'Bacon', 'alpukat', 'rasa', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q181055", "origin": "United States of America", "lang": "id", "sub_label": "Hot dog", "obj_label": "{'Sosis Wina', 'roti gulung', 'saus'}"}
+{"url": "http://www.wikidata.org/entity/Q20658501", "origin": "United States of America", "lang": "id", "sub_label": "Sup kepiting betina", "obj_label": "{'Callinectes sapidus'}"}
+{"url": "http://www.wikidata.org/entity/Q2353020", "origin": "United States of America", "lang": "id", "sub_label": "Kue pelangi", "obj_label": "{'kue sponge'}"}
+{"url": "http://www.wikidata.org/entity/Q402587", "origin": "United States of America", "lang": "id", "sub_label": "Gula mapel", "obj_label": "{'Getah'}"}
+{"url": "http://www.wikidata.org/entity/Q17110181", "origin": "United States of America", "lang": "id", "sub_label": "Sloppy joe (New Jersey)", "obj_label": "{'roti hitam'}"}
+{"url": "http://www.wikidata.org/entity/Q2915430", "origin": "United States of America", "lang": "id", "sub_label": "Saus kranberi", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q245752", "origin": "United States of America", "lang": "id", "sub_label": "Es krim pisang", "obj_label": "{'pisang', 'Krim kocok'}"}
+{"url": "http://www.wikidata.org/entity/Q1364509", "origin": "United States of America", "lang": "id", "sub_label": "jambalaya", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q37159", "origin": "United States of America", "lang": "id", "sub_label": "susu kocok", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q3180957", "origin": "United States of America", "lang": "id", "sub_label": "Roti lapis Reuben", "obj_label": "{'roti hitam', 'Sauerkraut', 'Daging kornet'}"}
+{"url": "http://www.wikidata.org/entity/Q4959490", "origin": "United States of America", "lang": "id", "sub_label": "roti lapis sarapan", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q1072190", "origin": "United States of America", "lang": "id", "sub_label": "nugget ayam", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q6917263", "origin": "United States of America", "lang": "id", "sub_label": "mother-in-law", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q1076824", "origin": "United States of America", "lang": "id", "sub_label": "Sup kental", "obj_label": "{'makanan laut'}"}
+{"url": "http://www.wikidata.org/entity/Q714179", "origin": "United States of America", "lang": "id", "sub_label": "Snickers", "obj_label": "{'Nougat', 'Karamel', 'cokelat', 'kacang tanah'}"}
+{"url": "http://www.wikidata.org/entity/Q6904753", "origin": "United States of America", "lang": "id", "sub_label": "Monte Cristo", "obj_label": "{'ham', 'Adonan encer', 'telur', 'Keju Emmental', 'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q7193919", "origin": "United States of America", "lang": "id", "sub_label": "Pilgrim", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q12054162", "origin": "United States of America", "lang": "id", "sub_label": "Permen Jagung", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q7605242", "origin": "United States of America", "lang": "id", "sub_label": "Roti lapis bistik", "obj_label": "{'steik'}"}
+{"url": "http://www.wikidata.org/entity/Q6663", "origin": "United States of America", "lang": "id", "sub_label": "Hamburger", "obj_label": "{'bawang', 'Patty', 'Selada', 'roti', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q3472079", "origin": "United States of America", "lang": "id", "sub_label": "Italian beef", "obj_label": "{'roti gulung'}"}
+{"url": "http://www.wikidata.org/entity/Q5465590", "origin": "United States of America", "lang": "id", "sub_label": "Fool's Gold Loaf", "obj_label": "{'selai kacang', 'Baguette', 'Bacon', 'Selai'}"}
+{"url": "http://www.wikidata.org/entity/Q379138", "origin": "United States of America", "lang": "id", "sub_label": "fudge", "obj_label": "{'susu', 'mentega', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q5366437", "origin": "United States of America", "lang": "id", "sub_label": "Ayam jeruk", "obj_label": "{'jeruk', 'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q5366160", "origin": "United States of America", "lang": "id", "sub_label": "Scrapple", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q31305", "origin": "United States of America", "lang": "id", "sub_label": "Mars Bars", "obj_label": "{'Nougat', 'Karamel', 'cokelat'}"}
+{"url": "http://www.wikidata.org/entity/Q3357568", "origin": "United States of America", "lang": "id", "sub_label": "slider", "obj_label": "{'Roti bulat'}"}
+{"url": "http://www.wikidata.org/entity/Q1369093", "origin": "United States of America", "lang": "id", "sub_label": "Roti lapis selai kacang dan jelly", "obj_label": "{'selai kacang', 'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q796270", "origin": "United States of America", "lang": "id", "sub_label": "BLT", "obj_label": "{'Selada', 'Bacon', 'Mayones', 'roti', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q1202255", "origin": "United States of America", "lang": "id", "sub_label": "Loco moco", "obj_label": "{'Plov'}"}
+{"url": "http://www.wikidata.org/entity/Q632832", "origin": "United States of America", "lang": "id", "sub_label": "Hot dog vegetarian", "obj_label": "{'Kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q7380161", "origin": "United States of America", "lang": "id", "sub_label": "runza", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q244611", "origin": "United States of America", "lang": "id", "sub_label": "Onion ring", "obj_label": "{'bawang'}"}
+{"url": "http://www.wikidata.org/entity/Q25060329", "origin": "United States of America", "lang": "id", "sub_label": "Oreo goreng", "obj_label": "{'Adonan encer'}"}
+{"url": "http://www.wikidata.org/entity/Q335016", "origin": "United States of America", "lang": "id", "sub_label": "Saus Tabasco", "obj_label": "{'garam dapur'}"}
+{"url": "http://www.wikidata.org/entity/Q1093380", "origin": "United States of America", "lang": "id", "sub_label": "roti lapis klub", "obj_label": "{'Roti bakar', 'tomat', 'Bacon', 'daging kalkun'}"}
+{"url": "http://www.wikidata.org/entity/Q179158", "origin": "United States of America", "lang": "id", "sub_label": "Sup krim jamur", "obj_label": "{'jamur', 'Roux'}"}
+{"url": "http://www.wikidata.org/entity/Q859553", "origin": "United States of America", "lang": "id", "sub_label": "Sundae", "obj_label": "{'Es krim'}"}
+{"url": "http://www.wikidata.org/entity/Q7160341", "origin": "United States of America", "lang": "id", "sub_label": "Peeps", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q816851", "origin": "United States of America", "lang": "id", "sub_label": "Kue mangkok", "obj_label": "{'bahan pengembang', 'tepung', 'mentega', 'telur', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q7591284", "origin": "United States of America", "lang": "id", "sub_label": "Roti lapis St. Paul", "obj_label": "{'roti putih'}"}
+{"url": "http://www.wikidata.org/entity/Q6192002", "origin": "United States of America", "lang": "id", "sub_label": "Jibarito", "obj_label": "{'Pisang tanduk'}"}
+{"url": "http://www.wikidata.org/entity/Q105085085", "origin": "Spain", "lang": "id", "sub_label": "Morcilla de calabaza", "obj_label": "{'bawang'}"}
+{"url": "http://www.wikidata.org/entity/Q23374", "origin": "Spain", "lang": "id", "sub_label": "Chorizo", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q4918498", "origin": "Spain", "lang": "id", "sub_label": "bistec tagalo", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q202677", "origin": "Spain", "lang": "id", "sub_label": "Gazpacho", "obj_label": "{'Minyak zaitun', 'Capsicum', 'jus lemon', 'bawang bombai', 'garam dapur', 'vinegar', 'bawang putih', 'Paprika', 'roti', 'mentimun', 'air', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q551514", "origin": "Spain", "lang": "id", "sub_label": "Blancmange", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q374381", "origin": "Spain", "lang": "id", "sub_label": "puding karamel", "obj_label": "{'susu', 'telur', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q1061720", "origin": "Spain", "lang": "id", "sub_label": "Café con leche", "obj_label": "{'susu', 'kopi'}"}
+{"url": "http://www.wikidata.org/entity/Q8705390", "origin": "Spain", "lang": "id", "sub_label": "Buñuelo", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q212121", "origin": "Spain", "lang": "id", "sub_label": "Paella", "obj_label": "{'Minyak zaitun', 'beras', 'ayam', 'garam dapur', 'tomat', 'buncis', 'kuma-kuma', 'Kacang lima', 'Daging kelinci'}"}
+{"url": "http://www.wikidata.org/entity/Q1246822", "origin": "Spain", "lang": "id", "sub_label": "Cabrales", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q995376", "origin": "Spain", "lang": "id", "sub_label": "Fabada Asturiana", "obj_label": "{'Chorizo'}"}
+{"url": "http://www.wikidata.org/entity/Q702104", "origin": "Spain", "lang": "id", "sub_label": "Ardei umpluţi", "obj_label": "{'Capsicum', 'daging cincang'}"}
+{"url": "http://www.wikidata.org/entity/Q1411695", "origin": "Spain", "lang": "id", "sub_label": "Pa amb tomàquet", "obj_label": "{'roti', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q586770", "origin": "Spain", "lang": "id", "sub_label": "Romesco", "obj_label": "{'kacang pohon', 'bawang putih', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q5194921", "origin": "Spain", "lang": "id", "sub_label": "Fabes con almejas", "obj_label": "{'Kerang'}"}
+{"url": "http://www.wikidata.org/entity/Q938682", "origin": "Spain", "lang": "id", "sub_label": "Alfajor", "obj_label": "{'Dulce de leche', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q251981", "origin": "Sweden", "lang": "id", "sub_label": "Knäckebröd", "obj_label": "{'biji', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q374", "origin": "Sweden", "lang": "id", "sub_label": "Vodka", "obj_label": "{'Etanol', 'air minum'}"}
+{"url": "http://www.wikidata.org/entity/Q890197", "origin": "Sweden", "lang": "id", "sub_label": "Lutefisk", "obj_label": "{'Natrium hidroksida'}"}
+{"url": "http://www.wikidata.org/entity/Q5479684", "origin": "Sweden", "lang": "id", "sub_label": "Permen tongkat", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q1501015", "origin": "Sweden", "lang": "id", "sub_label": "Bakso Swedia", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q493749", "origin": "Sweden", "lang": "id", "sub_label": "Rote Grütze", "obj_label": "{'beri', 'Tepung kentang'}"}
+{"url": "http://www.wikidata.org/entity/Q186817", "origin": "Sweden", "lang": "id", "sub_label": "Bubur", "obj_label": "{'serealia'}"}
+{"url": "http://www.wikidata.org/entity/Q1853883", "origin": "Sweden", "lang": "id", "sub_label": "Ostkaka", "obj_label": "{'Rennet'}"}
+{"url": "http://www.wikidata.org/entity/Q209304", "origin": "Indonesia", "lang": "id", "sub_label": "gado-gado", "obj_label": "{'lontong', 'Bawang goreng', 'telur', 'Nasi', 'kerupuk', 'sayuran', 'bumbu kacang'}"}
+{"url": "http://www.wikidata.org/entity/Q4200659", "origin": "Indonesia", "lang": "id", "sub_label": "pempek", "obj_label": "{'Ikan', 'ikan', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q4198570", "origin": "Indonesia", "lang": "id", "sub_label": "terang bulan", "obj_label": "{'tepung', 'susu kental manis', 'mentega'}"}
+{"url": "http://www.wikidata.org/entity/Q17054040", "origin": "Indonesia", "lang": "id", "sub_label": "Nasi padang", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q2480049", "origin": "Indonesia", "lang": "id", "sub_label": "bumbu kacang", "obj_label": "{'kacang tanah'}"}
+{"url": "http://www.wikidata.org/entity/Q16773140", "origin": "Indonesia", "lang": "id", "sub_label": "Kue putri salju", "obj_label": "{'tepung', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q15886093", "origin": "Indonesia", "lang": "id", "sub_label": "Cap cai", "obj_label": "{'Kubis bunga'}"}
+{"url": "http://www.wikidata.org/entity/Q7656154", "origin": "Indonesia", "lang": "id", "sub_label": "swike", "obj_label": "{'Paha kodok'}"}
+{"url": "http://www.wikidata.org/entity/Q19738844", "origin": "Indonesia", "lang": "id", "sub_label": "Pindang", "obj_label": "{'Ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q867426", "origin": "Indonesia", "lang": "id", "sub_label": "cendol", "obj_label": "{'gula merah', 'Sari kelapa', 'Kacang azuki'}"}
+{"url": "http://www.wikidata.org/entity/Q58090327", "origin": "Indonesia", "lang": "id", "sub_label": "Komoh", "obj_label": "{'babi'}"}
+{"url": "http://www.wikidata.org/entity/Q1056554", "origin": "Indonesia", "lang": "id", "sub_label": "sambal", "obj_label": "{'cabe merah'}"}
+{"url": "http://www.wikidata.org/entity/Q7310467", "origin": "Indonesia", "lang": "id", "sub_label": "Bolu", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q3269818", "origin": "Indonesia", "lang": "id", "sub_label": "nasi kuning", "obj_label": "{'Nasi', 'kunyit', 'Sari kelapa'}"}
+{"url": "http://www.wikidata.org/entity/Q5995345", "origin": "Indonesia", "lang": "id", "sub_label": "ikan bakar", "obj_label": "{'Ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q4197759", "origin": "Indonesia", "lang": "id", "sub_label": "botok", "obj_label": "{'Bothok Tawon', 'Bothok Simbukan'}"}
+{"url": "http://www.wikidata.org/entity/Q690292", "origin": "Indonesia", "lang": "id", "sub_label": "gorengan", "obj_label": "{'Adonan encer'}"}
+{"url": "http://www.wikidata.org/entity/Q5262436", "origin": "Indonesia", "lang": "id", "sub_label": "Klepon", "obj_label": "{'kue beras'}"}
+{"url": "http://www.wikidata.org/entity/Q4748563", "origin": "Indonesia", "lang": "id", "sub_label": "Tempoyak", "obj_label": "{'Durio'}"}
+{"url": "http://www.wikidata.org/entity/Q120096", "origin": "Indonesia", "lang": "id", "sub_label": "tempe", "obj_label": "{'Kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q720230", "origin": "Indonesia", "lang": "id", "sub_label": "rujak", "obj_label": "{'buah', 'garam dapur', 'Kulit sapi', 'Sayur', 'bumbu kacang'}"}
+{"url": "http://www.wikidata.org/entity/Q643225", "origin": "Indonesia", "lang": "id", "sub_label": "rempeyek", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q4854701", "origin": "Indonesia", "lang": "id", "sub_label": "Bandrek", "obj_label": "{'Jahe'}"}
+{"url": "http://www.wikidata.org/entity/Q7449844", "origin": "Indonesia", "lang": "id", "sub_label": "semur", "obj_label": "{'kecap asin', 'daging ayam', 'Jeroan', 'ikan', 'bahan penyedap'}"}
+{"url": "http://www.wikidata.org/entity/Q16765345", "origin": "Indonesia", "lang": "id", "sub_label": "Mi ayam", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q16836245", "origin": "Indonesia", "lang": "id", "sub_label": "Ayam goreng", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q17027492", "origin": "Indonesia", "lang": "id", "sub_label": "clorot", "obj_label": "{'tepung beras', 'Sari kelapa'}"}
+{"url": "http://www.wikidata.org/entity/Q19728050", "origin": "Indonesia", "lang": "id", "sub_label": "kue ape", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q12484053", "origin": "Indonesia", "lang": "id", "sub_label": "Getuk pero", "obj_label": "{'singkong'}"}
+{"url": "http://www.wikidata.org/entity/Q4203530", "origin": "Indonesia", "lang": "id", "sub_label": "karedok", "obj_label": "{'bumbu kacang'}"}
+{"url": "http://www.wikidata.org/entity/Q4703104", "origin": "Indonesia", "lang": "id", "sub_label": "Se'i", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q4208661", "origin": "Indonesia", "lang": "id", "sub_label": "mi celor", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q5256658", "origin": "Indonesia", "lang": "id", "sub_label": "Dendeng balado", "obj_label": "{'ketumbar', 'cabe merah', 'bawang putih'}"}
+{"url": "http://www.wikidata.org/entity/Q5018040", "origin": "Indonesia", "lang": "id", "sub_label": "Cakalang fufu", "obj_label": "{'Pengasapan'}"}
+{"url": "http://www.wikidata.org/entity/Q12490514", "origin": "Indonesia", "lang": "id", "sub_label": "Kelan antep", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q848957", "origin": "Indonesia", "lang": "id", "sub_label": "coto makassar", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q6674872", "origin": "Indonesia", "lang": "id", "sub_label": "Lontong Cap Go Meh", "obj_label": "{'ketumbar', 'lontong', 'bawang putih', 'Sari kelapa'}"}
+{"url": "http://www.wikidata.org/entity/Q12498031", "origin": "Indonesia", "lang": "id", "sub_label": "mendoan", "obj_label": "{'tempe'}"}
+{"url": "http://www.wikidata.org/entity/Q4997935", "origin": "Indonesia", "lang": "id", "sub_label": "Buntil", "obj_label": "{'Ikan kering', 'Talas', 'Engraulis', 'Sari kelapa', 'singkong', 'kelapa', 'pepaya'}"}
+{"url": "http://www.wikidata.org/entity/Q2354397", "origin": "Indonesia", "lang": "id", "sub_label": "kecap manis", "obj_label": "{'garam dapur', 'Kedelai', 'gula merah', 'Kecap'}"}
+{"url": "http://www.wikidata.org/entity/Q56411494", "origin": "Indonesia", "lang": "id", "sub_label": "sempol", "obj_label": "{'Tusuk sate'}"}
+{"url": "http://www.wikidata.org/entity/Q2457455", "origin": "Indonesia", "lang": "id", "sub_label": "sayur asem", "obj_label": "{'sayuran'}"}
+{"url": "http://www.wikidata.org/entity/Q12479375", "origin": "Indonesia", "lang": "id", "sub_label": "ciu", "obj_label": "{'Molase'}"}
+{"url": "http://www.wikidata.org/entity/Q120973181", "origin": "Indonesia", "lang": "id", "sub_label": "sayur mric", "obj_label": "{'sayuran'}"}
+{"url": "http://www.wikidata.org/entity/Q12515734", "origin": "Indonesia", "lang": "id", "sub_label": "Soda gembira", "obj_label": "{'air soda', 'susu kental manis'}"}
+{"url": "http://www.wikidata.org/entity/Q5257857", "origin": "Indonesia", "lang": "id", "sub_label": "kolak", "obj_label": "{'gula merah'}"}
+{"url": "http://www.wikidata.org/entity/Q4201778", "origin": "Indonesia", "lang": "id", "sub_label": "es campur", "obj_label": "{'salak', 'susu kental manis', 'gula', 'Cincau', 'Pohon Nangka', 'kolang-kaling', 'cendol', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q13405089", "origin": "Indonesia", "lang": "id", "sub_label": "lontong balap", "obj_label": "{'lontong', 'tahu goreng', 'lentho'}"}
+{"url": "http://www.wikidata.org/entity/Q16739299", "origin": "Indonesia", "lang": "id", "sub_label": "Wajik", "obj_label": "{'Beras ketan', 'Gula cokelat'}"}
+{"url": "http://www.wikidata.org/entity/Q65343519", "origin": "Indonesia", "lang": "id", "sub_label": "cangkaruk", "obj_label": "{'pisang', 'gula merah', 'Kelapa parut'}"}
+{"url": "http://www.wikidata.org/entity/Q5254542", "origin": "Indonesia", "lang": "id", "sub_label": "rengginang", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q1293258", "origin": "Indonesia", "lang": "id", "sub_label": "Bakmi", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q209253", "origin": "Indonesia", "lang": "id", "sub_label": "Sate", "obj_label": "{'makanan laut', 'daging', 'daging ayam', 'Jeroan', 'ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q2746599", "origin": "Indonesia", "lang": "id", "sub_label": "tumpeng", "obj_label": "{'Nasi'}"}
+{"url": "http://www.wikidata.org/entity/Q17049555", "origin": "Indonesia", "lang": "id", "sub_label": "Bubur ayam", "obj_label": "{'daging ayam', 'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q20165873", "origin": "Indonesia", "lang": "id", "sub_label": "kue mangkok", "obj_label": "{'tepung beras', 'tepung', 'Air kelapa', 'tepung terigu', 'tapai singkong', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q17999020", "origin": "Indonesia", "lang": "id", "sub_label": "Bassang", "obj_label": "{'jagung'}"}
+{"url": "http://www.wikidata.org/entity/Q1642148", "origin": "Indonesia", "lang": "id", "sub_label": "Thali", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q12478002", "origin": "Indonesia", "lang": "id", "sub_label": "burasa", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q113451751", "origin": "Indonesia", "lang": "id", "sub_label": "sate banjar", "obj_label": "{'daging ayam', 'Tusuk sate'}"}
+{"url": "http://www.wikidata.org/entity/Q12709581", "origin": "Indonesia", "lang": "id", "sub_label": "Soto Padang", "obj_label": "{'Perkedel'}"}
+{"url": "http://www.wikidata.org/entity/Q25052639", "origin": "Indonesia", "lang": "id", "sub_label": "Kue satu", "obj_label": "{'Kacang hijau'}"}
+{"url": "http://www.wikidata.org/entity/Q7695520", "origin": "Indonesia", "lang": "id", "sub_label": "tekwan", "obj_label": "{'Odeng'}"}
+{"url": "http://www.wikidata.org/entity/Q5287158", "origin": "Indonesia", "lang": "id", "sub_label": "Docang", "obj_label": "{'Kecambah', 'lontong', 'Oncom'}"}
+{"url": "http://www.wikidata.org/entity/Q2427282", "origin": "Indonesia", "lang": "id", "sub_label": "Spekkoek", "obj_label": "{'kuning telur'}"}
+{"url": "http://www.wikidata.org/entity/Q97373557", "origin": "Indonesia", "lang": "id", "sub_label": "kopi jos", "obj_label": "{'arang'}"}
+{"url": "http://www.wikidata.org/entity/Q2141042", "origin": "Indonesia", "lang": "id", "sub_label": "acar", "obj_label": "{'sayuran'}"}
+{"url": "http://www.wikidata.org/entity/Q17997299", "origin": "Indonesia", "lang": "id", "sub_label": "kue cucur", "obj_label": "{'tepung beras', 'gula merah'}"}
+{"url": "http://www.wikidata.org/entity/Q7370536", "origin": "Indonesia", "lang": "id", "sub_label": "Roti buaya", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q97374636", "origin": "Indonesia", "lang": "id", "sub_label": "Sagu bakar", "obj_label": "{'sagu'}"}
+{"url": "http://www.wikidata.org/entity/Q5162437", "origin": "Indonesia", "lang": "id", "sub_label": "Serabi", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q839492", "origin": "Indonesia", "lang": "id", "sub_label": "Tuak nira", "obj_label": "{'Getah'}"}
+{"url": "http://www.wikidata.org/entity/Q12492887", "origin": "Indonesia", "lang": "id", "sub_label": "Kuluban", "obj_label": "{'Ipomoea aquatica', 'kentang', 'udang', 'wortel'}"}
+{"url": "http://www.wikidata.org/entity/Q16836241", "origin": "Indonesia", "lang": "id", "sub_label": "ayam bakar", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q4272221", "origin": "Indonesia", "lang": "id", "sub_label": "Papeda", "obj_label": "{'sagu'}"}
+{"url": "http://www.wikidata.org/entity/Q2023763", "origin": "Indonesia", "lang": "id", "sub_label": "Onde-onde", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q19573003", "origin": "Indonesia", "lang": "id", "sub_label": "Mi kangkung", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q1684997", "origin": "Indonesia", "lang": "id", "sub_label": "lemang", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q4197962", "origin": "Indonesia", "lang": "id", "sub_label": "Bubur kacang hijau", "obj_label": "{'gula merah', 'kulit kayu manis', 'Sari kelapa', 'Kacang hijau', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q14595838", "origin": "Indonesia", "lang": "id", "sub_label": "amplang", "obj_label": "{'Tenggiri laki'}"}
+{"url": "http://www.wikidata.org/entity/Q5228042", "origin": "Indonesia", "lang": "id", "sub_label": "Daun ubi tumbuk", "obj_label": "{'singkong'}"}
+{"url": "http://www.wikidata.org/entity/Q14594791", "origin": "Indonesia", "lang": "id", "sub_label": "Pinjaram", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q510666", "origin": "Indonesia", "lang": "id", "sub_label": "nasi goreng", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q6967056", "origin": "Indonesia", "lang": "id", "sub_label": "nasi tim", "obj_label": "{'daging ayam', 'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q924689", "origin": "Indonesia", "lang": "id", "sub_label": "soto ayam", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q4208154", "origin": "Indonesia", "lang": "id", "sub_label": "Mie Aceh", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q55593280", "origin": "Indonesia", "lang": "id", "sub_label": "Nasi minyak", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q6395436", "origin": "Indonesia", "lang": "id", "sub_label": "Ketoprak", "obj_label": "{'tahu'}"}
+{"url": "http://www.wikidata.org/entity/Q5617222", "origin": "Indonesia", "lang": "id", "sub_label": "gulai ayam", "obj_label": "{'Gulai'}"}
+{"url": "http://www.wikidata.org/entity/Q1683716", "origin": "Indonesia", "lang": "id", "sub_label": "lontong", "obj_label": "{'kue beras'}"}
+{"url": "http://www.wikidata.org/entity/Q12477251", "origin": "Indonesia", "lang": "id", "sub_label": "Brenebon", "obj_label": "{'Kacang merah besar'}"}
+{"url": "http://www.wikidata.org/entity/Q4924455", "origin": "Indonesia", "lang": "id", "sub_label": "Dodol", "obj_label": "{'Sari kelapa'}"}
+{"url": "http://www.wikidata.org/entity/Q12491347", "origin": "Indonesia", "lang": "id", "sub_label": "kerupuk kulit", "obj_label": "{'kulit'}"}
+{"url": "http://www.wikidata.org/entity/Q4200773", "origin": "Indonesia", "lang": "id", "sub_label": "jamu", "obj_label": "{'rempah-rempah'}"}
+{"url": "http://www.wikidata.org/entity/Q6441843", "origin": "Indonesia", "lang": "id", "sub_label": "kue cubit", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q7425996", "origin": "Indonesia", "lang": "id", "sub_label": "sate padang", "obj_label": "{'tepung beras', 'bawang', 'ketumbar', 'garam dapur', 'gula', 'jahe', 'Kacang tanah'}"}
+{"url": "http://www.wikidata.org/entity/Q97230633", "origin": "Indonesia", "lang": "id", "sub_label": "Gohu ikan", "obj_label": "{'Kemangi', 'cabe merah', 'garam dapur', 'Cakalang', 'Tuna'}"}
+{"url": "http://www.wikidata.org/entity/Q4103061", "origin": "Indonesia", "lang": "id", "sub_label": "lumpia Semarang", "obj_label": "{'Crêpe'}"}
+{"url": "http://www.wikidata.org/entity/Q4742021", "origin": "Indonesia", "lang": "id", "sub_label": "ambuyat", "obj_label": "{'sagu'}"}
+{"url": "http://www.wikidata.org/entity/Q4201329", "origin": "Indonesia", "lang": "id", "sub_label": "sega lengko", "obj_label": "{'Bawang goreng', 'tahu goreng', 'Nasi', 'tempe goreng', 'toge', 'mentimun', 'bumbu kacang'}"}
+{"url": "http://www.wikidata.org/entity/Q13096852", "origin": "Indonesia", "lang": "id", "sub_label": "Nasi Kapau", "obj_label": "{'beras', 'Lauk'}"}
+{"url": "http://www.wikidata.org/entity/Q6393299", "origin": "Indonesia", "lang": "id", "sub_label": "kerak telor", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q7808550", "origin": "Indonesia", "lang": "id", "sub_label": "Tinutuan", "obj_label": "{'Ubi jalar', 'tapioka', 'Cucurbita', 'Oryza'}"}
+{"url": "http://www.wikidata.org/entity/Q2456855", "origin": "Indonesia", "lang": "id", "sub_label": "Putu mayang", "obj_label": "{'padi', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q1520778", "origin": "Indonesia", "lang": "id", "sub_label": "Ketupat", "obj_label": "{'Oryza'}"}
+{"url": "http://www.wikidata.org/entity/Q715542", "origin": "Indonesia", "lang": "id", "sub_label": "kerupuk", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q12494547", "origin": "Indonesia", "lang": "id", "sub_label": "Lepet", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q20085174", "origin": "Indonesia", "lang": "id", "sub_label": "Kue Putu", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q4208242", "origin": "Indonesia", "lang": "id", "sub_label": "Sayur lodeh", "obj_label": "{'Sari kelapa'}"}
+{"url": "http://www.wikidata.org/entity/Q4189322", "origin": "Indonesia", "lang": "id", "sub_label": "Gulai", "obj_label": "{'Ikan', 'daging', 'burung', 'Jeroan', 'Sari kelapa', 'bahan penyedap'}"}
+{"url": "http://www.wikidata.org/entity/Q7641870", "origin": "Indonesia", "lang": "id", "sub_label": "sup kambing", "obj_label": "{'Daging domba'}"}
+{"url": "http://www.wikidata.org/entity/Q4205452", "origin": "Indonesia", "lang": "id", "sub_label": "Nasi kebuli", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q17050490", "origin": "Indonesia", "lang": "id", "sub_label": "gepuk", "obj_label": "{'Sari kelapa', 'bahan penyedap', 'daging sapi', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q12500155", "origin": "Indonesia", "lang": "id", "sub_label": "nasi tempong", "obj_label": "{'Kemangi', 'Bakwan', 'ikan goreng', 'Kenikir', 'tahu goreng', 'Nasi', 'tempe goreng', 'Bayam', 'bumbu kacang'}"}
+{"url": "http://www.wikidata.org/entity/Q2414031", "origin": "Indonesia", "lang": "id", "sub_label": "lemper", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q5257848", "origin": "Indonesia", "lang": "id", "sub_label": "mi rebus", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q12511758", "origin": "Indonesia", "lang": "id", "sub_label": "Sambal goreng", "obj_label": "{'sambal'}"}
+{"url": "http://www.wikidata.org/entity/Q713879", "origin": "Indonesia", "lang": "id", "sub_label": "cahkwe", "obj_label": "{'Adonan'}"}
+{"url": "http://www.wikidata.org/entity/Q4903057", "origin": "Indonesia", "lang": "id", "sub_label": "Bibingka", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q12473632", "origin": "Indonesia", "lang": "id", "sub_label": "Bakso ikan ekor kuning", "obj_label": "{'garam dapur', 'tapioka', 'bawang putih', 'bihun', 'Mi', 'sayuran', 'bawang merah', 'Ikan ekor kuning'}"}
+{"url": "http://www.wikidata.org/entity/Q93189", "origin": "Indonesia", "lang": "id", "sub_label": "telur", "obj_label": "{'putih telur', 'kuning telur'}"}
+{"url": "http://www.wikidata.org/entity/Q7476075", "origin": "Indonesia", "lang": "id", "sub_label": "tahu Sumedang", "obj_label": "{'Kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q12688577", "origin": "Indonesia", "lang": "id", "sub_label": "Kue cincin", "obj_label": "{'Palem merah'}"}
+{"url": "http://www.wikidata.org/entity/Q8025241", "origin": "Indonesia", "lang": "id", "sub_label": "Wingko", "obj_label": "{'kelapa'}"}
+{"url": "http://www.wikidata.org/entity/Q17998502", "origin": "Indonesia", "lang": "id", "sub_label": "ayam goreng Kalasan", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q1520293", "origin": "Indonesia", "lang": "id", "sub_label": "Rendang", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q7098418", "origin": "Indonesia", "lang": "id", "sub_label": "opor ayam", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q4202016", "origin": "Indonesia", "lang": "id", "sub_label": "lupis", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q20427541", "origin": "Indonesia", "lang": "id", "sub_label": "Sop saudara", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q48512589", "origin": "Indonesia", "lang": "id", "sub_label": "Kue jojorong", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q17277332", "origin": "Indonesia", "lang": "id", "sub_label": "kepiting saus Padang", "obj_label": "{'kepiting'}"}
+{"url": "http://www.wikidata.org/entity/Q6387099", "origin": "Indonesia", "lang": "id", "sub_label": "Kemplang", "obj_label": "{'Tenggiri laki'}"}
+{"url": "http://www.wikidata.org/entity/Q7447857", "origin": "Indonesia", "lang": "id", "sub_label": "Teh Talua", "obj_label": "{'teh', 'kuning telur', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q12512536", "origin": "Indonesia", "lang": "id", "sub_label": "kepayang", "obj_label": "{'Hidrogen sianida'}"}
+{"url": "http://www.wikidata.org/entity/Q4264051", "origin": "Indonesia", "lang": "id", "sub_label": "geplak", "obj_label": "{'kelapa'}"}
+{"url": "http://www.wikidata.org/entity/Q669569", "origin": "Indonesia", "lang": "id", "sub_label": "bubur sumsum", "obj_label": "{'serealia'}"}
+{"url": "http://www.wikidata.org/entity/Q17044867", "origin": "Indonesia", "lang": "id", "sub_label": "Lamban", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q14917459", "origin": "Indonesia", "lang": "id", "sub_label": "nasi becek", "obj_label": "{'Nasi', 'sate kambing'}"}
+{"url": "http://www.wikidata.org/entity/Q6442243", "origin": "Indonesia", "lang": "id", "sub_label": "Kue koci", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q1061187", "origin": "Indonesia", "lang": "id", "sub_label": "Wedang jahe", "obj_label": "{'Jahe'}"}
+{"url": "http://www.wikidata.org/entity/Q7307455", "origin": "Indonesia", "lang": "id", "sub_label": "semprong", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q16912123", "origin": "Indonesia", "lang": "id", "sub_label": "ikan goreng", "obj_label": "{'Ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q25052547", "origin": "Indonesia", "lang": "id", "sub_label": "Kue bugis", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q16913644", "origin": "Indonesia", "lang": "id", "sub_label": "mi kocok", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q9061039", "origin": "Indonesia", "lang": "id", "sub_label": "plecing kangkung", "obj_label": "{'Kangkung'}"}
+{"url": "http://www.wikidata.org/entity/Q17053738", "origin": "Indonesia", "lang": "id", "sub_label": "Mi koclok", "obj_label": "{'toge'}"}
+{"url": "http://www.wikidata.org/entity/Q4201867", "origin": "Indonesia", "lang": "id", "sub_label": "Bajigur", "obj_label": "{'Sari kelapa'}"}
+{"url": "http://www.wikidata.org/entity/Q876624", "origin": "Italy", "lang": "id", "sub_label": "Carbonara", "obj_label": "{'garam dapur', 'spageti', 'telur', 'Pecorino'}"}
+{"url": "http://www.wikidata.org/entity/Q1366456", "origin": "Italy", "lang": "id", "sub_label": "Panini", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q131582", "origin": "Italy", "lang": "id", "sub_label": "Tiramisu", "obj_label": "{'telur ayam', 'Mascarpone', 'Kakao padat', 'kopi'}"}
+{"url": "http://www.wikidata.org/entity/Q188655", "origin": "Italy", "lang": "id", "sub_label": "Salami", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q836151", "origin": "Italy", "lang": "id", "sub_label": "Cannoli", "obj_label": "{'Ricotta', 'Adonan'}"}
+{"url": "http://www.wikidata.org/entity/Q997633", "origin": "Italy", "lang": "id", "sub_label": "Saus amatriciana", "obj_label": "{'saus tomat', 'cabe merah', 'garam dapur', 'spageti', 'minyak', 'Pecorino', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q1419233", "origin": "Italy", "lang": "id", "sub_label": "Spaghetti aglio e olio", "obj_label": "{'spageti', 'bawang putih', 'Minyak zaitun'}"}
+{"url": "http://www.wikidata.org/entity/Q500445", "origin": "Italy", "lang": "id", "sub_label": "Piza napoletana", "obj_label": "{'Mozarela', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q208105", "origin": "Italy", "lang": "id", "sub_label": "Risotto", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q1815560", "origin": "Italy", "lang": "id", "sub_label": "Calzone", "obj_label": "{'Ricotta'}"}
+{"url": "http://www.wikidata.org/entity/Q614448", "origin": "Italy", "lang": "id", "sub_label": "Bruschetta", "obj_label": "{'bahan penyedap', 'Ciabatta', 'bawang putih', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q106252", "origin": "Italy", "lang": "id", "sub_label": "marzipan", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q1051155", "origin": "Italy", "lang": "id", "sub_label": "Frittata", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q177", "origin": "Italy", "lang": "id", "sub_label": "piza", "obj_label": "{'saus tomat', 'Mozarela', 'tepung', 'garam dapur', 'minyak'}"}
+{"url": "http://www.wikidata.org/entity/Q20032", "origin": "Italy", "lang": "id", "sub_label": "Fetucini", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q2915859", "origin": "Italy", "lang": "id", "sub_label": "Fettuccine Alfredo", "obj_label": "{'Fetucini'}"}
+{"url": "http://www.wikidata.org/entity/Q3596097", "origin": "Italy", "lang": "id", "sub_label": "saus tomat", "obj_label": "{'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q504941", "origin": "Italy", "lang": "id", "sub_label": "Panna cotta", "obj_label": "{'Krim', 'Gelatin', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q1760470", "origin": "Italy", "lang": "id", "sub_label": "Tramezzino", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q208729", "origin": "Italy", "lang": "id", "sub_label": "Nougat", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q1162965", "origin": "Italy", "lang": "id", "sub_label": "Saus Bolognese", "obj_label": "{'anggur', 'bawang', 'wortel', 'susu', 'Seledri', 'daging cincang', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q1066260", "origin": "Italy", "lang": "id", "sub_label": "Sup tomat", "obj_label": "{'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q1522820", "origin": "Italy", "lang": "id", "sub_label": "Gibanica", "obj_label": "{'telur', 'Phyllo'}"}
+{"url": "http://www.wikidata.org/entity/Q12971248", "origin": "Italy", "lang": "id", "sub_label": "Sup makaroni", "obj_label": "{'Makaroni'}"}
+{"url": "http://www.wikidata.org/entity/Q250966", "origin": "Italy", "lang": "id", "sub_label": "Supplì", "obj_label": "{'Mozarela'}"}
+{"url": "http://www.wikidata.org/entity/Q926532", "origin": "Italy", "lang": "id", "sub_label": "Piadina", "obj_label": "{'tepung', 'Minyak zaitun', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q17006640", "origin": "Italy", "lang": "id", "sub_label": "Saus Genovese", "obj_label": "{'bawang'}"}
+{"url": "http://www.wikidata.org/entity/Q1891043", "origin": "Italy", "lang": "id", "sub_label": "Saus arrabbiata", "obj_label": "{'cabe merah', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q3897491", "origin": "Italy", "lang": "id", "sub_label": "pasta isi", "obj_label": "{'Isian'}"}
+{"url": "http://www.wikidata.org/entity/Q15629893", "origin": "Italy", "lang": "id", "sub_label": "Cornetto", "obj_label": "{'telur', 'khamir'}"}
+{"url": "http://www.wikidata.org/entity/Q581462", "origin": "Italy", "lang": "id", "sub_label": "Minestrone", "obj_label": "{'sayuran'}"}
+{"url": "http://www.wikidata.org/entity/Q1152551", "origin": "Italy", "lang": "id", "sub_label": "Caffè Americano", "obj_label": "{'air minum', 'espresso'}"}
+{"url": "http://www.wikidata.org/entity/Q769635", "origin": "Italy", "lang": "id", "sub_label": "Cantuccio", "obj_label": "{'telur', 'tepung', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q2415718", "origin": "Italy", "lang": "id", "sub_label": "Panzanella", "obj_label": "{'roti', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q609505", "origin": "Italy", "lang": "id", "sub_label": "Bigoli", "obj_label": "{'Tepung gandum utuh'}"}
+{"url": "http://www.wikidata.org/entity/Q268857", "origin": "Italy", "lang": "id", "sub_label": "Arancini", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q1827035", "origin": "Italy", "lang": "id", "sub_label": "Sup lentil", "obj_label": "{'rempah-rempah', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q1156634", "origin": "Italy", "lang": "id", "sub_label": "Kerucut es krim", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q854342", "origin": "Italy", "lang": "id", "sub_label": "Panettone", "obj_label": "{'manisan buah', 'Kismis', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q1048282", "origin": "Italy", "lang": "id", "sub_label": "Cassata", "obj_label": "{'kue sponge'}"}
+{"url": "http://www.wikidata.org/entity/Q815080", "origin": "Italy", "lang": "id", "sub_label": "Bel Paese", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q1057256", "origin": "Italy", "lang": "id", "sub_label": "Ossobuco", "obj_label": "{'daging sapi muda'}"}
+{"url": "http://www.wikidata.org/entity/Q19969", "origin": "Italy", "lang": "id", "sub_label": "Orecchiette", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q20019", "origin": "Italy", "lang": "id", "sub_label": "Makaroni", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q209889", "origin": "Italy", "lang": "id", "sub_label": "Mascarpone", "obj_label": "{'Krim'}"}
+{"url": "http://www.wikidata.org/entity/Q1359006", "origin": "Italy", "lang": "id", "sub_label": "Roti garlic", "obj_label": "{'bawang putih', 'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q1761000", "origin": "Italy", "lang": "id", "sub_label": "Pasta con le sarde", "obj_label": "{'pasta'}"}
+{"url": "http://www.wikidata.org/entity/Q1863568", "origin": "Italy", "lang": "id", "sub_label": "Avgolemono", "obj_label": "{'telur', 'kaldu', 'jus lemon'}"}
+{"url": "http://www.wikidata.org/entity/Q246703", "origin": "Italy", "lang": "id", "sub_label": "Ciabatta", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q20057", "origin": "Italy", "lang": "id", "sub_label": "Tortellini", "obj_label": "{'telur', 'Pala', 'Has pendek', 'gandum', 'Parmigiano-Reggiano'}"}
+{"url": "http://www.wikidata.org/entity/Q731543", "origin": "Italy", "lang": "id", "sub_label": "Caffè macchiato", "obj_label": "{'susu', 'espresso'}"}
+{"url": "http://www.wikidata.org/entity/Q20044", "origin": "Italy", "lang": "id", "sub_label": "Tagliatelle", "obj_label": "{'telur', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q9896", "origin": "Italy", "lang": "id", "sub_label": "pesto", "obj_label": "{'Minyak zaitun', 'bawang putih', 'Kacang pinus', 'Parmigiano-Reggiano'}"}
+{"url": "http://www.wikidata.org/entity/Q1362405", "origin": "Italy", "lang": "id", "sub_label": "gelato", "obj_label": "{'Krim', 'susu', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q8075336", "origin": "Italy", "lang": "id", "sub_label": "Zuppa alla modenese", "obj_label": "{'mentega', 'garam dapur', 'telur', 'Pala', 'Kuah kaldu', 'Parmigiano-Reggiano'}"}
+{"url": "http://www.wikidata.org/entity/Q20034", "origin": "Italy", "lang": "id", "sub_label": "lasagna", "obj_label": "{'Saus Béchamel', 'Parmigiano-Reggiano'}"}
+{"url": "http://www.wikidata.org/entity/Q841774", "origin": "Italy", "lang": "id", "sub_label": "Latte", "obj_label": "{'susu', 'espresso'}"}
+{"url": "http://www.wikidata.org/entity/Q564622", "origin": "Poland", "lang": "id", "sub_label": "Sup kubis", "obj_label": "{'Brassica oleracea', 'Kubis', 'Kuah kaldu'}"}
+{"url": "http://www.wikidata.org/entity/Q4551", "origin": "Poland", "lang": "id", "sub_label": "borsch", "obj_label": "{'Bit gula', 'bawang', 'bawang bombai', 'wortel', 'kentang', 'Kubis'}"}
+{"url": "http://www.wikidata.org/entity/Q147372", "origin": "Poland", "lang": "id", "sub_label": "zapiekanka", "obj_label": "{'keju', 'Baguette', 'Jamur kancing'}"}
+{"url": "http://www.wikidata.org/entity/Q272502", "origin": "Poland", "lang": "id", "sub_label": "Bagel", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q899976", "origin": "Poland", "lang": "id", "sub_label": "Czernina", "obj_label": "{'Bebek', 'Darah sebagai makanan'}"}
+{"url": "http://www.wikidata.org/entity/Q598222", "origin": "Poland", "lang": "id", "sub_label": "Bigos", "obj_label": "{'bawang bombai', 'Sosis', 'Jamur pangan', 'Sauerkraut', 'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q173773", "origin": "Poland", "lang": "id", "sub_label": "Kvass", "obj_label": "{'roti hitam', 'Malt', 'buah', 'Kismis', 'air', 'madu', 'herbal', 'khamir'}"}
+{"url": "http://www.wikidata.org/entity/Q152981", "origin": "Poland", "lang": "id", "sub_label": "Panekuk kentang", "obj_label": "{'bawang', 'tepung', 'garam dapur', 'telur', 'minyak nabati'}"}
+{"url": "http://www.wikidata.org/entity/Q281278", "origin": "Poland", "lang": "id", "sub_label": "Salad olivier", "obj_label": "{'wortel', 'Sosis', 'daging', 'Mayones', 'Apium', 'Daucus'}"}
+{"url": "http://www.wikidata.org/entity/Q698632", "origin": "Poland", "lang": "id", "sub_label": "Bryndza", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q1726195", "origin": "Lithuania", "lang": "id", "sub_label": "Syrniki", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q431570", "origin": "Lithuania", "lang": "id", "sub_label": "Cepelinai", "obj_label": "{'daging cincang'}"}
+{"url": "http://www.wikidata.org/entity/Q485796", "origin": "Turkey", "lang": "id", "sub_label": "Plov", "obj_label": "{'beras', 'bawang bombai', 'wortel', 'daging', 'minyak nabati'}"}
+{"url": "http://www.wikidata.org/entity/Q1644022", "origin": "Turkey", "lang": "id", "sub_label": "Kibbeh", "obj_label": "{'Bulgur', 'daging', 'bawang'}"}
+{"url": "http://www.wikidata.org/entity/Q339193", "origin": "Turkey", "lang": "id", "sub_label": "Dolma", "obj_label": "{'Ardei umpluţi'}"}
+{"url": "http://www.wikidata.org/entity/Q141293", "origin": "Turkey", "lang": "id", "sub_label": "Dondurma", "obj_label": "{'Salep', 'susu', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q6935968", "origin": "Turkey", "lang": "id", "sub_label": "Derf", "obj_label": "{'daging kambing'}"}
+{"url": "http://www.wikidata.org/entity/Q208021", "origin": "Turkey", "lang": "id", "sub_label": "kacang kenari", "obj_label": "{'biji'}"}
+{"url": "http://www.wikidata.org/entity/Q909438", "origin": "Turkey", "lang": "id", "sub_label": "lavash", "obj_label": "{'Adonan'}"}
+{"url": "http://www.wikidata.org/entity/Q206918", "origin": "Turkey", "lang": "id", "sub_label": "Moussaka", "obj_label": "{'bawang bombai', 'Terung', 'terung', 'Saus Béchamel', 'daging cincang', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q12012266", "origin": "Turkey", "lang": "id", "sub_label": "tursu", "obj_label": "{'sayuran', 'vinegar', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q7198960", "origin": "Turkey", "lang": "id", "sub_label": "Piti (makanan)", "obj_label": "{'Daging domba'}"}
+{"url": "http://www.wikidata.org/entity/Q457255", "origin": "Turkey", "lang": "id", "sub_label": "Frankfurter Kranz", "obj_label": "{'kue sponge'}"}
+{"url": "http://www.wikidata.org/entity/Q1920415", "origin": "Turkey", "lang": "id", "sub_label": "menemen", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q383389", "origin": "Turkey", "lang": "id", "sub_label": "Tahini", "obj_label": "{'garam dapur', 'minyak nabati', 'wijen'}"}
+{"url": "http://www.wikidata.org/entity/Q2963355", "origin": "Turkey", "lang": "id", "sub_label": "Shish taouk", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q136922", "origin": "Turkey", "lang": "id", "sub_label": "Asyura (makanan)", "obj_label": "{'kacang pohon', 'bahan penyedap', 'biji padi-padian', 'Kacang-kacangan', 'Buah kering', 'Poaceae'}"}
+{"url": "http://www.wikidata.org/entity/Q192892", "origin": "Turkey", "lang": "id", "sub_label": "ayran", "obj_label": "{'garam dapur', 'Yoghurt', 'air minum'}"}
+{"url": "http://www.wikidata.org/entity/Q478654", "origin": "Turkey", "lang": "id", "sub_label": "Kaymak", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q20734", "origin": "Turkey", "lang": "id", "sub_label": "Döner kebab", "obj_label": "{'sayuran', 'daging', 'Roti datar'}"}
+{"url": "http://www.wikidata.org/entity/Q4873584", "origin": "Turkey", "lang": "id", "sub_label": "Boortsog", "obj_label": "{'Adonan', 'telur', 'mentega', 'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q933433", "origin": "Turkey", "lang": "id", "sub_label": "Kokoretsi", "obj_label": "{'Jeroan'}"}
+{"url": "http://www.wikidata.org/entity/Q6427832", "origin": "Turkey", "lang": "id", "sub_label": "Kolot (makanan)", "obj_label": "{'tepung', 'minyak goreng', 'Natrium klorida'}"}
+{"url": "http://www.wikidata.org/entity/Q8196212", "origin": "Turkey", "lang": "id", "sub_label": "Börek", "obj_label": "{'Phyllo'}"}
+{"url": "http://www.wikidata.org/entity/Q187495", "origin": "Turkey", "lang": "id", "sub_label": "Baklava", "obj_label": "{'kulit kayu manis', 'gula', 'Phyllo', 'sirup', 'kacang kenari'}"}
+{"url": "http://www.wikidata.org/entity/Q19029", "origin": "Turkey", "lang": "id", "sub_label": "puding nasi", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q13317", "origin": "Turkey", "lang": "id", "sub_label": "Yoghurt", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q747457", "origin": "Peru", "lang": "id", "sub_label": "Empanada", "obj_label": "{'Pastri'}"}
+{"url": "http://www.wikidata.org/entity/Q1868851", "origin": "Peru", "lang": "id", "sub_label": "Lomo saltado", "obj_label": "{'daging', 'vinegar', 'kecap asin'}"}
+{"url": "http://www.wikidata.org/entity/Q1057953", "origin": "Peru", "lang": "id", "sub_label": "Ceviche", "obj_label": "{'Ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q7435296", "origin": "Peru", "lang": "id", "sub_label": "Kerak nasi", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q982758", "origin": "Peru", "lang": "id", "sub_label": "Marraqueta", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q983160", "origin": "People's Republic of China", "lang": "id", "sub_label": "Bakkut Teh", "obj_label": "{'Iga babi'}"}
+{"url": "http://www.wikidata.org/entity/Q17049518", "origin": "People's Republic of China", "lang": "id", "sub_label": "Kepiting saus tiram", "obj_label": "{'kepiting'}"}
+{"url": "http://www.wikidata.org/entity/Q3773300", "origin": "People's Republic of China", "lang": "id", "sub_label": "Bakso kukus", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q702662", "origin": "People's Republic of China", "lang": "id", "sub_label": "Xiaolongbao", "obj_label": "{'Shiitake', 'sawi putih', 'Adonan', 'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q2901547", "origin": "People's Republic of China", "lang": "id", "sub_label": "Siomai", "obj_label": "{'daging cincang'}"}
+{"url": "http://www.wikidata.org/entity/Q1207732", "origin": "People's Republic of China", "lang": "id", "sub_label": "Ca sau pau", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q864174", "origin": "People's Republic of China", "lang": "id", "sub_label": "Semut memanjat pohon", "obj_label": "{'sohun', 'daging cincang'}"}
+{"url": "http://www.wikidata.org/entity/Q5643900", "origin": "People's Republic of China", "lang": "id", "sub_label": "Roti ham dan telur", "obj_label": "{'telur', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q1322949", "origin": "People's Republic of China", "lang": "id", "sub_label": "Mi beras", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q713892", "origin": "People's Republic of China", "lang": "id", "sub_label": "Yong tau fu", "obj_label": "{'tahu'}"}
+{"url": "http://www.wikidata.org/entity/Q5690018", "origin": "People's Republic of China", "lang": "id", "sub_label": "Roujiamo", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q690048", "origin": "People's Republic of China", "lang": "id", "sub_label": "Sup penyu", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q36415", "origin": "People's Republic of China", "lang": "id", "sub_label": "Angsa panggang", "obj_label": "{'Angsa berleher pendek'}"}
+{"url": "http://www.wikidata.org/entity/Q2505233", "origin": "People's Republic of China", "lang": "id", "sub_label": "Fu yong hai", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q11076619", "origin": "People's Republic of China", "lang": "id", "sub_label": "Sup patriotik", "obj_label": "{'Sayuran daun', 'Jamur pangan'}"}
+{"url": "http://www.wikidata.org/entity/Q4879755", "origin": "People's Republic of China", "lang": "id", "sub_label": "Roti daging sapi", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q1137679", "origin": "People's Republic of China", "lang": "id", "sub_label": "Bakpao", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q404973", "origin": "People's Republic of China", "lang": "id", "sub_label": "Bebek Peking", "obj_label": "{'Bawang daun', 'Bebek', 'mentimun'}"}
+{"url": "http://www.wikidata.org/entity/Q7232800", "origin": "People's Republic of China", "lang": "id", "sub_label": "Saus portugis", "obj_label": "{'bubuk kari'}"}
+{"url": "http://www.wikidata.org/entity/Q15673751", "origin": "People's Republic of China", "lang": "id", "sub_label": "Roti tuna", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q29017361", "origin": "People's Republic of China", "lang": "id", "sub_label": "Nasi goreng tionghoa", "obj_label": "{'Nasi'}"}
+{"url": "http://www.wikidata.org/entity/Q964107", "origin": "People's Republic of China", "lang": "id", "sub_label": "Chow mein", "obj_label": "{'bawang', 'daging ayam', 'Mi', 'seledri'}"}
+{"url": "http://www.wikidata.org/entity/Q1204605", "origin": "People's Republic of China", "lang": "id", "sub_label": "Babi panggang merah", "obj_label": "{'arak beras', 'Bubuk lima rempah', 'Saus hoisin', 'madu', 'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q715546", "origin": "People's Republic of China", "lang": "id", "sub_label": "Tauhue", "obj_label": "{'tahu'}"}
+{"url": "http://www.wikidata.org/entity/Q1127705", "origin": "People's Republic of China", "lang": "id", "sub_label": "Terasi", "obj_label": "{'Udang'}"}
+{"url": "http://www.wikidata.org/entity/Q7022462", "origin": "People's Republic of China", "lang": "id", "sub_label": "Ngo hiang", "obj_label": "{'Bubuk lima rempah', 'kembang tahu'}"}
+{"url": "http://www.wikidata.org/entity/Q1308323", "origin": "People's Republic of China", "lang": "id", "sub_label": "Sup telur", "obj_label": "{'telur', 'kaldu'}"}
+{"url": "http://www.wikidata.org/entity/Q709812", "origin": "People's Republic of China", "lang": "id", "sub_label": "Cifantuan", "obj_label": "{'cahkwe'}"}
+{"url": "http://www.wikidata.org/entity/Q7081432", "origin": "People's Republic of China", "lang": "id", "sub_label": "Mi minyak", "obj_label": "{'Mi', 'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q7688659", "origin": "People's Republic of China", "lang": "id", "sub_label": "Tauco", "obj_label": "{'Kacang-kacangan'}"}
+{"url": "http://www.wikidata.org/entity/Q178", "origin": "People's Republic of China", "lang": "id", "sub_label": "pasta", "obj_label": "{'Durum', 'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q2476688", "origin": "People's Republic of China", "lang": "id", "sub_label": "Tanghulu", "obj_label": "{'buah'}"}
+{"url": "http://www.wikidata.org/entity/Q701628", "origin": "People's Republic of China", "lang": "id", "sub_label": "Tahu busuk", "obj_label": "{'tahu'}"}
+{"url": "http://www.wikidata.org/entity/Q713869", "origin": "People's Republic of China", "lang": "id", "sub_label": "Cincau", "obj_label": "{'Cincau hitam'}"}
+{"url": "http://www.wikidata.org/entity/Q3269362", "origin": "People's Republic of China", "lang": "id", "sub_label": "Laziji", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q15181", "origin": "People's Republic of China", "lang": "id", "sub_label": "Shashlik", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q1298577", "origin": "People's Republic of China", "lang": "id", "sub_label": "Mapo tahu", "obj_label": "{'Doubanjiang', 'tahu', 'Tauco'}"}
+{"url": "http://www.wikidata.org/entity/Q855130", "origin": "People's Republic of China", "lang": "id", "sub_label": "Kompia", "obj_label": "{'Lemak babi'}"}
+{"url": "http://www.wikidata.org/entity/Q5033997", "origin": "People's Republic of China", "lang": "id", "sub_label": "Sup masakan laut Kanton", "obj_label": "{'makanan laut'}"}
+{"url": "http://www.wikidata.org/entity/Q8961585", "origin": "People's Republic of China", "lang": "id", "sub_label": "Mi roe udang", "obj_label": "{'Udang'}"}
+{"url": "http://www.wikidata.org/entity/Q3239751", "origin": "People's Republic of China", "lang": "id", "sub_label": "Nasi ayam Hainan", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q5488067", "origin": "People's Republic of China", "lang": "id", "sub_label": "Chiyouji", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q5296220", "origin": "People's Republic of China", "lang": "id", "sub_label": "Burger Keledai", "obj_label": "{'daging keledai'}"}
+{"url": "http://www.wikidata.org/entity/Q842376", "origin": "People's Republic of China", "lang": "id", "sub_label": "Hakau", "obj_label": "{'Udang', 'Rebung'}"}
+{"url": "http://www.wikidata.org/entity/Q553905", "origin": "People's Republic of China", "lang": "id", "sub_label": "Pangsit", "obj_label": "{'Adonan'}"}
+{"url": "http://www.wikidata.org/entity/Q640769", "origin": "People's Republic of China", "lang": "id", "sub_label": "Jiaozi", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q715858", "origin": "People's Republic of China", "lang": "id", "sub_label": "Teh susu mutiara", "obj_label": "{'tapioka'}"}
+{"url": "http://www.wikidata.org/entity/Q856899", "origin": "People's Republic of China", "lang": "id", "sub_label": "Deuk Deuk Tong", "obj_label": "{'maltosa'}"}
+{"url": "http://www.wikidata.org/entity/Q689950", "origin": "People's Republic of China", "lang": "id", "sub_label": "Naan", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q838462", "origin": "People's Republic of China", "lang": "id", "sub_label": "Roti daging babi cincang", "obj_label": "{'Marraqueta'}"}
+{"url": "http://www.wikidata.org/entity/Q4939235", "origin": "People's Republic of China", "lang": "id", "sub_label": "jenis mi dengan kuah", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q549713", "origin": "People's Republic of China", "lang": "id", "sub_label": "ayam Kung Pao", "obj_label": "{'Arak Shaoxing', 'daging ayam', 'Kacang tanah'}"}
+{"url": "http://www.wikidata.org/entity/Q1144889", "origin": "People's Republic of China", "lang": "id", "sub_label": "Tsampa", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q1073041", "origin": "People's Republic of China", "lang": "id", "sub_label": "Puding kelapa", "obj_label": "{'kelapa'}"}
+{"url": "http://www.wikidata.org/entity/Q3365433", "origin": "People's Republic of China", "lang": "id", "sub_label": "Bakkwa", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q5427546", "origin": "People's Republic of China", "lang": "id", "sub_label": "Fa gao", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q7818554", "origin": "People's Republic of China", "lang": "id", "sub_label": "Sup tomat dan telur", "obj_label": "{'telur', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q718680", "origin": "People's Republic of China", "lang": "id", "sub_label": "Air Tebu", "obj_label": "{'tebu'}"}
+{"url": "http://www.wikidata.org/entity/Q115474", "origin": "People's Republic of China", "lang": "id", "sub_label": "Ronde (makanan)", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q4302793", "origin": "People's Republic of China", "lang": "id", "sub_label": "Morkovcha", "obj_label": "{'Daucus'}"}
+{"url": "http://www.wikidata.org/entity/Q713466", "origin": "People's Republic of China", "lang": "id", "sub_label": "Bakcang", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q96440087", "origin": "People's Republic of China", "lang": "id", "sub_label": "Kwetiau", "obj_label": "{'Mi beras'}"}
+{"url": "http://www.wikidata.org/entity/Q1076874", "origin": "People's Republic of China", "lang": "id", "sub_label": "Nasi goreng", "obj_label": "{'Nasi'}"}
+{"url": "http://www.wikidata.org/entity/Q2550606", "origin": "People's Republic of China", "lang": "id", "sub_label": "Saus asam manis", "obj_label": "{'vinegar', 'saus tomat', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q545985", "origin": "India", "lang": "id", "sub_label": "kecap ikan", "obj_label": "{'Ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q1322549", "origin": "India", "lang": "id", "sub_label": "Ayam mentega", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q956595", "origin": "India", "lang": "id", "sub_label": "Idli", "obj_label": "{'Vigna mungo'}"}
+{"url": "http://www.wikidata.org/entity/Q7130800", "origin": "India", "lang": "id", "sub_label": "Paneer tikka", "obj_label": "{'paneer'}"}
+{"url": "http://www.wikidata.org/entity/Q989930", "origin": "India", "lang": "id", "sub_label": "Teh mentega", "obj_label": "{'garam dapur', 'teh', 'Mentega Yak'}"}
+{"url": "http://www.wikidata.org/entity/Q1061604", "origin": "India", "lang": "id", "sub_label": "Chana masala", "obj_label": "{'saus'}"}
+{"url": "http://www.wikidata.org/entity/Q752006", "origin": "India", "lang": "id", "sub_label": "Chapati", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q1759289", "origin": "India", "lang": "id", "sub_label": "Laddu", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q1057649", "origin": "India", "lang": "id", "sub_label": "Ayam tandoori", "obj_label": "{'daging ayam', 'Yoghurt'}"}
+{"url": "http://www.wikidata.org/entity/Q2841189", "origin": "India", "lang": "id", "sub_label": "Nasi daun pisang", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q164606", "origin": "India", "lang": "id", "sub_label": "kari", "obj_label": "{'rempah-rempah', 'herbal'}"}
+{"url": "http://www.wikidata.org/entity/Q1339633", "origin": "India", "lang": "id", "sub_label": "Vindaloo", "obj_label": "{'cabe merah', 'vinegar', 'gula', 'jahe', 'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q3349224", "origin": "India", "lang": "id", "sub_label": "Rasgulla", "obj_label": "{'Sukrosa'}"}
+{"url": "http://www.wikidata.org/entity/Q654159", "origin": "India", "lang": "id", "sub_label": "Ayam tikka masala", "obj_label": "{'bawang', 'cabe merah', 'Yoghurt', 'bawang putih', 'jahe', 'Krim', 'daging ayam', 'kelapa', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q13059743", "origin": "India", "lang": "id", "sub_label": "Lyangcha", "obj_label": "{'tepung', 'Natrium bikarbonat', 'Minyak samin', 'gula', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q14624", "origin": "India", "lang": "id", "sub_label": "garam masala", "obj_label": "{'rempah-rempah'}"}
+{"url": "http://www.wikidata.org/entity/Q5195230", "origin": "India", "lang": "id", "sub_label": "kari kambing", "obj_label": "{'daging kambing'}"}
+{"url": "http://www.wikidata.org/entity/Q59134", "origin": "India", "lang": "id", "sub_label": "Kheer", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q877661", "origin": "India", "lang": "id", "sub_label": "Masala chai", "obj_label": "{'teh hitam'}"}
+{"url": "http://www.wikidata.org/entity/Q1483397", "origin": "India", "lang": "id", "sub_label": "raita", "obj_label": "{'Yoghurt'}"}
+{"url": "http://www.wikidata.org/entity/Q920940", "origin": "India", "lang": "id", "sub_label": "Dosa (hidangan India)", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q827654", "origin": "India", "lang": "id", "sub_label": "Lassi", "obj_label": "{'Yoghurt', 'Dahi (tahu susu)'}"}
+{"url": "http://www.wikidata.org/entity/Q2548021", "origin": "India", "lang": "id", "sub_label": "apam", "obj_label": "{'Adonan encer'}"}
+{"url": "http://www.wikidata.org/entity/Q3273739", "origin": "India", "lang": "id", "sub_label": "Puding mangga", "obj_label": "{'Agar-agar'}"}
+{"url": "http://www.wikidata.org/entity/Q2557649", "origin": "India", "lang": "id", "sub_label": "Amba", "obj_label": "{'mangga'}"}
+{"url": "http://www.wikidata.org/entity/Q1979684", "origin": "India", "lang": "id", "sub_label": "Korma", "obj_label": "{'Yoghurt'}"}
+{"url": "http://www.wikidata.org/entity/Q3520299", "origin": "India", "lang": "id", "sub_label": "Nasi Kandar", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q275650", "origin": "India", "lang": "id", "sub_label": "chutney", "obj_label": "{'Natrium klorida'}"}
+{"url": "http://www.wikidata.org/entity/Q1139546", "origin": "India", "lang": "id", "sub_label": "paneer", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q7918342", "origin": "India", "lang": "id", "sub_label": "Roti lapis sayuran", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q542283", "origin": "Russia", "lang": "id", "sub_label": "Ayam Kiev", "obj_label": "{'daging ayam', 'mentega', 'Tepung roti'}"}
+{"url": "http://www.wikidata.org/entity/Q611164", "origin": "Russia", "lang": "id", "sub_label": "Okroshka", "obj_label": "{'telur rebus', 'daging', 'Kvass', 'Daun bawang'}"}
+{"url": "http://www.wikidata.org/entity/Q1069603", "origin": "Russia", "lang": "id", "sub_label": "Rassolnik", "obj_label": "{'hati', 'Sayuran akar'}"}
+{"url": "http://www.wikidata.org/entity/Q41415", "origin": "Russia", "lang": "id", "sub_label": "kuah", "obj_label": "{'sayuran', 'rempah-rempah', 'air hangat', 'kaldu'}"}
+{"url": "http://www.wikidata.org/entity/Q34292", "origin": "Russia", "lang": "id", "sub_label": "Shchi", "obj_label": "{'Sauerkraut'}"}
+{"url": "http://www.wikidata.org/entity/Q2395693", "origin": "Russia", "lang": "id", "sub_label": "Vorschmack", "obj_label": "{'ikan haring', 'daging cincang'}"}
+{"url": "http://www.wikidata.org/entity/Q2679937", "origin": "Russia", "lang": "id", "sub_label": "Pelmeni", "obj_label": "{'bawang', 'mentega', 'garam dapur', 'telur', 'daging', 'Adonan'}"}
+{"url": "http://www.wikidata.org/entity/Q1455040", "origin": "Russia", "lang": "id", "sub_label": "Chebureki", "obj_label": "{'tepung', 'bawang bombai', 'daging', 'minyak nabati', 'Daging domba'}"}
+{"url": "http://www.wikidata.org/entity/Q951361", "origin": "Russia", "lang": "id", "sub_label": "Vatrushka", "obj_label": "{'telur', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q550490", "origin": "Russia", "lang": "id", "sub_label": "solyanka", "obj_label": "{'lemon', 'daging', 'kaldu'}"}
+{"url": "http://www.wikidata.org/entity/Q4385723", "origin": "Russia", "lang": "id", "sub_label": "Pyanse", "obj_label": "{'rempah-rempah', 'bawang putih', 'Allium', 'daging', 'Brasika'}"}
+{"url": "http://www.wikidata.org/entity/Q1229049", "origin": "Russia", "lang": "id", "sub_label": "Ryazhenka", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q176063", "origin": "Germany", "lang": "id", "sub_label": "Currywurst", "obj_label": "{'bubuk kari', 'Sosis'}"}
+{"url": "http://www.wikidata.org/entity/Q2740122", "origin": "Germany", "lang": "id", "sub_label": "lebkuchen", "obj_label": "{'madu'}"}
+{"url": "http://www.wikidata.org/entity/Q57223", "origin": "Germany", "lang": "id", "sub_label": "Stollen", "obj_label": "{'manisan buah'}"}
+{"url": "http://www.wikidata.org/entity/Q160525", "origin": "Germany", "lang": "id", "sub_label": "pretzel", "obj_label": "{'garam dapur', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q152526", "origin": "Germany", "lang": "id", "sub_label": "Berliner", "obj_label": "{'telur', 'Isian', 'minyak goreng'}"}
+{"url": "http://www.wikidata.org/entity/Q895789", "origin": "Germany", "lang": "id", "sub_label": "Butterkuchen", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q565715", "origin": "Germany", "lang": "id", "sub_label": "Reibekuchen", "obj_label": "{'kentang'}"}
+{"url": "http://www.wikidata.org/entity/Q707636", "origin": "Germany", "lang": "id", "sub_label": "Weisswurst", "obj_label": "{'daging sapi muda', 'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q17103699", "origin": "Germany", "lang": "id", "sub_label": "Permen tongkat", "obj_label": "{'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q1018075", "origin": "Germany", "lang": "id", "sub_label": "Butterbrot", "obj_label": "{'roti', 'mentega'}"}
+{"url": "http://www.wikidata.org/entity/Q259642", "origin": "Germany", "lang": "id", "sub_label": "quark", "obj_label": "{'keju', 'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q683080", "origin": "Germany", "lang": "id", "sub_label": "Fischbrötchen", "obj_label": "{'Ikan', 'roti gulung'}"}
+{"url": "http://www.wikidata.org/entity/Q661871", "origin": "Germany", "lang": "id", "sub_label": "Jägermeister", "obj_label": "{'jahe'}"}
+{"url": "http://www.wikidata.org/entity/Q878318", "origin": "Germany", "lang": "id", "sub_label": "Hochzeitssuppe", "obj_label": "{'kaldu'}"}
+{"url": "http://www.wikidata.org/entity/Q816663", "origin": "Nigeria", "lang": "id", "sub_label": "nasi jollof", "obj_label": "{'Minyak sawit', 'beras', 'air minum', 'tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q10271107", "origin": "Nigeria", "lang": "id", "sub_label": "Moi Moi Putih", "obj_label": "{'bawang', 'garam dapur', 'Pala', 'Kacang-kacangan', 'minyak nabati', 'kaldu blok', 'Sup tomat'}"}
+{"url": "http://www.wikidata.org/entity/Q863394", "origin": "South Africa", "lang": "id", "sub_label": "Biltong", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q888832", "origin": "South Africa", "lang": "id", "sub_label": "Bobotie", "obj_label": "{'daging cincang'}"}
+{"url": "http://www.wikidata.org/entity/Q3133597", "origin": "South Africa", "lang": "id", "sub_label": "Sosatie", "obj_label": "{'Daging domba'}"}
+{"url": "http://www.wikidata.org/entity/Q2742714", "origin": "South Africa", "lang": "id", "sub_label": "Melktert", "obj_label": "{'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q1408045", "origin": "South Africa", "lang": "id", "sub_label": "Gatsby (makanan)", "obj_label": "{'Kentang goreng', 'roti gulung', 'saus tomat', 'Selada'}"}
+{"url": "http://www.wikidata.org/entity/Q890278", "origin": "South Africa", "lang": "id", "sub_label": "Boerewors", "obj_label": "{'daging cincang'}"}
+{"url": "http://www.wikidata.org/entity/Q935807", "origin": "Ethiopia", "lang": "id", "sub_label": "injera", "obj_label": "{'Tef', 'air'}"}
+{"url": "http://www.wikidata.org/entity/Q217525", "origin": "United Kingdom", "lang": "id", "sub_label": "Keju Cheddar", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q2477614", "origin": "United Kingdom", "lang": "id", "sub_label": "Bawang acar", "obj_label": "{'bawang'}"}
+{"url": "http://www.wikidata.org/entity/Q927904", "origin": "United Kingdom", "lang": "id", "sub_label": "Toffee", "obj_label": "{'Molase', 'Karet', 'mentega', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q4358444", "origin": "United Kingdom", "lang": "id", "sub_label": "Lancashire Hotpot", "obj_label": "{'Daging domba'}"}
+{"url": "http://www.wikidata.org/entity/Q5329911", "origin": "United Kingdom", "lang": "id", "sub_label": "Biskuit Paskah", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q3276353", "origin": "United Kingdom", "lang": "id", "sub_label": "Kue apel", "obj_label": "{'mentega', 'kulit kayu manis', 'tepung', 'telur', 'Pala', 'Natrium bikarbonat', 'apel', 'gula'}"}
+{"url": "http://www.wikidata.org/entity/Q5347834", "origin": "United Kingdom", "lang": "id", "sub_label": "egg and chips", "obj_label": "{'Kentang goreng', 'telur'}"}
+{"url": "http://www.wikidata.org/entity/Q4839953", "origin": "United Kingdom", "lang": "id", "sub_label": "roti lapis bacon", "obj_label": "{'roti', 'Bacon'}"}
+{"url": "http://www.wikidata.org/entity/Q1332967", "origin": "United Kingdom", "lang": "id", "sub_label": "Sosis bubur", "obj_label": "{'daging babi'}"}
+{"url": "http://www.wikidata.org/entity/Q15462145", "origin": "United Kingdom", "lang": "id", "sub_label": "black pudding", "obj_label": "{'tepung', 'mentega', 'rempah-rempah', 'Darah sebagai makanan', 'Krim', 'kuning telur'}"}
+{"url": "http://www.wikidata.org/entity/Q322787", "origin": "United Kingdom", "lang": "id", "sub_label": "Kentang tumbuk", "obj_label": "{'susu', 'mentega'}"}
+{"url": "http://www.wikidata.org/entity/Q378341", "origin": "United Kingdom", "lang": "id", "sub_label": "Makaroni saus keju", "obj_label": "{'Keju Cheddar', 'Makaroni', 'mentega', 'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q1068034", "origin": "United Kingdom", "lang": "id", "sub_label": "Pastei apel", "obj_label": "{'apel'}"}
+{"url": "http://www.wikidata.org/entity/Q2706994", "origin": "United Kingdom", "lang": "id", "sub_label": "shortcake", "obj_label": "{'tepung', 'mentega'}"}
+{"url": "http://www.wikidata.org/entity/Q869660", "origin": "United Kingdom", "lang": "id", "sub_label": "Scone", "obj_label": "{'Barli', 'gandum', 'bahan pengembang', 'Haver'}"}
+{"url": "http://www.wikidata.org/entity/Q3232603", "origin": "United Kingdom", "lang": "id", "sub_label": "Biskuit Marie", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q28803", "origin": "United Kingdom", "lang": "id", "sub_label": "roti lapis", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q203925", "origin": "United Kingdom", "lang": "id", "sub_label": "Fish and chips", "obj_label": "{'Kentang goreng', 'ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q3002792", "origin": "United Kingdom", "lang": "id", "sub_label": "Roti lapis keripik", "obj_label": "{'Keripik kentang', 'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q1591102", "origin": "United Kingdom", "lang": "id", "sub_label": "Sage Derby", "obj_label": "{'susu'}"}
+{"url": "http://www.wikidata.org/entity/Q951669", "origin": "United Kingdom", "lang": "id", "sub_label": "Puding Yorkshire", "obj_label": "{'telur', 'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q5089395", "origin": "United Kingdom", "lang": "id", "sub_label": "Roti lapis keju dan acar", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q1568296", "origin": "United Kingdom", "lang": "id", "sub_label": "Scotch egg", "obj_label": "{'telur rebus', 'telur', 'daging cincang'}"}
+{"url": "http://www.wikidata.org/entity/Q594675", "origin": "United Kingdom", "lang": "id", "sub_label": "Odeng", "obj_label": "{'ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q3892955", "origin": "United Kingdom", "lang": "id", "sub_label": "Panada", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q1331998", "origin": "United Kingdom", "lang": "id", "sub_label": "Marmite", "obj_label": "{'khamir'}"}
+{"url": "http://www.wikidata.org/entity/Q1412680", "origin": "United Kingdom", "lang": "id", "sub_label": "Beef Wellington", "obj_label": "{'Has luar'}"}
+{"url": "http://www.wikidata.org/entity/Q3397246", "origin": "United Kingdom", "lang": "id", "sub_label": "Sosis Glamorgan", "obj_label": "{'keju'}"}
+{"url": "http://www.wikidata.org/entity/Q12127250", "origin": "United Kingdom", "lang": "id", "sub_label": "Pussy (minuman berenergi)", "obj_label": "{'air soda'}"}
+{"url": "http://www.wikidata.org/entity/Q872503", "origin": "United Kingdom", "lang": "id", "sub_label": "Roti lapis mentimun", "obj_label": "{'roti putih'}"}
+{"url": "http://www.wikidata.org/entity/Q6127120", "origin": "United Kingdom", "lang": "id", "sub_label": "Roti lapis selai", "obj_label": "{'Elon Musk', 'Roblox'}"}
+{"url": "http://www.wikidata.org/entity/Q7601887", "origin": "United Kingdom", "lang": "id", "sub_label": "Pai Stargazy", "obj_label": "{'susu', 'telur', 'Sarden'}"}
+{"url": "http://www.wikidata.org/entity/Q590076", "origin": "Canada", "lang": "id", "sub_label": "pizza Hawaii", "obj_label": "{'saus tomat', 'Keju pizza', 'Prosciutto'}"}
+{"url": "http://www.wikidata.org/entity/Q7648934", "origin": "Canada", "lang": "id", "sub_label": "Sushi pizza", "obj_label": "{'susyi', 'piza', 'padi'}"}
+{"url": "http://www.wikidata.org/entity/Q16269628", "origin": "Canada", "lang": "id", "sub_label": "Tiram Pegunungan Rocky", "obj_label": "{'Testis sebagai makanan'}"}
+{"url": "http://www.wikidata.org/entity/Q396184", "origin": "Canada", "lang": "id", "sub_label": "Poutine", "obj_label": "{'Kentang goreng', 'Dadih keju'}"}
+{"url": "http://www.wikidata.org/entity/Q940033", "origin": "Canada", "lang": "id", "sub_label": "Muktuk", "obj_label": "{'paus'}"}
+{"url": "http://www.wikidata.org/entity/Q873761", "origin": "Brazil", "lang": "id", "sub_label": "tapioka", "obj_label": "{'singkong'}"}
+{"url": "http://www.wikidata.org/entity/Q2065278", "origin": "Brazil", "lang": "id", "sub_label": "Roti keju Brasil", "obj_label": "{'singkong'}"}
+{"url": "http://www.wikidata.org/entity/Q2904894", "origin": "Argentina", "lang": "id", "sub_label": "Sándwich de miga", "obj_label": "{'roti putih'}"}
+{"url": "http://www.wikidata.org/entity/Q720254", "origin": "Argentina", "lang": "id", "sub_label": "Asado", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q7158585", "origin": "Argentina", "lang": "id", "sub_label": "Pebete", "obj_label": "{'Roti bulat'}"}
+{"url": "http://www.wikidata.org/entity/Q5066056", "origin": "Chile", "lang": "id", "sub_label": "Chacarero", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q629936", "origin": "Chile", "lang": "id", "sub_label": "Barros Jarpa", "obj_label": "{'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q11680825", "origin": "Chile", "lang": "id", "sub_label": "Completo", "obj_label": "{'Sosis Wina', 'roti'}"}
+{"url": "http://www.wikidata.org/entity/Q24027629", "origin": "Australia", "lang": "id", "sub_label": "Paket makanan ringan halal", "obj_label": "{'Döner kebab'}"}
+{"url": "http://www.wikidata.org/entity/Q2495784", "origin": "Australia", "lang": "id", "sub_label": "Kue kodok", "obj_label": "{'kue sponge'}"}
+{"url": "http://www.wikidata.org/entity/Q7238914", "origin": "Australia", "lang": "id", "sub_label": "Roti gulung udang", "obj_label": "{'roti putih'}"}
+{"url": "http://www.wikidata.org/entity/Q841470", "origin": "Australia", "lang": "id", "sub_label": "Vegemite", "obj_label": "{'garam dapur', 'Potasium klorida', 'Malt'}"}
+{"url": "http://www.wikidata.org/entity/Q1328462", "origin": "New Zealand", "lang": "id", "sub_label": "Honeycomb toffee", "obj_label": "{'Natrium bikarbonat', 'Gula cokelat', 'Pencairan'}"}
+{"url": "http://www.wikidata.org/entity/Q873699", "origin": "Korea", "lang": "id", "sub_label": "gangjeong", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q715084", "origin": "Korea", "lang": "id", "sub_label": "naengmyeon", "obj_label": "{'Mi'}"}
+{"url": "http://www.wikidata.org/entity/Q648352", "origin": "Korea", "lang": "id", "sub_label": "bibimbap", "obj_label": "{'beras', 'telur', 'Namul', 'daging', 'Gochujang'}"}
+{"url": "http://www.wikidata.org/entity/Q1062483", "origin": "Korea", "lang": "id", "sub_label": "Jjigae", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q1073174", "origin": "Korea", "lang": "id", "sub_label": "Jeotgal", "obj_label": "{'makanan laut'}"}
+{"url": "http://www.wikidata.org/entity/Q1144106", "origin": "Korea", "lang": "id", "sub_label": "Yeot", "obj_label": "{'bap'}"}
+{"url": "http://www.wikidata.org/entity/Q685352", "origin": "Korea", "lang": "id", "sub_label": "Tteokguk", "obj_label": "{'Tteok'}"}
+{"url": "http://www.wikidata.org/entity/Q716797", "origin": "Korea", "lang": "id", "sub_label": "Songpyeon", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q716842", "origin": "Korea", "lang": "id", "sub_label": "Miyeokguk", "obj_label": "{'wakame'}"}
+{"url": "http://www.wikidata.org/entity/Q1073115", "origin": "Korea", "lang": "id", "sub_label": "Dasik", "obj_label": "{'amilum'}"}
+{"url": "http://www.wikidata.org/entity/Q712554", "origin": "Korea", "lang": "id", "sub_label": "kimchi-bokkeum-bap", "obj_label": "{'kimci'}"}
+{"url": "http://www.wikidata.org/entity/Q851734", "origin": "Korea", "lang": "id", "sub_label": "Maeuntang", "obj_label": "{'Ikan'}"}
+{"url": "http://www.wikidata.org/entity/Q626167", "origin": "Korea", "lang": "id", "sub_label": "bunsik", "obj_label": "{'tepung'}"}
+{"url": "http://www.wikidata.org/entity/Q711953", "origin": "Korea", "lang": "id", "sub_label": "Bibim guksu", "obj_label": "{'Sōmen'}"}
+{"url": "http://www.wikidata.org/entity/Q703147", "origin": "Korea", "lang": "id", "sub_label": "hwajeon", "obj_label": "{'jeon'}"}
+{"url": "http://www.wikidata.org/entity/Q1335219", "origin": "Korea", "lang": "id", "sub_label": "Samgyetang", "obj_label": "{'daging ayam', 'Ginseng'}"}
+{"url": "http://www.wikidata.org/entity/Q843252", "origin": "Korea", "lang": "id", "sub_label": "Saeujeot", "obj_label": "{'Udang'}"}
+{"url": "http://www.wikidata.org/entity/Q847245", "origin": "Korea", "lang": "id", "sub_label": "hobak-juk", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q4215683", "origin": "Korea", "lang": "id", "sub_label": "eo-mandu", "obj_label": "{'Ikan putih'}"}
+{"url": "http://www.wikidata.org/entity/Q704006", "origin": "Korea", "lang": "id", "sub_label": "budae-jjigae", "obj_label": "{'Sosis', 'ham', 'Spam', 'kimci', 'Gochujang'}"}
+{"url": "http://www.wikidata.org/entity/Q1071699", "origin": "Korea", "lang": "id", "sub_label": "Jeongol", "obj_label": "{'Jamur pangan', 'kaldu', 'daging sapi', 'sayuran', 'makanan laut', 'bahan penyedap'}"}
+{"url": "http://www.wikidata.org/entity/Q5247475", "origin": "Korea", "lang": "id", "sub_label": "jeolpyeon", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q495360", "origin": "Korea", "lang": "id", "sub_label": "gimbap", "obj_label": "{'Telur dadar', 'beras', 'ham', 'alga', 'sayuran', 'makanan laut'}"}
+{"url": "http://www.wikidata.org/entity/Q1037909", "origin": "Korea", "lang": "id", "sub_label": "Gukbap", "obj_label": "{'bap', 'guk'}"}
+{"url": "http://www.wikidata.org/entity/Q6154033", "origin": "Korea", "lang": "id", "sub_label": "jangguk-juk", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q6121698", "origin": "Korea", "lang": "id", "sub_label": "Jaecheop-guk", "obj_label": "{'Kerang'}"}
+{"url": "http://www.wikidata.org/entity/Q904155", "origin": "Korea", "lang": "id", "sub_label": "Dongchimi", "obj_label": "{'jahe'}"}
+{"url": "http://www.wikidata.org/entity/Q703015", "origin": "Korea", "lang": "id", "sub_label": "doenjang-jjigae", "obj_label": "{'Doenjang'}"}
+{"url": "http://www.wikidata.org/entity/Q683682", "origin": "Korea", "lang": "id", "sub_label": "Bulgogi", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q862974", "origin": "Korea", "lang": "id", "sub_label": "Baekseolgi", "obj_label": "{'tepung beras'}"}
+{"url": "http://www.wikidata.org/entity/Q907849", "origin": "Korea", "lang": "id", "sub_label": "Kongbap", "obj_label": "{'beras', 'kedelai'}"}
+{"url": "http://www.wikidata.org/entity/Q4841270", "origin": "Korea", "lang": "id", "sub_label": "Baeksuk", "obj_label": "{'daging'}"}
+{"url": "http://www.wikidata.org/entity/Q10856452", "origin": "Korea", "lang": "id", "sub_label": "Dak-bokkeum-tang", "obj_label": "{'daging ayam'}"}
+{"url": "http://www.wikidata.org/entity/Q845361", "origin": "Korea", "lang": "id", "sub_label": "yumilgwa", "obj_label": "{'beras'}"}
+{"url": "http://www.wikidata.org/entity/Q705123", "origin": "Korea", "lang": "id", "sub_label": "yaksik", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q703413", "origin": "Korea", "lang": "id", "sub_label": "Tteok", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q1077966", "origin": "Korea", "lang": "id", "sub_label": "Injeolmi", "obj_label": "{'Beras ketan'}"}
+{"url": "http://www.wikidata.org/entity/Q705375", "origin": "Korea", "lang": "id", "sub_label": "Haejangguk", "obj_label": "{'sawi putih'}"}
+{"url": "http://www.wikidata.org/entity/Q1328259", "origin": "Korea", "lang": "id", "sub_label": "Sannakji", "obj_label": "{'Octopus minor'}"}
+{"url": "http://www.wikidata.org/entity/Q675466", "origin": "Korea", "lang": "id", "sub_label": "bosintang", "obj_label": "{'daging anjing'}"}
+{"url": "http://www.wikidata.org/entity/Q1373750", "origin": "Korea", "lang": "id", "sub_label": "Yakgwa", "obj_label": "{'tepung terigu'}"}
+{"url": "http://www.wikidata.org/entity/Q715040", "origin": "Korea", "lang": "id", "sub_label": "Japchae", "obj_label": "{'sohun'}"}
+{"url": "http://www.wikidata.org/entity/Q851714", "origin": "Korea", "lang": "id", "sub_label": "Mandutguk", "obj_label": "{'Dumpling'}"}
+{"url": "http://www.wikidata.org/entity/Q493784", "origin": "Korea", "lang": "id", "sub_label": "bingsu", "obj_label": "{'Kacang azuki'}"}
+{"url": "http://www.wikidata.org/entity/Q1075430", "origin": "Korea", "lang": "id", "sub_label": "Gomguk", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q701756", "origin": "Korea", "lang": "id", "sub_label": "Kimchi jjigae", "obj_label": "{'kimci'}"}
+{"url": "http://www.wikidata.org/entity/Q717136", "origin": "Korea", "lang": "id", "sub_label": "Seolleongtang", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q1073156", "origin": "Korea", "lang": "id", "sub_label": "Baekgimchi", "obj_label": "{'Sawi hijau'}"}
+{"url": "http://www.wikidata.org/entity/Q29944665", "origin": "Korea", "lang": "id", "sub_label": "Guljeot", "obj_label": "{'tiram'}"}
+{"url": "http://www.wikidata.org/entity/Q1069561", "origin": "Korea", "lang": "id", "sub_label": "Yukgaejang", "obj_label": "{'daging sapi'}"}
+{"url": "http://www.wikidata.org/entity/Q4215727", "origin": "Korea", "lang": "id", "sub_label": "jatjuk", "obj_label": "{'Kacang pinus'}"}
+{"url": "http://www.wikidata.org/entity/Q682384", "origin": "Korea", "lang": "id", "sub_label": "Galbi", "obj_label": "{'sapi'}"}
