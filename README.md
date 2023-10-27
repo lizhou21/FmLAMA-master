@@ -9,7 +9,7 @@ FmLAMA-master
   |- model_config.py
   |- utils.py
   |- metrics_utils.py
-  |- eval.py
+  |- get_results_MPA.py
 |- data
 |- data_filter
 |- output_filter
