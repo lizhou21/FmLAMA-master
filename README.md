@@ -19,6 +19,5 @@ FmLAMA-master
 Download the experiment results **output_results** in [Google drive](https://drive.google.com/drive/folders/1GjDaLrP_yJsvMXpwY3aov2tzetsqFxZZ?usp=sharing)
 
 ### Step 2:
-python get_results_MPA.py
-
+`python get_results_MPA.py`
 (Note: please revise the path about **results_dir** and **f_save** in the get_results_MPA.py)
