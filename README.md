@@ -12,5 +12,7 @@ FmLAMA-master
   |- eval.py
 |- data
 |- data_filter
-|- results_filter
+|- output_filter
 ```
+
+step 1: download the experiment results **output_results** [Google drive]()
