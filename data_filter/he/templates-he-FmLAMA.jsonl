@@ -1,0 +1,30 @@
+{"relation": "hasParts_1", "template": "במאכל [X] יש את המרכיבים של [Y]."}
+{"relation": "hasParts_2", "template": ".[Y] הוא מאכל עם [X]"}
+{"relation": "hasParts_3", "template": "מאכל [X] מכיל את [Y] כמרכיביו העיקריים."}
+{"relation": "hasParts_4", "template": ".[X] הוא מרכיב במאכל [Y]"}
+{"relation": "hasParts_5", "template": "במאכל [X] יש משהו מתוך [Y]."}
+{"relation": "country_1", "template": "במדינה [C], במאכל [X] יש את המרכיבים של [Y]."}
+{"relation": "country_2", "template": "במדינה [C], [X] הוא מאכל עם [Y]."}
+{"relation": "country_3", "template": "במדינה [C], מאכל [X] מכיל את [Y] כמרכיביו העיקריים."}
+{"relation": "country_4", "template": "במדינה [C], במאכל [X] יש את המרכיבים של [Y]."}
+{"relation": "country_5", "template": "במדינה [C], במאכל [X] יש משהו מתוך [Y]."}
+
+
+
+{"relation": "hasParts_2", "template": ".[Y] הוא מאכל עם [X]"}
+{"relation": "hasParts_3", "template": "מאכל [X] מכיל את [Y] כמרכיביו העיקריים."}
+{"relation": "hasParts_4", "template": ".[X] הוא מרכיב במאכל [Y]"}
+{"relation": "hasParts_5", "template": "במאכל [X] יש משהו מתוך [Y]."}
+
+{"relation": "hasParts_1", "template": "במאכל [X] יש את המרכיבים של [Y]."}
+{"relation": "hasParts_2", "template": "[Y] הוא מאכל עם [X]."}
+{"relation": "hasParts_3", "template": "מאכל [X] מכיל את [Y] כמרכיביו העיקריים."}
+{"relation": "hasParts_4", "template": "[X] הוא מרכיב במאכל [Y]."}
+{"relation": "hasParts_5", "template": "במאכל [X] יש משהו מתוך [Y]."}
+
+{"relation": "country_1", "template": "In [C], the food [X] has the ingredients of [Y] ."}
+{"relation": "country_2", "template": "In [C], [X] is a kind of food with [Y] ."}
+{"relation": "country_3", "template": "In [C], [X] is a type of food, comprising [Y] as its main constituents ."}
+{"relation": "country_4", "template": "In [C], [Y] is part of the food [X] ."}
+{"relation": "country_5", "template": "In [C], the food [X] has part of [Y] ."}
+
