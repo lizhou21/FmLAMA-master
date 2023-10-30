@@ -1,0 +1,10 @@
+{"relation": "hasParts_1", "template1": "음식 [X]에는 [Y]의 성분이 포함되어 있습니다. ."}
+{"relation": "hasParts_2", "template1": "[X]는 [Y]를 가진 음식의 일종입니다 .","template2": "[X]는 [Y]을 가진 음식의 일종입니다 .","template3": "[X]은 [Y]를 가진 음식의 일종입니다 .","template4": "[X]은 [Y]을 가진 음식의 일종입니다 ."}
+{"relation": "hasParts_3", "template1": "[X]는 [Y]를 주성분으로 하는 식품의 일종입니다.","template2": "[X]는 [Y]을 주성분으로 하는 식품의 일종입니다.","template3": "[X]은 [Y]를 주성분으로 하는 식품의 일종입니다.","template4": "[X]은 [Y]을 가진 음식의 일종입니다 ."}
+{"relation": "hasParts_4", "template1": "[Y]는 음식 [X]의 일부입니다.","template2": "[Y]은 음식 [X]의 일부입니다."}
+{"relation": "hasParts_5", "template1": "음식 [X]에는 [Y]의 일부가 포함되어 있습니다."}
+{"relation": "country_1", "template1": "[C]의 음식 [X]에는 [Y]의 성분이 포함되어 있습니다."}
+{"relation": "country_2", "template1": "[C]에서 [X]는 [Y]와 함께 음식의 일종입니다."}
+{"relation": "country_3", "template1": "[C]에서 [X]는 [Y]를 주성분으로 하는 식품의 일종입니다.","template2": "[C]에서 [X]는 [Y]을 주성분으로 하는 식품의 일종입니다.","template3": "[C]에서 [X]은 [Y]를 주성분으로 하는 식품의 일종입니다.","template4": "[C]에서 [X]은 [Y]을 주성분으로 하는 식품의 일종입니다."}
+{"relation": "country_4", "template1": "[C]에서 [Y]는 음식 [X]의 일부입니다.","template2": "[C]에서 [Y]은 음식 [X]의 일부입니다."}
+{"relation": "country_5", "template1": "[C]에서 음식 [X]는 [Y]의 일부를 포함합니다.","template2": "[C]에서 음식 [X]은 [Y]의 일부를 포함합니다."}
