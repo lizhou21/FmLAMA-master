@@ -17,5 +17,13 @@ Download the experiment results **output** in [Google drive](https://drive.googl
    
    e.g., `run read_resuls.py --root_dir output_wo_lang --model mbert_base_cased --lang en --prompt hasParts_1`
 
-2. 
+2. `read_LLMs_results.py`: used for read the probing results about Bloom, LLaMa, vicuna, chatGPT.
 
+   Bloom prompt 1: Question: What's ingredient in the food [X]? The answer is:
+   
+   Bloom prompt 2: Question: In [C], what's ingredient in the food [X]? The answer is:
+
+   LLaMa / vicuna / chatGPT prompt 1: The food [X] has the ingredients of []. Please fill the sentence.
+
+   LLaMa / vicuna / chatGPT prompt 2: In [C], the food [X] has the ingredients of []. Please fill the sentence.
+   
