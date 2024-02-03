@@ -1,3 +1,4 @@
+### Step 1: Obtain the experimental-result files
 Download the experiment results **output** in [Google drive](https://drive.google.com/drive/folders/1lBoYEPafbZHwVYn6u7Em3O5yKM405iRP?usp=sharing)
 
 
@@ -9,3 +10,6 @@ Download the experiment results **output** in [Google drive](https://drive.googl
   |- output_wo_lang   # experiments on each sub-dataset FmLAMA-la by using prompts that incorporate cultural information (Figure 1)
   |- output_LLMs      # experiments with the model Bloom, LLaMa, vicuna, chatGPT (Table 3)
 ```
+
+### Step 2: Read the experimental results
+
