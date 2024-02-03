@@ -13,3 +13,5 @@ Download the experiment results **output** in [Google drive](https://drive.googl
 
 ### Step 2: Read the experimental results
 
+`read_resuls.py`: used for read the probing results about BERT-like LLMs and T5-style models. (output_code / output_w_lang / output_wo_filter / output_wo_lang )
+
