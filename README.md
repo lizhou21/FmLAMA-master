@@ -32,9 +32,3 @@ FmLAMA-master
    **Note:** We have provide FmLAMA dataset and the related filter datasets in this repo. You can also use our code for data generation, but due to the dynamic updates in Wikidata, the data created may differ from the version we provide.
 
 
-### Step 1: 
-Download the experiment results **output_results** in [Google drive](https://drive.google.com/drive/folders/1GjDaLrP_yJsvMXpwY3aov2tzetsqFxZZ?usp=sharing)
-
-### Step 2:
-`python get_results_MPA.py`
-(Note: please revise the path about **results_dir** and **f_save** in the get_results_MPA.py)
