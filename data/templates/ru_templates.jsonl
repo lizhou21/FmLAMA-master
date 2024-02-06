@@ -1,0 +1,10 @@
+{"relation": "hasParts_1", "template": "В пище [X] есть ингредиенты из [Y] ."}
+{"relation": "hasParts_2", "template": "[X] это вид пищи с [Y] ."}
+{"relation": "hasParts_3", "template": "[X] это вид пищи, имеющий [Y] как один из своих основных компонентов ."}
+{"relation": "hasParts_4", "template": "[Y] это часть пищи [X] ."}
+{"relation": "hasParts_5", "template": "Пища [X] содержит часть от [Y] ."}
+{"relation": "country_1", "template": "В [C], в пище [X] есть ингредиенты из [Y] ."}
+{"relation": "country_2", "template": "В [C], [X] это вид пищи с [Y] ."}
+{"relation": "country_3", "template": "В [C], [X] это вид пищи, имеющий [Y] как один из своих основных компонентов ."}
+{"relation": "country_4", "template": "В [C], [Y] это часть пищи [X] ."}
+{"relation": "country_5", "template": "В [C], пища [X] содержит часть от [Y] ."}

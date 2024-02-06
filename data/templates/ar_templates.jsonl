@@ -1,0 +1,10 @@
+{"relation": "hasParts_1", "template": "الطعام [X] يحتوي على مكونات [Y] ."}
+{"relation": "hasParts_2", "template": "[X] هو نوع من الطعام مع [Y] ."}
+{"relation": "hasParts_3", "template": "[X] هو نوع من الطعام، يتكون من [Y] كمكوناته الرئيسية ."}
+{"relation": "hasParts_4", "template": "[Y] جزء من الطعام [X] ."}
+{"relation": "hasParts_5", "template": "الطعام [X] يحتوي على جزء من [Y] ."}
+{"relation": "country_1", "template": "في [C], الطعام [X] يحتوي على مكونات [Y] ."}
+{"relation": "country_2", "template": "في [C], [X] هو نوع من الطعام مع [Y] ."}
+{"relation": "country_3", "template": "في [C], [X] هو نوع من الطعام، يتكون من [Y] كمكوناته الرئيسية ."}
+{"relation": "country_4", "template": "في [C], [Y] جزء من الطعام [X] ."}
+{"relation": "country_5", "template": "في [C], الطعام [X] يحتوي على جزء من [Y] ."}

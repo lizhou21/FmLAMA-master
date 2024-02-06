@@ -1,0 +1,25 @@
+{"relation": "hasParts_1", "template": "במאכל [1] יש את המרכיבים של [2]."}
+{"relation": "hasParts_2", "template": ".[2] הוא מאכל עם [1]"}
+{"relation": "hasParts_3", "template": "מאכל [1] מכיל את [2] כמרכיביו העיקריים."}
+{"relation": "hasParts_4", "template": ".[1] הוא מרכיב במאכל [2]"}
+{"relation": "hasParts_5", "template": "במאכל [1] יש משהו מתוך [2]."}
+{"relation": "country_1", "template": "[3], במאכל [1] יש את המרכיבים של [2]."}
+{"relation": "country_2", "template": "[3], [1] הוא מאכל עם [2]."}
+{"relation": "country_3", "template": "[3], מאכל [1] מכיל את [2] כמרכיביו העיקריים."}
+{"relation": "country_4", "template": "[3], במאכל [1] יש את המרכיבים של [2]."}
+{"relation": "country_5", "template": "[3], במאכל [1] יש משהו מתוך [2]."}
+{"relation": "country_2-1", "template": "במדינה [3], במאכל [1] יש את המרכיבים של [2]."}
+{"relation": "country_2-2", "template": "במדינה [3], [1] הוא מאכל עם [2]."}
+{"relation": "country_2-3", "template": "במדינה [3], מאכל [1] מכיל את [2] כמרכיביו העיקריים."}
+{"relation": "country_2-4", "template": "במדינה [3], במאכל [1] יש את המרכיבים של [2]."}
+{"relation": "country_2-5", "template": "במדינה [3], במאכל [1] יש משהו מתוך [2]."}
+{"relation": "country_3-1", "template": "ב [3], במאכל [1] יש את המרכיבים של [2]."}
+{"relation": "country_3-2", "template": "ב [3], [1] הוא מאכל עם [2]."}
+{"relation": "country_3-3", "template": "ב [3], מאכל [1] מכיל את [2] כמרכיביו העיקריים."}
+{"relation": "country_3-4", "template": "ב [3], במאכל [1] יש את המרכיבים של [2]."}
+{"relation": "country_3-5", "template": "ב [3], במאכל [1] יש משהו מתוך [2]."}
+{"relation": "country_4-1", "template": "ב[3], במאכל [1] יש את המרכיבים של [2]."}
+{"relation": "country_4-2", "template": "ב[3], [1] הוא מאכל עם [2]."}
+{"relation": "country_4-3", "template": "ב[3], מאכל [1] מכיל את [2] כמרכיביו העיקריים."}
+{"relation": "country_4-4", "template": "ב[3], במאכל [1] יש את המרכיבים של [2]."}
+{"relation": "country_4-5", "template": "ב[3], במאכל [1] יש משהו מתוך [2]."}
