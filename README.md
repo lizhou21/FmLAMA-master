@@ -34,8 +34,7 @@ FmLAMA-master
 
 > Run probing Llama2 and Vicuna2
 
-'''
+```
 cd access_LMs
 sh run_llama_vicuna.sh
-'''
-
+```
