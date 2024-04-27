@@ -32,3 +32,10 @@ FmLAMA-master
    **Note:** We have provide FmLAMA dataset and the related filter datasets in this repo. You can also use our code for data generation, but due to the dynamic updates in Wikidata, the data created may differ from the version we provide.
 
 
+> Run probing Llama2 and Vicuna2
+
+'''
+cd access_LMs
+sh run_llama_vicuna.sh
+'''
+
