@@ -1,10 +1,10 @@
-{"relation": "hasParts_1", "template": "The food [X] has the ingredients of [Y] ."}
-{"relation": "hasParts_2", "template": "[X] is a kind of food with [Y] ."}
-{"relation": "hasParts_3", "template": "[X] is a type of food, comprising [Y] as its main constituents ."}
-{"relation": "hasParts_4", "template": "[Y] is part of the food [X] ."}
-{"relation": "hasParts_5", "template": "The food [X] has part of [Y] ."}
-{"relation": "country_1", "template": "In [C], the food [X] has the ingredients of [Y] ."}
-{"relation": "country_2", "template": "In [C], [X] is a kind of food with [Y] ."}
-{"relation": "country_3", "template": "In [C], [X] is a type of food, comprising [Y] as its main constituents ."}
-{"relation": "country_4", "template": "In [C], [Y] is part of the food [X] ."}
-{"relation": "country_5", "template": "In [C], the food [X] has part of [Y] ."}
+{"relation": "hasParts_1", "template": "[X] is a dish made with [Y].", "avg": 12.17}
+{"relation": "hasParts_2", "template": "[X] is a type of food that includes [Y].", "avg": 11.75}
+{"relation": "hasParts_3", "template": "The dish [X] is made with [Y].", "avg": 9.33}
+{"relation": "hasParts_4", "template": "The dish [X] uses [Y] as an ingredient.", "avg": 9.90}
+{"relation": "hasParts_5", "template": "The dish [X] is made from [Y].", "avg": 11.14}
+{"relation": "country_1", "template": "In [C], [X] is a dish made with [Y].", "avg": 12.17}
+{"relation": "country_2", "template": "In [C], [X] is a type of food that includes [Y].", "avg": 11.75}
+{"relation": "country_3", "template": "In [C], the dish [X] is made with [Y].", "avg": 9.33}
+{"relation": "country_4", "template": "In [C], the dish [X] uses [Y] as an ingredient.", "avg": 9.90}
+{"relation": "country_5", "template": "In [C], the dish [X] is made from [Y].", "avg": 11.14}
