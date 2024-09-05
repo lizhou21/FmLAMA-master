@@ -6,6 +6,23 @@ from collections import Counter
 from zhconv import convert
 import ast
 
+country_lang = {
+    'Italy',
+    'United States of America',
+    'Turkey',
+    'Japan',
+    'France',
+    'United Kingdom',
+    'Mexico',
+    'India',
+    'Germany',
+    'People\'s Republic of China',
+    'Iran',
+    'Greece',
+    'Spain',
+    'Russia',
+}
+
 def read_data(file_path):
     with open(file_path, "r", encoding='utf-8') as f:
         ret = []
@@ -25,7 +42,7 @@ def wirte_data(list, file_path):
 
 languages = ['en', 'ru', 'zh', 'ko', 'ar', 'he']
 
-FmLAMA = pd.read_csv('/home/nlp/ZL/FmLAMA-master/data/Dishes.csv')
+FmLAMA = pd.read_csv('/mntcephfs/lab_data/zhouli/personal/FmLAMA/data/Dishes.csv')
 
 for la in languages:
     FmLAMA_sub = FmLAMA[FmLAMA["lang"]==la].reset_index(drop=True)
@@ -52,13 +69,15 @@ for la in languages:
             new_dish['lang'] = row['lang']
             new_dish['sub_label'] = row['name']
             new_dish['obj_label'] = list(ast.literal_eval(row['hasParts']))[0].split(', ')
-            generate_results.append(new_dish)
+            if new_dish['origin_name'] in country_lang:
+
+                generate_results.append(new_dish)
 
     count_country = Counter([ge['origin'] for ge in generate_results])
     count_country = sorted(count_country.items(),key=lambda x:x[1],reverse=True)
     count_country.insert(0, ("All", len(generate_results)))
 
-    save_dir = '/home/nlp/ZL/FmLAMA-master/data/data_lang/' + la
+    save_dir = '/mntcephfs/lab_data/zhouli/personal/FmLAMA/data/data_lang/' + la
     if not os.path.exists(save_dir):  #判断是否存在文件夹如果不存在则创建为文件夹
         os.makedirs(save_dir)
 

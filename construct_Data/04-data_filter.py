@@ -3,6 +3,8 @@ import pickle
 from collections import Counter
 import os
 
+
+
 def wirte_data(list, file_path):
     
     with open(file_path, 'w', encoding='utf-8') as  f:
@@ -11,7 +13,7 @@ def wirte_data(list, file_path):
             f.write(json_str)
             f.write('\n')
 
-root_dir = "/home/nlp/ZL/FmLAMA-master/data/data_lang/"
+root_dir = "FmLAMA-master/data/data_lang/"
 languages = ['ar', 'he', 'ko', 'ru', 'en', 'zh']
 
 id_list = {}
@@ -38,7 +40,7 @@ for la in candidate_lang:
     relation_triples_raw = []
     filter = []
 
-    save_dir = '/home/nlp/ZL/FmLAMA-master/data/data_filter/' + la
+    save_dir = 'FmLAMA-master/data/data_filter/' + la
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
 

@@ -43,5 +43,5 @@ WHERE {
 countries_info = get_country()
 
 json_str = json.dumps(countries_info)
-with open('/home/nlp/ZL/FmLAMA-master/data/country_info.json', 'w') as json_file:
+with open('FmLAMA-master/data/country_info.json', 'w') as json_file:
     json_file.write(json_str)
