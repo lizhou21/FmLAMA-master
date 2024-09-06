@@ -1,0 +1,10 @@
+{"relation": "hasParts_1", "template": "[X]는 [Y]를 곁들여 만든 요리예요.", "avg": 12.17}
+{"relation": "hasParts_2", "template": "[X]는 [Y]가 포함된 음식이에요.", "avg": 11.75}
+{"relation": "hasParts_3", "template": "요리 [X]는 [Y]를 곁들여 만들어져요.", "avg": 9.33}
+{"relation": "hasParts_4", "template": "요리 [X]는 [Y]를 재료로 사용해요.", "avg": 9.90}
+{"relation": "hasParts_5", "template": "요리 [X]는 [Y]로 만들어져요.ָ", "avg": 11.14}
+{"relation": "country_1", "template": "[C]에서는 [X]가 [Y]를 곁들여 만든 요리예요.", "avg": 12.17}
+{"relation": "country_2", "template": "[C]에서는 [X]가 [Y]가 포함된 음식이에요.", "avg": 11.75}
+{"relation": "country_3", "template": "[C]에서는 요리 [X]가 [Y]를 곁들여 만들어져요.", "avg": 9.33}
+{"relation": "country_4", "template": "[C]에서는 요리 [X]가 [Y]를 재료로 사용해요.", "avg": 9.90}
+{"relation": "country_5", "template": "[C]에서는 요리 [X]가 [Y]로 만들어져요.", "avg": 11.14}
