@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guidelines</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        .container {
+            width: 60%;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .logo {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .logo img {
+            width: 100px;
+        }
+        .section-title {
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        .instructions, .evaluation-criteria, .additional-instructions {
+            margin-bottom: 20px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .confirmation {
+            margin-top: 30px;
+        }
+        label {
+            display: block;
+            margin: 10px 0;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo">
+        </div>
+        <h1>Welcome to our evaluation website!</h1>
+
+        <div class="instructions">
+            <div class="section-title">Objective:</div>
+            <p>You will be asked to select the cultural group of the dishes you are familiar with. Based on your chosen cultural group, you will be provided with a selection of related dishes, each paired with its English dish name and a golden ingredient label sourced from Wikidata. Your task is to evaluate whether the predicted ingredients provided are indeed ingredients of the respective dishes.</p>
+        </div>
+
+        <div class="evaluation-criteria">
+            <div class="section-title">Evaluation Criteria:</div>
+            <p>A predicted ingredient should be considered <b>correct</b> if it meets any of the following three conditions for the corresponding dish:</p>
+            <ul>
+                <li><b>Direct Match:</b> The predicted ingredient is explicitly listed in the golden label sourced from Wikidata for that dish.</li>
+                <li><b>Substitutability:</b> The predicted ingredient can effectively replace a certain ingredient in the golden label during the cooking process for that dish.</li>
+                <li><b>Dish-Specific Ingredient:</b> The predicted ingredient is traditionally or commonly used in the dish, even if it is not listed in the golden label from Wikidata.</li>
+            </ul>
+        </div>
+
+        <div class="additional-instructions">
+            <div class="section-title">Additional Instructions:</div>
+            <ul>
+                <li>If you are not familiar with the ingredients of a particular dish, you are encouraged to search for the recipe online to gather accurate information.</li>
+                <li>Please do not directly ask ChatGPT or other AI models for the answer.</li>
+                <li><b>Timing:</b> Please keep track of the time you spend on the evaluation. At the end of the task, you will be asked to provide the total time taken.</li>
+            </ul>
+        </div>
+
+        <div class="confirmation">
+            <div class="section-title">Confirmation:</div>
+            <form method="POST">
+                <label>
+                    <input type="checkbox" name="confirm1"> I have thoroughly read and understood the guidelines, and I am clear about my task and the evaluation criteria.
+                </label>
+                <label>
+                    <input type="checkbox" name="confirm2"> I am ready to start the timer and begin the evaluation.
+                </label>
+
+                {% if error %}
+                    <p class="error">{{ error }}</p>
+                {% endif %}
+
+                <button type="submit">Start Evaluation</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

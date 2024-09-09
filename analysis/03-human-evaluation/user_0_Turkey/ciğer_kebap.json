@@ -1,0 +1,12 @@
+[
+    {
+        "origin": "Turkey",
+        "group": "Turkey",
+        "dish_name": "ciğer kebap",
+        "predicted_ingredient": "lamb meat",
+        "correct": "Yes",
+        "correct_reason": "Substitutability",
+        "evaluation_time": "0:00:04.925385",
+        "comment": ""
+    }
+]

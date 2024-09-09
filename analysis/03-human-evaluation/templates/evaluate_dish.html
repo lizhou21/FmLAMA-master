@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dish Evaluation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        .container {
+            width: 60%;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            margin-top: 20px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .error {
+            color: red;
+        }
+        table {
+            width: 100%;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .reason-select {
+            display: none;
+        }
+        .evaluation-criteria {
+            margin-bottom: 20px;
+        }
+        .comment-section {
+            margin-top: 20px;
+        }
+        .comment-section textarea {
+            width: 100%;
+            padding: 10px;
+            font-size: 14px;
+        }
+    </style>
+
+    <script>
+        function showReasonSelect(index) {
+            const selectElement = document.getElementById('correct_reason_' + index);
+            const predictionSelect = document.getElementById('ingredient_' + index);
+
+            if (predictionSelect.value === 'Yes') {
+                selectElement.style.display = 'block';
+            } else {
+                selectElement.style.display = 'none';
+            }
+        }
+
+        function validateForm() {
+            const form = document.querySelector('form');
+            const ingredientSelects = form.querySelectorAll('select[name^="ingredient_"]');
+            const reasonSelects = form.querySelectorAll('select[name^="correct_reason_"]');
+
+            let allIngredientsFilled = true;
+            let allYesWithReason = true;
+
+            // Check if all ingredients are selected
+            ingredientSelects.forEach(select => {
+                if (select.value === "") {
+                    allIngredientsFilled = false;
+                }
+            });
+
+            // Check if all "Yes" ingredients have a reason
+            reasonSelects.forEach(select => {
+                const correspondingIngredientSelect = form.querySelector(`#ingredient_${select.id.replace('correct_reason_', '')}`);
+                const ingredientValue = correspondingIngredientSelect.value;
+                const reasonValue = select.value;
+
+                if (ingredientValue === 'Yes' && reasonValue === "") {
+                    allYesWithReason = false;
+                }
+            });
+
+            if (!allIngredientsFilled) {
+                alert('Please fill in all ingredient selections.');
+                return false;
+            }
+
+            if (!allYesWithReason) {
+                alert('Please select a reason for all ingredients marked as "Yes".');
+                return false;
+            }
+
+            return true; // Allow form submission if all conditions are met
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Dish Evaluation</h1>
+        
+        <div class="evaluation-criteria">
+            <p><strong>Evaluation Criteria:</strong></p>
+            <p>A predicted ingredient should be considered correct if it meets any of the following three conditions for the corresponding dish:</p>
+            <ul>
+                <li><strong>Direct Match:</strong> The predicted ingredient is explicitly listed in the golden label sourced from Wikidata for that dish.</li>
+                <li><strong>Substitutability:</strong> The predicted ingredient can effectively replace a certain ingredient in the golden label during the cooking process for that dish.</li>
+                <li><strong>Dish-Specific Ingredient:</strong> The predicted ingredient is traditionally or commonly used in the dish, even if it is not listed in the golden label from Wikidata.</li>
+            </ul>
+        </div>
+
+        <p><strong>Image:</strong></p>
+        {% if dish['image']|length > 0 %}
+            <img src="{{ dish['image'][0] }}" alt="Dish Image" style="width: 50%; height: auto;">
+        {% else %}
+            <p>No image available.</p>
+        {% endif %}
+        <p><strong>Dish Name:</strong> {{ dish['dish'] }} ({{ dish['dish_name'] }})</p>
+
+        <p><strong>Golden ingredient label:</strong> {{ dish['gold_ingredient'] }}</p>
+
+        <form method="POST" onsubmit="return validateForm()">
+            <p>Please determine whether the following predicted ingredient is correct:</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Predicted Ingredient</th>
+                        <th>Correct (Yes/No/Maybe)</th>
+                        <th>Correct Reason (if Yes)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for ingredient in dish['predicted_ingredient'] %}
+                    <tr>
+                        <td>{{ loop.index }}</td>
+                        <td>{{ ingredient }}</td>
+                        <td>
+                            <select name="ingredient_{{ loop.index }}" id="ingredient_{{ loop.index }}" onchange="showReasonSelect({{ loop.index }})">
+                                <option value="" disabled selected>Please choose</option>
+                                <option value="Yes">Yes</option>
+                                <option value="No">No</option>
+                                <option value="Maybe">Maybe</option>
+                            </select>
+                        </td>
+                        <td>
+                            <select name="correct_reason_{{ loop.index }}" id="correct_reason_{{ loop.index }}" class="reason-select">
+                                <option value="" disabled selected>Please choose the reason</option>
+                                <option value="Direct Match">Direct Match</option>
+                                <option value="Substitutability">Substitutability</option>
+                                <option value="Dish-Specific Ingredient">Dish-Specific Ingredient</option>
+                            </select>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+
+            <div class="comment-section">
+                <label for="comment">Comment: (if you have any questions about this dish, please write them below. Optional)</label>
+                <textarea name="comment" id="comment" rows="4" cols="50"></textarea>
+            </div>
+
+            <button type="button" onclick="window.history.back()">Previous</button>
+            <button type="submit">Next</button>
+            
+        </form>
+    </div>
+</body>
+</html>
