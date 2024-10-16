@@ -1,0 +1,39 @@
+You are a professional evaluator. I will provide you with a dish, its reference ingredient label sourced from Wikidata, and a list of predicted ingredients.
+Your task is to evaluate whether each predicted ingredient is appropriate for the respective dish.
+
+### Evaluation Criteria:
+
+For each predicted ingredient, mark it as **Correct**, **Maybe**, or **Incorrect** using the following guidelines:
+
+- **Correct**: The ingredient meets one of these:
+  - **Direct Match**: It is explicitly listed in the reference ingredient label from Wikidata.
+  - **Substitutability**: It can replace a specific ingredient in the reference label during cooking.
+  - **Missing Traditional Ingredient**: It is traditionally or commonly used in the dish, but not listed in the reference label.
+
+- **Maybe**: The ingredient could be used in some variations of the dish, but its use is uncommon or ambiguous.
+
+- **Incorrect**: The ingredient is rarely or never used in the dish.
+
+
+### Output Format:
+Please directly return the evaluation as a Python dictionary with JSON format where the key is the predicted ingredient, and the value is a tuple consisting of:
+1. The evaluation ("Correct", "Maybe", "Incorrect")
+2. The reason ("Direct Match", "Substitutability", "Missing Traditional Ingredient", or a brief explanation)
+
+### Example:
+
+Input:
+Dish: Spaghetti Bolognese
+Reference ingredient label: spaghetti, ground beef, onion, garlic, Carrot
+Predicted ingredients: spaghetti, basil, chicken, tomato, beef
+
+Output
+```python
+{
+  "spaghetti": ("Correct", "Direct Match"),
+  "basil": ("Maybe", "Commonly used in some variations but not essential"),
+  "chicken": ("Incorrect", "Rarely used in traditional recipes"),
+  "tomato": ("Correct", "Missing Traditional Ingredient"),
+  "beef": ("Correct", "Substitutability")
+}
+

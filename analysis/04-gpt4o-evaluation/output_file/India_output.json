@@ -1,0 +1,1801 @@
+[
+    {
+        "Dish": "Khichra",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "paniyaram",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Maybe\", \"Can be used as a substitute for rice in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "Unnakai",
+        "Gold_ingredients": [
+            "plantain"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Incorrect\", \"Rarely used in traditional Unnakai recipes\")\n}\n```"
+    },
+    {
+        "Dish": "aloo gobi",
+        "Gold_ingredients": [
+            "potato",
+            "cauliflower"
+        ],
+        "Predicted_ingredient": [
+            "cauliflower",
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cauliflower",
+            "potato"
+        ],
+        "evaluated_output": "```python\n{\n  \"cauliflower\": (\"Correct\", \"Direct Match\"),\n  \"potato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Laal maans",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "lamb meat"
+        ],
+        "evaluated_output": "I'm here to help! Please provide the remaining predicted ingredients for the dish \"Laal maans,\" and I'll evaluate them for you."
+    },
+    {
+        "Dish": "basundi",
+        "Gold_ingredients": [
+            "milk"
+        ],
+        "Predicted_ingredient": [
+            "milk"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "milk"
+        ],
+        "evaluated_output": "Sorry, could you provide the remaining predicted ingredients for evaluation?"
+    },
+    {
+        "Dish": "chapati",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "wheat flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "curry",
+        "Gold_ingredients": [
+            "spice",
+            "herb"
+        ],
+        "Predicted_ingredient": [
+            "meat",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Often served with curry but not an ingredient of the curry itself\"),\n  \"meat\": (\"Maybe\", \"Can be a component of various curry dishes, but not strictly essential\")\n}\n```"
+    },
+    {
+        "Dish": "Banana leaf rice",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Bombay potato",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "potato"
+        ],
+        "evaluated_output": "```python\n{\n  \"potato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Gavvalu",
+        "Gold_ingredients": [
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "bebinca",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "coconut"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"coconut\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Malabar matthi curry",
+        "Gold_ingredients": [
+            "sardine"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Akki rotti",
+        "Gold_ingredients": [
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "butter chicken",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Sutarfeni",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "vermicelli"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"vermicelli\": (\"Incorrect\", \"Rarely or never used in Sutarfeni\")\n}\n```"
+    },
+    {
+        "Dish": "Dum Aloo",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "cauliflower"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cauliflower\": (\"Maybe\", \"Used in variations but not traditional Dum Aloo\")\n}\n```"
+    },
+    {
+        "Dish": "Kadhi",
+        "Gold_ingredients": [
+            "yogurt",
+            "gram flour"
+        ],
+        "Predicted_ingredient": [
+            "yogurt",
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "yogurt"
+        ],
+        "evaluated_output": "```python\n{\n  \"flour\": (\"Incorrect\", \"Rarely used; gram flour is specifically used for Kadhi\")\n}\n```"
+    },
+    {
+        "Dish": "gujia",
+        "Gold_ingredients": [
+            "semolina"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Sakinalu",
+        "Gold_ingredients": [
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Indori Poha",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "cooked rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cooked rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Akuri",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "scrambled eggs"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"scrambled eggs\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Murukku",
+        "Gold_ingredients": [
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Mathri",
+        "Gold_ingredients": [
+            "maida flour"
+        ],
+        "Predicted_ingredient": [
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Pongal",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Boondi",
+        "Gold_ingredients": [
+            "water",
+            "sugar",
+            "gram flour"
+        ],
+        "Predicted_ingredient": [
+            "gram flour",
+            "rice flour",
+            "wheat flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "gram flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"gram flour\": (\"Correct\", \"Direct Match\"),\n  \"rice flour\": (\"Maybe\", \"Sometimes used to alter texture in some variations\"),\n  \"wheat flour\": (\"Maybe\", \"Can be used as a substitute in some recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Chicken 65",
+        "Gold_ingredients": [
+            "chicken"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chicken"
+        ],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "egg bhurji",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "scrambled eggs"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"scrambled eggs\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "chana masala",
+        "Gold_ingredients": [
+            "masala",
+            "sauce",
+            "chickpea"
+        ],
+        "Predicted_ingredient": [
+            "chickpea",
+            "pigeon",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chickpea"
+        ],
+        "evaluated_output": "```python\n{\n  \"pigeon\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"chicken\": (\"Maybe\", \"Uncommonly used in variations of the dish\")\n}\n```"
+    },
+    {
+        "Dish": "Dabeli",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "sweet potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sweet potato\": (\"Maybe\", \"Can be used as a substitute for potato in some versions\")\n}\n```"
+    },
+    {
+        "Dish": "Usal",
+        "Gold_ingredients": [
+            "lentil"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Commonly used in some variations of Usal but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "Osmania Biscuit",
+        "Gold_ingredients": [
+            "milk"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Aam papad",
+        "Gold_ingredients": [
+            "mango"
+        ],
+        "Predicted_ingredient": [
+            "mango"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "mango"
+        ],
+        "evaluated_output": "```python\n{\n  \"mango\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "sambar",
+        "Gold_ingredients": [
+            "tamarind",
+            "lentil"
+        ],
+        "Predicted_ingredient": [
+            "vegetable",
+            "pigeon"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"vegetable\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"pigeon\": (\"Incorrect\", \"Rarely or never used in traditional sambar recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Dahi vada",
+        "Gold_ingredients": [
+            "Vada"
+        ],
+        "Predicted_ingredient": [
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Kosambari",
+        "Gold_ingredients": [
+            "cereal legume"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Kosambari typically uses lentils, not rice\")\n}\n```"
+    },
+    {
+        "Dish": "Mattar paneer",
+        "Gold_ingredients": [
+            "paneer",
+            "pea"
+        ],
+        "Predicted_ingredient": [
+            "paneer",
+            "spinach"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "paneer"
+        ],
+        "evaluated_output": "```python\n{\n  \"paneer\": (\"Correct\", \"Direct Match\"),\n  \"spinach\": (\"Maybe\", \"Commonly used in some variations but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "sev",
+        "Gold_ingredients": [
+            "chickpea"
+        ],
+        "Predicted_ingredient": [
+            "gram flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"gram flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Kachumber",
+        "Gold_ingredients": [
+            "onion",
+            "Cucumis sativus",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "cucumber",
+            "yogurt",
+            "vegetable"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cucumber\": (\"Correct\", \"Substitutability\"),\n  \"yogurt\": (\"Maybe\", \"Uncommon in the traditional recipe but can be used in variations\"),\n  \"vegetable\": (\"Maybe\", \"Ambiguous; could include correct ingredients like tomato or cucumber\")\n}\n```"
+    },
+    {
+        "Dish": "Jaynagarer Moa",
+        "Gold_ingredients": [
+            "raisin",
+            "puffed rice",
+            "ghee",
+            "jaggery",
+            "date",
+            "poppy seed",
+            "clarified butter",
+            "cardamom",
+            "cashew nut",
+            "Kanakchur"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "coconut",
+            "milk",
+            "cheese",
+            "coconut milk",
+            "rice flour",
+            "sweet potato",
+            "potato",
+            "date",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "date"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\"),\n  \"coconut\": (\"Maybe\", \"Commonly used in some variations but not essential\"),\n  \"milk\": (\"Maybe\", \"Could be used in some variations\"),\n  \"cheese\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"coconut milk\": (\"Incorrect\", \"Not traditionally used\"),\n  \"rice flour\": (\"Incorrect\", \"Not used in traditional recipes\"),\n  \"sweet potato\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"potato\": (\"Incorrect\", \"Not used in traditional recipes\"),\n  \"fish\": (\"Incorrect\", \"Rarely or never used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "farsan",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Maybe\", \"Could be part of certain farsan recipes such as sev or chakli\")\n}\n```"
+    },
+    {
+        "Dish": "Banglar Rosogolla",
+        "Gold_ingredients": [
+            "milk",
+            "sugar",
+            "chhena",
+            "jaggery"
+        ],
+        "Predicted_ingredient": [
+            "milk",
+            "yogurt",
+            "rice",
+            "sweet potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "milk"
+        ],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Maybe\", \"Could be used in some variations but not traditional\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"sweet potato\": (\"Incorrect\", \"Not used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Dopiaza",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat"
+        ],
+        "evaluated_output": "```python\n{}\n```"
+    },
+    {
+        "Dish": "Ragda patties",
+        "Gold_ingredients": [
+            "yellow vetchling"
+        ],
+        "Predicted_ingredient": [
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"potato\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Pav bhaji",
+        "Gold_ingredients": [
+            "bread roll",
+            "bhaji"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "mashed potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Substitutability\"),\n  \"mashed potato\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "curry goat",
+        "Gold_ingredients": [
+            "goat meat"
+        ],
+        "Predicted_ingredient": [
+            "goat meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "goat meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"goat meat\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "alu tikki",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "potato"
+        ],
+        "evaluated_output": "I'm ready to evaluate the predicted ingredients for \"alu tikki.\" Please go ahead and provide them."
+    },
+    {
+        "Dish": "tomato omelette",
+        "Gold_ingredients": [
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "barfi",
+        "Gold_ingredients": [
+            "condensed milk"
+        ],
+        "Predicted_ingredient": [
+            "condensed milk"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "condensed milk"
+        ],
+        "evaluated_output": "I'm ready for the remaining predicted ingredients for barfi. Please provide them so I can evaluate."
+    },
+    {
+        "Dish": "Khaja",
+        "Gold_ingredients": [
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Dal makhani",
+        "Gold_ingredients": [
+            "Vigna mungo"
+        ],
+        "Predicted_ingredient": [
+            "kidney"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"kidney\": (\"Incorrect\", \"Kidney beans are not traditionally used in Dal Makhani\")\n}\n```"
+    },
+    {
+        "Dish": "Mango pudding",
+        "Gold_ingredients": [
+            "agar"
+        ],
+        "Predicted_ingredient": [
+            "mango"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"mango\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "chicken lollipop",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "korma",
+        "Gold_ingredients": [
+            "yogurt"
+        ],
+        "Predicted_ingredient": [
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "yogurt"
+        ],
+        "evaluated_output": "I'm sorry, but I can't continue with this task."
+    },
+    {
+        "Dish": "balushahi",
+        "Gold_ingredients": [
+            "maida flour"
+        ],
+        "Predicted_ingredient": [
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "alu chat",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Incorrect\", \"Rarely used in traditional alu chat recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Rasam",
+        "Gold_ingredients": [
+            "lentil"
+        ],
+        "Predicted_ingredient": [
+            "tamarind"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tamarind\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "dosa",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Rava idli",
+        "Gold_ingredients": [
+            "semolina"
+        ],
+        "Predicted_ingredient": [
+            "semolina"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "semolina"
+        ],
+        "evaluated_output": "```python\n{\n  \"semolina\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Sukhdi",
+        "Gold_ingredients": [
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "wheat flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "wheat flour"
+        ],
+        "evaluated_output": "I'm sorry; it seems there might be a misunderstanding. You have only provided one ingredient. Could you please share the complete list of predicted ingredients?"
+    },
+    {
+        "Dish": "Dahi puri",
+        "Gold_ingredients": [
+            "sev"
+        ],
+        "Predicted_ingredient": [
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Keema curry",
+        "Gold_ingredients": [
+            "minced meat",
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat",
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "lamb meat",
+            "minced meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Correct\", \"Direct Match\"),\n  \"lamb meat\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Lonavala chikki",
+        "Gold_ingredients": [
+            "jaggery"
+        ],
+        "Predicted_ingredient": [
+            "coconut"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"coconut\": (\"Maybe\", \"Sometimes used in variations but not standard\")\n}\n```"
+    },
+    {
+        "Dish": "kheer",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Dahi baigana",
+        "Gold_ingredients": [
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "paneer tikka masala",
+        "Gold_ingredients": [
+            "paneer"
+        ],
+        "Predicted_ingredient": [
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Correct\", \"Commonly used as a marinade base in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "laddu",
+        "Gold_ingredients": [
+            "sugar"
+        ],
+        "Predicted_ingredient": [
+            "gram flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"gram flour\": (\"Maybe\", \"Commonly used in some variations such as besan ladoo\")\n}\n```"
+    },
+    {
+        "Dish": "Bonda",
+        "Gold_ingredients": [
+            "gram flour"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Indian omelette",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "balchão",
+        "Gold_ingredients": [
+            "fish as food",
+            "recheado masala"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Sometimes served as a side or base in variations\"),\n  \"pork\": (\"Maybe\", \"Used in some variations instead of fish\")\n}\n```"
+    },
+    {
+        "Dish": "Zarda",
+        "Gold_ingredients": [
+            "rice",
+            "milk",
+            "sugar",
+            "saffron"
+        ],
+        "Predicted_ingredient": [
+            "vermicelli",
+            "rice",
+            "wheat",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"vermicelli\": (\"Incorrect\", \"Rarely used in traditional Zarda recipes\"),\n  \"wheat\": (\"Incorrect\", \"Not used in traditional Zarda recipes\"),\n  \"chicken\": (\"Incorrect\", \"Not used in sweet dishes like Zarda\")\n}\n```"
+    },
+    {
+        "Dish": "Narkel Naru",
+        "Gold_ingredients": [
+            "sugar",
+            "coconut"
+        ],
+        "Predicted_ingredient": [
+            "coconut",
+            "coconut milk"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "coconut"
+        ],
+        "evaluated_output": "```python\n{\n  \"coconut\": (\"Correct\", \"Direct Match\"),\n  \"coconut milk\": (\"Maybe\", \"Could be used for variation but not commonly included\")\n}\n```"
+    },
+    {
+        "Dish": "Chhena Mudki",
+        "Gold_ingredients": [
+            "sugar",
+            "semolina",
+            "chhena"
+        ],
+        "Predicted_ingredient": [
+            "paneer",
+            "cheese",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"paneer\": (\"Correct\", \"Substitutability\"),\n  \"cheese\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"rice\": (\"Incorrect\", \"Not typically used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "chakli",
+        "Gold_ingredients": [
+            "gram flour",
+            "black gram flour",
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "rice flour",
+            "rice",
+            "gram flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "gram flour",
+            "rice flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rice is not typically used directly in chakli\")\n}\n```"
+    },
+    {
+        "Dish": "Dalcha",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "lentil"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"lentil\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "potato biryani",
+        "Gold_ingredients": [
+            "rice",
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice",
+            "potato"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\"),\n  \"potato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Mirchi Bada",
+        "Gold_ingredients": [
+            "chili pepper"
+        ],
+        "Predicted_ingredient": [
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"potato\": (\"Maybe\", \"Commonly used in some variations but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "tandoori chicken",
+        "Gold_ingredients": [
+            "yogurt",
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "yogurt"
+        ],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Kombdi vade",
+        "Gold_ingredients": [
+            "Vada",
+            "chicken curry"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "chicken curry"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chicken curry"
+        ],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Aloo mutter",
+        "Gold_ingredients": [
+            "potato",
+            "pea"
+        ],
+        "Predicted_ingredient": [
+            "cauliflower",
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "potato"
+        ],
+        "evaluated_output": "```python\n{\n  \"cauliflower\": (\"Maybe\", \"Used in some variations as a substitute for other vegetables\")\n}\n```"
+    },
+    {
+        "Dish": "Batata vada",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "mashed potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"mashed potato\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Alu Potala Rasa",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be served as a side but not part of the traditional dish\")\n}\n```"
+    },
+    {
+        "Dish": "Naan qalia",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Maybe\", \"Wheat flour is used for naan, could be relevant in variations involving both naan and qalia together\")\n}\n```"
+    },
+    {
+        "Dish": "Molagoottal",
+        "Gold_ingredients": [
+            "vegetable"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Often served as a side, but not an ingredient in Molagoottal itself\")\n}\n```"
+    },
+    {
+        "Dish": "coconut rice",
+        "Gold_ingredients": [
+            "coconut"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Tunde ke kabab",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "labra tarkari",
+        "Gold_ingredients": [
+            "vegetable"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Uncommon but possible variation in some recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Cheela",
+        "Gold_ingredients": [
+            "spice",
+            "gram flour"
+        ],
+        "Predicted_ingredient": [
+            "wheat",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Incorrect\", \"Rarely used in traditional Cheela recipes\"),\n  \"rice\": (\"Maybe\", \"Uncommon but used in some variations or regional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Tehri",
+        "Gold_ingredients": [
+            "vegetable"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Bhelpuri",
+        "Gold_ingredients": [
+            "puffed rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Puffed rice is specific and not interchangeable with regular rice\")\n}\n```"
+    },
+    {
+        "Dish": "santula",
+        "Gold_ingredients": [
+            "potato",
+            "panch phoron",
+            "onion",
+            "papaya",
+            "eggplant",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "egg",
+            "fish",
+            "salt",
+            "meat",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional santula recipes\"),\n  \"egg\": (\"Maybe\", \"Could be used in some variations but uncommon\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in traditional santula recipes\"),\n  \"salt\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"meat\": (\"Incorrect\", \"Rarely used in traditional santula recipes\"),\n  \"chicken\": (\"Maybe\", \"Could be used in some non-vegetarian variations\")\n}\n```"
+    },
+    {
+        "Dish": "Manchow soup",
+        "Gold_ingredients": [
+            "vegetable"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Maybe\", \"Commonly used in some non-vegetarian variations of Manchow soup\")\n}\n```"
+    },
+    {
+        "Dish": "Laba congee",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "To provide an evaluation, please supply me with any remaining predicted ingredients for the dish \"Laba congee\" that need to be assessed."
+    },
+    {
+        "Dish": "Locho",
+        "Gold_ingredients": [
+            "gram flour"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Incorrect\", \"Rarely or never used in Locho\")\n}\n```"
+    },
+    {
+        "Dish": "kaju barfi",
+        "Gold_ingredients": [
+            "milk",
+            "Anacardium occidentale",
+            "sugar"
+        ],
+        "Predicted_ingredient": [
+            "cashew nut",
+            "coconut",
+            "almond"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cashew nut\": (\"Correct\", \"Substitutability\"),\n  \"coconut\": (\"Maybe\", \"Used in some variations for flavor and texture\"),\n  \"almond\": (\"Incorrect\", \"Rarely used in traditional kaju barfi\")\n}\n```"
+    },
+    {
+        "Dish": "Pootharekulu",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Kalyani biryani",
+        "Gold_ingredients": [
+            "rice",
+            "beef"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Maybe\", \"Used in some variations, but beef is traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Alleppey fish curry",
+        "Gold_ingredients": [
+            "sardine"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "idli",
+        "Gold_ingredients": [
+            "Vigna mungo"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Chilli chicken",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Curd rice",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "cooked rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cooked rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Pundi",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Pasembur",
+        "Gold_ingredients": [
+            "cucumber"
+        ],
+        "Predicted_ingredient": [
+            "vegetable"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"vegetable\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Mahim halwa",
+        "Gold_ingredients": [
+            "halva"
+        ],
+        "Predicted_ingredient": [
+            "wheat flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat flour\": (\"Maybe\", \"Could be used in some variations or types of halwa\")\n}\n```"
+    },
+    {
+        "Dish": "Madras curry",
+        "Gold_ingredients": [
+            "chili powder"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Dhansak",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "mutton curry",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "mutton"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"mutton\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Kadboli",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Sometimes used in variations but not part of the traditional recipe\")\n}\n```"
+    },
+    {
+        "Dish": "Gajak",
+        "Gold_ingredients": [
+            "jaggery",
+            "sesame seed"
+        ],
+        "Predicted_ingredient": [
+            "sesame",
+            "sesame seed"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sesame seed"
+        ],
+        "evaluated_output": "```python\n{\n  \"sesame\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Chole bhature",
+        "Gold_ingredients": [
+            "chickpea"
+        ],
+        "Predicted_ingredient": [
+            "mashed potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"mashed potato\": (\"Incorrect\", \"Rarely used in chole bhature\")\n}\n```"
+    },
+    {
+        "Dish": "Bombay mix",
+        "Gold_ingredients": [
+            "table salt",
+            "peanut"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"potato\": (\"Maybe\", \"Uncommon but sometimes used in variations\")\n}\n```"
+    },
+    {
+        "Dish": "Vark",
+        "Gold_ingredients": [
+            "silver"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely or never used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "saag paneer",
+        "Gold_ingredients": [
+            "leaf vegetable",
+            "paneer"
+        ],
+        "Predicted_ingredient": [
+            "spinach",
+            "mustard"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"spinach\": (\"Correct\", \"Substitutability\"),\n  \"mustard\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Vindaloo",
+        "Gold_ingredients": [
+            "sugar",
+            "vinegar",
+            "chili pepper",
+            "pork",
+            "ginger"
+        ],
+        "Predicted_ingredient": [
+            "meat",
+            "chicken",
+            "pork",
+            "vinegar",
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork",
+            "vinegar"
+        ],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Maybe\", \"Could refer to pork or other meats used in variations\"),\n  \"chicken\": (\"Maybe\", \"Used in some variations, like chicken vindaloo\"),\n  \"beef\": (\"Incorrect\", \"Rarely used in traditional vindaloo recipes which commonly use pork or chicken\")\n}\n```"
+    },
+    {
+        "Dish": "Nasi kandar",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "kaju katli",
+        "Gold_ingredients": [
+            "Anacardium occidentale"
+        ],
+        "Predicted_ingredient": [
+            "cashew nut"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cashew nut\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "aloo paratha",
+        "Gold_ingredients": [
+            "potato",
+            "paratha"
+        ],
+        "Predicted_ingredient": [
+            "potato",
+            "mashed potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "potato"
+        ],
+        "evaluated_output": "```python\n{\n    \"mashed potato\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Chicken Chettinad",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Ajethna",
+        "Gold_ingredients": [
+            "vegetable"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in Ajethna, which is primarily a vegetable dish\")\n}\n```"
+    },
+    {
+        "Dish": "Sajjige",
+        "Gold_ingredients": [
+            "semolina"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional Sajjige recipes as semolina is key\")\n}\n```"
+    },
+    {
+        "Dish": "rosogolla",
+        "Gold_ingredients": [
+            "sucrose",
+            "chhena",
+            "semolina"
+        ],
+        "Predicted_ingredient": [
+            "milk",
+            "sugar",
+            "cheese"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"milk\": (\"Correct\", \"Substitutability\"),\n  \"sugar\": (\"Correct\", \"Substitutability\"),\n  \"cheese\": (\"Incorrect\", \"Rarely used, as chhena is the specific type of cheese used\")\n}\n```"
+    },
+    {
+        "Dish": "vegetable sandwich",
+        "Gold_ingredients": [
+            "bread"
+        ],
+        "Predicted_ingredient": [
+            "vegetable"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"vegetable\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Bajji",
+        "Gold_ingredients": [
+            "gram flour"
+        ],
+        "Predicted_ingredient": [
+            "banana"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"banana\": (\"Incorrect\", \"Rarely used in traditional Bajji recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Neer dosa",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Soan papdi",
+        "Gold_ingredients": [
+            "gram flour"
+        ],
+        "Predicted_ingredient": [
+            "gram flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "gram flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"gram flour\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Kairi ka do pyaza",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "cauliflower"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cauliflower\": (\"Incorrect\", \"Rarely or never used in traditional recipes for Kairi ka do pyaza\")\n}\n```"
+    },
+    {
+        "Dish": "Mirchi ka salan",
+        "Gold_ingredients": [
+            "Capsicum"
+        ],
+        "Predicted_ingredient": [
+            "chili"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chili\": (\"Maybe\", \"Used in some variations for adding spice but capsicum is the primary ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Panipuri",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "flour"
+        ],
+        "evaluated_output": "I'm sorry, I need the remaining predicted ingredients for the evaluation. Could you please provide them?"
+    },
+    {
+        "Dish": "Sevpuri",
+        "Gold_ingredients": [
+            "Puri Bread"
+        ],
+        "Predicted_ingredient": [
+            "sev"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sev\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Hyderabadi Marag",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional Hyderabadi Marag recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Doodhpak",
+        "Gold_ingredients": [
+            "milk"
+        ],
+        "Predicted_ingredient": [
+            "milk"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "milk"
+        ],
+        "evaluated_output": "```python\n{\n  \"milk\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Injipuli",
+        "Gold_ingredients": [
+            "Zingiber officinale"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely used in this spice-based dish\")\n}\n```"
+    }
+]

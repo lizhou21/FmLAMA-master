@@ -1,0 +1,3292 @@
+[
+    {
+        "Dish": "bolognese sauce",
+        "Gold_ingredients": [
+            "carrot",
+            "wine",
+            "milk",
+            "celery",
+            "minced meat",
+            "onion",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "ground beef",
+            "minced meat",
+            "meat",
+            "beef",
+            "pasta",
+            "turkey meat",
+            "tomato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "minced meat",
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Substitutability\"),\n  \"meat\": (\"Correct\", \"Substitutability\"),\n  \"turkey meat\": (\"Maybe\", \"Can be used in variations but not traditional\"),\n  \"pasta\": (\"Incorrect\", \"Not an ingredient of the sauce itself\"),\n  \"ground beef\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Coda alla vaccinara",
+        "Gold_ingredients": [
+            "oxtail"
+        ],
+        "Predicted_ingredient": [
+            "oxtail"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "oxtail"
+        ],
+        "evaluated_output": "```python\n{\n  \"oxtail\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Scattone",
+        "Gold_ingredients": [
+            "red wine"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Incorrect\", \"Rarely used in the traditional dish Scattone\")\n}\n```"
+    },
+    {
+        "Dish": "tortionata",
+        "Gold_ingredients": [
+            "almond"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n    \"rice\": (\"Incorrect\", \"Rarely or never used in tortionata\")\n}\n```"
+    },
+    {
+        "Dish": "prosciutto",
+        "Gold_ingredients": [
+            "Dalmatian ham",
+            "Njeguška pršuta",
+            "Istarski pršut"
+        ],
+        "Predicted_ingredient": [
+            "ham",
+            "pork",
+            "raw ham"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ham\": (\"Maybe\", \"Could be used as a general term for prosciutto\"),\n  \"pork\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"raw ham\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Pandoro",
+        "Gold_ingredients": [
+            "sugar",
+            "butter",
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "flour",
+            "butter"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "butter",
+            "flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Bread is not used in traditional pandoro recipes\")\n}\n```"
+    },
+    {
+        "Dish": "parmigiana",
+        "Gold_ingredients": [
+            "table salt",
+            "peppercorn",
+            "Fior di latte",
+            "oil",
+            "Parmesan cheese",
+            "onion",
+            "tomato sauce",
+            "basil",
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "egg",
+            "chicken",
+            "meat",
+            "bread crumbs",
+            "cheese",
+            "beef",
+            "pasta",
+            "tomato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Used in breadcrumb form in some variations\"),\n  \"egg\": (\"Correct\", \"Missing Traditional Ingredient for coating\"),\n  \"chicken\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"meat\": (\"Incorrect\", \"Not a traditional component\"),\n  \"bread crumbs\": (\"Correct\", \"Missing Traditional Ingredient for coating\"),\n  \"cheese\": (\"Correct\", \"Substitutability, refers to Parmesan or Fior di latte\"),\n  \"beef\": (\"Incorrect\", \"Not traditionally used in parmigiana\"),\n  \"pasta\": (\"Incorrect\", \"Not typically included in parmigiana\"),\n  \"tomato\": (\"Correct\", \"Substitutability, refers to tomato sauce\")\n}\n```"
+    },
+    {
+        "Dish": "Brutti e buoni",
+        "Gold_ingredients": [
+            "Prunus dulcis",
+            "almond"
+        ],
+        "Predicted_ingredient": [
+            "chocolate",
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chocolate\": (\"Maybe\", \"Could be used in some variations but not traditional\"),\n  \"dough\": (\"Incorrect\", \"Not used in traditional recipes for Brutti e buoni\")\n}\n```"
+    },
+    {
+        "Dish": "farinata",
+        "Gold_ingredients": [
+            "water",
+            "olive oil",
+            "gram flour",
+            "chickpea"
+        ],
+        "Predicted_ingredient": [
+            "chickpea",
+            "bread",
+            "tripe",
+            "garlic"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chickpea"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"tripe\": (\"Incorrect\", \"Not used in traditional farinata\"),\n  \"garlic\": (\"Maybe\", \"Could be used in some variations, but not typical\")\n}\n```"
+    },
+    {
+        "Dish": "porchetta",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n   \"pork\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "panini",
+        "Gold_ingredients": [
+            "bread"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Amaretti di Sassello",
+        "Gold_ingredients": [
+            "sugar",
+            "egg",
+            "Prunus armeniaca",
+            "almond"
+        ],
+        "Predicted_ingredient": [
+            "almond",
+            "chocolate",
+            "egg",
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg",
+            "almond"
+        ],
+        "evaluated_output": "```python\n{\n  \"chocolate\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"honey\": (\"Maybe\", \"Used in some variations but not common\")\n}\n```"
+    },
+    {
+        "Dish": "gnocchi di zucca",
+        "Gold_ingredients": [
+            "flour",
+            "egg",
+            "pumpkin"
+        ],
+        "Predicted_ingredient": [
+            "pumpkin",
+            "pasta",
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pumpkin"
+        ],
+        "evaluated_output": "```python\n{\n  \"potato\": (\"Maybe\", \"Common variation in some gnocchi recipes\"),\n  \"pasta\": (\"Incorrect\", \"Pasta is not typically used in gnocchi di zucca\")\n}\n```"
+    },
+    {
+        "Dish": "Castagnaccio",
+        "Gold_ingredients": [
+            "chestnut flour"
+        ],
+        "Predicted_ingredient": [
+            "chestnut flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chestnut flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"chestnut flour\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Colomba di Pasqua",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Bread is a final product, not an ingredient used in making Colomba di Pasqua\")\n}\n```"
+    },
+    {
+        "Dish": "conchiglioni",
+        "Gold_ingredients": [
+            "durum flour"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "parma ham",
+        "Gold_ingredients": [
+            "pork thigh"
+        ],
+        "Predicted_ingredient": [
+            "ham"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ham\": (\"Maybe\", \"Could be used as a general term, but not specific to Parma ham\")\n}\n```"
+    },
+    {
+        "Dish": "Campanelle",
+        "Gold_ingredients": [
+            "wheat"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "frittata",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Zuccotto",
+        "Gold_ingredients": [
+            "cake"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Rarely used in traditional Zuccotto recipes\")\n}\n```"
+    },
+    {
+        "Dish": "sformato",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be used in some variations of sformato but is not common\")\n}\n```"
+    },
+    {
+        "Dish": "sugo all'amatriciana",
+        "Gold_ingredients": [
+            "white wine",
+            "table salt",
+            "spaghetti",
+            "tomato",
+            "chili pepper",
+            "oil",
+            "Pecorino",
+            "guanciale",
+            "tomato sauce"
+        ],
+        "Predicted_ingredient": [
+            "guanciale",
+            "pasta",
+            "tomato",
+            "spaghetti",
+            "bacon",
+            "pork",
+            "garlic",
+            "sausage",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "guanciale",
+            "spaghetti",
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\"),\n  \"bacon\": (\"Maybe\", \"Sometimes used as a substitute for guanciale\"),\n  \"pork\": (\"Maybe\", \"Could refer to guanciale, but not specific enough\"),\n  \"garlic\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"sausage\": (\"Incorrect\", \"Not commonly used in this dish\"),\n  \"egg\": (\"Incorrect\", \"Not used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "Pastiera",
+        "Gold_ingredients": [
+            "ricotta"
+        ],
+        "Predicted_ingredient": [
+            "ricotta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "ricotta"
+        ],
+        "evaluated_output": "Could you please provide the remaining predicted ingredients to evaluate?"
+    },
+    {
+        "Dish": "fileja",
+        "Gold_ingredients": [
+            "durum wheat semolina"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rice is not used in traditional fileja, which is a type of pasta made with durum wheat semolina\")\n}\n```"
+    },
+    {
+        "Dish": "Génoise cake",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "almond"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"almond\": (\"Incorrect\", \"Rarely used in traditional Génoise cake recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Liquirizia di Calabria",
+        "Gold_ingredients": [
+            "liquorice",
+            "licorice"
+        ],
+        "Predicted_ingredient": [
+            "liquorice",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "liquorice"
+        ],
+        "evaluated_output": "```python\n{\n  \"liquorice\": (\"Correct\", \"Direct Match\"),\n  \"egg\": (\"Incorrect\", \"Rarely or never used in traditional Liquirizia di Calabria\")\n}\n```"
+    },
+    {
+        "Dish": "taròz",
+        "Gold_ingredients": [
+            "bean",
+            "Valtellina Casera",
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "rice flour",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rice is not typically used in traditional taròz\"),\n  \"rice flour\": (\"Incorrect\", \"Rice flour is not a component of traditional taròz\"),\n  \"pork and beans\": (\"Incorrect\", \"Beans are used, but not typically combined with pork in taròz\")\n}\n```"
+    },
+    {
+        "Dish": "garganelli",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Pupi di zucchero",
+        "Gold_ingredients": [
+            "sugar",
+            "lemon juice"
+        ],
+        "Predicted_ingredient": [
+            "sugar",
+            "caramel"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sugar"
+        ],
+        "evaluated_output": "```python\n{\n  \"caramel\": (\"Maybe\", \"Could be used for color or flavoring in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "spaghetti alla puttanesca",
+        "Gold_ingredients": [
+            "spaghetti",
+            "Origanum vulgare",
+            "parsley",
+            "chili pepper",
+            "caper",
+            "Engraulidae",
+            "tomato",
+            "garlic",
+            "black olive",
+            "sugo alla puttanesca"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti",
+            "pasta",
+            "tomato",
+            "garlic",
+            "olive",
+            "egg pasta",
+            "seafood",
+            "shrimp",
+            "tomato sauce",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "spaghetti",
+            "garlic",
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork and beans\": (\"Incorrect\", \"Not associated with spaghetti alla puttanesca\"),\n  \"tomato sauce\": (\"Correct\", \"Substitutability\"),\n  \"olive\": (\"Correct\", \"Substitutability\"),\n  \"shrimp\": (\"Maybe\", \"Occasionally used in seafood variations, but not traditional\"),\n  \"pasta\": (\"Maybe\", \"Pasta can refer to any type, spaghetti is the specific pasta used\"),\n  \"egg pasta\": (\"Incorrect\", \"Egg pasta is not traditionally used in this dish\"),\n  \"seafood\": (\"Maybe\", \"Could be used in some variations, but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Caponata",
+        "Gold_ingredients": [
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional Caponata recipes\")\n}\n```"
+    },
+    {
+        "Dish": "calzone",
+        "Gold_ingredients": [
+            "ricotta"
+        ],
+        "Predicted_ingredient": [
+            "pizza"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pizza\": (\"Incorrect\", \"Calzone and pizza are distinct dishes; 'pizza' as an ingredient is not applicable\")\n}\n```"
+    },
+    {
+        "Dish": "Nocciolini di Canzo",
+        "Gold_ingredients": [
+            "hazelnut"
+        ],
+        "Predicted_ingredient": [
+            "hazelnut"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "hazelnut"
+        ],
+        "evaluated_output": "```python\n{\n  \"hazelnut\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "cioccolato di Modica",
+        "Gold_ingredients": [
+            "chocolate",
+            "sugar"
+        ],
+        "Predicted_ingredient": [
+            "chocolate",
+            "chocolate chip"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chocolate"
+        ],
+        "evaluated_output": "```python\n{\n  \"chocolate chip\": (\"Incorrect\", \"Rarely used in traditional cioccolato di Modica\")\n}\n```"
+    },
+    {
+        "Dish": "trofie",
+        "Gold_ingredients": [
+            "durum wheat semolina"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Rufioi",
+        "Gold_ingredients": [
+            "sugar",
+            "flour",
+            "egg",
+            "cocoa powder"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "beef",
+            "fish",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in Rufioi\"),\n  \"beef\": (\"Incorrect\", \"Rarely or never used in Rufioi\"),\n  \"fish\": (\"Incorrect\", \"Rarely or never used in Rufioi\"),\n  \"chicken\": (\"Incorrect\", \"Rarely or never used in Rufioi\")\n}\n```"
+    },
+    {
+        "Dish": "Trippa alla fiorentina",
+        "Gold_ingredients": [
+            "tripe"
+        ],
+        "Predicted_ingredient": [
+            "tripe"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tripe"
+        ],
+        "evaluated_output": "```python\n{\n  \"tripe\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "antipasto",
+        "Gold_ingredients": [
+            "cold cut"
+        ],
+        "Predicted_ingredient": [
+            "cheese"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cheese\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "tomato sauce",
+        "Gold_ingredients": [
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "tomato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"tomato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "peperonata",
+        "Gold_ingredients": [
+            "bell pepper"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional recipes of peperonata\")\n}\n```"
+    },
+    {
+        "Dish": "risi e bisi",
+        "Gold_ingredients": [
+            "pea",
+            "risotto rice"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\"),\n  \"pork and beans\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Buridda",
+        "Gold_ingredients": [
+            "broth"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Incorrect\", \"Rarely or never used in traditional buridda recipes\")\n}\n```"
+    },
+    {
+        "Dish": "orecchiette",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "frico",
+        "Gold_ingredients": [
+            "cheese"
+        ],
+        "Predicted_ingredient": [
+            "grated cheese"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"grated cheese\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Rafanata",
+        "Gold_ingredients": [
+            "egg",
+            "horseradish root"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "cauliflower"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Direct Match\"),\n  \"cauliflower\": (\"Incorrect\", \"Rarely used in Rafanata\")\n}\n```"
+    },
+    {
+        "Dish": "carpaccio",
+        "Gold_ingredients": [
+            "beef"
+        ],
+        "Predicted_ingredient": [
+            "cold cut"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cold cut\": (\"Maybe\", \"Cold cuts can refer to thinly sliced ready-to-eat meats which could be a variation but not specifically traditional carpaccio\")\n}\n```"
+    },
+    {
+        "Dish": "focaccia barese",
+        "Gold_ingredients": [
+            "water",
+            "yeast",
+            "table salt",
+            "Origanum",
+            "flour",
+            "olive",
+            "oil",
+            "sugar",
+            "potato",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "yeast",
+            "olive",
+            "dough",
+            "flour",
+            "wheat",
+            "pizza",
+            "garlic",
+            "pasta",
+            "tomato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "olive",
+            "yeast",
+            "flour",
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"pizza\": (\"Incorrect\", \"Rarely used in focaccia recipes\"),\n  \"wheat\": (\"Correct\", \"Substitutability\"),\n  \"dough\": (\"Correct\", \"Substitutability\"),\n  \"garlic\": (\"Maybe\", \"Can be used in variations but not common in traditional recipes\"),\n  \"pasta\": (\"Incorrect\", \"Not used in focaccia\"),\n  \"bread\": (\"Incorrect\", \"Generic term not specific to this dish\")\n}\n```"
+    },
+    {
+        "Dish": "panettone",
+        "Gold_ingredients": [
+            "flour",
+            "raisin",
+            "candied fruit"
+        ],
+        "Predicted_ingredient": [
+            "yeast",
+            "bread",
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Bread is not an ingredient, but rather the result of the baking process\"),\n  \"yeast\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Acquacotta",
+        "Gold_ingredients": [
+            "bread"
+        ],
+        "Predicted_ingredient": [
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Maybe\", \"Could be used in some variations of the dish\"),\n  \"beans\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Berlingozzo",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Incorrect\", \"Rarely used in a traditional cake like Berlingozzo\")\n}\n```"
+    },
+    {
+        "Dish": "tiramisu",
+        "Gold_ingredients": [
+            "coffee",
+            "ladyfinger",
+            "cocoa powder",
+            "mascarpone",
+            "chicken egg"
+        ],
+        "Predicted_ingredient": [
+            "ladyfinger",
+            "coffee",
+            "layer",
+            "cream",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "coffee",
+            "ladyfinger"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Substitutability\"),\n  \"cream\": (\"Maybe\", \"Commonly used as a variation or substitute for mascarpone\"),\n  \"layer\": (\"Incorrect\", \"Not an ingredient, more of a structural description\")\n}\n```"
+    },
+    {
+        "Dish": "panzanella",
+        "Gold_ingredients": [
+            "bread",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "bread crumbs"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread crumbs\": (\"Maybe\", \"Used in variations for texture but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Baccalà mantecato",
+        "Gold_ingredients": [
+            "stockfish",
+            "olive oil"
+        ],
+        "Predicted_ingredient": [
+            "salt",
+            "cod"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"salt\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"cod\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Arrabbiata sauce",
+        "Gold_ingredients": [
+            "chili pepper",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "garlic",
+            "tomato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"garlic\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Mondeghili",
+        "Gold_ingredients": [
+            "bread",
+            "milk",
+            "meat",
+            "egg",
+            "butter"
+        ],
+        "Predicted_ingredient": [
+            "meat",
+            "bread",
+            "beef",
+            "minced meat",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread",
+            "meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Direct Match\"),\n  \"meat\": (\"Correct\", \"Direct Match\"),\n  \"beef\": (\"Correct\", \"Substitutability\"),\n  \"minced meat\": (\"Correct\", \"Substitutability\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "cacio e pepe",
+        "Gold_ingredients": [
+            "pasta",
+            "peppercorn",
+            "Pecorino Romano"
+        ],
+        "Predicted_ingredient": [
+            "pasta",
+            "cheese",
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pasta"
+        ],
+        "evaluated_output": "```python\n{\n  \"cheese\": (\"Maybe\", \"Could refer to Pecorino Romano, but is ambiguous\"),\n  \"spaghetti\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "bigoli",
+        "Gold_ingredients": [
+            "whole-wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Maybe\", \"Commonly used as a substitute for bigoli in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "Sugoli",
+        "Gold_ingredients": [
+            "must"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in Sugoli, which is typically a grape must pudding\")\n}\n```"
+    },
+    {
+        "Dish": "macaroni soup",
+        "Gold_ingredients": [
+            "macaroni"
+        ],
+        "Predicted_ingredient": [
+            "macaroni"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "macaroni"
+        ],
+        "evaluated_output": "```python\n{\n  \"macaroni\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Polenta e osei",
+        "Gold_ingredients": [
+            "polenta"
+        ],
+        "Predicted_ingredient": [
+            "polenta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "polenta"
+        ],
+        "evaluated_output": "```python\n{\n  \"polenta\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "pizzas with shrimp or prawns",
+        "Gold_ingredients": [
+            "pizza",
+            "shrimp"
+        ],
+        "Predicted_ingredient": [
+            "shrimp",
+            "pizza"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "shrimp",
+            "pizza"
+        ],
+        "evaluated_output": "```python\n{\n  \"shrimp\": (\"Correct\", \"Direct Match\"),\n  \"pizza\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "risotto alla pilota",
+        "Gold_ingredients": [
+            "Oryza sativa"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Cassata",
+        "Gold_ingredients": [
+            "sponge cake"
+        ],
+        "Predicted_ingredient": [
+            "sponge cake"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sponge cake"
+        ],
+        "evaluated_output": "```python\n{\n  \"sponge cake\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "brustico",
+        "Gold_ingredients": [
+            "European perch"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Incorrect\", \"Rarely or never used in the traditional preparation of brustico\")\n}\n```"
+    },
+    {
+        "Dish": "Marinara sauce",
+        "Gold_ingredients": [
+            "tomato",
+            "onion",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "tomato",
+            "garlic",
+            "olive"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "garlic",
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"olive\": (\"Maybe\", \"Used in some variations for flavor enhancement\")\n}\n```"
+    },
+    {
+        "Dish": "Pappa",
+        "Gold_ingredients": [
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "zabaione",
+        "Gold_ingredients": [
+            "sugar",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "wine"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"wine\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "pecora alla callara",
+        "Gold_ingredients": [
+            "mutton"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Incorrect\", \"Rarely used in traditional pecora alla callara recipes\")\n}\n```"
+    },
+    {
+        "Dish": "pici",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Saltimbocca",
+        "Gold_ingredients": [
+            "Salvia",
+            "veal",
+            "prosciutto"
+        ],
+        "Predicted_ingredient": [
+            "veal",
+            "chicken",
+            "salt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "veal"
+        ],
+        "evaluated_output": "```python\n{\n  \"veal\": (\"Correct\", \"Direct Match\"),\n  \"chicken\": (\"Maybe\", \"Common substitute for veal in variations\"),\n  \"salt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Pasta alla Norma",
+        "Gold_ingredients": [
+            "pasta",
+            "ricotta salata",
+            "tomato",
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "eggplant",
+            "egg",
+            "pasta",
+            "egg pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "eggplant",
+            "pasta"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Can be used in some variations but uncommon\"),\n  \"egg pasta\": (\"Maybe\", \"Could be a variation but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "zuppa inglese",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Rarely used in zuppa inglese\")\n}\n```"
+    },
+    {
+        "Dish": "Taralli",
+        "Gold_ingredients": [
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"dough\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Stracciatella",
+        "Gold_ingredients": [
+            "broth",
+            "pressed cheese",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "pasta",
+            "egg pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Direct Match\"),\n  \"pasta\": (\"Maybe\", \"Can be used in some variations but not part of the traditional recipe\"),\n  \"egg pasta\": (\"Maybe\", \"Can be used in variations but not typically included\")\n}\n```"
+    },
+    {
+        "Dish": "Cuccìa",
+        "Gold_ingredients": [
+            "wheat"
+        ],
+        "Predicted_ingredient": [
+            "chickpea"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chickpea\": (\"Incorrect\", \"Rarely used in traditional recipes for Cuccìa\")\n}\n```"
+    },
+    {
+        "Dish": "Bigoli in salsa",
+        "Gold_ingredients": [
+            "bigoli",
+            "Engraulidae"
+        ],
+        "Predicted_ingredient": [
+            "bigoli",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bigoli"
+        ],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Maybe\", \"While pasta is a category bigoli belong to, 'bigoli' is more specific to the dish\")\n}\n```"
+    },
+    {
+        "Dish": "Neapolitan sauce",
+        "Gold_ingredients": [
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "tomato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"tomato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "sardella",
+        "Gold_ingredients": [
+            "sardine"
+        ],
+        "Predicted_ingredient": [
+            "sardine"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sardine"
+        ],
+        "evaluated_output": "```python\n{\n  \"sardine\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "bruschetta",
+        "Gold_ingredients": [
+            "condiment",
+            "tomato",
+            "ciabatta",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "toast",
+            "white bread",
+            "garlic"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "garlic"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Substitutability\"),\n  \"toast\": (\"Maybe\", \"Could be used in some variations but not traditional\"),\n  \"white bread\": (\"Incorrect\", \"Rarely used in traditional bruschetta recipes\")\n}\n```"
+    },
+    {
+        "Dish": "moeche",
+        "Gold_ingredients": [
+            "water",
+            "table salt",
+            "flour",
+            "egg",
+            "oil",
+            "crab"
+        ],
+        "Predicted_ingredient": [
+            "shrimp",
+            "crust",
+            "rice",
+            "mutton",
+            "crab",
+            "seafood"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "crab"
+        ],
+        "evaluated_output": "```python\n{\n  \"shrimp\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"crust\": (\"Incorrect\", \"Not typically an ingredient, but a part of texture or coating\"),\n  \"rice\": (\"Incorrect\", \"Not used in traditional moeche preparations\"),\n  \"mutton\": (\"Incorrect\", \"Never used in traditional recipes\"),\n  \"seafood\": (\"Maybe\", \"Generic term, could encompass crab but not specific\")\n}\n```"
+    },
+    {
+        "Dish": "Sarde in saor",
+        "Gold_ingredients": [
+            "Allium cepa",
+            "Sardina pilchardus"
+        ],
+        "Predicted_ingredient": [
+            "eel",
+            "salt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"eel\": (\"Incorrect\", \"Rarely or never used in this dish\"),\n  \"salt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "arrosticini",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "lamb meat"
+        ],
+        "evaluated_output": "```python\n{\n    \"lamb meat\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "deviled egg",
+        "Gold_ingredients": [
+            "stuffing",
+            "hard-boiled egg"
+        ],
+        "Predicted_ingredient": [
+            "hard-boiled egg",
+            "soft-boiled egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "hard-boiled egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"soft-boiled egg\": (\"Incorrect\", \"Rarely or never used in deviled eggs\")\n}\n```"
+    },
+    {
+        "Dish": "Cremino",
+        "Gold_ingredients": [
+            "Gianduja"
+        ],
+        "Predicted_ingredient": [
+            "cream"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cream\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "panna cotta",
+        "Gold_ingredients": [
+            "sugar",
+            "cream",
+            "gelatin"
+        ],
+        "Predicted_ingredient": [
+            "cream",
+            "milk",
+            "whipped cream"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cream"
+        ],
+        "evaluated_output": "```python\n{\n  \"whipped cream\": (\"Maybe\", \"Could be used for topping but not traditional in the dish itself\"),\n  \"milk\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Eurocrem",
+        "Gold_ingredients": [
+            "sugar",
+            "skimmed milk",
+            "cocoa powder",
+            "palm oil",
+            "soya lecithin",
+            "whey",
+            "hazelnut"
+        ],
+        "Predicted_ingredient": [
+            "cream",
+            "rice",
+            "egg",
+            "chicken",
+            "pork",
+            "beef",
+            "cream cheese"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cream\": (\"Incorrect\", \"Not used in Eurocrem\"),\n  \"rice\": (\"Incorrect\", \"Not used in Eurocrem\"),\n  \"egg\": (\"Incorrect\", \"Not used in Eurocrem\"),\n  \"chicken\": (\"Incorrect\", \"Not used in Eurocrem\"),\n  \"pork\": (\"Incorrect\", \"Not used in Eurocrem\"),\n  \"beef\": (\"Incorrect\", \"Not used in Eurocrem\"),\n  \"cream cheese\": (\"Incorrect\", \"Not used in Eurocrem\")\n}\n```"
+    },
+    {
+        "Dish": "Peperone crusco",
+        "Gold_ingredients": [
+            "Peperone di Senise"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional preparations of Peperone crusco\")\n}\n```"
+    },
+    {
+        "Dish": "Tapìt",
+        "Gold_ingredients": [
+            "water",
+            "flour",
+            "sugar",
+            "ammonium hydrogen carbonate"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "rice",
+            "meat",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"rice\": (\"Incorrect\", \"Not typically used in this dish\"),\n  \"meat\": (\"Incorrect\", \"Not included in the reference or common variations\"),\n  \"chicken\": (\"Incorrect\", \"Not a part of traditional or known variations\")\n}\n```"
+    },
+    {
+        "Dish": "pasta alla gricia",
+        "Gold_ingredients": [
+            "pasta",
+            "Pecorino Romano",
+            "guanciale"
+        ],
+        "Predicted_ingredient": [
+            "guanciale",
+            "pasta",
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "guanciale",
+            "pasta"
+        ],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Gianduja",
+        "Gold_ingredients": [
+            "chocolate",
+            "hazelnut"
+        ],
+        "Predicted_ingredient": [
+            "hazelnut",
+            "chocolate"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "hazelnut",
+            "chocolate"
+        ],
+        "evaluated_output": "```python\n{\n  \"hazelnut\": (\"Correct\", \"Direct Match\"),\n  \"chocolate\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "schiacciata con l'uva",
+        "Gold_ingredients": [
+            "Isabella"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Schiacciata con l'uva is a type of grape focaccia, sometimes uses bread dough\")\n}\n```"
+    },
+    {
+        "Dish": "Cotoletta alla bolognese",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "veal"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"veal\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Cacciucco",
+        "Gold_ingredients": [
+            "broth"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Rollatini",
+        "Gold_ingredients": [
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "egg pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg pasta\": (\"Maybe\", \"Commonly used in variations as a component but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "tapulone",
+        "Gold_ingredients": [
+            "red wine",
+            "lard",
+            "onion",
+            "donkey meat",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "fish",
+            "fermented fish",
+            "pork",
+            "coconut"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in tapulone\"),\n  \"fermented fish\": (\"Incorrect\", \"Rarely or never used in tapulone\"),\n  \"pork\": (\"Maybe\", \"Could be used as a substitute for donkey meat in some variations\"),\n  \"fish\": (\"Incorrect\", \"Rarely or never used in tapulone\"),\n  \"coconut\": (\"Incorrect\", \"Rarely or never used in tapulone\")\n}\n```"
+    },
+    {
+        "Dish": "pesto alla trapanese",
+        "Gold_ingredients": [
+            "table salt",
+            "Pecorino Siciliano",
+            "tomato",
+            "peppercorn",
+            "almond",
+            "extra virgin olive oil",
+            "garlic",
+            "basil"
+        ],
+        "Predicted_ingredient": [
+            "basil",
+            "garlic",
+            "egg",
+            "pasta",
+            "tomato",
+            "olive",
+            "bread",
+            "tomato sauce"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "basil",
+            "garlic",
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"tomato sauce\": (\"Maybe\", \"Used in some variations as a substitute for fresh tomatoes\"),\n  \"egg\": (\"Incorrect\", \"Rarely used in pesto alla trapanese recipes\"),\n  \"olive\": (\"Incorrect\", \"Olives themselves are not commonly used in this dish\"),\n  \"pasta\": (\"Maybe\", \"Commonly served with, but not an ingredient of the sauce itself\"),\n  \"bread\": (\"Maybe\", \"Sometimes served as a side but not part of the sauce\")\n}\n```"
+    },
+    {
+        "Dish": "pardulas",
+        "Gold_ingredients": [
+            "sugar",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Incorrect\", \"Rarely or never used in pardulas\"),\n  \"rice\": (\"Incorrect\", \"Rarely or never used in pardulas\")\n}\n```"
+    },
+    {
+        "Dish": "panpepato",
+        "Gold_ingredients": [
+            "Prunus dulcis"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Rarely used in traditional panpepato recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Vitello tonnato",
+        "Gold_ingredients": [
+            "white wine",
+            "tuna",
+            "veal"
+        ],
+        "Predicted_ingredient": [
+            "cold cut",
+            "bread",
+            "tuna"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tuna"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"cold cut\": (\"Maybe\", \"Could be used in some variations but not typical\")\n}\n```"
+    },
+    {
+        "Dish": "Frustingo",
+        "Gold_ingredients": [
+            "Ficus carica"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in traditional Frustingo recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Torta pasqualina",
+        "Gold_ingredients": [
+            "spinach",
+            "ricotta",
+            "cheese",
+            "olive oil"
+        ],
+        "Predicted_ingredient": [
+            "spinach",
+            "cheese",
+            "egg",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cheese",
+            "spinach"
+        ],
+        "evaluated_output": "```python\n{\n  \"spinach\": (\"Correct\", \"Direct Match\"),\n  \"cheese\": (\"Correct\", \"Direct Match\"),\n  \"egg\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"pasta\": (\"Incorrect\", \"Rarely used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "panforte",
+        "Gold_ingredients": [
+            "nut"
+        ],
+        "Predicted_ingredient": [
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"honey\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "tagliatelle",
+        "Gold_ingredients": [
+            "flour",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "pasta",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Gianduiotto",
+        "Gold_ingredients": [
+            "Gianduja"
+        ],
+        "Predicted_ingredient": [
+            "hazelnut"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"hazelnut\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "rotelle",
+        "Gold_ingredients": [
+            "durum wheat semolina"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "crostini",
+        "Gold_ingredients": [
+            "bread"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Margherita pizza",
+        "Gold_ingredients": [
+            "table salt",
+            "Mozzarella",
+            "San Marzano tomato",
+            "extra virgin olive oil",
+            "basil"
+        ],
+        "Predicted_ingredient": [
+            "tomato",
+            "pizza",
+            "cheese",
+            "flour",
+            "tomato sauce"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tomato\": (\"Correct\", \"Substitutability\"),\n  \"pizza\": (\"Incorrect\", \"Not an ingredient but the name of the dish\"),\n  \"cheese\": (\"Correct\", \"Substitutability\"),\n  \"flour\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"tomato sauce\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "gnocchi in the style of sorrento",
+        "Gold_ingredients": [
+            "Fior di latte",
+            "tomato sauce",
+            "potato gnocchi"
+        ],
+        "Predicted_ingredient": [
+            "potato",
+            "pasta",
+            "cheese"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"potato\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"pasta\": (\"Incorrect\", \"Rarely used; potato gnocchi is not pasta\"),\n  \"cheese\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Cappon magro",
+        "Gold_ingredients": [
+            "seafood"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "scarcella",
+        "Gold_ingredients": [
+            "shortcrust pastry"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "ditalini",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "panissa",
+        "Gold_ingredients": [
+            "rice",
+            "cranberry bean"
+        ],
+        "Predicted_ingredient": [
+            "chickpea",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"chickpea\": (\"Incorrect\", \"Rarely used in traditional panissa recipes\")\n}\n```"
+    },
+    {
+        "Dish": "tomato purée",
+        "Gold_ingredients": [
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "tomato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"tomato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Gnocchi alla romana",
+        "Gold_ingredients": [
+            "semolina"
+        ],
+        "Predicted_ingredient": [
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"potato\": (\"Incorrect\", \"Gnocchi alla romana is traditionally made with semolina, not potato\")\n}\n```"
+    },
+    {
+        "Dish": "fregula",
+        "Gold_ingredients": [
+            "semolina"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "baked ziti",
+        "Gold_ingredients": [
+            "bucatini"
+        ],
+        "Predicted_ingredient": [
+            "zucchini"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"zucchini\": (\"Maybe\", \"Can be used in some variations with added vegetables\")\n}\n```"
+    },
+    {
+        "Dish": "Rigatoni con la pajata",
+        "Gold_ingredients": [
+            "rigatoni"
+        ],
+        "Predicted_ingredient": [
+            "rigatoni"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rigatoni"
+        ],
+        "evaluated_output": "```python\n{\n  \"rigatoni\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "risotto",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "pasta e fagioli",
+        "Gold_ingredients": [
+            "pasta",
+            "common bean"
+        ],
+        "Predicted_ingredient": [
+            "pasta",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pasta"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork and beans\": (\"Incorrect\", \"This combination is not traditional in pasta e fagioli\")\n}\n```"
+    },
+    {
+        "Dish": "seafood pizza",
+        "Gold_ingredients": [
+            "seafood"
+        ],
+        "Predicted_ingredient": [
+            "seafood"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "seafood"
+        ],
+        "evaluated_output": "```python\n{\n  \"seafood\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "rotini",
+        "Gold_ingredients": [
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "marzipan",
+        "Gold_ingredients": [
+            "sugar",
+            "almond meal"
+        ],
+        "Predicted_ingredient": [
+            "almond",
+            "sugar"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sugar"
+        ],
+        "evaluated_output": "```python\n{\n  \"almond\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "peposo",
+        "Gold_ingredients": [
+            "red wine",
+            "beef"
+        ],
+        "Predicted_ingredient": [
+            "pork and beans",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n    \"pork and beans\": (\"Incorrect\", \"Rarely or never used in peposo\"),\n    \"rice\": (\"Maybe\", \"Might be served as a side but not part of the traditional dish\")\n}\n```"
+    },
+    {
+        "Dish": "troccoli",
+        "Gold_ingredients": [
+            "durum wheat semolina"
+        ],
+        "Predicted_ingredient": [
+            "broccoli"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"broccoli\": (\"Incorrect\", \"Rarely used in traditional recipes for troccoli\")\n}\n```"
+    },
+    {
+        "Dish": "Pasta con le sarde",
+        "Gold_ingredients": [
+            "pasta"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pasta"
+        ],
+        "evaluated_output": "Please provide the remaining predicted ingredients for evaluation."
+    },
+    {
+        "Dish": "Passatelli",
+        "Gold_ingredients": [
+            "egg",
+            "bread crumbs",
+            "grated cheese"
+        ],
+        "Predicted_ingredient": [
+            "pasta",
+            "bread",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Substitutability\"),\n  \"meat\": (\"Maybe\", \"Sometimes added in variations to make a soup\"),\n  \"pasta\": (\"Incorrect\", \"Passatelli itself is a type of pasta-like dish\")\n}\n```"
+    },
+    {
+        "Dish": "arancina",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "chisciöi",
+        "Gold_ingredients": [
+            "Valtellina Casera",
+            "buckwheat flour"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in chisciöi\"),\n  \"pasta\": (\"Incorrect\", \"Rarely or never used in chisciöi\")\n}\n```"
+    },
+    {
+        "Dish": "Mafaldine",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "polenta taragna",
+        "Gold_ingredients": [
+            "polenta",
+            "buckwheat flour"
+        ],
+        "Predicted_ingredient": [
+            "polenta",
+            "maize"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "polenta"
+        ],
+        "evaluated_output": "```python\n{\n  \"maize\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "spaghetti alla chitarra",
+        "Gold_ingredients": [
+            "durum wheat semolina"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Incorrect\", \"Spaghetti is a different type of pasta; not the same as spaghetti alla chitarra\")\n}\n```"
+    },
+    {
+        "Dish": "brioche con gelato",
+        "Gold_ingredients": [
+            "ice cream",
+            "whipped cream",
+            "brioscia"
+        ],
+        "Predicted_ingredient": [
+            "brioche",
+            "bread",
+            "butter"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"brioche\": (\"Correct\", \"Substitutability\"),\n  \"bread\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"butter\": (\"Maybe\", \"Could be used in some variations for flavor or texture\")\n}\n```"
+    },
+    {
+        "Dish": "Tramezzino",
+        "Gold_ingredients": [
+            "bread"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Brüscitt",
+        "Gold_ingredients": [
+            "red wine",
+            "beef",
+            "fennel fruit"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "chicken",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely or never used in Brüscitt\"),\n  \"chicken\": (\"Incorrect\", \"Rarely or never used in Brüscitt\"),\n  \"meat\": (\"Maybe\", \"Ambiguous term, could refer to beef\")\n}\n```"
+    },
+    {
+        "Dish": "Agnolini",
+        "Gold_ingredients": [
+            "egg pasta",
+            "stuffed pasta"
+        ],
+        "Predicted_ingredient": [
+            "stuffed pasta",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "stuffed pasta"
+        ],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Maybe\", \"General term that could include egg pasta but lacks specificity\")\n}\n```"
+    },
+    {
+        "Dish": "Ossobuco",
+        "Gold_ingredients": [
+            "veal"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "bigoli con l'anatra",
+        "Gold_ingredients": [
+            "duck meat",
+            "bigoli"
+        ],
+        "Predicted_ingredient": [
+            "bigoli",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bigoli"
+        ],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Maybe\", \"Bigoli is a type of pasta, but other types might be uncommon\")\n}\n```"
+    },
+    {
+        "Dish": "Caprese salad",
+        "Gold_ingredients": [
+            "Mozzarella",
+            "olive oil",
+            "tomato",
+            "basil"
+        ],
+        "Predicted_ingredient": [
+            "tomato",
+            "cherry",
+            "cream cheese",
+            "cheese"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"cherry\": (\"Incorrect\", \"Rarely used in Caprese salad\"),\n  \"cream cheese\": (\"Incorrect\", \"Not used in traditional Caprese salad\"),\n  \"cheese\": (\"Maybe\", \"Ambiguous as it could refer to Mozzarella, which is used\")\n}\n```"
+    },
+    {
+        "Dish": "Carne pizzaiola",
+        "Gold_ingredients": [
+            "meat",
+            "white wine",
+            "tomato paste",
+            "olive oil",
+            "tomato",
+            "garlic",
+            "basil"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "pork",
+            "meat",
+            "tomato",
+            "garlic",
+            "pizza",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat",
+            "garlic",
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"beef\": (\"Maybe\", \"Common variation as a type of meat\"),\n  \"pork\": (\"Maybe\", \"Common variation as a type of meat\"),\n  \"pizza\": (\"Incorrect\", \"Not related to the dish's ingredients\")\n}\n```"
+    },
+    {
+        "Dish": "Schlutzkrapfen",
+        "Gold_ingredients": [
+            "buckwheat seed"
+        ],
+        "Predicted_ingredient": [
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"dough\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "bollito misto",
+        "Gold_ingredients": [
+            "beef"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "beef"
+        ],
+        "evaluated_output": "I'm ready to evaluate the next set of predicted ingredients. Please provide them for the dish \"bollito misto.\""
+    },
+    {
+        "Dish": "spaghetti aglio e olio",
+        "Gold_ingredients": [
+            "spaghetti",
+            "olive oil",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti",
+            "garlic",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "spaghetti",
+            "garlic"
+        ],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "chicken marsala",
+        "Gold_ingredients": [
+            "flour",
+            "Allium cepa var. aggregatum",
+            "edible mushroom",
+            "Marsala wine",
+            "onion",
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "chicken meat",
+            "bread",
+            "butter",
+            "chicken soup",
+            "chicken curry"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chicken meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Substitutability\"),\n  \"bread\": (\"Maybe\", \"Used in some variations for coating or serving\"),\n  \"butter\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"chicken soup\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"chicken curry\": (\"Incorrect\", \"Not associated with the dish\")\n}\n```"
+    },
+    {
+        "Dish": "Tonno del Chianti",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "tuna"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tuna\": (\"Maybe\", \"Used in some modern interpretations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Ciceri e Tria",
+        "Gold_ingredients": [
+            "pasta",
+            "chickpea"
+        ],
+        "Predicted_ingredient": [
+            "pasta",
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pasta"
+        ],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Maybe\", \"Could be used as a pasta variation but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Ribollita",
+        "Gold_ingredients": [
+            "bread",
+            "Phaseolus vulgaris",
+            "Brassica oleracea var. palmifolia"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "vegetable",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "```python\n{\n  \"vegetable\": (\"Maybe\", \"Could refer to a variety of vegetables used in some recipes\"),\n  \"pork and beans\": (\"Incorrect\", \"Rarely used in traditional ribollita recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Salampatata",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Could be used in some variations but not commonly traditional\")\n}\n```"
+    },
+    {
+        "Dish": "fettuccine",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Lagane e cicciari",
+        "Gold_ingredients": [
+            "pappardelle"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Maybe\", \"Generic substitution for pappardelle in some variations but not typical\")\n}\n```"
+    },
+    {
+        "Dish": "Amaretto macaron",
+        "Gold_ingredients": [
+            "sugar",
+            "egg white",
+            "almond paste"
+        ],
+        "Predicted_ingredient": [
+            "almond",
+            "chocolate",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"almond\": (\"Correct\", \"Substitutability\"),\n  \"chocolate\": (\"Maybe\", \"Commonly used in some variations for flavor\"),\n  \"egg\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Sebada",
+        "Gold_ingredients": [
+            "semolina"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in Sebada\")\n}\n```"
+    },
+    {
+        "Dish": "paletta Biellese",
+        "Gold_ingredients": [
+            "pork shoulder"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in paletta Biellese\")\n}\n```"
+    },
+    {
+        "Dish": "Misoltin",
+        "Gold_ingredients": [
+            "Alosa agone"
+        ],
+        "Predicted_ingredient": [
+            "mutton"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"mutton\": (\"Incorrect\", \"Rarely or never used in Misoltin\")\n}\n```"
+    },
+    {
+        "Dish": "sopa coàda",
+        "Gold_ingredients": [
+            "pigeon"
+        ],
+        "Predicted_ingredient": [
+            "cod"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cod\": (\"Incorrect\", \"Rarely used in traditional recipes for sopa coàda\")\n}\n```"
+    },
+    {
+        "Dish": "pasta e ceci",
+        "Gold_ingredients": [
+            "pasta",
+            "chickpea"
+        ],
+        "Predicted_ingredient": [
+            "pasta",
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pasta"
+        ],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Maybe\", \"Commonly used in some variations of the dish\")\n}\n```"
+    },
+    {
+        "Dish": "Pignolo",
+        "Gold_ingredients": [
+            "almond paste"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Incorrect\", \"Rarely or never used in Pignolo, which is a type of cookie typically made with almond paste\")\n}\n```"
+    },
+    {
+        "Dish": "Buccellato",
+        "Gold_ingredients": [
+            "candied fruit"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Rarely or never used as an ingredient in Buccellato\")\n}\n```"
+    },
+    {
+        "Dish": "Risotto alla milanese",
+        "Gold_ingredients": [
+            "rice",
+            "saffron",
+            "broth",
+            "onion"
+        ],
+        "Predicted_ingredient": [
+            "saffron",
+            "rice",
+            "beef",
+            "sausage"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice",
+            "saffron"
+        ],
+        "evaluated_output": "```python\n{\n  \"saffron\": (\"Correct\", \"Direct Match\"),\n  \"rice\": (\"Correct\", \"Direct Match\"),\n  \"beef\": (\"Maybe\", \"Could be used in some variations but not traditional\"),\n  \"sausage\": (\"Maybe\", \"Occasionally included in some regional variations\")\n}\n```"
+    },
+    {
+        "Dish": "ice cream cone",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "ice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ice\": (\"Incorrect\", \"Rarely or never used in the cone itself\")\n}\n```"
+    },
+    {
+        "Dish": "Frutta martorana",
+        "Gold_ingredients": [
+            "marzipan"
+        ],
+        "Predicted_ingredient": [
+            "candied fruit"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"candied fruit\": (\"Maybe\", \"Used in some decorative variations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "torta tenerina",
+        "Gold_ingredients": [
+            "sugar",
+            "butter",
+            "flour",
+            "egg",
+            "powdered sugar",
+            "dark chocolate"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "pasta",
+            "bread",
+            "tuna",
+            "cheese",
+            "egg pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"cheese\": (\"Incorrect\", \"Rarely used in torta tenerina\"),\n  \"pasta\": (\"Incorrect\", \"Not used in torta tenerina\"),\n  \"bread\": (\"Incorrect\", \"Not used in torta tenerina\"),\n  \"egg pasta\": (\"Incorrect\", \"Not used in torta tenerina\"),\n  \"tuna\": (\"Incorrect\", \"Not used in torta tenerina\")\n}\n```"
+    },
+    {
+        "Dish": "Struffoli",
+        "Gold_ingredients": [
+            "dough"
+        ],
+        "Predicted_ingredient": [
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"honey\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "spaghetti alle vongole",
+        "Gold_ingredients": [
+            "spaghetti"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "spaghetti"
+        ],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Orzotto",
+        "Gold_ingredients": [
+            "pearl barley"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Orzotto traditionally uses pearl barley, not rice\")\n}\n```"
+    },
+    {
+        "Dish": "Bagnun",
+        "Gold_ingredients": [
+            "Engraulidae"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Baci di Dama",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "ladyfinger"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ladyfinger\": (\"Incorrect\", \"Rarely used in this type of Italian cookie\")\n}\n```"
+    },
+    {
+        "Dish": "Bistecca alla fiorentina",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "steak"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"steak\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Penia",
+        "Gold_ingredients": [
+            "sugar"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Incorrect\", \"Rarely used in traditional recipes for Penia\")\n}\n```"
+    },
+    {
+        "Dish": "stringozzi",
+        "Gold_ingredients": [
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "egg pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg pasta\": (\"Incorrect\", \"Traditionally, stringozzi is made without eggs\")\n}\n```"
+    },
+    {
+        "Dish": "Sartù di riso",
+        "Gold_ingredients": [
+            "egg",
+            "rice",
+            "sausage",
+            "salami",
+            "liver",
+            "tomato sauce",
+            "pea",
+            "meatball",
+            "smoked Provola"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "rice flour",
+            "meat",
+            "beef",
+            "pork and beans",
+            "rice wine",
+            "tomato",
+            "pasta",
+            "risotto rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Substitutability\"),\n  \"pork and beans\": (\"Incorrect\", \"Rarely or never used in traditional recipes\"),\n  \"risotto rice\": (\"Correct\", \"Substitutability\"),\n  \"tomato\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"meat\": (\"Correct\", \"Substitutability\"),\n  \"rice wine\": (\"Incorrect\", \"Not used in traditional recipes\"),\n  \"rice flour\": (\"Maybe\", \"Could be used to thicken sauce, but uncommon\"),\n  \"pasta\": (\"Incorrect\", \"Not used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "tortellini",
+        "Gold_ingredients": [
+            "nutmeg",
+            "egg",
+            "mortadella",
+            "Parmesan cheese",
+            "short loin",
+            "raw ham",
+            "wheat"
+        ],
+        "Predicted_ingredient": [
+            "stuffed pasta",
+            "cheese",
+            "pasta",
+            "egg pasta",
+            "meat",
+            "dough",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"stuffed pasta\": (\"Correct\", \"Substitutability\"),\n  \"cheese\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"meat\": (\"Correct\", \"Substitutability\"),\n  \"dough\": (\"Maybe\", \"Ambiguous as it could refer to the pasta itself\"),\n  \"pasta\": (\"Correct\", \"Substitutability\"),\n  \"egg pasta\": (\"Maybe\", \"Could be used in some variations but not explicitly listed\")\n}\n```"
+    },
+    {
+        "Dish": "Lacabòn",
+        "Gold_ingredients": [
+            "honey"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely or never used in Lacabòn\")\n}\n```"
+    },
+    {
+        "Dish": "fettuccine Alfredo",
+        "Gold_ingredients": [
+            "fettuccine",
+            "Alfredo sauce"
+        ],
+        "Predicted_ingredient": [
+            "fettuccine",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "fettuccine"
+        ],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Amaretti di Saronno",
+        "Gold_ingredients": [
+            "Prunus dulcis"
+        ],
+        "Predicted_ingredient": [
+            "almond"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"almond\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Gnudi",
+        "Gold_ingredients": [
+            "ricotta"
+        ],
+        "Predicted_ingredient": [
+            "ricotta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "ricotta"
+        ],
+        "evaluated_output": "Please provide the remaining predicted ingredients for evaluation."
+    },
+    {
+        "Dish": "Torta caprese",
+        "Gold_ingredients": [
+            "butter"
+        ],
+        "Predicted_ingredient": [
+            "chocolate"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chocolate\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Cassoeula",
+        "Gold_ingredients": [
+            "Savoy cabbage",
+            "pork",
+            "pig skin",
+            "tomato paste"
+        ],
+        "Predicted_ingredient": [
+            "tripe",
+            "cabbage",
+            "pork",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Maybe\", \"General term but could refer to pork used in the dish\"),\n  \"cabbage\": (\"Correct\", \"Substitutability\"),\n  \"tripe\": (\"Maybe\", \"Used in some variations but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "spaghetti alla Nerano",
+        "Gold_ingredients": [
+            "zucchini",
+            "spaghetti",
+            "Provolone del Monaco"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti",
+            "pasta",
+            "seafood"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "spaghetti"
+        ],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\"),\n  \"seafood\": (\"Incorrect\", \"Rarely used in traditional spaghetti alla Nerano recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Baccalà alla lucana",
+        "Gold_ingredients": [
+            "Peperone crusco",
+            "cod"
+        ],
+        "Predicted_ingredient": [
+            "salt",
+            "cod"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cod"
+        ],
+        "evaluated_output": "```python\n{\n  \"salt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "veneziana",
+        "Gold_ingredients": [
+            "flour",
+            "butter",
+            "sugar",
+            "egg",
+            "candied fruit"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "pasta",
+            "shrimp",
+            "fish",
+            "seafood"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional Veneziana recipes\"),\n  \"pasta\": (\"Incorrect\", \"Not a component of traditional Veneziana recipes\"),\n  \"shrimp\": (\"Incorrect\", \"Seafood like shrimp is not typical in Veneziana\"),\n  \"fish\": (\"Incorrect\", \"Fish is not a component of traditional Veneziana recipes\"),\n  \"seafood\": (\"Incorrect\", \"Seafood is not typically used in Veneziana\")\n}\n```"
+    },
+    {
+        "Dish": "mortadella sandwich",
+        "Gold_ingredients": [
+            "bread",
+            "mortadella"
+        ],
+        "Predicted_ingredient": [
+            "mortadella",
+            "ham"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "mortadella"
+        ],
+        "evaluated_output": "```python\n{\n  \"ham\": (\"Maybe\", \"Can be used as a substitute in variations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Agliata",
+        "Gold_ingredients": [
+            "Garlic (allium sativum)"
+        ],
+        "Predicted_ingredient": [
+            "garlic"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"garlic\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Neapolitan ragù",
+        "Gold_ingredients": [
+            "mirepoix"
+        ],
+        "Predicted_ingredient": [
+            "ground beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ground beef\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "pan di ramerino",
+        "Gold_ingredients": [
+            "rosemary"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Common base for rosemary bread; used in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "garlic bread",
+        "Gold_ingredients": [
+            "bread",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "garlic",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread",
+            "garlic"
+        ],
+        "evaluated_output": "```python\n{\n  \"garlic\": (\"Correct\", \"Direct Match\"),\n  \"bread\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "carne cruda all'Albese",
+        "Gold_ingredients": [
+            "beef",
+            "lemon juice",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "ground beef",
+            "minced meat",
+            "raw ham"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ground beef\": (\"Correct\", \"Substitutability\"),\n  \"minced meat\": (\"Correct\", \"Substitutability\"),\n  \"raw ham\": (\"Incorrect\", \"Rarely or never used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "Mustacciuoli",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Incorrect\", \"Rarely or never used in traditional Mustacciuoli recipes\")\n}\n```"
+    },
+    {
+        "Dish": "potato gnocchi",
+        "Gold_ingredients": [
+            "potato",
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "potato",
+            "potato flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "potato"
+        ],
+        "evaluated_output": "```python\n{\n  \"potato\": (\"Correct\", \"Direct Match\"),\n  \"potato flour\": (\"Maybe\", \"Could be used as a variation or substitute for flour\")\n}\n```"
+    },
+    {
+        "Dish": "lasagna",
+        "Gold_ingredients": [
+            "Parmesan cheese",
+            "lasagne sheet",
+            "béchamel sauce",
+            "ragù"
+        ],
+        "Predicted_ingredient": [
+            "pasta",
+            "layer",
+            "slice of cheese",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\"),\n  \"layer\": (\"Incorrect\", \"Not a specific ingredient; refers to structural method\"),\n  \"slice of cheese\": (\"Maybe\", \"Could refer to cheese topping, but not specific\"),\n  \"egg\": (\"Maybe\", \"Used in some variations of the pasta dough\")\n}\n```"
+    },
+    {
+        "Dish": "Rosticciana",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "pork ribs"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork ribs\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Ciambotta",
+        "Gold_ingredients": [
+            "vegetable"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Could be used in some variations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "gelato",
+        "Gold_ingredients": [
+            "milk",
+            "sugar",
+            "cream"
+        ],
+        "Predicted_ingredient": [
+            "milk",
+            "cream",
+            "ice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cream",
+            "milk"
+        ],
+        "evaluated_output": "```python\n{\n  \"ice\": (\"Maybe\", \"Sometimes used for texture in modern variations\")\n}\n```"
+    },
+    {
+        "Dish": "Anello di Monaco",
+        "Gold_ingredients": [
+            "butter",
+            "sugar",
+            "egg",
+            "flour",
+            "baker's yeast"
+        ],
+        "Predicted_ingredient": [
+            "pasta",
+            "rice",
+            "egg",
+            "meat",
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in Anello di Monaco\"),\n  \"potato\": (\"Incorrect\", \"Rarely used in Anello di Monaco\"),\n  \"meat\": (\"Incorrect\", \"Rarely used in Anello di Monaco\"),\n  \"pasta\": (\"Incorrect\", \"Rarely used in Anello di Monaco\")\n}\n```"
+    },
+    {
+        "Dish": "Stufato d'asino",
+        "Gold_ingredients": [
+            "donkey meat"
+        ],
+        "Predicted_ingredient": [
+            "donkey meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "donkey meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"donkey meat\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "cornetto",
+        "Gold_ingredients": [
+            "yeast",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "puff pastry",
+            "cream"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"puff pastry\": (\"Maybe\", \"Could be used in certain variations but not traditional\"),\n  \"cream\": (\"Incorrect\", \"Rarely used as a filling or topping in traditional cornetto\")\n}\n```"
+    },
+    {
+        "Dish": "spaghetti",
+        "Gold_ingredients": [
+            "durum wheat semolina"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "pizza funghi",
+        "Gold_ingredients": [
+            "table salt",
+            "Mozzarella",
+            "flour",
+            "olive oil",
+            "edible mushroom",
+            "baker's yeast",
+            "tomato sauce"
+        ],
+        "Predicted_ingredient": [
+            "pizza",
+            "mushroom",
+            "cheese",
+            "slice of cheese",
+            "bread",
+            "tomato",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork and beans\": (\"Incorrect\", \"Rarely used in traditional pizza funghi recipes\"),\n  \"slice of cheese\": (\"Maybe\", \"Could refer to types of cheese used variably, but not essential\"),\n  \"pizza\": (\"Incorrect\", \"Not an ingredient\"),\n  \"tomato\": (\"Correct\", \"Substitutability\"),\n  \"bread\": (\"Incorrect\", \"Bread is not used; pizza dough is the base\"),\n  \"cheese\": (\"Correct\", \"Substitutability\"),\n  \"mushroom\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "prosciutto di Bassiano",
+        "Gold_ingredients": [
+            "pork thigh"
+        ],
+        "Predicted_ingredient": [
+            "prosciutto"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"prosciutto\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Brudet",
+        "Gold_ingredients": [
+            "fish as food"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Biscotti",
+        "Gold_ingredients": [
+            "sugar",
+            "flour",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "almond",
+            "flour",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Rarely or never used in biscotti\"),\n  \"almond\": (\"Maybe\", \"Commonly used in some variations of biscotti\")\n}\n```"
+    },
+    {
+        "Dish": "Befanini",
+        "Gold_ingredients": [
+            "milk",
+            "sugar",
+            "table salt",
+            "butter",
+            "flour",
+            "yeast",
+            "egg",
+            "rum",
+            "anisette",
+            "zest"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "rice",
+            "pasta",
+            "bread",
+            "pork",
+            "chicken",
+            "meat",
+            "chicken meat",
+            "egg",
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in Befanini recipes\"),\n  \"beef\": (\"Incorrect\", \"Rarely used in Befanini recipes\"),\n  \"pasta\": (\"Incorrect\", \"Rarely used in Befanini recipes\"),\n  \"bread\": (\"Incorrect\", \"Rarely used in Befanini recipes\"),\n  \"pork\": (\"Incorrect\", \"Rarely used in Befanini recipes\"),\n  \"chicken\": (\"Incorrect\", \"Rarely used in Befanini recipes\"),\n  \"meat\": (\"Incorrect\", \"Rarely used in Befanini recipes\"),\n  \"chicken meat\": (\"Incorrect\", \"Rarely used in Befanini recipes\"),\n  \"rice flour\": (\"Maybe\", \"Could be used as a substitute for regular flour in gluten-free versions\")\n}\n```"
+    },
+    {
+        "Dish": "Genoa cake",
+        "Gold_ingredients": [
+            "raisin"
+        ],
+        "Predicted_ingredient": [
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"flour\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "polenta concia",
+        "Gold_ingredients": [
+            "cheese",
+            "polenta"
+        ],
+        "Predicted_ingredient": [
+            "cornmeal",
+            "oatmeal"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cornmeal\": (\"Correct\", \"Substitutability\"),\n  \"oatmeal\": (\"Incorrect\", \"Rarely or never used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "coniglio all’ischitana",
+        "Gold_ingredients": [
+            "rabbit meat"
+        ],
+        "Predicted_ingredient": [
+            "rabbit"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rabbit\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Borlengo",
+        "Gold_ingredients": [
+            "milk"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "macaroni",
+        "Gold_ingredients": [
+            "wheat flour",
+            "durum wheat semolina"
+        ],
+        "Predicted_ingredient": [
+            "macaroni",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"macaroni\": (\"Maybe\", \"Could be shorthand for the dish but not an actual ingredient\"),\n  \"pasta\": (\"Maybe\", \"General term that could refer to macaroni specifically\")\n}\n```"
+    },
+    {
+        "Dish": "Neccio",
+        "Gold_ingredients": [
+            "chestnut flour"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in recipes for Neccio\")\n}\n```"
+    },
+    {
+        "Dish": "nougat",
+        "Gold_ingredients": [
+            "sugar"
+        ],
+        "Predicted_ingredient": [
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"honey\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "bucatini",
+        "Gold_ingredients": [
+            "durum wheat semolina"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Incorrect\", \"Different pasta shape not typically used for bucatini\")\n}\n```"
+    },
+    {
+        "Dish": "Buccellato di Lucca",
+        "Gold_ingredients": [
+            "sultana"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Could be used in variations but not part of the traditional recipe\")\n}\n```"
+    },
+    {
+        "Dish": "Supplì",
+        "Gold_ingredients": [
+            "Mozzarella"
+        ],
+        "Predicted_ingredient": [
+            "risotto rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"risotto rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "fagioli all'uccelletto",
+        "Gold_ingredients": [
+            "tomato purée",
+            "white kidney bean"
+        ],
+        "Predicted_ingredient": [
+            "pork and beans",
+            "celery"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork and beans\": (\"Incorrect\", \"Rarely or never used in traditional fagioli all'uccelletto recipes\"),\n  \"celery\": (\"Maybe\", \"Could be used in some variations for added flavor, but not typical\")\n}\n```"
+    },
+    {
+        "Dish": "Zuppa alla modenese",
+        "Gold_ingredients": [
+            "table salt",
+            "butter",
+            "Parmesan cheese",
+            "nutmeg",
+            "crouton",
+            "egg",
+            "stock",
+            "spinach"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "pork",
+            "bread",
+            "meat",
+            "pork and beans",
+            "vegetable",
+            "cabbage",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n    \"beef\": (\"Maybe\", \"Could be used in some variations but not traditional\"),\n    \"pork\": (\"Maybe\", \"Could be used in some variations but not traditional\"),\n    \"bread\": (\"Correct\", \"Substitutability for crouton\"),\n    \"meat\": (\"Incorrect\", \"Too vague and generally not used\"),\n    \"pork and beans\": (\"Incorrect\", \"Specific combination rarely used\"),\n    \"vegetable\": (\"Maybe\", \"Could refer to spinach or other vegetables but unclear\"),\n    \"cabbage\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n    \"pasta\": (\"Incorrect\", \"Not a part of traditional Zuppa alla modenese\")\n}\n```"
+    },
+    {
+        "Dish": "pasta al pomodoro",
+        "Gold_ingredients": [
+            "pasta",
+            "tomato sauce",
+            "basil"
+        ],
+        "Predicted_ingredient": [
+            "pasta",
+            "tomato",
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pasta"
+        ],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Maybe\", \"Commonly used type of pasta in variations\"),\n  \"tomato\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "paste di meliga",
+        "Gold_ingredients": [
+            "cornmeal"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Incorrect\", \"Rarely used in traditional paste di meliga recipes\")\n}\n```"
+    }
+]

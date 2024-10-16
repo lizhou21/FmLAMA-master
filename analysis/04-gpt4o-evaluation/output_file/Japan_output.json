@@ -1,0 +1,2582 @@
+[
+    {
+        "Dish": "botamochi",
+        "Gold_ingredients": [
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "glutinous rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "crab stick",
+        "Gold_ingredients": [
+            "surimi"
+        ],
+        "Predicted_ingredient": [
+            "crab meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"crab meat\": (\"Maybe\", \"Could be used in some variations, but surimi is commonly used\")\n}\n```"
+    },
+    {
+        "Dish": "munini-imo",
+        "Gold_ingredients": [
+            "potato starch"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be used in some variations as a side or alternative carbohydrate source\")\n}\n```"
+    },
+    {
+        "Dish": "tendon",
+        "Gold_ingredients": [
+            "rice",
+            "tempura"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Incorrect\", \"Rarely used in traditional versions of tendon\")\n}\n```"
+    },
+    {
+        "Dish": "Karintō",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Karintō traditionally uses flour as the main ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "gyūhi",
+        "Gold_ingredients": [
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Incorrect\", \"Rarely used in traditional or common recipes for gyūhi\")\n}\n```"
+    },
+    {
+        "Dish": "pork shogayaki",
+        "Gold_ingredients": [
+            "pork",
+            "soy sauce",
+            "ginger",
+            "mirin"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "pork belly",
+            "pork shoulder",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork and beans\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"pork belly\": (\"Maybe\", \"Can be used as an alternative cut of pork\"),\n  \"pork shoulder\": (\"Maybe\", \"Can be used as an alternative cut of pork\")\n}\n```"
+    },
+    {
+        "Dish": "Jakoten",
+        "Gold_ingredients": [
+            "Poisson"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Gokabou",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Maybe\", \"Could be used in some variations as a topping or side\")\n}\n```"
+    },
+    {
+        "Dish": "taco rice",
+        "Gold_ingredients": [
+            "rice",
+            "tomato",
+            "beef",
+            "salsa",
+            "Lactuca"
+        ],
+        "Predicted_ingredient": [
+            "cooked rice",
+            "rice",
+            "fried rice",
+            "white rice",
+            "brown rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"cooked rice\": (\"Correct\", \"Substitutability\"),\n  \"fried rice\": (\"Maybe\", \"Uncommon variation but possible\"),\n  \"white rice\": (\"Correct\", \"Substitutability\"),\n  \"brown rice\": (\"Maybe\", \"Uncommon variation but possible\")\n}\n```"
+    },
+    {
+        "Dish": "Kenoshiru",
+        "Gold_ingredients": [
+            "carrot",
+            "Pteridium aquilinum",
+            "Arctium lappa",
+            "abura-age",
+            "dashi",
+            "Amorphophallus konjac",
+            "white radish",
+            "Koya-dofu"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "fish",
+            "raw fish",
+            "tofu",
+            "fermented fish",
+            "pork",
+            "chicken",
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in Kenoshiru\"),\n  \"fish\": (\"Incorrect\", \"Rarely or never used in Kenoshiru\"),\n  \"raw fish\": (\"Incorrect\", \"Rarely or never used in Kenoshiru\"),\n  \"tofu\": (\"Correct\", \"Substitutability\"),\n  \"fermented fish\": (\"Incorrect\", \"Rarely or never used in Kenoshiru\"),\n  \"pork\": (\"Incorrect\", \"Rarely or never used in Kenoshiru\"),\n  \"chicken\": (\"Incorrect\", \"Rarely or never used in Kenoshiru\"),\n  \"beef\": (\"Incorrect\", \"Rarely or never used in Kenoshiru\")\n}\n```"
+    },
+    {
+        "Dish": "Imoni",
+        "Gold_ingredients": [
+            "potato",
+            "Colocasia esculenta"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish",
+            "green bean"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Maybe\", \"Could be used in some regional variations\"),\n  \"green bean\": (\"Incorrect\", \"Rarely used in traditional Imoni recipes\")\n}\n```"
+    },
+    {
+        "Dish": "unadon",
+        "Gold_ingredients": [
+            "rice",
+            "unagi"
+        ],
+        "Predicted_ingredient": [
+            "udon",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"udon\": (\"Incorrect\", \"Udon is not used in traditional Unadon recipes\")\n}\n```"
+    },
+    {
+        "Dish": "miso soup",
+        "Gold_ingredients": [
+            "water",
+            "miso"
+        ],
+        "Predicted_ingredient": [
+            "miso",
+            "miso soup"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "miso"
+        ],
+        "evaluated_output": "```python\n{\n  \"miso soup\": (\"Incorrect\", \"The dish itself, not an individual ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Anmaki",
+        "Gold_ingredients": [
+            "sweet bean paste"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be used in some variations but not common in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "makizushi",
+        "Gold_ingredients": [
+            "rice",
+            "algae"
+        ],
+        "Predicted_ingredient": [
+            "sushi",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"sushi\": (\"Incorrect\", \"Sushi refers to the dish itself, not a specific ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "castella",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "dorayaki",
+        "Gold_ingredients": [
+            "castella",
+            "red bean paste"
+        ],
+        "Predicted_ingredient": [
+            "honey",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"honey\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"egg\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Giri choco",
+        "Gold_ingredients": [
+            "chocolate"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Incorrect\", \"Rarely used in traditional Giri choco recipes\")\n}\n```"
+    },
+    {
+        "Dish": "daigaku imo",
+        "Gold_ingredients": [
+            "sweet potato"
+        ],
+        "Predicted_ingredient": [
+            "sweet potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sweet potato"
+        ],
+        "evaluated_output": "```python\n{\n    \"sweet potato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "kamome no tamago",
+        "Gold_ingredients": [
+            "sponge cake",
+            "white chocolate",
+            "white bean"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "salt",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"salt\": (\"Maybe\", \"Used in some variations for flavor balance\"),\n  \"chicken\": (\"Incorrect\", \"Rarely used in this sweet confectionery\")\n}\n```"
+    },
+    {
+        "Dish": "akashiyaki",
+        "Gold_ingredients": [
+            "batter"
+        ],
+        "Predicted_ingredient": [
+            "batter"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "batter"
+        ],
+        "evaluated_output": "Apologies, it looks like there was only one predicted ingredient \"batter\". If you have additional ingredients to evaluate, please provide them so I can assist you further."
+    },
+    {
+        "Dish": "Kinugasadon",
+        "Gold_ingredients": [
+            "abura-age"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "yakitori",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "azumadon",
+        "Gold_ingredients": [
+            "rice",
+            "Thunnus"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\"),\n  \"chicken\": (\"Incorrect\", \"Rarely used in traditional azumadon recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Hampen",
+        "Gold_ingredients": [
+            "fish"
+        ],
+        "Predicted_ingredient": [
+            "ham"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ham\": (\"Incorrect\", \"Ham is rarely used in traditional seafood dishes\")\n}\n```"
+    },
+    {
+        "Dish": "tamago kake gohan",
+        "Gold_ingredients": [
+            "soy sauce",
+            "chicken egg",
+            "gohan"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "cooked rice",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\"),\n  \"cooked rice\": (\"Correct\", \"Direct Match\"),\n  \"egg\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "ohaw",
+        "Gold_ingredients": [
+            "stock"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Common in some variations but not a core component\")\n}\n```"
+    },
+    {
+        "Dish": "tanindon",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "narutomaki",
+        "Gold_ingredients": [
+            "surimi"
+        ],
+        "Predicted_ingredient": [
+            "ramen"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ramen\": (\"Maybe\", \"Commonly paired with narutomaki in dishes but not an ingredient of narutomaki itself\")\n}\n```"
+    },
+    {
+        "Dish": "curry udon",
+        "Gold_ingredients": [
+            "broth",
+            "noodle"
+        ],
+        "Predicted_ingredient": [
+            "udon",
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"udon\": (\"Correct\", \"Substitutability\"),\n  \"wheat\": (\"Maybe\", \"Commonly used in some variations as a base ingredient for udon noodles\")\n}\n```"
+    },
+    {
+        "Dish": "yōkan",
+        "Gold_ingredients": [
+            "agar"
+        ],
+        "Predicted_ingredient": [
+            "red bean paste"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"red bean paste\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "ankimo",
+        "Gold_ingredients": [
+            "Lophius"
+        ],
+        "Predicted_ingredient": [
+            "whitefish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"whitefish\": (\"Maybe\", \"Could be used as a substitute for Lophius in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "shimazushi",
+        "Gold_ingredients": [
+            "karashi"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Maybe\", \"Commonly used in some variations but not universally included\")\n}\n```"
+    },
+    {
+        "Dish": "Tonjiru",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "I'm sorry, but there were no additional predicted ingredients given to evaluate. Please provide the remaining predicted ingredients for the dish \"Tonjiru\" so I can assist you further."
+    },
+    {
+        "Dish": "Takana meshi",
+        "Gold_ingredients": [
+            "Brassica juncea var. integrifolia"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Kompeitō",
+        "Gold_ingredients": [
+            "sugar"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in this traditional sugar candy\")\n}\n```"
+    },
+    {
+        "Dish": "Toyohashi curry noodles",
+        "Gold_ingredients": [
+            "brown rice",
+            "noodle",
+            "tororo"
+        ],
+        "Predicted_ingredient": [
+            "Japanese curry",
+            "wheat",
+            "ramen"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"Japanese curry\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"wheat\": (\"Correct\", \"Substitutability\"),\n  \"ramen\": (\"Maybe\", \"Could be used in some variations, but not typical\")\n}\n```"
+    },
+    {
+        "Dish": "instant noodles",
+        "Gold_ingredients": [
+            "soup",
+            "noodle"
+        ],
+        "Predicted_ingredient": [
+            "wheat",
+            "instant noodles"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Maybe\", \"Wheat flour is commonly used to make noodles but is not always specified\"),\n  \"instant noodles\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "hirayachi",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in hirayachi, which is more like an egg-based flatbread or pancake\")\n}\n```"
+    },
+    {
+        "Dish": "Satsuma-age",
+        "Gold_ingredients": [
+            "surimi"
+        ],
+        "Predicted_ingredient": [
+            "salt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"salt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Hayashi rice",
+        "Gold_ingredients": [
+            "beef",
+            "onion",
+            "demi-glace",
+            "cooked rice"
+        ],
+        "Predicted_ingredient": [
+            "cooked rice",
+            "rice",
+            "white rice",
+            "fried rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cooked rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could refer to cooked rice but ambiguous without context\"),\n  \"fried rice\": (\"Incorrect\", \"Rarely used in traditional Hayashi rice\"),\n  \"white rice\": (\"Maybe\", \"Could be used as the type of rice but not specific\")\n}\n```"
+    },
+    {
+        "Dish": "kakuni",
+        "Gold_ingredients": [
+            "bacon"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "gyūdon",
+        "Gold_ingredients": [
+            "rice",
+            "beef"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice",
+            "beef"
+        ],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Direct Match\"),\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "taiyaki",
+        "Gold_ingredients": [
+            "waffle"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely used; taiyaki is a sweet pastry with fillings such as red bean paste\")\n}\n```"
+    },
+    {
+        "Dish": "monaka",
+        "Gold_ingredients": [
+            "mochi",
+            "red bean paste"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Rice could be used in some variations as an ingredient in rice flour or mochi\"),\n  \"rice flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "shiruko",
+        "Gold_ingredients": [
+            "Vigna angularis"
+        ],
+        "Predicted_ingredient": [
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Incorrect\", \"Rarely used in traditional shiruko recipes\")\n}\n```"
+    },
+    {
+        "Dish": "dengaku",
+        "Gold_ingredients": [
+            "Solanum melongena",
+            "Colocasia esculenta",
+            "tofu",
+            "Amorphophallus konjac",
+            "miso"
+        ],
+        "Predicted_ingredient": [
+            "tofu",
+            "tofu skin",
+            "fish",
+            "egg",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tofu"
+        ],
+        "evaluated_output": "```python\n{\n  \"tofu skin\": (\"Maybe\", \"Used in some variations but not traditional\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in traditional dengaku recipes\"),\n  \"egg\": (\"Incorrect\", \"Not a common ingredient in dengaku\"),\n  \"pork and beans\": (\"Incorrect\", \"Not used in traditional Dengaku recipes\")\n}\n```"
+    },
+    {
+        "Dish": "uirō",
+        "Gold_ingredients": [
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be used as a base if processed, but not traditionally used in original form\")\n}\n```"
+    },
+    {
+        "Dish": "Botan nabe",
+        "Gold_ingredients": [
+            "wild boar meat"
+        ],
+        "Predicted_ingredient": [
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Maybe\", \"Can be used in some variations as an additional ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "kuzumochi",
+        "Gold_ingredients": [
+            "sugar",
+            "kudzu powder",
+            "kuromitsu",
+            "kinako"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice",
+            "rice",
+            "wheat",
+            "millet"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Maybe\", \"May be used in some variations but not traditional\"),\n  \"rice\": (\"Incorrect\", \"Rarely or never used in traditional kuzumochi\"),\n  \"wheat\": (\"Maybe\", \"Could be used in some modern variations as a substitute\"),\n  \"millet\": (\"Incorrect\", \"Rarely or never used in traditional kuzumochi\")\n}\n```"
+    },
+    {
+        "Dish": "Miso-katsu",
+        "Gold_ingredients": [
+            "pork",
+            "miso"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Can be used for breading in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "Toruko rice",
+        "Gold_ingredients": [
+            "spaghetti",
+            "pilaf",
+            "tonkatsu"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "cooked rice",
+            "fried rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\"),\n  \"cooked rice\": (\"Correct\", \"Substitutability\"),\n  \"fried rice\": (\"Maybe\", \"Could be used in variations, but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Beika",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "I'm sorry, it looks like the provided input is incomplete. Could you provide the remaining predicted ingredients for evaluation?"
+    },
+    {
+        "Dish": "chanpurū",
+        "Gold_ingredients": [
+            "vegetable",
+            "cooking oil",
+            "shimadōfu"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish",
+            "raw fish",
+            "green bean"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Maybe\", \"Used in some regional variations of chanpurū\"),\n  \"raw fish\": (\"Incorrect\", \"Rarely or never used in traditional chanpurū\"),\n  \"green bean\": (\"Maybe\", \"Can be used in certain vegetable chanpurū variations\")\n}\n```"
+    },
+    {
+        "Dish": "narezushi",
+        "Gold_ingredients": [
+            "fermented fish"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "fermented fish"
+        ],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "karukan",
+        "Gold_ingredients": [
+            "Vigna angularis",
+            "Dioscorea japonica"
+        ],
+        "Predicted_ingredient": [
+            "rice flour",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Maybe\", \"Commonly used as a substitution for wheat flour in some Japanese sweets\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional karukan recipes\")\n}\n```"
+    },
+    {
+        "Dish": "akumaki",
+        "Gold_ingredients": [
+            "Bambusoideae",
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "sushi",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\"),\n  \"sushi\": (\"Incorrect\", \"Rarely or never used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "ichigo daifuku",
+        "Gold_ingredients": [
+            "red bean paste",
+            "mochi",
+            "strawberry"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice",
+            "rice",
+            "strawberry"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "strawberry"
+        ],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Substitutability\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "anmitsu",
+        "Gold_ingredients": [
+            "Rhodophyta"
+        ],
+        "Predicted_ingredient": [
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Incorrect\", \"Rarely used in anmitsu\")\n}\n```"
+    },
+    {
+        "Dish": "Pocky",
+        "Gold_ingredients": [
+            "biscuit"
+        ],
+        "Predicted_ingredient": [
+            "chocolate"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chocolate\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "coffee jelly",
+        "Gold_ingredients": [
+            "coffee"
+        ],
+        "Predicted_ingredient": [
+            "coffee"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "coffee"
+        ],
+        "evaluated_output": "```python\n{\n    \"coffee\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "chirashizushi",
+        "Gold_ingredients": [
+            "sumeshi"
+        ],
+        "Predicted_ingredient": [
+            "sushi"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sushi\": (\"Maybe\", \"Could be used to refer to chirashizushi in some contexts, but typically not specific enough\")\n}\n```"
+    },
+    {
+        "Dish": "motsunabe",
+        "Gold_ingredients": [
+            "offal",
+            "miso"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "pork belly"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Incorrect\", \"Rarely used in traditional motsunabe\"),\n  \"pork belly\": (\"Incorrect\", \"Rarely used in traditional motsunabe\")\n}\n```"
+    },
+    {
+        "Dish": "Onsen tamago",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "soft-boiled egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"soft-boiled egg\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "imo yokan",
+        "Gold_ingredients": [
+            "sweet potato"
+        ],
+        "Predicted_ingredient": [
+            "red bean paste"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"red bean paste\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Kenpi",
+        "Gold_ingredients": [
+            "sweet potato"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Incorrect\", \"Rarely or never used in Kenpi\")\n}\n```"
+    },
+    {
+        "Dish": "Nagano–Niigata sasazushi",
+        "Gold_ingredients": [
+            "leaf"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Maybe\", \"Could be used in regional variations\")\n}\n```"
+    },
+    {
+        "Dish": "Buttamagedon",
+        "Gold_ingredients": [
+            "pork",
+            "Citrus junos",
+            "rice",
+            "soft-boiled egg",
+            "chicken egg"
+        ],
+        "Predicted_ingredient": [
+            "butter",
+            "chicken",
+            "beef",
+            "bread",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"butter\": (\"Maybe\", \"Could be used for flavor but not traditional\"),\n  \"chicken\": (\"Correct\", \"Substitutability\"),\n  \"beef\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"bread\": (\"Incorrect\", \"Not commonly associated with this dish\")\n}\n```"
+    },
+    {
+        "Dish": "chankonabe",
+        "Gold_ingredients": [
+            "dashi"
+        ],
+        "Predicted_ingredient": [
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "tarako spaghetti",
+        "Gold_ingredients": [
+            "spaghetti",
+            "tarako"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti",
+            "salt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "spaghetti"
+        ],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Correct\", \"Direct Match\"),\n  \"salt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Gionbō",
+        "Gold_ingredients": [
+            "gyūhi"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used since gyūhi is made from rice flour, not rice grains\")\n}\n```"
+    },
+    {
+        "Dish": "Ikadabae",
+        "Gold_ingredients": [
+            "Zacco platypus"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in Ikadabae\")\n}\n```"
+    },
+    {
+        "Dish": "bukkake udon",
+        "Gold_ingredients": [
+            "udon"
+        ],
+        "Predicted_ingredient": [
+            "udon"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "udon"
+        ],
+        "evaluated_output": "```python\n{\n  \"udon\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "nikujaga",
+        "Gold_ingredients": [
+            "meat",
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Substitutability\"),\n  \"pork\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "chirinabe",
+        "Gold_ingredients": [
+            "tofu"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Maybe\", \"Commonly used in some variations but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "Yosenabe",
+        "Gold_ingredients": [
+            "broth"
+        ],
+        "Predicted_ingredient": [
+            "seafood"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"seafood\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "ramen",
+        "Gold_ingredients": [
+            "noodle",
+            "broth"
+        ],
+        "Predicted_ingredient": [
+            "wheat",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\"),\n  \"pork\": (\"Maybe\", \"Commonly used in some variations of ramen but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "Kappa Ebisen",
+        "Gold_ingredients": [
+            "wheat flour",
+            "shrimp or prawn"
+        ],
+        "Predicted_ingredient": [
+            "fried rice",
+            "Japanese curry"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fried rice\": (\"Incorrect\", \"Rarely or never used in making Kappa Ebisen\"),\n  \"Japanese curry\": (\"Incorrect\", \"Rarely or never used in making Kappa Ebisen\")\n}\n```"
+    },
+    {
+        "Dish": "kamaboko",
+        "Gold_ingredients": [
+            "surimi"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Maybe\", \"Surimi is made from fish, but 'fish' is a broad term and not specific\")\n}\n```"
+    },
+    {
+        "Dish": "MOS Burger",
+        "Gold_ingredients": [
+            "hamburger",
+            "ragù",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "ground beef",
+            "beef",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ground beef\": (\"Maybe\", \"Could be used as a variation for hamburger filling\"),\n  \"beef\": (\"Maybe\", \"Could be used as a variation for the patty or filling\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in MOS Burger\")\n}\n```"
+    },
+    {
+        "Dish": "kiritanpo",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "warabimochi",
+        "Gold_ingredients": [
+            "Pteridium"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in traditional warabimochi\")\n}\n```"
+    },
+    {
+        "Dish": "dango",
+        "Gold_ingredients": [
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "yudofu",
+        "Gold_ingredients": [
+            "tofu"
+        ],
+        "Predicted_ingredient": [
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tofu"
+        ],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "hanabiramochi",
+        "Gold_ingredients": [
+            "Arctium lappa",
+            "miso",
+            "mochi"
+        ],
+        "Predicted_ingredient": [
+            "rice flour",
+            "rice",
+            "wheat flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Maybe\", \"Could be used as a substitute for mochi components in some variations\"),\n  \"rice\": (\"Maybe\", \"Potential base for making mochi, but not typically listed\"),\n  \"wheat flour\": (\"Incorrect\", \"Rarely used in traditional hanabiramochi recipes\")\n}\n```"
+    },
+    {
+        "Dish": "kirizashō",
+        "Gold_ingredients": [
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be used in variations substituting glutinous rice\")\n}\n```"
+    },
+    {
+        "Dish": "Kusa mochi",
+        "Gold_ingredients": [
+            "mochi"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "sekihan",
+        "Gold_ingredients": [
+            "glutinous rice",
+            "Vigna angularis"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Incorrect\", \"Rarely used in traditional sekihan\"),\n  \"pork and beans\": (\"Incorrect\", \"Not used in traditional sekihan\")\n}\n```"
+    },
+    {
+        "Dish": "oyakodon",
+        "Gold_ingredients": [
+            "rice",
+            "chicken meat",
+            "chicken egg"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "egg",
+            "chicken meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chicken meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Substitutability\"),\n  \"chicken\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Siberia",
+        "Gold_ingredients": [
+            "castella",
+            "yōkan",
+            "red bean paste"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "fish",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in Siberia dish\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in Siberia dish\"),\n  \"meat\": (\"Incorrect\", \"Rarely used in Siberia dish\")\n}\n```"
+    },
+    {
+        "Dish": "denpun dango",
+        "Gold_ingredients": [
+            "potato flour"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional denpun dango recipes\")\n}\n```"
+    },
+    {
+        "Dish": "kamonanban",
+        "Gold_ingredients": [
+            "duck meat",
+            "Soba"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Maybe\", \"Sometimes used as a substitute for duck in some variations\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional kamonanban recipes, which typically use soba\")\n}\n```"
+    },
+    {
+        "Dish": "agemochi",
+        "Gold_ingredients": [
+            "mochi"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "edamame",
+        "Gold_ingredients": [
+            "soy bean"
+        ],
+        "Predicted_ingredient": [
+            "boiled egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"boiled egg\": (\"Incorrect\", \"Rarely used in traditional or any variations of edamame\")\n}\n```"
+    },
+    {
+        "Dish": "hamukatsu",
+        "Gold_ingredients": [
+            "ham"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Tenshindon",
+        "Gold_ingredients": [
+            "rice",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Maybe\", \"Commonly used in some variations of Tenshindon\"),\n  \"tofu\": (\"Maybe\", \"Occasionally used in variations, but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "champon",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Maybe\", \"Commonly used in variations as a base for noodles\")\n}\n```"
+    },
+    {
+        "Dish": "Mizuame",
+        "Gold_ingredients": [
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "sweet potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sweet potato\": (\"Incorrect\", \"Rarely used in traditional Mizuame recipes\")\n}\n```"
+    },
+    {
+        "Dish": "rakugan",
+        "Gold_ingredients": [
+            "sugar",
+            "soy flour"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional rakugan recipes\"),\n  \"tofu\": (\"Incorrect\", \"Not used in traditional rakugan recipes\")\n}\n```"
+    },
+    {
+        "Dish": "imagawayaki",
+        "Gold_ingredients": [
+            "batter",
+            "red bean paste"
+        ],
+        "Predicted_ingredient": [
+            "batter",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "batter"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Commonly used in some variations of batter but not always included\")\n}\n```"
+    },
+    {
+        "Dish": "Naporitan",
+        "Gold_ingredients": [
+            "spaghetti",
+            "ketchup"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "spaghetti"
+        ],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "nikuman",
+        "Gold_ingredients": [
+            "dough"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely used in traditional nikuman\")\n}\n```"
+    },
+    {
+        "Dish": "sushi",
+        "Gold_ingredients": [
+            "sumeshi"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Jingisukan",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "lamb meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"lamb meat\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "keichan",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely associated with traditional keichan recipes\")\n}\n```"
+    },
+    {
+        "Dish": "hōba miso",
+        "Gold_ingredients": [
+            "leaf"
+        ],
+        "Predicted_ingredient": [
+            "miso"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"miso\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Kuri kinton (Osechi)",
+        "Gold_ingredients": [
+            "sweet potato",
+            "chestnut",
+            "mirin"
+        ],
+        "Predicted_ingredient": [
+            "sweet potato",
+            "mashed potato",
+            "Sweet potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sweet potato"
+        ],
+        "evaluated_output": "```python\n{\n  \"Sweet potato\": (\"Correct\", \"Direct Match\"),\n  \"mashed potato\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "katsukarē",
+        "Gold_ingredients": [
+            "tonkatsu",
+            "cooked rice"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Substitutability\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in traditional katsukarē recipes\")\n}\n```"
+    },
+    {
+        "Dish": "amanattō",
+        "Gold_ingredients": [
+            "sugar",
+            "Vigna angularis"
+        ],
+        "Predicted_ingredient": [
+            "tofu",
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Incorrect\", \"Rarely used in this dish\"),\n  \"fermented fish\": (\"Incorrect\", \"Not used in traditional or common recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Olive no Hana",
+        "Gold_ingredients": [
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "olive oil"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"olive oil\": (\"Maybe\", \"Could be used in some variations for flavor or texture\")\n}\n```"
+    },
+    {
+        "Dish": "senbei",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "yakisoba",
+        "Gold_ingredients": [
+            "noodle"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "sukiyaki",
+        "Gold_ingredients": [
+            "beef"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "beef"
+        ],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "An-doughnut",
+        "Gold_ingredients": [
+            "red bean paste"
+        ],
+        "Predicted_ingredient": [
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"dough\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "konohadon",
+        "Gold_ingredients": [
+            "rice",
+            "kamaboko"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n    \"pork\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "arare",
+        "Gold_ingredients": [
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "harihari-nabe",
+        "Gold_ingredients": [
+            "Minke whale"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "kusaya",
+        "Gold_ingredients": [
+            "Carangidae"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Kagoshima ramen",
+        "Gold_ingredients": [
+            "ramen"
+        ],
+        "Predicted_ingredient": [
+            "ramen"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "ramen"
+        ],
+        "evaluated_output": "```python\n{\n  \"ramen\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "teriyaki",
+        "Gold_ingredients": [
+            "meat",
+            "tare sauce"
+        ],
+        "Predicted_ingredient": [
+            "soy sauce",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"soy sauce\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "hōba-zushi",
+        "Gold_ingredients": [
+            "leaf"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Maybe\", \"Used in some regional variations as a topping or ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "ham rice",
+        "Gold_ingredients": [
+            "fried rice"
+        ],
+        "Predicted_ingredient": [
+            "ham"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ham\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "omurice",
+        "Gold_ingredients": [
+            "fried rice",
+            "chicken egg"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "fried egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\"),\n  \"fried egg\": (\"Maybe\", \"Some variations use fried eggs instead of omelet\")\n}\n```"
+    },
+    {
+        "Dish": "honmei choco",
+        "Gold_ingredients": [
+            "chocolate"
+        ],
+        "Predicted_ingredient": [
+            "chocolate"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chocolate"
+        ],
+        "evaluated_output": "```python\n{\n  \"chocolate\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "daifuku",
+        "Gold_ingredients": [
+            "glutinous rice",
+            "red bean paste"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "glutinous rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Direct Match\"),\n  \"rice\": (\"Incorrect\", \"Regular rice is not used in daifuku\")\n}\n```"
+    },
+    {
+        "Dish": "shabu-shabu",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "katsudon",
+        "Gold_ingredients": [
+            "rice",
+            "tonkatsu"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Substitutability\"),\n  \"pork\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "tekkamaki",
+        "Gold_ingredients": [
+            "nori",
+            "Thunnus",
+            "sumeshi"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "tofu",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\"),\n  \"tofu\": (\"Maybe\", \"Used in some vegetarian variations\"),\n  \"pork\": (\"Incorrect\", \"Rarely used in tekkamaki\")\n}\n```"
+    },
+    {
+        "Dish": "tamagodon",
+        "Gold_ingredients": [
+            "rice",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "raw fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Maybe\", \"Could be used in variations but not traditional\"),\n  \"raw fish\": (\"Incorrect\", \"Rarely used in traditional tamagodon\")\n}\n```"
+    },
+    {
+        "Dish": "kuri kinton",
+        "Gold_ingredients": [
+            "sugar",
+            "chestnut"
+        ],
+        "Predicted_ingredient": [
+            "sweet potato",
+            "mashed potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sweet potato\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"mashed potato\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "funazushi",
+        "Gold_ingredients": [
+            "Crucian carp",
+            "Carassius auratus grandoculis"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish",
+            "raw fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"raw fish\": (\"Incorrect\", \"Funazushi uses fermented fish, not raw fish\")\n}\n```"
+    },
+    {
+        "Dish": "tanukijiru",
+        "Gold_ingredients": [
+            "miso",
+            "Amorphophallus konjac"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "raw fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Maybe\", \"Commonly used in some variations, depending on regional recipes\"),\n  \"raw fish\": (\"Incorrect\", \"Rarely used in tanukijiru and not a traditional ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "yaki udon",
+        "Gold_ingredients": [
+            "udon"
+        ],
+        "Predicted_ingredient": [
+            "udon"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "udon"
+        ],
+        "evaluated_output": "I understand your request. However, it seems like you only provided one predicted ingredient (\"udon\"). If there are any more predicted ingredients for the evaluation, please list them, and I will be happy to assess them for you."
+    },
+    {
+        "Dish": "ankoro mochi",
+        "Gold_ingredients": [
+            "red bean paste"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "sunomono",
+        "Gold_ingredients": [
+            "cucumber"
+        ],
+        "Predicted_ingredient": [
+            "cucumber"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cucumber"
+        ],
+        "evaluated_output": "```python\n{\n  \"cucumber\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "zōni",
+        "Gold_ingredients": [
+            "mochi"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Commonly used in some variations instead of mochi\")\n}\n```"
+    },
+    {
+        "Dish": "hōtō",
+        "Gold_ingredients": [
+            "pumpkin",
+            "miso soup"
+        ],
+        "Predicted_ingredient": [
+            "tofu",
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Maybe\", \"Tofu could be used in some variations for added protein\"),\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "shirokuma",
+        "Gold_ingredients": [
+            "ice"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Incorrect\", \"Rarely used in shirokuma, which is a sweet dessert\")\n}\n```"
+    },
+    {
+        "Dish": "Zosui",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "I need you to provide the remaining predicted ingredients. Please list them so I can evaluate them for you."
+    },
+    {
+        "Dish": "chawanmushi",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "I'm sorry, it seems you've mentioned only \"egg\" as the predicted ingredient. Could you please provide the remaining predicted ingredients so I can evaluate them for you?"
+    },
+    {
+        "Dish": "Yubeshi",
+        "Gold_ingredients": [
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n    \"rice\": (\"Maybe\", \"Could be used as a non-traditional substitution for glutinous rice\")\n}\n```"
+    },
+    {
+        "Dish": "beni shōga",
+        "Gold_ingredients": [
+            "Zingiber officinale",
+            "umezu"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "sugar"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"sugar\": (\"Maybe\", \"Could be used in some variations for flavor balance\")\n}\n```"
+    },
+    {
+        "Dish": "myōga bochi",
+        "Gold_ingredients": [
+            "broad bean",
+            "Zingiber mioga"
+        ],
+        "Predicted_ingredient": [
+            "tofu",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Maybe\", \"Could be used in some variations but is not traditional\"),\n  \"rice\": (\"Incorrect\", \"Rarely associated with the dish in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "korokke",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "potato"
+        ],
+        "evaluated_output": "```python\n{\n  \"potato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "rice burger",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "Please provide the remaining predicted ingredients for the evaluation."
+    },
+    {
+        "Dish": "gomashio",
+        "Gold_ingredients": [
+            "table salt",
+            "sesame seed"
+        ],
+        "Predicted_ingredient": [
+            "sesame",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sesame\": (\"Correct\", \"Substitutability\"),\n  \"rice\": (\"Incorrect\", \"Rarely or never used in gomashio itself\")\n}\n```"
+    },
+    {
+        "Dish": "butadon",
+        "Gold_ingredients": [
+            "rice",
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "butter"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n  \"butter\": (\"Maybe\", \"Used in some variations for flavor but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "sōmen salad",
+        "Gold_ingredients": [
+            "sōmen"
+        ],
+        "Predicted_ingredient": [
+            "sōmen"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sōmen"
+        ],
+        "evaluated_output": "```python\n{\n  \"sōmen\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "mehari-zushi",
+        "Gold_ingredients": [
+            "asazuke"
+        ],
+        "Predicted_ingredient": [
+            "sushi"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sushi\": (\"Maybe\", \"Could be a term used to refer to the style, but not a specific ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "sakuramochi",
+        "Gold_ingredients": [
+            "red bean paste",
+            "Sakuraba zuke"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"rice\": (\"Incorrect\", \"Rarely used as it's not traditional for sakuramochi\")\n}\n```"
+    },
+    {
+        "Dish": "harako meshi",
+        "Gold_ingredients": [
+            "chum salmon",
+            "red caviar"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"pork and beans\": (\"Incorrect\", \"Rarely or never used in harako meshi\")\n}\n```"
+    },
+    {
+        "Dish": "manjū",
+        "Gold_ingredients": [
+            "red bean paste"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rice is not commonly used in traditional manjū recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Chikuzenni",
+        "Gold_ingredients": [
+            "dashi"
+        ],
+        "Predicted_ingredient": [
+            "boiled egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"boiled egg\": (\"Incorrect\", \"Rarely used in traditional Chikuzenni recipes\")\n}\n```"
+    },
+    {
+        "Dish": "donburi",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "kaki fry",
+        "Gold_ingredients": [
+            "oyster",
+            "egg",
+            "panko"
+        ],
+        "Predicted_ingredient": [
+            "eggplant",
+            "egg",
+            "banana"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"eggplant\": (\"Incorrect\", \"Rarely or never used in traditional kaki fry recipes\"),\n  \"banana\": (\"Incorrect\", \"Not used in kaki fry\")\n}\n```"
+    },
+    {
+        "Dish": "Hishi mochi",
+        "Gold_ingredients": [
+            "mochi"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "makoron",
+        "Gold_ingredients": [
+            "sugar",
+            "almond",
+            "egg white",
+            "wheat flour",
+            "peanut"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "rice flour",
+            "wheat",
+            "cooked rice",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in makoron\"),\n  \"rice flour\": (\"Incorrect\", \"Not typically used in makoron\"),\n  \"wheat\": (\"Maybe\", \"Could refer to wheat flour, but ambiguous\"),\n  \"cooked rice\": (\"Incorrect\", \"Rarely used in makoron\"),\n  \"fish\": (\"Incorrect\", \"Not a traditional or common ingredient in makoron\")\n}\n```"
+    },
+    {
+        "Dish": "chazuke",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Tokoroten",
+        "Gold_ingredients": [
+            "algae"
+        ],
+        "Predicted_ingredient": [
+            "agar"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"agar\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "kabayaki",
+        "Gold_ingredients": [
+            "eel"
+        ],
+        "Predicted_ingredient": [
+            "salt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"salt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "norimaki",
+        "Gold_ingredients": [
+            "nori"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "tempura udon",
+        "Gold_ingredients": [
+            "soup",
+            "tempura",
+            "udon"
+        ],
+        "Predicted_ingredient": [
+            "udon",
+            "wheat",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "udon"
+        ],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Maybe\", \"Could be part of the udon noodle preparation\"),\n  \"bread\": (\"Incorrect\", \"Rarely used in or associated with tempura udon\")\n}\n```"
+    },
+    {
+        "Dish": "mitsumame",
+        "Gold_ingredients": [
+            "agar",
+            "syrup",
+            "pea"
+        ],
+        "Predicted_ingredient": [
+            "sweet potato",
+            "agar",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "agar"
+        ],
+        "evaluated_output": "```python\n{\n  \"sweet potato\": (\"Maybe\", \"Used in some variations as a topping\"),\n  \"rice\": (\"Incorrect\", \"Rarely or never used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "unagi",
+        "Gold_ingredients": [
+            "Anguilla japonica",
+            "eel"
+        ],
+        "Predicted_ingredient": [
+            "eel",
+            "salt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "eel"
+        ],
+        "evaluated_output": "```python\n{\n  \"salt\": (\"Maybe\", \"Commonly used for seasoning but not listed in reference\")\n}\n```"
+    },
+    {
+        "Dish": "Okinawa soba",
+        "Gold_ingredients": [
+            "noodle"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "curry bread",
+        "Gold_ingredients": [
+            "dough",
+            "Japanese curry"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Substitutability\"),\n  \"wheat\": (\"Maybe\", \"Component of dough, but not typically mentioned separately\")\n}\n```"
+    },
+    {
+        "Dish": "kakigōri",
+        "Gold_ingredients": [
+            "ice"
+        ],
+        "Predicted_ingredient": [
+            "vanilla ice cream"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"vanilla ice cream\": (\"Incorrect\", \"Rarely used in traditional kakigōri recipes\")\n}\n```"
+    },
+    {
+        "Dish": "sata andagi",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "flour"
+        ],
+        "evaluated_output": "```python\n{\n  \"flour\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Hiyamugi",
+        "Gold_ingredients": [
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Kaki no tane",
+        "Gold_ingredients": [
+            "Peanuts"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Maybe\", \"Commonly used in some variations for the rice cracker component\")\n}\n```"
+    },
+    {
+        "Dish": "Nanbanzuke",
+        "Gold_ingredients": [
+            "karaage"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Aji fry",
+        "Gold_ingredients": [
+            "panko",
+            "Japanese horse mackerel"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\"),\n  \"egg\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Ikayaki",
+        "Gold_ingredients": [
+            "Teuthida"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Maybe\", \"Commonly used in batter for some ikayaki variations\")\n}\n```"
+    },
+    {
+        "Dish": "sasa-zushi",
+        "Gold_ingredients": [
+            "leaf"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Maybe\", \"Used in some regional variations of sushi\")\n}\n```"
+    },
+    {
+        "Dish": "surimi",
+        "Gold_ingredients": [
+            "fish fillet"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Cream Stew",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "cream"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cream\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "gari",
+        "Gold_ingredients": [
+            "sugar",
+            "vinegar",
+            "food coloring",
+            "ginger"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish",
+            "raw fish",
+            "fried rice",
+            "cooked rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Incorrect\", \"Rarely used in traditional gari recipes\"),\n  \"raw fish\": (\"Incorrect\", \"Gari does not typically include raw fish\"),\n  \"fried rice\": (\"Incorrect\", \"Not relevant to gari preparation\"),\n  \"cooked rice\": (\"Incorrect\", \"Not relevant to gari preparation\")\n}\n```"
+    },
+    {
+        "Dish": "Noppe",
+        "Gold_ingredients": [
+            "vegetable"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be included in some variations but is not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "katsu sandwich",
+        "Gold_ingredients": [
+            "breaded cutlet"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Light cheese cake",
+        "Gold_ingredients": [
+            "cheese",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "cheese",
+            "cream"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cheese"
+        ],
+        "evaluated_output": "```python\n{\n  \"cream\": (\"Maybe\", \"Commonly used to enhance texture in some variations but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "kake soba",
+        "Gold_ingredients": [
+            "soy sauce",
+            "mirin",
+            "dashi",
+            "Soba"
+        ],
+        "Predicted_ingredient": [
+            "buckwheat flour",
+            "buckwheat seed",
+            "wheat",
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"buckwheat flour\": (\"Correct\", \"Substitutability\"),\n  \"buckwheat seed\": (\"Maybe\", \"Could be used in some variations for flour production\"),\n  \"wheat\": (\"Maybe\", \"Used in some variations of soba noodles\"),\n  \"flour\": (\"Incorrect\", \"Too generic and not specific to the dish\")\n}\n```"
+    },
+    {
+        "Dish": "hitsumabushi",
+        "Gold_ingredients": [
+            "cooked rice",
+            "unagi"
+        ],
+        "Predicted_ingredient": [
+            "boiled egg",
+            "salt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"boiled egg\": (\"Incorrect\", \"Rarely used in traditional or common recipes for hitsumabushi\"),\n  \"salt\": (\"Maybe\", \"Might be used in seasoning but not explicitly common\")\n}\n```"
+    },
+    {
+        "Dish": "kimchi-don",
+        "Gold_ingredients": [
+            "kimchi",
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "kimchi",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice",
+            "kimchi"
+        ],
+        "evaluated_output": "I'm sorry, but it seems that there are no additional predicted ingredients to evaluate in your request. If you have more ingredients that need evaluation, please provide them, and I'll be happy to help!"
+    },
+    {
+        "Dish": "onigiri",
+        "Gold_ingredients": [
+            "rice",
+            "nori"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "cooked rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"cooked rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Kurohampen",
+        "Gold_ingredients": [
+            "fish as food"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Incorrect\", \"Rarely used in traditional Kurohampen recipes\")\n}\n```"
+    }
+]

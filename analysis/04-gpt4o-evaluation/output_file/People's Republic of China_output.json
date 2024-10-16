@@ -1,0 +1,1370 @@
+[
+    {
+        "Dish": "dandan noodles",
+        "Gold_ingredients": [
+            "chili pepper",
+            "Coriandrum sativum",
+            "noodle",
+            "sesame",
+            "mala"
+        ],
+        "Predicted_ingredient": [
+            "wheat",
+            "wheat flour",
+            "starch",
+            "boiled egg",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional dandan noodles recipes\"),\n  \"boiled egg\": (\"Maybe\", \"Sometimes added in modern variations but not traditional\"),\n  \"wheat\": (\"Maybe\", \"Ingredient base for noodles but not directly listed\"),\n  \"wheat flour\": (\"Correct\", \"Substitutability, used to make the noodles\"),\n  \"starch\": (\"Maybe\", \"Could be used as a thickener in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "chow mein",
+        "Gold_ingredients": [
+            "noodle",
+            "chicken meat",
+            "onion",
+            "celery"
+        ],
+        "Predicted_ingredient": [
+            "wheat",
+            "meat",
+            "rice",
+            "starch"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\"),\n  \"meat\": (\"Maybe\", \"Could be a general substitute for 'chicken meat' in variations\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in chow mein, more common in fried rice dishes\"),\n  \"starch\": (\"Maybe\", \"Sometimes used for thickening sauces or coating meat\")\n}\n```"
+    },
+    {
+        "Dish": "crab in oyster sauce",
+        "Gold_ingredients": [
+            "brachyura"
+        ],
+        "Predicted_ingredient": [
+            "crab meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"crab meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "lou ding",
+        "Gold_ingredients": [
+            "instant noodles"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Maybe\", \"Could be used in some variations as a protein addition\")\n}\n```"
+    },
+    {
+        "Dish": "coconut bar",
+        "Gold_ingredients": [
+            "coconut"
+        ],
+        "Predicted_ingredient": [
+            "coconut"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "coconut"
+        ],
+        "evaluated_output": "I'm sorry, but I need the full list of predicted ingredients for proper evaluation. Could you please provide it?"
+    },
+    {
+        "Dish": "Kung Pao chicken",
+        "Gold_ingredients": [
+            "peanut",
+            "Sichuan pepper",
+            "Shaoxing wine",
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "chili",
+            "meat",
+            "shrimp"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Substitutability\"),\n  \"chili\": (\"Maybe\", \"Commonly used in some variations as an additional spice\"),\n  \"meat\": (\"Incorrect\", \"Too generic; not specifically used in this dish\"),\n  \"shrimp\": (\"Incorrect\", \"Not traditionally used in Kung Pao chicken\")\n}\n```"
+    },
+    {
+        "Dish": "luosifen",
+        "Gold_ingredients": [
+            "chili pepper",
+            "rice vermicelli",
+            "peanut",
+            "freshwater snail",
+            "bamboo shoots",
+            "tofu skin"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish",
+            "fish",
+            "rice",
+            "pork",
+            "fried rice",
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Maybe\", \"Could be used in some variations, but not traditional\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in luosifen traditionally\"),\n  \"rice\": (\"Incorrect\", \"Rice is not a typical component of luosifen\"),\n  \"pork\": (\"Incorrect\", \"Pork is not a traditional ingredient in luosifen\"),\n  \"fried rice\": (\"Incorrect\", \"Fried rice is not used in luosifen\"),\n  \"tofu\": (\"Maybe\", \"Tofu skin is used, but plain tofu might be a substitute in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "Paomo",
+        "Gold_ingredients": [
+            "beef",
+            "lamb meat",
+            "Laobing"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "bread",
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in traditional Paomo recipes\"),\n  \"dough\": (\"Maybe\", \"Could be used as a base for making Laobing\"),\n  \"bread\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "roujiamo",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Maybe\", \"Can be substituted for pork in variations but not specific\")\n}\n```"
+    },
+    {
+        "Dish": "grass jelly",
+        "Gold_ingredients": [
+            "Platostoma palustre"
+        ],
+        "Predicted_ingredient": [
+            "fruit"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fruit\": (\"Maybe\", \"Commonly added as a topping in some variations of grass jelly\")\n}\n```"
+    },
+    {
+        "Dish": "Peking duck",
+        "Gold_ingredients": [
+            "Cucumis sativus",
+            "Welsh onion",
+            "duck meat",
+            "tianmianjiang",
+            "American Pekin"
+        ],
+        "Predicted_ingredient": [
+            "duck meat",
+            "duck liver",
+            "bread",
+            "fermented fish",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "duck meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Sometimes used in sandwiches or wraps with Peking duck but not traditional\"),\n  \"meat\": (\"Maybe\", \"Broad term; not specific enough but duck meat is correct\"),\n  \"fermented fish\": (\"Incorrect\", \"Rarely or never used in Peking duck recipes\"),\n  \"duck liver\": (\"Incorrect\", \"Not typically associated with Peking duck\")\n}\n```"
+    },
+    {
+        "Dish": "orange cuttlefish",
+        "Gold_ingredients": [
+            "cuttlefish"
+        ],
+        "Predicted_ingredient": [
+            "cuttlefish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cuttlefish"
+        ],
+        "evaluated_output": "```python\n{\n  \"cuttlefish\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "yuxiangrousi",
+        "Gold_ingredients": [
+            "pork",
+            "yuxiang"
+        ],
+        "Predicted_ingredient": [
+            "pork belly",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork belly\": (\"Maybe\", \"Can be used as a variation of pork in some recipes\")\n}\n```"
+    },
+    {
+        "Dish": "cha siu bao",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "mapo doufu",
+        "Gold_ingredients": [
+            "tofu",
+            "douchi",
+            "doubanjiang"
+        ],
+        "Predicted_ingredient": [
+            "tofu",
+            "soy bean",
+            "broad bean"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tofu"
+        ],
+        "evaluated_output": "```python\n{\n  \"soy bean\": (\"Maybe\", \"Could be classed as a base component of tofu in variations\"),\n  \"broad bean\": (\"Incorrect\", \"Not typically used in mapo doufu\")\n}\n```"
+    },
+    {
+        "Dish": "Lotus seed bun",
+        "Gold_ingredients": [
+            "yeast"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in lotus seed bun preparations\")\n}\n```"
+    },
+    {
+        "Dish": "shrimp paste",
+        "Gold_ingredients": [
+            "shrimp or prawn"
+        ],
+        "Predicted_ingredient": [
+            "shrimp"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"shrimp\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "gaifan",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "I'm sorry, but I need the remaining predicted ingredients to continue the evaluation for the dish \"gaifan.\" Could you please provide the full list of predicted ingredients?"
+    },
+    {
+        "Dish": "Bakkwa",
+        "Gold_ingredients": [
+            "dried meat",
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "xiaolongbao",
+        "Gold_ingredients": [
+            "pork",
+            "dough",
+            "Napa cabbage",
+            "Lentinula edodes"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "soup",
+            "dough",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork",
+            "dough"
+        ],
+        "evaluated_output": "```python\n{\n  \"soup\": (\"Maybe\", \"Commonly used as a filler in some variations\"),\n  \"meat\": (\"Maybe\", \"Vague term, could refer to pork but lacks specificity\")\n}\n```"
+    },
+    {
+        "Dish": "Chinese almond biscuit",
+        "Gold_ingredients": [
+            "water",
+            "sugar",
+            "butter",
+            "Prunus dulcis",
+            "Vigna radiata",
+            "vegetable oil"
+        ],
+        "Predicted_ingredient": [
+            "almond",
+            "almond meal",
+            "almond paste",
+            "rice flour",
+            "wheat flour",
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"almond\": (\"Correct\", \"Substitutability\"),\n  \"almond meal\": (\"Maybe\", \"Used in some variations as an alternative to whole almonds\"),\n  \"almond paste\": (\"Maybe\", \"Can be used in variations but is uncommon\"),\n  \"rice flour\": (\"Incorrect\", \"Rarely used in this type of biscuit\"),\n  \"wheat flour\": (\"Maybe\", \"Commonly used in variations for texture\"),\n  \"flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "jiaozi",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"dough\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "pork chop bun",
+        "Gold_ingredients": [
+            "piggy bun"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Cantonese seafood soup",
+        "Gold_ingredients": [
+            "seafood"
+        ],
+        "Predicted_ingredient": [
+            "seafood"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "seafood"
+        ],
+        "evaluated_output": "```python\n{\n  \"seafood\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Red bean cake",
+        "Gold_ingredients": [
+            "red bean paste"
+        ],
+        "Predicted_ingredient": [
+            "red bean paste"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "red bean paste"
+        ],
+        "evaluated_output": "```python\n{\n  \"red bean paste\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "pork knuckles and ginger stew",
+        "Gold_ingredients": [
+            "pig's trotters",
+            "ginger"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "pork belly"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Substitutability\"),\n  \"pork belly\": (\"Maybe\", \"Can be used in some variations of the stew\")\n}\n```"
+    },
+    {
+        "Dish": "dāoxiāo miàn",
+        "Gold_ingredients": [
+            "knife-cut noodle"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in a dish that specifically features knife-cut noodles\")\n}\n```"
+    },
+    {
+        "Dish": "douhua",
+        "Gold_ingredients": [
+            "tofu"
+        ],
+        "Predicted_ingredient": [
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tofu"
+        ],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "ants climbing a tree",
+        "Gold_ingredients": [
+            "cellophane noodles",
+            "minced meat"
+        ],
+        "Predicted_ingredient": [
+            "shrimp",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"shrimp\": (\"Maybe\", \"Could be used in some variations but not traditional\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional recipes for this dish\")\n}\n```"
+    },
+    {
+        "Dish": "Kaishui baicai",
+        "Gold_ingredients": [
+            "chicken soup",
+            "Napa cabbage"
+        ],
+        "Predicted_ingredient": [
+            "white cabbage",
+            "cabbage"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"white cabbage\": (\"Maybe\", \"Could be used as a substitution for Napa cabbage\"),\n  \"cabbage\": (\"Maybe\", \"Could be used as a substitution for Napa cabbage\")\n}\n```"
+    },
+    {
+        "Dish": "sweet potato soup",
+        "Gold_ingredients": [
+            "Sweet potato"
+        ],
+        "Predicted_ingredient": [
+            "sweet potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sweet potato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "white cut chicken",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "oil noodles",
+        "Gold_ingredients": [
+            "noodle",
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "oil",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"oil\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in oil noodle recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Funing big cake",
+        "Gold_ingredients": [
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be considered in some versions, but glutinous rice is traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Chinese steamed eggs",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "beef chow fun",
+        "Gold_ingredients": [
+            "mung bean sprout"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "chǎofàn",
+        "Gold_ingredients": [
+            "cooked rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Ching bo leung",
+        "Gold_ingredients": [
+            "Coix lacryma-jobi"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Maybe\", \"Could be used in some variations but uncommon for Ching bo leung\")\n}\n```"
+    },
+    {
+        "Dish": "fish head casserole",
+        "Gold_ingredients": [
+            "fish head"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "shumai",
+        "Gold_ingredients": [
+            "minced meat"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Haw flakes",
+        "Gold_ingredients": [
+            "Crataegus pinnatifida"
+        ],
+        "Predicted_ingredient": [
+            "dried fruit"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"dried fruit\": (\"Incorrect\", \"Rarely used, does not match haw flakes ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "noodle soup",
+        "Gold_ingredients": [
+            "noodle"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "mahua",
+        "Gold_ingredients": [
+            "dough"
+        ],
+        "Predicted_ingredient": [
+            "dried fruit"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"dried fruit\": (\"Maybe\", \"Could be used in some variations for added flavor\")\n}\n```"
+    },
+    {
+        "Dish": "Wenchang chicken",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "claypot rice",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "pepper steak",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "roast goose",
+        "Gold_ingredients": [
+            "Anserini"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "baked pork chop rice",
+        "Gold_ingredients": [
+            "rice",
+            "pork chop"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "pork chop"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork chop"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "crispy fried chicken",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Braised intestines in brown sauce",
+        "Gold_ingredients": [
+            "pork large intestine"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Taro dumpling",
+        "Gold_ingredients": [
+            "taro"
+        ],
+        "Predicted_ingredient": [
+            "taro"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "taro"
+        ],
+        "evaluated_output": "```python\n{\n  \"taro\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Ci fan tuan",
+        "Gold_ingredients": [
+            "youtiao"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "bak kut teh",
+        "Gold_ingredients": [
+            "spare ribs",
+            "pork ribs"
+        ],
+        "Predicted_ingredient": [
+            "pork ribs",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork ribs"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Maybe\", \"Commonly used in some variations as a base protein\")\n}\n```"
+    },
+    {
+        "Dish": "yuxiang qiezi",
+        "Gold_ingredients": [
+            "yuxiang",
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "chicken egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Eggs could be used in some variations for coating or texture\"),\n  \"chicken egg\": (\"Maybe\", \"Commonly another term for egg; use in variations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "zongzi",
+        "Gold_ingredients": [
+            "Juncus effusus",
+            "glutinous rice",
+            "Sasa"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice",
+            "rice",
+            "starch"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "glutinous rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Direct Match\"),\n  \"rice\": (\"Maybe\", \"Could be used as a substitute but traditional recipe uses glutinous rice\"),\n  \"starch\": (\"Incorrect\", \"Rarely used in zongzi preparation\")\n}\n```"
+    },
+    {
+        "Dish": "egg foo young",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Laobing",
+        "Gold_ingredients": [
+            "water",
+            "table salt",
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish",
+            "rice",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Incorrect\", \"Rarely or never used in traditional Laobing\"),\n  \"rice\": (\"Incorrect\", \"Not an ingredient in traditional Laobing\"),\n  \"pork\": (\"Maybe\", \"Could be part of some variations or used as a filling, but not in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Lo mai chi",
+        "Gold_ingredients": [
+            "coconut"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "ngo hiang",
+        "Gold_ingredients": [
+            "five-spice powder",
+            "tofu skin"
+        ],
+        "Predicted_ingredient": [
+            "meat",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Maybe\", \"Could be used in variations as ngo hiang can include different types of meat\"),\n  \"pork\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Lobster Yee Mein",
+        "Gold_ingredients": [
+            "Palinuridae",
+            "yi mein"
+        ],
+        "Predicted_ingredient": [
+            "lobster",
+            "crab meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"lobster\": (\"Correct\", \"Substitutability\"),\n  \"crab meat\": (\"Maybe\", \"Could be used as a variation, but uncommon for this dish\")\n}\n```"
+    },
+    {
+        "Dish": "char siu",
+        "Gold_ingredients": [
+            "honey",
+            "pork",
+            "fortified wine",
+            "hoisin sauce",
+            "rice wine",
+            "fermented bean curd",
+            "five-spice powder",
+            "dark soy sauce"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "pork belly",
+            "pork shoulder",
+            "pork ribs",
+            "meat",
+            "pork and beans",
+            "pork chop",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork and beans\": (\"Incorrect\", \"Rarely used in char siu\"),\n  \"pork belly\": (\"Correct\", \"Substitutability\"),\n  \"chicken\": (\"Incorrect\", \"Rarely used in char siu\"),\n  \"pork ribs\": (\"Maybe\", \"Sometimes used in variations\"),\n  \"meat\": (\"Incorrect\", \"Too vague and not specific to char siu\"),\n  \"pork chop\": (\"Maybe\", \"Could be used but less common\"),\n  \"pork shoulder\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "char siu rice",
+        "Gold_ingredients": [
+            "cooked rice",
+            "char siu"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Substitutability\"),\n  \"pork\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Black sesame rice cake",
+        "Gold_ingredients": [
+            "white rice"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "almond biscuit",
+        "Gold_ingredients": [
+            "apricot kernel"
+        ],
+        "Predicted_ingredient": [
+            "almond"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"almond\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Jiuniang",
+        "Gold_ingredients": [
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Glutinous rice is specific and rice generally is inappropriate\")\n}\n```"
+    },
+    {
+        "Dish": "pork congee with preserved egg",
+        "Gold_ingredients": [
+            "century egg",
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "pork",
+            "pork belly"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pork"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork belly\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "turtle soup",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "turkey meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"turkey meat\": (\"Maybe\", \"Could be used in less traditional variations as a substitute for turtle meat\")\n}\n```"
+    },
+    {
+        "Dish": "fried rice",
+        "Gold_ingredients": [
+            "cooked rice"
+        ],
+        "Predicted_ingredient": [
+            "cooked rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cooked rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"cooked rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "White boiled shrimp",
+        "Gold_ingredients": [
+            "shrimp"
+        ],
+        "Predicted_ingredient": [
+            "shrimp"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "shrimp"
+        ],
+        "evaluated_output": "```python\n{\n  \"shrimp\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Yangzhou fried rice",
+        "Gold_ingredients": [
+            "vegetable",
+            "egg",
+            "cooked rice",
+            "shrimp or prawn",
+            "char siu"
+        ],
+        "Predicted_ingredient": [
+            "cooked rice",
+            "rice",
+            "fried rice",
+            "white rice",
+            "brown rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cooked rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Base ingredient of cooked rice, but ambiguous if used alone\"),\n  \"fried rice\": (\"Incorrect\", \"Describes the dish, not an ingredient\"),\n  \"white rice\": (\"Correct\", \"Substitutability\"),\n  \"brown rice\": (\"Maybe\", \"Uncommon variation\")\n}\n```"
+    },
+    {
+        "Dish": "patriotic soup",
+        "Gold_ingredients": [
+            "leaf vegetable",
+            "edible mushroom"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Maybe\", \"Could be used in some variations for added flavor\"),\n  \"beef\": (\"Maybe\", \"Could be used in some versions but not typical\")\n}\n```"
+    },
+    {
+        "Dish": "Chao hong guo",
+        "Gold_ingredients": [
+            "Crataegus pinnatifida"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Incorrect\", \"Rarely used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "laziji",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional laziji recipes\")\n}\n```"
+    },
+    {
+        "Dish": "shuizhu",
+        "Gold_ingredients": [
+            "beef",
+            "chili pepper",
+            "vegetable oil"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "pork",
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Maybe\", \"Used in some variations such as 'Fish Shuizhu'\"),\n  \"pork\": (\"Maybe\", \"Used in some variations such as 'Pork Shuizhu'\"),\n  \"tofu\": (\"Maybe\", \"Can be added as a common ingredient in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "youtiao",
+        "Gold_ingredients": [
+            "dough"
+        ],
+        "Predicted_ingredient": [
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "yong tau foo",
+        "Gold_ingredients": [
+            "tofu"
+        ],
+        "Predicted_ingredient": [
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tofu"
+        ],
+        "evaluated_output": "I'm sorry, but I need the complete set of predicted ingredients to proceed with the evaluation. Could you please provide the entire list?"
+    },
+    {
+        "Dish": "soy sauce chicken",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "wonton",
+        "Gold_ingredients": [
+            "dough"
+        ],
+        "Predicted_ingredient": [
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "dough"
+        ],
+        "evaluated_output": "```python\n{\n  \"dough\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "latiao",
+        "Gold_ingredients": [
+            "chili pepper",
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "pork belly",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork belly\": (\"Incorrect\", \"Rarely used in traditional latiao recipes\"),\n  \"pork\": (\"Incorrect\", \"Rarely used in traditional latiao recipes\")\n}\n```"
+    },
+    {
+        "Dish": "zhajiangmian",
+        "Gold_ingredients": [
+            "cumian"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Dong'an chicken",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Hainanese chicken rice",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Einlaufsuppe",
+        "Gold_ingredients": [
+            "egg",
+            "broth"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Maybe\", \"Could be used as part of a broth variation\"),\n  \"meat\": (\"Incorrect\", \"Too vague and not traditionally used\")\n}\n```"
+    },
+    {
+        "Dish": "Steamed prawns with garlic",
+        "Gold_ingredients": [
+            "rice vermicelli",
+            "Melicertus kerathurus",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "shrimp",
+            "garlic",
+            "seafood"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "garlic"
+        ],
+        "evaluated_output": "```python\n{\n  \"shrimp\": (\"Correct\", \"Substitutability\"),\n  \"seafood\": (\"Maybe\", \"Could be used as a general category but is vague\")\n}\n```"
+    },
+    {
+        "Dish": "duck blood and vermicelli soup",
+        "Gold_ingredients": [
+            "duck meat"
+        ],
+        "Predicted_ingredient": [
+            "duck meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "duck meat"
+        ],
+        "evaluated_output": "I'm sorry, but there seems to be some confusion with the input you provided. The only predicted ingredient you listed is \"duck meat\", which has already been evaluated. If you could provide more predicted ingredients to evaluate, I'd be happy to assist!"
+    },
+    {
+        "Dish": "zhangcha duck",
+        "Gold_ingredients": [
+            "duck meat"
+        ],
+        "Predicted_ingredient": [
+            "duck meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "duck meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"duck meat\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "roasted sweet potatoes",
+        "Gold_ingredients": [
+            "Sweet potato"
+        ],
+        "Predicted_ingredient": [
+            "sweet potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sweet potato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Öpke-hésip",
+        "Gold_ingredients": [
+            "hasip",
+            "lamb lung"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "tangyuan",
+        "Gold_ingredients": [
+            "glutinous rice"
+        ],
+        "Predicted_ingredient": [
+            "glutinous rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "glutinous rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"glutinous rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "White sugar sponge cake",
+        "Gold_ingredients": [
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "white sugar"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"white sugar\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "lemon chicken",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Lung fung soup",
+        "Gold_ingredients": [
+            "seafood"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Maybe\", \"Used in some variations of the soup instead of seafood\")\n}\n```"
+    },
+    {
+        "Dish": "donkey burger",
+        "Gold_ingredients": [
+            "donkey meat",
+            "shaobing"
+        ],
+        "Predicted_ingredient": [
+            "ground beef",
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ground beef\": (\"Maybe\", \"Could be used in some variations as a substitute if donkey meat is unavailable\"),\n  \"beef\": (\"Maybe\", \"Could be a common substitute for donkey meat in some regions\")\n}\n```"
+    },
+    {
+        "Dish": "har gow",
+        "Gold_ingredients": [
+            "bamboo shoots",
+            "shrimp or prawn"
+        ],
+        "Predicted_ingredient": [
+            "shrimp",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"shrimp\": (\"Correct\", \"Direct Match\"),\n  \"pork\": (\"Maybe\", \"Commonly added in some variations for flavor\")\n}\n```"
+    },
+    {
+        "Dish": "tomato and egg soup",
+        "Gold_ingredients": [
+            "egg",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "tomato",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg",
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"tomato\": (\"Correct\", \"Direct Match\"),\n  \"egg\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Liver soup",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "liver"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"liver\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Bai ye",
+        "Gold_ingredients": [
+            "tofu"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Incorrect\", \"Rarely or never used in the dish\")\n}\n```"
+    }
+]

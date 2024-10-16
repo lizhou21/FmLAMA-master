@@ -1,0 +1,345 @@
+[
+    {
+        "Dish": "loukoumades",
+        "Gold_ingredients": [
+            "water",
+            "milk",
+            "honey",
+            "sugar",
+            "cinnamon",
+            "olive oil",
+            "baker's yeast",
+            "Walnuts"
+        ],
+        "Predicted_ingredient": [
+            "honey",
+            "dough",
+            "yeast",
+            "flour",
+            "batter",
+            "sugar",
+            "syrup",
+            "cheese"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "honey",
+            "sugar"
+        ],
+        "evaluated_output": "```python\n{\n    \"yeast\": (\"Correct\", \"Substitutability\"),\n    \"flour\": (\"Correct\", \"Missing Traditional Ingredient\"),\n    \"cheese\": (\"Incorrect\", \"Rarely used in this dish\"),\n    \"dough\": (\"Maybe\", \"Ambiguous term, could refer to the mix used in some variations\"),\n    \"syrup\": (\"Maybe\", \"Used in some variations for sweetness\"),\n    \"batter\": (\"Maybe\", \"Related to dough and could be relevant in some recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Karydopita",
+        "Gold_ingredients": [
+            "walnut"
+        ],
+        "Predicted_ingredient": [
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"honey\": (\"Maybe\", \"Sometimes used as a syrup or glaze in variations\")\n}\n```"
+    },
+    {
+        "Dish": "Akanés",
+        "Gold_ingredients": [
+            "starch"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely or never used in Akanés\")\n}\n```"
+    },
+    {
+        "Dish": "Giouvetsi",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Pastitsio",
+        "Gold_ingredients": [
+            "minced meat"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "bouyiourdi",
+        "Gold_ingredients": [
+            "Capsicum annuum",
+            "olive oil",
+            "feta",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "chicken",
+            "meat",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"chicken\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"meat\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Moussaka",
+        "Gold_ingredients": [
+            "Capsicum",
+            "onion",
+            "tomato sauce",
+            "minced meat",
+            "eggplant",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "layer",
+            "slice of cheese",
+            "meat",
+            "egg pasta",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"layer\": (\"Incorrect\", \"Not an ingredient\"),\n  \"slice of cheese\": (\"Maybe\", \"Used in some variations for topping\"),\n  \"meat\": (\"Correct\", \"Substitutability\"),\n  \"pasta\": (\"Incorrect\", \"Rarely used in traditional moussaka\"),\n  \"egg pasta\": (\"Incorrect\", \"Not used in traditional moussaka\")\n}\n```"
+    },
+    {
+        "Dish": "Strapatsada",
+        "Gold_ingredients": [
+            "tomato",
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "eggplant",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"eggplant\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "fasolakia",
+        "Gold_ingredients": [
+            "green bean"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional fasolakia recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Saganaki",
+        "Gold_ingredients": [
+            "cheese"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Commonly served as an accompaniment but not part of the actual dish\")\n}\n```"
+    },
+    {
+        "Dish": "Avgolemono",
+        "Gold_ingredients": [
+            "egg",
+            "broth",
+            "lemon juice"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "chicken soup",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Maybe\", \"Commonly used in some variations of Avgolemono but not essential\"),\n  \"chicken soup\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "black soup",
+        "Gold_ingredients": [
+            "pig"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Incorrect\", \"Rarely used in traditional black soup recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Greek salad",
+        "Gold_ingredients": [
+            "table salt",
+            "olive oil",
+            "feta",
+            "onion",
+            "olive",
+            "cucumber",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "tomato",
+            "lettuce",
+            "yogurt",
+            "salad",
+            "olive",
+            "cucumber",
+            "leaf"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "olive",
+            "cucumber",
+            "tomato"
+        ],
+        "evaluated_output": "```python\n{\n  \"salad\": (\"Incorrect\", \"Generic term; not a specific ingredient\"),\n  \"lettuce\": (\"Maybe\", \"Sometimes used but not traditional in Greek salad\"),\n  \"leaf\": (\"Incorrect\", \"Ambiguous; not a specific ingredient\"),\n  \"yogurt\": (\"Maybe\", \"Occasionally used in dressings but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "diples",
+        "Gold_ingredients": [
+            "dough"
+        ],
+        "Predicted_ingredient": [
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "dough"
+        ],
+        "evaluated_output": "```python\n{\n  \"dough\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Revithia",
+        "Gold_ingredients": [
+            "chickpea"
+        ],
+        "Predicted_ingredient": [
+            "chickpea"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chickpea"
+        ],
+        "evaluated_output": "```python\n{\n  \"chickpea\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "tzatziki",
+        "Gold_ingredients": [
+            "yogurt",
+            "strained yogurt",
+            "cucumber",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "yogurt",
+            "cucumber",
+            "grated cheese",
+            "garlic"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "cucumber",
+            "garlic",
+            "yogurt"
+        ],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Correct\", \"Direct Match\"),\n  \"cucumber\": (\"Correct\", \"Direct Match\"),\n  \"grated cheese\": (\"Incorrect\", \"Rarely used in traditional tzatziki\"),\n  \"garlic\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Magiritsa",
+        "Gold_ingredients": [
+            "rice",
+            "table salt",
+            "lemon",
+            "lamb meat",
+            "onion",
+            "chicken egg"
+        ],
+        "Predicted_ingredient": [
+            "meat",
+            "chicken",
+            "lamb meat",
+            "liver",
+            "chicken meat",
+            "lamb lung"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "lamb meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"chicken meat\": (\"Incorrect\", \"Rarely used in traditional magiritsa recipes\"),\n  \"lamb lung\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"liver\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"meat\": (\"Maybe\", \"Ambiguous type of meat not specific enough\"),\n  \"chicken\": (\"Maybe\", \"Sometimes used as a variation in modern recipes\")\n}\n```"
+    },
+    {
+        "Dish": "gyros",
+        "Gold_ingredients": [
+            "potato",
+            "pita",
+            "stuffing"
+        ],
+        "Predicted_ingredient": [
+            "meat",
+            "layer",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Correct\", \"Substitutability\"),\n  \"layer\": (\"Incorrect\", \"Ambiguous term not specifically related to gyros\"),\n  \"chicken\": (\"Maybe\", \"Common variation using chicken instead of traditional pork or lamb\")\n}\n```"
+    },
+    {
+        "Dish": "astakomakaronada",
+        "Gold_ingredients": [
+            "lobster"
+        ],
+        "Predicted_ingredient": [
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pasta\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Fasolada",
+        "Gold_ingredients": [
+            "Phaseolus vulgaris"
+        ],
+        "Predicted_ingredient": [
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Incorrect\", \"Rarely used in traditional fasolada recipes\"),\n  \"beans\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "skordalia",
+        "Gold_ingredients": [
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "garlic"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "garlic"
+        ],
+        "evaluated_output": "```python\n{\n  \"garlic\": (\"Correct\", \"Direct Match\")\n}\n```"
+    }
+]

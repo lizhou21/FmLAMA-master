@@ -1,0 +1,320 @@
+[
+    {
+        "Dish": "Jujeh kabab",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "pomegranate soup",
+        "Gold_ingredients": [
+            "pomegranate"
+        ],
+        "Predicted_ingredient": [
+            "pomegranate"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pomegranate"
+        ],
+        "evaluated_output": "```python\n{\n  \"pomegranate\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Fesenjān",
+        "Gold_ingredients": [
+            "pomegranate juice"
+        ],
+        "Predicted_ingredient": [
+            "pomegranate"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pomegranate\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Albaloo polo",
+        "Gold_ingredients": [
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "pomegranate"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pomegranate\": (\"Maybe\", \"Occasionally used in some variations as a flavor enhancer\")\n}\n```"
+    },
+    {
+        "Dish": "Kofta",
+        "Gold_ingredients": [
+            "minced meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "minced meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Sabzi polo",
+        "Gold_ingredients": [
+            "herb"
+        ],
+        "Predicted_ingredient": [
+            "saffron"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"saffron\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "falooda",
+        "Gold_ingredients": [
+            "milk",
+            "vermicelli",
+            "Ocimum",
+            "rose water"
+        ],
+        "Predicted_ingredient": [
+            "vermicelli",
+            "milk",
+            "basil",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "milk",
+            "vermicelli"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional recipes for falooda\"),\n  \"basil\": (\"Correct\", \"Substitutability (as Ocimum is a genus that includes basil)\")\n}\n```"
+    },
+    {
+        "Dish": "ghormeh sabzi",
+        "Gold_ingredients": [
+            "parsley",
+            "Phaseolus vulgaris",
+            "Trigonella foenum-graecum",
+            "herb",
+            "coriander seed"
+        ],
+        "Predicted_ingredient": [
+            "parsley",
+            "spinach",
+            "pork and beans",
+            "egg",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "parsley"
+        ],
+        "evaluated_output": "```python\n{\n    \"spinach\": (\"Maybe\", \"Sometimes used as a substitute for traditional herbs\"),\n    \"pork and beans\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n    \"egg\": (\"Incorrect\", \"Not a common ingredient in ghormeh sabzi\"),\n    \"chicken\": (\"Incorrect\", \"Not traditionally used in this dish\")\n}\n```"
+    },
+    {
+        "Dish": "joshpara",
+        "Gold_ingredients": [
+            "dumpling"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in joshpara, which typically involves dumplings\")\n}\n```"
+    },
+    {
+        "Dish": "Bastani",
+        "Gold_ingredients": [
+            "milk",
+            "sugar",
+            "saffron",
+            "Pistacia vera",
+            "egg",
+            "vanilla",
+            "rose water"
+        ],
+        "Predicted_ingredient": [
+            "saffron",
+            "ice",
+            "yogurt",
+            "rice",
+            "egg",
+            "vanilla",
+            "almond"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg",
+            "saffron",
+            "vanilla"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional Bastani recipes\"),\n  \"ice\": (\"Maybe\", \"Can be used for texture in some variations but not essential\"),\n  \"yogurt\": (\"Maybe\", \"Occasionally used in some modern variations for creaminess\"),\n  \"almond\": (\"Maybe\", \"Sometimes used as a garnish or flavoring in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "zeytoon parvardeh",
+        "Gold_ingredients": [
+            "olive"
+        ],
+        "Predicted_ingredient": [
+            "zucchini"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"zucchini\": (\"Incorrect\", \"Rarely or never used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "rock candy",
+        "Gold_ingredients": [
+            "sugar"
+        ],
+        "Predicted_ingredient": [
+            "sugar"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sugar"
+        ],
+        "evaluated_output": "I'm sorry, but it seems there are no additional predicted ingredients to evaluate. Could you please provide more ingredients for evaluation?"
+    },
+    {
+        "Dish": "Faloodeh",
+        "Gold_ingredients": [
+            "vermicelli"
+        ],
+        "Predicted_ingredient": [
+            "vermicelli"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "vermicelli"
+        ],
+        "evaluated_output": "```python\n{\n  \"vermicelli\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "muhallebi",
+        "Gold_ingredients": [
+            "milk",
+            "sugar",
+            "rice flour"
+        ],
+        "Predicted_ingredient": [
+            "rice flour",
+            "rice",
+            "milk"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice flour",
+            "milk"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rice is not typically used in muhallebi; rice flour is used instead\")\n}\n```"
+    },
+    {
+        "Dish": "rogan josh",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "lamb meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"lamb meat\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "ash-e doogh",
+        "Gold_ingredients": [
+            "yogurt"
+        ],
+        "Predicted_ingredient": [
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "yogurt"
+        ],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Mahyawa",
+        "Gold_ingredients": [
+            "fish"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in Mahyawa, which is a fish sauce, not a dish with rice\")\n}\n```"
+    },
+    {
+        "Dish": "sholezard",
+        "Gold_ingredients": [
+            "rice",
+            "cinnamon",
+            "butter",
+            "saffron",
+            "cardamom",
+            "rose water"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "fish",
+            "chicken",
+            "meat",
+            "egg",
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely or never used in sholezard\"),\n  \"chicken\": (\"Incorrect\", \"Rarely or never used in sholezard\"),\n  \"meat\": (\"Incorrect\", \"Rarely or never used in sholezard\"),\n  \"egg\": (\"Incorrect\", \"Rarely or never used in sholezard\"),\n  \"lamb meat\": (\"Incorrect\", \"Rarely or never used in sholezard\")\n}\n```"
+    },
+    {
+        "Dish": "Eggplant Caviar",
+        "Gold_ingredients": [
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional eggplant caviar recipes\")\n}\n```"
+    },
+    {
+        "Dish": "nân-e panjere",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice flour\": (\"Maybe\", \"Could be used as a gluten-free substitute for flour but not common\")\n}\n```"
+    },
+    {
+        "Dish": "bamiyeh",
+        "Gold_ingredients": [
+            "yogurt"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional bamiyeh recipes\")\n}\n```"
+    }
+]

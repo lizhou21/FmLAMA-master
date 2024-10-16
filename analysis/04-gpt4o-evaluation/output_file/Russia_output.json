@@ -1,0 +1,466 @@
+[
+    {
+        "Dish": "Shanga",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rice is not a traditional or substitutable ingredient for flour in Shanga\")\n}\n```"
+    },
+    {
+        "Dish": "Khrenovina",
+        "Gold_ingredients": [
+            "tomato",
+            "horseradish root",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "meat",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Incorrect\", \"Rarely used in traditional Khrenovina recipes\"),\n  \"meat\": (\"Incorrect\", \"Khrenovina is typically a sauce without meat\"),\n  \"rice\": (\"Incorrect\", \"Rice is not a typical ingredient in Khrenovina\")\n}\n```"
+    },
+    {
+        "Dish": "rassolnik",
+        "Gold_ingredients": [
+            "root vegetable",
+            "Salzgurke",
+            "brine",
+            "liver",
+            "kidney"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "pickled cucumber",
+            "beef",
+            "cabbage",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely used in traditional rassolnik recipes\"),\n  \"pickled cucumber\": (\"Correct\", \"Substitutability\"),\n  \"beef\": (\"Maybe\", \"Common variation but not traditional\"),\n  \"cabbage\": (\"Incorrect\", \"Not typically used in rassolnik\"),\n  \"meat\": (\"Maybe\", \"Could be used as a general substitute for liver or kidney\")\n}\n```"
+    },
+    {
+        "Dish": "lashka",
+        "Gold_ingredients": [
+            "fish",
+            "milk",
+            "meat",
+            "potato",
+            "Pisum",
+            "dough"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "wheat",
+            "egg",
+            "fish",
+            "meat",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat",
+            "fish"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional recipes for lashka\"),\n  \"wheat\": (\"Correct\", \"Substitutability\"),\n  \"egg\": (\"Maybe\", \"Commonly used in some dough recipes but not essential\"),\n  \"chicken\": (\"Maybe\", \"Can be used as a substitute for meat in variations\")\n}\n```"
+    },
+    {
+        "Dish": "zakuski",
+        "Gold_ingredients": [
+            "cold cut"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Commonly used as a base or accompaniment in some variations of zakuski\")\n}\n```"
+    },
+    {
+        "Dish": "okroshka",
+        "Gold_ingredients": [
+            "kvass",
+            "meat",
+            "smetana",
+            "scallion",
+            "dill",
+            "boiled egg",
+            "cucumber"
+        ],
+        "Predicted_ingredient": [
+            "boiled egg",
+            "beet",
+            "scrambled eggs",
+            "raw fish",
+            "cooked rice",
+            "fried egg",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "boiled egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"scrambled eggs\": (\"Incorrect\", \"Rarely used in okroshka\"),\n  \"beet\": (\"Maybe\", \"Used in some variations of cold soups like okroshka with beetroot\"),\n  \"cooked rice\": (\"Incorrect\", \"Not traditionally used in okroshka\"),\n  \"egg\": (\"Correct\", \"Substitutability\"),\n  \"raw fish\": (\"Incorrect\", \"Not a common ingredient in okroshka\"),\n  \"fried egg\": (\"Incorrect\", \"Rarely used in okroshka\")\n}\n```"
+    },
+    {
+        "Dish": "Vinegret",
+        "Gold_ingredients": [
+            "carrot",
+            "Allium cepa",
+            "beet",
+            "sauerkraut",
+            "vegetable oil",
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "beet",
+            "boiled egg",
+            "cabbage",
+            "cooked rice",
+            "vinegar",
+            "leaf"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "beet"
+        ],
+        "evaluated_output": "```python\n{\n  \"boiled egg\": (\"Maybe\", \"Occasionally used in some variations\"),\n  \"cabbage\": (\"Correct\", \"Substitutability\"),\n  \"cooked rice\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"vinegar\": (\"Maybe\", \"Can be used for added flavor, but not essential\"),\n  \"leaf\": (\"Incorrect\", \"Ambiguous ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "solyanka",
+        "Gold_ingredients": [
+            "meat",
+            "broth",
+            "lemon",
+            "Salzgurke",
+            "olive"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "meat",
+            "fermented fish",
+            "beef",
+            "cabbage"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Maybe\", \"Could be used in a fish variation of solyanka\"),\n  \"fermented fish\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"beef\": (\"Correct\", \"Substitutability\"),\n  \"cabbage\": (\"Maybe\", \"Occasionally used in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "millet porridge",
+        "Gold_ingredients": [
+            "water",
+            "milk",
+            "millet"
+        ],
+        "Predicted_ingredient": [
+            "millet",
+            "wheat flour",
+            "rice flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "millet"
+        ],
+        "evaluated_output": "```python\n{\n  \"wheat flour\": (\"Incorrect\", \"Rarely used in traditional millet porridge recipes\"),\n  \"rice flour\": (\"Incorrect\", \"Rarely used in traditional millet porridge recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Rasstegai",
+        "Gold_ingredients": [
+            "yeast dough"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Maybe\", \"Commonly used as a filling in some variations of Rasstegai\")\n}\n```"
+    },
+    {
+        "Dish": "Tyurya",
+        "Gold_ingredients": [
+            "water",
+            "bread",
+            "table salt",
+            "vegetable",
+            "vegetable oil"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "fermented fish",
+            "meat",
+            "fish head",
+            "raw fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Incorrect\", \"Rarely used in tyurya\"),\n  \"meat\": (\"Incorrect\", \"Not a common ingredient in traditional tyurya\"),\n  \"raw fish\": (\"Incorrect\", \"Uncommon in tyurya recipes\"),\n  \"fish\": (\"Maybe\", \"Could be used in some regional variations\"),\n  \"fish head\": (\"Incorrect\", \"Typically not used in tyurya\")\n}\n```"
+    },
+    {
+        "Dish": "Tetyorki cookies",
+        "Gold_ingredients": [
+            "rye flour"
+        ],
+        "Predicted_ingredient": [
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Tula gingerbread",
+        "Gold_ingredients": [
+            "powidl",
+            "dough"
+        ],
+        "Predicted_ingredient": [
+            "ginger",
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ginger\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"honey\": (\"Maybe\", \"Commonly used in some variations but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "Kalya",
+        "Gold_ingredients": [
+            "fish",
+            "Salzgurke",
+            "brine"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "wheat",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "fish"
+        ],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in the dish\"),\n  \"wheat\": (\"Incorrect\", \"Rarely or never used in the dish\")\n}\n```"
+    },
+    {
+        "Dish": "three pies",
+        "Gold_ingredients": [
+            "Ossetian pies"
+        ],
+        "Predicted_ingredient": [
+            "pie crust"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pie crust\": (\"Maybe\", \"Common component for many types of pies, but specific use in 'Ossetian pies' is unclear\")\n}\n```"
+    },
+    {
+        "Dish": "coulibiac",
+        "Gold_ingredients": [
+            "salmon"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Olivier salad",
+        "Gold_ingredients": [
+            "carrot",
+            "meat",
+            "Daucus",
+            "mayonnaise",
+            "sausage",
+            "Salzgurke",
+            "cucumber",
+            "Apium",
+            "potato",
+            "Preserved Peas",
+            "hard-boiled egg"
+        ],
+        "Predicted_ingredient": [
+            "lettuce",
+            "ham",
+            "tuna",
+            "chicken",
+            "beef",
+            "tuna salad",
+            "meat",
+            "cabbage",
+            "corn salad",
+            "beet",
+            "cucumber"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat",
+            "cucumber"
+        ],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Incorrect\", \"Rarely used in traditional Olivier salad recipes\"),\n  \"beet\": (\"Maybe\", \"Occasionally used in some variations of the salad\"),\n  \"ham\": (\"Maybe\", \"Common in some variations as a substitute for sausage\"),\n  \"cabbage\": (\"Incorrect\", \"Not typically found in Olivier salad\"),\n  \"tuna salad\": (\"Incorrect\", \"Not related to traditional Olivier salad components\"),\n  \"corn salad\": (\"Incorrect\", \"Not typically found in Olivier salad\"),\n  \"lettuce\": (\"Incorrect\", \"Not traditionally included in Olivier salad\"),\n  \"tuna\": (\"Maybe\", \"Used in some modern variations as a substitute for other meats\"),\n  \"chicken\": (\"Maybe\", \"Common in some variations as a substitute for sausage or other meats\")\n}\n```"
+    },
+    {
+        "Dish": "sugudai",
+        "Gold_ingredients": [
+            "raw fish"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in traditional sugudai recipes\")\n}\n```"
+    },
+    {
+        "Dish": "yurma",
+        "Gold_ingredients": [
+            "meat",
+            "fish as food"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be used in some variations, though not traditional\"),\n  \"yogurt\": (\"Maybe\", \"May be used in certain regional variations\")\n}\n```"
+    },
+    {
+        "Dish": "chicken Kyiv",
+        "Gold_ingredients": [
+            "butter",
+            "bread crumbs",
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "chicken meat",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chicken meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Could be used as a variation, but typically not\"),\n  \"chicken\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Vatrushka",
+        "Gold_ingredients": [
+            "sugar",
+            "egg",
+            "tvorog",
+            "yeast dough"
+        ],
+        "Predicted_ingredient": [
+            "yeast",
+            "yeast dough",
+            "dough",
+            "cheese"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "yeast dough"
+        ],
+        "evaluated_output": "```python\n{\n  \"yeast\": (\"Maybe\", \"Could be relevant for making the dough but not always explicitly listed\"),\n  \"dough\": (\"Maybe\", \"General component of yeast dough, needs specification\"),\n  \"cheese\": (\"Incorrect\", \"Not traditionally used, as tvorog is specific to the dish\")\n}\n```"
+    },
+    {
+        "Dish": "botvinia",
+        "Gold_ingredients": [
+            "leaf vegetable",
+            "Beta vulgaris",
+            "kvass"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "rice",
+            "pasta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Could be used in some variations for added protein\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional botvinia\"),\n  \"pasta\": (\"Incorrect\", \"Not typically included in botvinia\")\n}\n```"
+    },
+    {
+        "Dish": "Vorschmack",
+        "Gold_ingredients": [
+            "herring",
+            "minced meat"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Maybe\", \"Commonly used in some variations but not essential\"),\n  \"meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Pozharsky cutlet",
+        "Gold_ingredients": [
+            "cream",
+            "butter",
+            "chicken meat",
+            "white bread"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "pork",
+            "ground beef",
+            "fish fillet"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Incorrect\", \"Rarely used in traditional Pozharsky cutlets\"),\n  \"fish fillet\": (\"Incorrect\", \"Fish is not used in traditional Pozharsky cutlets\"),\n  \"pork\": (\"Maybe\", \"Could be used in some variations but uncommon\"),\n  \"ground beef\": (\"Incorrect\", \"Ground beef is not used in traditional Pozharsky cutlets\")\n}\n```"
+    },
+    {
+        "Dish": "Julienne",
+        "Gold_ingredients": [
+            "cheese"
+        ],
+        "Predicted_ingredient": [
+            "vegetable"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"vegetable\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "ukha",
+        "Gold_ingredients": [
+            "fish as food"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Guriev porridge",
+        "Gold_ingredients": [
+            "nut",
+            "semolina pudding",
+            "kaymak",
+            "dried fruit"
+        ],
+        "Predicted_ingredient": [
+            "buckwheat flour",
+            "rice",
+            "wheat",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"buckwheat flour\": (\"Incorrect\", \"Rarely used in Guriev porridge\"),\n  \"rice\": (\"Maybe\", \"Could be used in some variations though uncommon\"),\n  \"wheat\": (\"Incorrect\", \"Not typically used in Guriev porridge\"),\n  \"meat\": (\"Incorrect\", \"Not used in traditional or common recipes\")\n}\n```"
+    }
+]

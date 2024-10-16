@@ -1,0 +1,24 @@
+Predicted ingredient evaluation (Italy)
+
+🍕 Requirement:
+You are familiar with Italian cuisine.
+
+
+🎯 Objective:
+You will receive 215 Italian dishes, each with its English name and a reference ingredient label sourced from Wikidata.
+
+Your task is to evaluate whether the predicted ingredients are appropriate for the respective dishes. For each predicted ingredient, you will have the option to mark it as Correct, Maybe, or Incorrect.
+In the evaluation process, we will directly mark predicted ingredients that are clearly Direct Match. Excluding these, an average of 1.6 predicted ingredients per dish will require human evaluation.
+
+⚖️ Evaluation Criteria:
+Correct: The ingredient meets one of these:
+    Direct Match:It is explicitly listed in the reference ingredient label sourced from Wikidata.
+    Substitutability: It can effectively replace a specific ingredient listed in the reference label during the cooking process.
+    Missing Traditional Ingredient: It is traditionally or commonly used in this dish, but is not listed in the reference ingredient label from Wikidata.
+Maybe: The ingredient could be used in some variations of the dish, but its use is uncommon or ambiguous.
+Incorrect: The ingredient is rarely or never used in the dish.
+
+
+😃 Additional Instructions:
+If you are not familiar with the ingredients of a particular dish, you are encouraged to search for the recipe online to gather accurate information.
+Please do not directly ask ChatGPT or other AI models for the answer.

@@ -1,0 +1,1460 @@
+[
+    {
+        "Dish": "Alinazik kebab",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "ciğer kebap",
+        "Gold_ingredients": [
+            "liver"
+        ],
+        "Predicted_ingredient": [
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"lamb meat\": (\"Incorrect\", \"Ciğer kebap specifically uses liver as the main ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "tripe soup",
+        "Gold_ingredients": [
+            "tripe"
+        ],
+        "Predicted_ingredient": [
+            "tripe"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tripe"
+        ],
+        "evaluated_output": "```python\n{\n  \"tripe\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Glasswort salad",
+        "Gold_ingredients": [
+            "glasswort"
+        ],
+        "Predicted_ingredient": [
+            "glasswort"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "glasswort"
+        ],
+        "evaluated_output": "```python\n{\n  \"glasswort\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Hamsi tava",
+        "Gold_ingredients": [
+            "European anchovy",
+            "hazelnut oil",
+            "cornmeal"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "shrimp",
+            "cod"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\"),\n  \"shrimp\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"cod\": (\"Maybe\", \"Could be used in some variations but not typical for Hamsi tava\")\n}\n```"
+    },
+    {
+        "Dish": "Sütlü Nuriye",
+        "Gold_ingredients": [
+            "dough"
+        ],
+        "Predicted_ingredient": [
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"lamb meat\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Akçaabat meatballs",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "fried eggplant",
+        "Gold_ingredients": [
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "eggplant"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "eggplant"
+        ],
+        "evaluated_output": "```python\n{\n  \"eggplant\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "kısır",
+        "Gold_ingredients": [
+            "bulgur"
+        ],
+        "Predicted_ingredient": [
+            "bulgur"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bulgur"
+        ],
+        "evaluated_output": "```python\n{\n  \"bulgur\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "çoban salatası",
+        "Gold_ingredients": [
+            "table salt",
+            "Cucumis sativus",
+            "tomato",
+            "parsley",
+            "Allium",
+            "lemon juice",
+            "Piper",
+            "olive oil"
+        ],
+        "Predicted_ingredient": [
+            "yogurt",
+            "lamb meat",
+            "lettuce",
+            "minced meat",
+            "cabbage",
+            "egg",
+            "bread",
+            "goat meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"lamb meat\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"lettuce\": (\"Maybe\", \"Occasionally used as a variation\"),\n  \"minced meat\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"cabbage\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"egg\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"bread\": (\"Incorrect\", \"Not an ingredient in the salad itself\"),\n  \"goat meat\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Etli ekmek",
+        "Gold_ingredients": [
+            "salt",
+            "meat",
+            "tomato",
+            "Allium cepa",
+            "dough",
+            "Capsicum"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "meat",
+            "egg",
+            "bread roll",
+            "bread crumbs",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"pork and beans\": (\"Incorrect\", \"Rarely or never used in traditional recipes\"),\n  \"egg\": (\"Maybe\", \"Sometimes used for binding or in dough variations\"),\n  \"bread\": (\"Maybe\", \"Could be considered as a component of dough but not typical\"),\n  \"bread roll\": (\"Incorrect\", \"Not part of traditional or common recipes\"),\n  \"bread crumbs\": (\"Incorrect\", \"Not used in traditional or common recipes\")\n}\n```"
+    },
+    {
+        "Dish": "şehriye",
+        "Gold_ingredients": [
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "menemen",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "scrambled eggs"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"scrambled eggs\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "dürüm",
+        "Gold_ingredients": [
+            "flatbread"
+        ],
+        "Predicted_ingredient": [
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"dough\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "eggplant papoutsaki",
+        "Gold_ingredients": [
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "eggplant"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "eggplant"
+        ],
+        "evaluated_output": "```python\n{\n  \"eggplant\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "hoşmerim",
+        "Gold_ingredients": [
+            "semolina"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in hoşmerim recipes\")\n}\n```"
+    },
+    {
+        "Dish": "uyutma",
+        "Gold_ingredients": [
+            "sugar",
+            "fig",
+            "milk"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "wheat",
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be used in some variations but not common\"),\n  \"wheat\": (\"Maybe\", \"Could be used in certain variations but not typical\"),\n  \"yogurt\": (\"Incorrect\", \"Not traditionally associated with the dish\")\n}\n```"
+    },
+    {
+        "Dish": "Cezerye",
+        "Gold_ingredients": [
+            "carrot"
+        ],
+        "Predicted_ingredient": [
+            "chickpea"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chickpea\": (\"Incorrect\", \"Rarely used in traditional recipes for Cezerye\")\n}\n```"
+    },
+    {
+        "Dish": "atom",
+        "Gold_ingredients": [
+            "drinking water",
+            "sugar",
+            "egg white"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "chicken",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in the dish\"),\n  \"chicken\": (\"Incorrect\", \"Rarely or never used in the dish\"),\n  \"egg\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Flour kurabiye",
+        "Gold_ingredients": [
+            "butter"
+        ],
+        "Predicted_ingredient": [
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"flour\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "kol böreği",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"dough\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "patlıcanlı kebap",
+        "Gold_ingredients": [
+            "meat",
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "eggplant",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "eggplant"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Could be used in some variations but is not common\")\n}\n```"
+    },
+    {
+        "Dish": "pişmaniye",
+        "Gold_ingredients": [
+            "flour",
+            "white sugar"
+        ],
+        "Predicted_ingredient": [
+            "sugar",
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sugar\": (\"Correct\", \"Substitutability\"),\n  \"honey\": (\"Maybe\", \"Occasionally used for variation but uncommon\")\n}\n```"
+    },
+    {
+        "Dish": "patlıcanlı köfte",
+        "Gold_ingredients": [
+            "minced meat",
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "eggplant"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "eggplant"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Could be used in some variations, possibly as a binding agent\")\n}\n```"
+    },
+    {
+        "Dish": "fırın sütlaç",
+        "Gold_ingredients": [
+            "rice",
+            "milk",
+            "white sugar"
+        ],
+        "Predicted_ingredient": [
+            "milk",
+            "rice",
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice",
+            "milk"
+        ],
+        "evaluated_output": "```python\n{\n  \"milk\": (\"Correct\", \"Direct Match\"),\n  \"rice\": (\"Correct\", \"Direct Match\"),\n  \"wheat\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "nettle soup",
+        "Gold_ingredients": [
+            "nettle leaf"
+        ],
+        "Predicted_ingredient": [
+            "nettle leaf"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "nettle leaf"
+        ],
+        "evaluated_output": "```python\n{\n  \"nettle leaf\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "pumpkin dessert",
+        "Gold_ingredients": [
+            "pumpkin"
+        ],
+        "Predicted_ingredient": [
+            "pumpkin"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "pumpkin"
+        ],
+        "evaluated_output": "Apologies, there seems to be a misunderstanding. Please provide the complete list of predicted ingredients other than \"pumpkin\" for evaluation."
+    },
+    {
+        "Dish": "yayla çorbası",
+        "Gold_ingredients": [
+            "rice",
+            "yogurt"
+        ],
+        "Predicted_ingredient": [
+            "yogurt",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "yogurt"
+        ],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Incorrect\", \"Rarely used in traditional recipes for yayla çorbası\")\n}\n```"
+    },
+    {
+        "Dish": "balık-ekmek",
+        "Gold_ingredients": [
+            "bread",
+            "fish as food"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "stuffed artichoke",
+        "Gold_ingredients": [
+            "olive oil",
+            "globe artichoke"
+        ],
+        "Predicted_ingredient": [
+            "artichoke dip",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"artichoke dip\": (\"Incorrect\", \"Rarely used as an ingredient in stuffed artichoke\"),\n  \"bread\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Zerde",
+        "Gold_ingredients": [
+            "water",
+            "rice",
+            "saffron"
+        ],
+        "Predicted_ingredient": [
+            "saffron",
+            "rice",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice",
+            "saffron"
+        ],
+        "evaluated_output": "```python\n{\n  \"saffron\": (\"Correct\", \"Direct Match\"),\n  \"rice\": (\"Correct\", \"Direct Match\"),\n  \"chicken\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "stuffed intestines",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "pig"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pig\": (\"Maybe\", \"Could be used in variations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "quince dessert",
+        "Gold_ingredients": [
+            "quince"
+        ],
+        "Predicted_ingredient": [
+            "quince"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "quince"
+        ],
+        "evaluated_output": "```python\n{\n  \"quince\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Beyti",
+        "Gold_ingredients": [
+            "lamb meat",
+            "yufka bread"
+        ],
+        "Predicted_ingredient": [
+            "minced meat",
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "lamb meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "dondurma",
+        "Gold_ingredients": [
+            "milk",
+            "sugar",
+            "mastic",
+            "salep"
+        ],
+        "Predicted_ingredient": [
+            "milk",
+            "ice",
+            "yogurt",
+            "cream"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "milk"
+        ],
+        "evaluated_output": "```python\n{\n  \"cream\": (\"Maybe\", \"Sometimes used for a creamier texture but not traditional\"),\n  \"ice\": (\"Incorrect\", \"Rarely used in traditional dondurma recipes\"),\n  \"yogurt\": (\"Incorrect\", \"Not traditionally used in dondurma\")\n}\n```"
+    },
+    {
+        "Dish": "kuru köfte",
+        "Gold_ingredients": [
+            "bread",
+            "meat",
+            "Allium",
+            "spice",
+            "minced meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat",
+            "lamb meat",
+            "ground beef",
+            "turkey meat",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat",
+            "minced meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"lamb meat\": (\"Maybe\", \"Sometimes used in variations but traditionally not included\"),\n  \"turkey meat\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"ground beef\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "shish taouk",
+        "Gold_ingredients": [
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "almond paste",
+        "Gold_ingredients": [
+            "almond"
+        ],
+        "Predicted_ingredient": [
+            "almond"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "almond"
+        ],
+        "evaluated_output": "```python\n{\n  \"almond\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "rice-stuffed artichoke",
+        "Gold_ingredients": [
+            "rice",
+            "globe artichoke"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "artichoke dip"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"artichoke dip\": (\"Incorrect\", \"Rarely used in traditional rice-stuffed artichoke recipes\")\n}\n```"
+    },
+    {
+        "Dish": "ıslama köfte",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "meyhane pilavı",
+        "Gold_ingredients": [
+            "bulgur"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be used as a substitute for bulgur in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "şambali",
+        "Gold_ingredients": [
+            "semolina"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Maybe\", \"Could be used as a substitute for semolina in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "kalburabastı",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Could be used in some variations but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "bitter almond cookie",
+        "Gold_ingredients": [
+            "Prunus dulcis"
+        ],
+        "Predicted_ingredient": [
+            "almond"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"almond\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "perdeli pilav",
+        "Gold_ingredients": [
+            "rice",
+            "almond",
+            "yufka bread",
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "rice flour",
+            "wheat",
+            "pork and beans"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Incorrect\", \"Rarely used in perdeli pilav\"),\n  \"pork and beans\": (\"Incorrect\", \"Not used in traditional recipes\"),\n  \"rice flour\": (\"Maybe\", \"Could be part of some variations or substitutes\")\n}\n```"
+    },
+    {
+        "Dish": "Ankara tava",
+        "Gold_ingredients": [
+            "lamb meat",
+            "veal",
+            "mutton",
+            "rice"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "meat",
+            "wheat",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Could be used in some variations for richness\"),\n  \"meat\": (\"Correct\", \"Substitutability\"),\n  \"wheat\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"chicken\": (\"Maybe\", \"Could substitute for lamb or veal in non-traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Hamsili pilav",
+        "Gold_ingredients": [
+            "rice",
+            "European anchovy"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "ham"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice"
+        ],
+        "evaluated_output": "```python\n{\n  \"ham\": (\"Incorrect\", \"Not used in traditional or common recipes\")\n}\n```"
+    },
+    {
+        "Dish": "şöbiyet",
+        "Gold_ingredients": [
+            "phyllo"
+        ],
+        "Predicted_ingredient": [
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Sometimes used in some pastry fillings for richness\")\n}\n```"
+    },
+    {
+        "Dish": "vine leaf roll",
+        "Gold_ingredients": [
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "çılbır",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Fetîr",
+        "Gold_ingredients": [
+            "milk",
+            "egg",
+            "baker's yeast"
+        ],
+        "Predicted_ingredient": [
+            "wheat flour",
+            "rice flour",
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat flour\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"rice flour\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"wheat\": (\"Maybe\", \"Could refer to wheat flour indirectly but uncommon as is\")\n}\n```"
+    },
+    {
+        "Dish": "Kun",
+        "Gold_ingredients": [
+            "goat meat"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Circassian chicken",
+        "Gold_ingredients": [
+            "walnut",
+            "chicken meat"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "chicken meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "chicken meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "İnegöl meatballs",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Analı kızlı soup",
+        "Gold_ingredients": [
+            "meatball",
+            "bulgur"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Maybe\", \"Some variations might use chicken, but not traditional\"),\n  \"meat\": (\"Correct\", \"Substitutability; commonly used instead of meatballs\")\n}\n```"
+    },
+    {
+        "Dish": "Smyrna meatballs",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "ground beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ground beef\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "sulu köfte",
+        "Gold_ingredients": [
+            "minced meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "minced meat"
+        ],
+        "evaluated_output": "I'm here to help! Please provide the remaining predicted ingredients that you'd like evaluated for sulu köfte."
+    },
+    {
+        "Dish": "haşıl",
+        "Gold_ingredients": [
+            "yogurt",
+            "butter",
+            "Wheat mote"
+        ],
+        "Predicted_ingredient": [
+            "wheat flour",
+            "rice flour",
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat flour\": (\"Correct\", \"Substitutability\"),\n  \"rice flour\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "güllaç",
+        "Gold_ingredients": [
+            "corn starch"
+        ],
+        "Predicted_ingredient": [
+            "milk"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"milk\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "tarhana",
+        "Gold_ingredients": [
+            "cereal"
+        ],
+        "Predicted_ingredient": [
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "toyga soup",
+        "Gold_ingredients": [
+            "yogurt"
+        ],
+        "Predicted_ingredient": [
+            "tofu"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"tofu\": (\"Maybe\", \"Could be used as a substitute for yogurt in a non-dairy variation\")\n}\n```"
+    },
+    {
+        "Dish": "kesme",
+        "Gold_ingredients": [
+            "water",
+            "salt",
+            "egg",
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "meat",
+            "wheat",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in kesme recipes\"),\n  \"meat\": (\"Maybe\", \"Common variation in some versions, though not traditional\"),\n  \"wheat\": (\"Correct\", \"Substitutability for flour, as derived from wheat\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in kesme recipes\")\n}\n```"
+    },
+    {
+        "Dish": "nokul",
+        "Gold_ingredients": [
+            "raisin",
+            "walnut",
+            "hazelnut"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "fish",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in traditional nokul recipes\"),\n  \"fish\": (\"Incorrect\", \"Rarely or never used in traditional nokul recipes\"),\n  \"pork\": (\"Incorrect\", \"Rarely or never used in traditional nokul recipes\")\n}\n```"
+    },
+    {
+        "Dish": "cacık",
+        "Gold_ingredients": [
+            "table salt",
+            "drinking water",
+            "yogurt",
+            "garlic",
+            "cucumber"
+        ],
+        "Predicted_ingredient": [
+            "yogurt",
+            "garlic",
+            "cucumber",
+            "salt",
+            "grated cheese"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "garlic",
+            "cucumber",
+            "yogurt"
+        ],
+        "evaluated_output": "```python\n{\n  \"salt\": (\"Correct\", \"Substitutability\"),\n  \"grated cheese\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Haleem",
+        "Gold_ingredients": [
+            "wheat"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "wheat"
+        ],
+        "evaluated_output": "I'm ready to evaluate more ingredients. Please provide the remaining predicted ingredients for the dish \"Haleem.\""
+    },
+    {
+        "Dish": "Ezogelin soup",
+        "Gold_ingredients": [
+            "bulgur"
+        ],
+        "Predicted_ingredient": [
+            "eggplant"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"eggplant\": (\"Incorrect\", \"Rarely used in Ezogelin soup\")\n}\n```"
+    },
+    {
+        "Dish": "doner kebab",
+        "Gold_ingredients": [
+            "meat",
+            "vegetable",
+            "flatbread"
+        ],
+        "Predicted_ingredient": [
+            "meat",
+            "layer",
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Substitutability\"),\n  \"layer\": (\"Incorrect\", \"Not relevant to the dish or typical ingredients\")\n}\n```"
+    },
+    {
+        "Dish": "büryan",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional büryan recipes\")\n}\n```"
+    },
+    {
+        "Dish": "kumpir",
+        "Gold_ingredients": [
+            "baked potato",
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "mashed potato",
+            "baked potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "baked potato"
+        ],
+        "evaluated_output": "```python\n{\n  \"mashed potato\": (\"Maybe\", \"Could be used in some variations but typically not traditional for kumpir\")\n}\n```"
+    },
+    {
+        "Dish": "Cağ kebabı",
+        "Gold_ingredients": [
+            "lamb meat"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Keşkül",
+        "Gold_ingredients": [
+            "Prunus dulcis"
+        ],
+        "Predicted_ingredient": [
+            "yogurt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yogurt\": (\"Incorrect\", \"Rarely or never used in Keşkül\")\n}\n```"
+    },
+    {
+        "Dish": "Patlıcan salatası",
+        "Gold_ingredients": [
+            "eggplant"
+        ],
+        "Predicted_ingredient": [
+            "eggplant"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "eggplant"
+        ],
+        "evaluated_output": "```python\n{\n  \"eggplant\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Swedish meatballs",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "ground beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ground beef\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Babuko",
+        "Gold_ingredients": [
+            "dough",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "fermented fish",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fermented fish\": (\"Maybe\", \"Could be used in some variations for flavor\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional Babuko recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Ashure",
+        "Gold_ingredients": [
+            "nut",
+            "Poaceae",
+            "bean",
+            "dried fruit",
+            "grain",
+            "condiment"
+        ],
+        "Predicted_ingredient": [
+            "wheat",
+            "wheat flour",
+            "rice",
+            "rice flour",
+            "fruit",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\"),\n  \"wheat flour\": (\"Correct\", \"Substitutability\"),\n  \"rice\": (\"Maybe\", \"Used in some regional variations\"),\n  \"rice flour\": (\"Maybe\", \"Used in some variations for texture\"),\n  \"fruit\": (\"Correct\", \"Substitutability\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in Ashure recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Manisa kebap",
+        "Gold_ingredients": [
+            "minced meat",
+            "pide",
+            "tomato sauce"
+        ],
+        "Predicted_ingredient": [
+            "lamb meat",
+            "minced meat",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "minced meat"
+        ],
+        "evaluated_output": "```python\n{\n  \"lamb meat\": (\"Maybe\", \"Could be used as a variation but not traditional for Manisa kebap\"),\n  \"meat\": (\"Maybe\", \"Ambiguous; could refer to various types of meat, but minced is specified\")\n}\n```"
+    },
+    {
+        "Dish": "stuffed squash",
+        "Gold_ingredients": [
+            "zucchini"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Incorrect\", \"Rarely used in traditional stuffed squash recipes\")\n}\n```"
+    },
+    {
+        "Dish": "milk pilaf",
+        "Gold_ingredients": [
+            "rice",
+            "milk"
+        ],
+        "Predicted_ingredient": [
+            "milk",
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rice",
+            "milk"
+        ],
+        "evaluated_output": "```python\n{\n  \"milk\": (\"Correct\", \"Direct Match\"),\n  \"rice\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "yuvalama",
+        "Gold_ingredients": [
+            "yogurt",
+            "spice",
+            "lamb meat",
+            "chickpea"
+        ],
+        "Predicted_ingredient": [
+            "rice",
+            "egg",
+            "chicken",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Maybe\", \"Could be part of some variations or side dishes\"),\n  \"egg\": (\"Maybe\", \"Sometimes used as a binding agent or in variations\"),\n  \"chicken\": (\"Maybe\", \"Can be used as a substitute for lamb in some variations\"),\n  \"fish\": (\"Incorrect\", \"Rarely used in yuvalama\")\n}\n```"
+    },
+    {
+        "Dish": "Ekmek kadayıfı",
+        "Gold_ingredients": [
+            "bread"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Kayseri yağlaması",
+        "Gold_ingredients": [
+            "minced meat"
+        ],
+        "Predicted_ingredient": [
+            "lamb meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"lamb meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "qurabiya",
+        "Gold_ingredients": [
+            "almond meal"
+        ],
+        "Predicted_ingredient": [
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"honey\": (\"Maybe\", \"Commonly used in some variations or as a sweetener, but not essential\")\n}\n```"
+    },
+    {
+        "Dish": "Tokat kebabı",
+        "Gold_ingredients": [
+            "lamb meat",
+            "eggplant",
+            "garlic",
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "meat",
+            "beef",
+            "chicken",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Correct\", \"Substitutability\"),\n  \"beef\": (\"Maybe\", \"Could be used as a substitute, but lamb is traditional\"),\n  \"chicken\": (\"Incorrect\", \"Rarely used as an ingredient in Tokat kebabı\"),\n  \"bread\": (\"Incorrect\", \"Not a common ingredient in Tokat kebabı\")\n}\n```"
+    },
+    {
+        "Dish": "Turkish ring dessert",
+        "Gold_ingredients": [
+            "oil",
+            "dough",
+            "sherbet"
+        ],
+        "Predicted_ingredient": [
+            "sugar",
+            "honey",
+            "dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "dough"
+        ],
+        "evaluated_output": "```python\n{\n  \"sugar\": (\"Correct\", \"Substitutability\"),\n  \"honey\": (\"Maybe\", \"Sometimes used as an alternative to sherbet in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "kumru",
+        "Gold_ingredients": [
+            "bread",
+            "fried egg",
+            "kaşar",
+            "Sujuk",
+            "tomato"
+        ],
+        "Predicted_ingredient": [
+            "bread",
+            "yogurt",
+            "lamb meat",
+            "chicken",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "```python\n{\n  \"lamb meat\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"meat\": (\"Maybe\", \"Could substitute for kaşar or Sujuk in some variations\"),\n  \"yogurt\": (\"Incorrect\", \"Not typically used in this dish\"),\n  \"chicken\": (\"Maybe\", \"Could be used in some modern variations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "tahini roll",
+        "Gold_ingredients": [
+            "dough",
+            "tahini"
+        ],
+        "Predicted_ingredient": [
+            "tahini",
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tahini"
+        ],
+        "evaluated_output": "```python\n{\n  \"tahini\": (\"Correct\", \"Direct Match\"),\n  \"wheat\": (\"Maybe\", \"Commonly found in dough but not explicitly listed\")\n}\n```"
+    },
+    {
+        "Dish": "şakşuka",
+        "Gold_ingredients": [
+            "eggplant",
+            "tomato",
+            "garlic"
+        ],
+        "Predicted_ingredient": [
+            "egg",
+            "eggplant",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "eggplant"
+        ],
+        "evaluated_output": "```python\n{\n  \"egg\": (\"Maybe\", \"Sometimes used in variations of the dish\"),\n  \"meat\": (\"Maybe\", \"Can be used in some variations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "kabak kalye",
+        "Gold_ingredients": [
+            "zucchini"
+        ],
+        "Predicted_ingredient": [
+            "eggplant"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"eggplant\": (\"Maybe\", \"Could be used in some variations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Frankfurter Kranz",
+        "Gold_ingredients": [
+            "sponge cake"
+        ],
+        "Predicted_ingredient": [
+            "apple"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"apple\": (\"Incorrect\", \"Rarely used in the traditional Frankfurter Kranz recipe\")\n}\n```"
+    },
+    {
+        "Dish": "tarama",
+        "Gold_ingredients": [
+            "table salt",
+            "olive oil",
+            "roe"
+        ],
+        "Predicted_ingredient": [
+            "cod",
+            "fish",
+            "salt"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"cod\": (\"Maybe\", \"Commonly used fish roe source for tarama\"),\n  \"fish\": (\"Incorrect\", \"Too vague, tarama specifically uses roe\"),\n  \"salt\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "İskilip dolması",
+        "Gold_ingredients": [
+            "rice",
+            "meat",
+            "onion"
+        ],
+        "Predicted_ingredient": [
+            "minced meat",
+            "lamb meat",
+            "grape"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Maybe\", \"Could substitute for meat if minced variations exist\"),\n  \"lamb meat\": (\"Correct\", \"Substitutability\"),\n  \"grape\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Callos con garbanzos",
+        "Gold_ingredients": [
+            "tripe",
+            "chickpea"
+        ],
+        "Predicted_ingredient": [
+            "tripe",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "tripe"
+        ],
+        "evaluated_output": "```python\n{\n  \"tripe\": (\"Correct\", \"Direct Match\"),\n  \"chicken\": (\"Maybe\", \"Commonly used in some variations as a substitute for other meats like chorizo\")\n}\n```"
+    },
+    {
+        "Dish": "Ödemiş köfte",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "minced meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"minced meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Kokoretsi",
+        "Gold_ingredients": [
+            "offal"
+        ],
+        "Predicted_ingredient": [
+            "lamb lung"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"lamb lung\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Ayvalık tostu",
+        "Gold_ingredients": [
+            "bread"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "I'm sorry, it seems like there's an error in the input as there are no additional predicted ingredients provided to evaluate. Please provide the complete list of predicted ingredients for further evaluation."
+    },
+    {
+        "Dish": "Pepeçura",
+        "Gold_ingredients": [
+            "grape",
+            "sugar",
+            "cornmeal",
+            "corn starch",
+            "wheat flour"
+        ],
+        "Predicted_ingredient": [
+            "chicken",
+            "meat",
+            "pork",
+            "beef",
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chicken\": (\"Incorrect\", \"Rarely or never used in Pepeçura\"),\n  \"meat\": (\"Incorrect\", \"Rarely or never used in Pepeçura\"),\n  \"pork\": (\"Incorrect\", \"Rarely or never used in Pepeçura\"),\n  \"beef\": (\"Incorrect\", \"Rarely or never used in Pepeçura\"),\n  \"fish\": (\"Incorrect\", \"Rarely or never used in Pepeçura\")\n}\n```"
+    },
+    {
+        "Dish": "fava",
+        "Gold_ingredients": [
+            "broad bean"
+        ],
+        "Predicted_ingredient": [
+            "feta"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"feta\": (\"Maybe\", \"Could be used in some variations as a garnish or addition\")\n}\n```"
+    },
+    {
+        "Dish": "kıvratma",
+        "Gold_ingredients": [
+            "yogurt",
+            "egg",
+            "wheat flour",
+            "cooking oil",
+            "white sugar"
+        ],
+        "Predicted_ingredient": [
+            "wheat",
+            "egg",
+            "rice",
+            "meat",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "egg"
+        ],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\"),\n  \"rice\": (\"Incorrect\", \"Rarely used in traditional kıvratma\"),\n  \"meat\": (\"Incorrect\", \"Rarely used in traditional kıvratma\"),\n  \"chicken\": (\"Incorrect\", \"Rarely used in traditional kıvratma\")\n}\n```"
+    }
+]

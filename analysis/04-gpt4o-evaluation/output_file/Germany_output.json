@@ -1,0 +1,789 @@
+[
+    {
+        "Dish": "Wurstbrot",
+        "Gold_ingredients": [
+            "bread"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread"
+        ],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Kottenbutter",
+        "Gold_ingredients": [
+            "brown bread"
+        ],
+        "Predicted_ingredient": [
+            "butter"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"butter\": (\"Correct\", \"Traditionally used as a spread for Kottenbutter\")\n}\n```"
+    },
+    {
+        "Dish": "Steckrübeneintopf",
+        "Gold_ingredients": [
+            "rutabaga"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Maybe\", \"Can be used in some variations but not traditional\")\n}\n```"
+    },
+    {
+        "Dish": "Dampfnudel",
+        "Gold_ingredients": [
+            "flour",
+            "marmalade"
+        ],
+        "Predicted_ingredient": [
+            "yeast",
+            "yeast dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yeast\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"yeast dough\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Lübeck Marzipan",
+        "Gold_ingredients": [
+            "sugar",
+            "almond paste"
+        ],
+        "Predicted_ingredient": [
+            "almond",
+            "sugar"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sugar"
+        ],
+        "evaluated_output": "```python\n{\n  \"almond\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Franzbrötchen",
+        "Gold_ingredients": [
+            "butter"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Incorrect\", \"Franzbrötchen is a pastry, not made from bread\")\n}\n```"
+    },
+    {
+        "Dish": "Baumkuchen",
+        "Gold_ingredients": [
+            "flour",
+            "layer"
+        ],
+        "Predicted_ingredient": [
+            "honey",
+            "cake"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"honey\": (\"Maybe\", \"Commonly used in some variations for sweetness\"),\n  \"cake\": (\"Incorrect\", \"Too general; not a specific ingredient in the recipe\")\n}\n```"
+    },
+    {
+        "Dish": "Stollen",
+        "Gold_ingredients": [
+            "candied fruit"
+        ],
+        "Predicted_ingredient": [
+            "butter"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"butter\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Spritzgebäck",
+        "Gold_ingredients": [
+            "flour",
+            "fat"
+        ],
+        "Predicted_ingredient": [
+            "butter",
+            "yeast"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"butter\": (\"Correct\", \"Substitutability\"),\n  \"yeast\": (\"Incorrect\", \"Rarely used in Spritzgebäck recipes\"),\n}\n```"
+    },
+    {
+        "Dish": "Käsespätzle",
+        "Gold_ingredients": [
+            "cheese",
+            "spätzle",
+            "fried onion"
+        ],
+        "Predicted_ingredient": [
+            "spätzle",
+            "cheese",
+            "egg"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "spätzle",
+            "cheese"
+        ],
+        "evaluated_output": "```python\n{\n  \"spätzle\": (\"Correct\", \"Direct Match\"),\n  \"cheese\": (\"Correct\", \"Direct Match\"),\n  \"egg\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "Gaisburger Marsch",
+        "Gold_ingredients": [
+            "meat"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Streuselkuchen",
+        "Gold_ingredients": [
+            "streusel"
+        ],
+        "Predicted_ingredient": [
+            "yeast"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yeast\": (\"Maybe\", \"Commonly used in some variations of dough for the base\")\n}\n```"
+    },
+    {
+        "Dish": "Russisch ei",
+        "Gold_ingredients": [
+            "egg"
+        ],
+        "Predicted_ingredient": [
+            "Russian dressing"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"Russian dressing\": (\"Maybe\", \"Could be used in some variations but not traditional or essential\")\n}\n```"
+    },
+    {
+        "Dish": "currywurst",
+        "Gold_ingredients": [
+            "sausage",
+            "curry powder",
+            "curry ketchup"
+        ],
+        "Predicted_ingredient": [
+            "sausage",
+            "fresh sausage",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sausage"
+        ],
+        "evaluated_output": "```python\n{\n  \"fresh sausage\": (\"Correct\", \"Substitutability\"),\n  \"pork\": (\"Maybe\", \"Commonly used as a base for the sausage but not directly listed\")\n}\n```"
+    },
+    {
+        "Dish": "Calv steak Adlon",
+        "Gold_ingredients": [
+            "shoestring potatoes",
+            "scrambled eggs",
+            "potato",
+            "chicken egg",
+            "kidney",
+            "Madeira sauce",
+            "veal"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "steak",
+            "pork",
+            "chicken",
+            "meat",
+            "cold cut",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Substitutability\"),\n  \"steak\": (\"Maybe\", \"Could refer to veal steak, which is traditionally used\"),\n  \"pork\": (\"Incorrect\", \"Rarely used in this dish\"),\n  \"chicken\": (\"Incorrect\", \"Not part of traditional recipes\"),\n  \"meat\": (\"Maybe\", \"Too vague, but could refer to veal\"),\n  \"cold cut\": (\"Incorrect\", \"Not relevant to traditional ingredients\"),\n  \"bread\": (\"Incorrect\", \"Not typically included\")\n}\n```"
+    },
+    {
+        "Dish": "Hedgehog slice",
+        "Gold_ingredients": [
+            "chocolate",
+            "butter",
+            "cookie",
+            "almond"
+        ],
+        "Predicted_ingredient": [
+            "layer",
+            "pork",
+            "meat",
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"layer\": (\"Incorrect\", \"Not typically an ingredient\"),\n  \"pork\": (\"Incorrect\", \"Rarely used in sweet dishes like hedgehog slice\"),\n  \"meat\": (\"Incorrect\", \"Not applicable for this type of dessert\"),\n  \"honey\": (\"Maybe\", \"Can be used as a sweetener in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "pumpernickel",
+        "Gold_ingredients": [
+            "rye flour"
+        ],
+        "Predicted_ingredient": [
+            "rye flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rye flour"
+        ],
+        "evaluated_output": "To proceed, I need the rest of the predicted ingredients. Please provide them, and I'll evaluate each one accordingly."
+    },
+    {
+        "Dish": "Germknödel",
+        "Gold_ingredients": [
+            "baker's yeast"
+        ],
+        "Predicted_ingredient": [
+            "yeast"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yeast\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "lebkuchen",
+        "Gold_ingredients": [
+            "honey"
+        ],
+        "Predicted_ingredient": [
+            "honey"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "honey"
+        ],
+        "evaluated_output": "Please provide me with the remaining predicted ingredients so I can evaluate them for you."
+    },
+    {
+        "Dish": "Hasenpfeffer",
+        "Gold_ingredients": [
+            "rabbit",
+            "hare"
+        ],
+        "Predicted_ingredient": [
+            "rabbit",
+            "chicken"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "rabbit"
+        ],
+        "evaluated_output": "```python\n{\n  \"rabbit\": (\"Correct\", \"Direct Match\"),\n  \"chicken\": (\"Maybe\", \"Could be used as a substitute for rabbit but uncommon\")\n}\n```"
+    },
+    {
+        "Dish": "Welf pudding",
+        "Gold_ingredients": [
+            "milk"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Incorrect\", \"Rarely or never used in Welf pudding\")\n}\n```"
+    },
+    {
+        "Dish": "pickert",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "pickled cucumber"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pickled cucumber\": (\"Incorrect\", \"Rarely or never used in pickert\")\n}\n```"
+    },
+    {
+        "Dish": "candied almonds",
+        "Gold_ingredients": [
+            "sugar",
+            "almond"
+        ],
+        "Predicted_ingredient": [
+            "sugar",
+            "almond"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sugar",
+            "almond"
+        ],
+        "evaluated_output": "```python\n{\n  \"sugar\": (\"Correct\", \"Direct Match\"),\n  \"almond\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Götterspeise",
+        "Gold_ingredients": [
+            "gelatin"
+        ],
+        "Predicted_ingredient": [
+            "whipped cream"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"whipped cream\": (\"Maybe\", \"Commonly used as a topping but not part of the basic recipe\")\n}\n```"
+    },
+    {
+        "Dish": "Dominostein",
+        "Gold_ingredients": [
+            "lebkuchen"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely or never used in Dominostein\")\n}\n```"
+    },
+    {
+        "Dish": "Fischbrötchen",
+        "Gold_ingredients": [
+            "bread roll",
+            "fish as food"
+        ],
+        "Predicted_ingredient": [
+            "fish",
+            "fish stock"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Correct\", \"Substitutability\"),\n  \"fish stock\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "buckwheat gateau",
+        "Gold_ingredients": [
+            "buckwheat seed"
+        ],
+        "Predicted_ingredient": [
+            "buckwheat flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"buckwheat flour\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "gummy candy",
+        "Gold_ingredients": [
+            "gelatin"
+        ],
+        "Predicted_ingredient": [
+            "gelatin"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "gelatin"
+        ],
+        "evaluated_output": "```python\n{\n  \"gelatin\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Wurstsalat",
+        "Gold_ingredients": [
+            "vinegar",
+            "sausage",
+            "onion"
+        ],
+        "Predicted_ingredient": [
+            "sausage",
+            "cold cut",
+            "minced meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sausage"
+        ],
+        "evaluated_output": "```python\n{\n  \"cold cut\": (\"Maybe\", \"Could be used in variations, but not traditional\"),\n  \"minced meat\": (\"Incorrect\", \"Rarely used in Wurstsalat\")\n}\n```"
+    },
+    {
+        "Dish": "Schupfnudel",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "yeast dough"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yeast dough\": (\"Incorrect\", \"Rarely used in Schupfnudel, which typically uses a different dough base\")\n}\n```"
+    },
+    {
+        "Dish": "Spaghettieis",
+        "Gold_ingredients": [
+            "Strawberry coulis"
+        ],
+        "Predicted_ingredient": [
+            "spaghetti"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"spaghetti\": (\"Incorrect\", \"Rarely or never used in traditional Spaghettieis recipes, which are dessert-based\")\n}\n```"
+    },
+    {
+        "Dish": "Butterkuchen",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "butter"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"butter\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "sahnehering",
+        "Gold_ingredients": [
+            "yogurt",
+            "cream",
+            "herring"
+        ],
+        "Predicted_ingredient": [
+            "beef",
+            "chicken",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Incorrect\", \"Rarely or never used in sahnehering\"),\n  \"chicken\": (\"Incorrect\", \"Rarely or never used in sahnehering\"),\n  \"meat\": (\"Incorrect\", \"Sahnehering traditionally uses fish, not other types of meat\")\n}\n```"
+    },
+    {
+        "Dish": "candy cane",
+        "Gold_ingredients": [
+            "sugar"
+        ],
+        "Predicted_ingredient": [
+            "sugar"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "sugar"
+        ],
+        "evaluated_output": "```python\n{\n  \"sugar\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "elderberry soup",
+        "Gold_ingredients": [
+            "elderberry"
+        ],
+        "Predicted_ingredient": [
+            "elderberry"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "elderberry"
+        ],
+        "evaluated_output": "```python\n{\n  \"elderberry\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "mutzbraten",
+        "Gold_ingredients": [
+            "pork"
+        ],
+        "Predicted_ingredient": [
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"meat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Hochzeitssuppe",
+        "Gold_ingredients": [
+            "broth"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Maybe\", \"Commonly used in some variations to enhance the broth\")\n}\n```"
+    },
+    {
+        "Dish": "pancake soup",
+        "Gold_ingredients": [
+            "broth"
+        ],
+        "Predicted_ingredient": [
+            "flour"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"flour\": (\"Incorrect\", \"Rarely or never used in pancake soup\")\n}\n```"
+    },
+    {
+        "Dish": "Donauwelle",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "fish"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"fish\": (\"Incorrect\", \"Rarely or never used in Donauwelle, a traditional cake recipe\")\n}\n```"
+    },
+    {
+        "Dish": "Hamburg steak",
+        "Gold_ingredients": [
+            "beefsteak"
+        ],
+        "Predicted_ingredient": [
+            "ground beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"ground beef\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "hoorische",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "rice"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"rice\": (\"Incorrect\", \"Rarely used in the traditional potato-based recipe\")\n}\n```"
+    },
+    {
+        "Dish": "Berliner",
+        "Gold_ingredients": [
+            "egg",
+            "cooking oil",
+            "yeast dough",
+            "stuffing"
+        ],
+        "Predicted_ingredient": [
+            "yeast",
+            "potato",
+            "flour",
+            "mashed potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yeast\": (\"Correct\", \"Substitutability\"),\n  \"potato\": (\"Incorrect\", \"Rarely used in traditional recipes\"),\n  \"flour\": (\"Correct\", \"Missing Traditional Ingredient\"),\n  \"mashed potato\": (\"Incorrect\", \"Rarely used in traditional recipes\")\n}\n```"
+    },
+    {
+        "Dish": "Westfälische Götterspeise",
+        "Gold_ingredients": [
+            "pumpernickel"
+        ],
+        "Predicted_ingredient": [
+            "whipped cream"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"whipped cream\": (\"Maybe\", \"Commonly used as a topping in some variations\")\n}\n```"
+    },
+    {
+        "Dish": "Schnitzel Holstein",
+        "Gold_ingredients": [
+            "veal"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Commonly used to bread the schnitzel but not always necessary\")\n}\n```"
+    },
+    {
+        "Dish": "Bauernfrühstück",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"bread\": (\"Maybe\", \"Could be used in some variations as a side but not part of the traditional recipe\")\n}\n```"
+    },
+    {
+        "Dish": "Reibekuchen",
+        "Gold_ingredients": [
+            "potato"
+        ],
+        "Predicted_ingredient": [
+            "potato"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "potato"
+        ],
+        "evaluated_output": "```python\n{\n  \"potato\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Birnen, Bohnen und Speck",
+        "Gold_ingredients": [
+            "cooking pear"
+        ],
+        "Predicted_ingredient": [
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"pork\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Linsen mit Spätzle",
+        "Gold_ingredients": [
+            "spätzle",
+            "Vienna sausage",
+            "lentil"
+        ],
+        "Predicted_ingredient": [
+            "sauerkraut",
+            "beef",
+            "pork"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"sauerkraut\": (\"Incorrect\", \"Rarely used in Linsen mit Spätzle\"),\n  \"beef\": (\"Maybe\", \"Could be used in some variations but not traditional\"),\n  \"pork\": (\"Maybe\", \"Commonly used as a substitute for Vienna sausage\")\n}\n```"
+    },
+    {
+        "Dish": "Butterbrot",
+        "Gold_ingredients": [
+            "bread",
+            "butter"
+        ],
+        "Predicted_ingredient": [
+            "butter",
+            "bread"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "bread",
+            "butter"
+        ],
+        "evaluated_output": "```python\n{\n  \"butter\": (\"Correct\", \"Direct Match\"),\n  \"bread\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "Bethmännchen",
+        "Gold_ingredients": [
+            "marzipan"
+        ],
+        "Predicted_ingredient": [
+            "marzipan"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "marzipan"
+        ],
+        "evaluated_output": "```python\n{\n  \"marzipan\": (\"Correct\", \"Direct Match\")\n}\n```"
+    },
+    {
+        "Dish": "berliner doughnut",
+        "Gold_ingredients": [
+            "custard"
+        ],
+        "Predicted_ingredient": [
+            "yeast"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"yeast\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    },
+    {
+        "Dish": "blood tongue",
+        "Gold_ingredients": [
+            "blood",
+            "tongue"
+        ],
+        "Predicted_ingredient": [
+            "beef tongue",
+            "blood"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "blood"
+        ],
+        "evaluated_output": "```python\n{\n  \"beef tongue\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Rinderbraten",
+        "Gold_ingredients": [
+            "round steak"
+        ],
+        "Predicted_ingredient": [
+            "beef"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"beef\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Prinzregententorte",
+        "Gold_ingredients": [
+            "sponge cake"
+        ],
+        "Predicted_ingredient": [
+            "chocolate cake"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chocolate cake\": (\"Incorrect\", \"Prinzregententorte traditionally uses sponge cake, which is different from chocolate cake\")\n}\n```"
+    },
+    {
+        "Dish": "Quarkkäulchen",
+        "Gold_ingredients": [
+            "raisin",
+            "dough",
+            "quark"
+        ],
+        "Predicted_ingredient": [
+            "quark",
+            "beef",
+            "meat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [
+            "quark"
+        ],
+        "evaluated_output": "```python\n{\n  \"quark\": (\"Correct\", \"Direct Match\"),\n  \"beef\": (\"Incorrect\", \"Rarely or never used in Quarkkäulchen\"),\n  \"meat\": (\"Incorrect\", \"Rarely or never used in Quarkkäulchen\")\n}\n```"
+    },
+    {
+        "Dish": "Wibele",
+        "Gold_ingredients": [
+            "flour"
+        ],
+        "Predicted_ingredient": [
+            "wheat"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"wheat\": (\"Correct\", \"Substitutability\")\n}\n```"
+    },
+    {
+        "Dish": "Black Forest cake",
+        "Gold_ingredients": [
+            "chocolate cake"
+        ],
+        "Predicted_ingredient": [
+            "chocolate"
+        ],
+        "evaluated_result": {},
+        "direct_match": [],
+        "evaluated_output": "```python\n{\n  \"chocolate\": (\"Correct\", \"Missing Traditional Ingredient\")\n}\n```"
+    }
+]
