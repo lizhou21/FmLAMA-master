@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-root_dir = '/mntcephfs/lab_data/zhouli/personal/FmLAMA'
+root_dir = 'FmLAMA'
 all_results = {}
 langs = ['ar', 'en', 'he', 'ru', 'zh', 'ko']
 # metric = 'mAP'
