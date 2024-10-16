@@ -69,7 +69,7 @@ def read_data(file_path):
             ret.append(record)
     return ret
 
-root_dir = "/mntcephfs/lab_data/zhouli/personal/FmLAMA"
+root_dir = "FmLAMA"
 results_dir = f"{root_dir}/output/results/"
 f = open(f'{root_dir}/data/ingredient_info_English.json', 'r')
 ingredient_info_English = f.read()
