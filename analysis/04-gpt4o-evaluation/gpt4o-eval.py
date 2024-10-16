@@ -25,10 +25,10 @@ def Check_missing(key, value, gold_list, missing_num):
 
 parser = argparse.ArgumentParser()
 
-# parser.add_argument("--prompt_file", default="/mntcephfs/lab_data/zhouli/personal/FmLAMA/analysis/04-gpt4o-evaluation/prompt.txt", type=str)
-parser.add_argument("--save_dir", default="/mntcephfs/lab_data/zhouli/personal/FmLAMA/analysis/04-gpt4o-evaluation/output_file", type=str)
+# parser.add_argument("--prompt_file", default="FmLAMA/analysis/04-gpt4o-evaluation/prompt.txt", type=str)
+parser.add_argument("--save_dir", default="FmLAMA/analysis/04-gpt4o-evaluation/output_file", type=str)
 
-parser.add_argument("--data_dir", default="/mntcephfs/lab_data/zhouli/personal/FmLAMA/data", type=str)
+parser.add_argument("--data_dir", default="FmLAMA/data", type=str)
 parser.add_argument("--model", default="gpt-4o", type=str,)
 parser.add_argument('--type', nargs='+', default=['Direct Match', 'Substitutability', 'Missing Traditional Ingredient'], help='A list of items')
 args = parser.parse_args()
