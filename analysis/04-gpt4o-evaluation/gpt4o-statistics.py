@@ -9,18 +9,12 @@ import os
 
 parser = argparse.ArgumentParser()
 
-# parser.add_argument("--prompt_file", default="/mntcephfs/lab_data/zhouli/personal/FmLAMA/analysis/04-gpt4o-evaluation/prompt.txt", type=str)
-parser.add_argument("--save_dir", default="/mntcephfs/lab_data/zhouli/personal/FmLAMA/analysis/04-gpt4o-evaluation", type=str)
+# parser.add_argument("--prompt_file", default="FmLAMA/analysis/04-gpt4o-evaluation/prompt.txt", type=str)
+parser.add_argument("--save_dir", default="FmLAMA/analysis/04-gpt4o-evaluation", type=str)
 
-parser.add_argument("--data_dir", default="/mntcephfs/lab_data/zhouli/personal/FmLAMA/data", type=str)
+parser.add_argument("--data_dir", default="FmLAMA/data", type=str)
 parser.add_argument("--model", default="gpt-4o", type=str,)
 args = parser.parse_args()
-
-
-# if args.model == 'gpt-4o':
-#     api_key = "sk-7ldxnC50jJ1tnT1r1aA4F171843a4880B4B5238bE29eC462"
-#     api_base = "https://api.ai-gaochao.cn/v1"
-#     client = OpenAI(api_key=api_key, base_url=api_base)
 
 
 
@@ -103,7 +97,7 @@ for country, data_list in dataset.items():
         #         with open(save_file, 'w', encoding='utf-8') as f:
         #             json.dump(data_output, f, ensure_ascii=False, indent=4)
         # except Exception as e:
-        #     # 捕获所有其他异常并记录
+
         #     erros_count = erros_count + 1
 
 
