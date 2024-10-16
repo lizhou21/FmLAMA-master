@@ -19,7 +19,7 @@ def get_value(data,co):
     return value_output
 
 
-root_dir = "/mntcephfs/lab_data/zhouli/personal/FmLAMA"
+root_dir = "FmLAMA"
 
 for metric in ['mAP', 'mWS']:
 
