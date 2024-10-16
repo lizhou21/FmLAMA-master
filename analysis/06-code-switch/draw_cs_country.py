@@ -23,7 +23,7 @@ country_lang = {
 
 # Define the languages and a random matrix for the heatmap
 languages = ['en', 'ar', 'he', 'ko', 'ru', 'zh']
-root_dir = 'E:/01research/06.probingLLMs/FmLAMA/results/results_code/results_table'
+root_dir = 'FmLAMA/results/results_code/results_table'
 
 
 for country in country_lang.values():
@@ -83,6 +83,6 @@ for country in country_lang.values():
             #     text.set_rotation(45)
 
     plt.tight_layout()
-    plt.savefig(f'E:/01research/06.probingLLMs/FmLAMA/analysis/06-code-switch/cs_{country}.pdf', dpi=300)
+    plt.savefig(f'FmLAMA/analysis/06-code-switch/cs_{country}.pdf', dpi=300)
 
 
