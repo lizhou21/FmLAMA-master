@@ -8,4 +8,6 @@
 
 - results: used for reading output results and evaluating the probing results
 
+- analysis: code for each analysis experiment, including figure drawing code
+
 - script: code script for experiments
