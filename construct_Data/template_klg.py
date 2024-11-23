@@ -113,10 +113,10 @@ GROUP BY ?dish ?dishLabel ?description ?labelLang ?origin
             DISHES.append(dish)
         
         
-        with open('/home/nlp/ZL/FmLAMA-master/data/Dish_Count.json', 'w') as json_file:
+        with open('FmLAMA-master/data/Dish_Count.json', 'w') as json_file:
             json.dump(Dish_Count, json_file)
         dishes_cache = pd.DataFrame(DISHES)
-        dishes_cache.to_csv('/home/nlp/ZL/FmLAMA-master/data/Dishes.csv', index=False)
+        dishes_cache.to_csv('FmLAMA-master/data/Dishes.csv', index=False)
 
 
 
