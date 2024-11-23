@@ -7,7 +7,7 @@ import pickle
 
 
 
-root_dir = "/mntcephfs/lab_data/zhouli/personal/FmLAMA"
+root_dir = "FmLAMA"
 
 country_lang = {
     'Italy': 'Italy',
@@ -161,7 +161,7 @@ for lang in langs:
                 country_value.append(float(v[0]))
             all_data[country]['Average'] = f'{statistics.mean(country_value):.4f}'
 
-        # 设置最大值，最小值格式
+
         for metric, values in choose_data.items():
             for model, country_mean in values.items():
                 mean_value_list = [i[1] for i in country_mean]
@@ -172,7 +172,7 @@ for lang in langs:
 
                 sorted_data = sorted(enumerate(mean_value_list), key=lambda x: x[1], reverse=True)
 
-                # 第二大的数据及其索引
+
                 second_v = sorted_data[1][1]
                 second_in = sorted_data[1][0]
                 value_s = all_data[f'{country_mean[second_in][0]}_{metric}'][model]
