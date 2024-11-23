@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-root_dir = '/mntcephfs/lab_data/zhouli/personal/FmLAMA'
+root_dir = 'FmLAMA'
 
 # 1. read data
 mAP_wo_data = []
