@@ -42,7 +42,7 @@ def wirte_data(list, file_path):
 
 languages = ['en', 'ru', 'zh', 'ko', 'ar', 'he']
 
-FmLAMA = pd.read_csv('/mntcephfs/lab_data/zhouli/personal/FmLAMA/data/Dishes.csv')
+FmLAMA = pd.read_csv('FmLAMA/data/Dishes.csv')
 
 for la in languages:
     FmLAMA_sub = FmLAMA[FmLAMA["lang"]==la].reset_index(drop=True)
