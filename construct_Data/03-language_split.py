@@ -77,8 +77,8 @@ for la in languages:
     count_country = sorted(count_country.items(),key=lambda x:x[1],reverse=True)
     count_country.insert(0, ("All", len(generate_results)))
 
-    save_dir = '/mntcephfs/lab_data/zhouli/personal/FmLAMA/data/data_lang/' + la
-    if not os.path.exists(save_dir):  #判断是否存在文件夹如果不存在则创建为文件夹
+    save_dir = 'FmLAMA/data/data_lang/' + la
+    if not os.path.exists(save_dir): 
         os.makedirs(save_dir)
 
     # save_count
