@@ -76,14 +76,14 @@ def get_ranking(
     #     objects_true = [objects_true]
     # sample['obj_label'] = objects_true
 
-    for i, num_masks in enumerate(candidate_objects_dict):#获取每个长度设置下的obj list
+    for i, num_masks in enumerate(candidate_objects_dict):#
         # Find the range of the masked indecies
-        masked_indecies = masked_tokens_indecies[i] #一个mask位置时的mask位置
+        masked_indecies = masked_tokens_indecies[i] #
 
         # Extract the probabilities of subwords in the range of the masked tokens
-        predictions = log_probs[i][masked_indecies]#获取当前位置下的prediction logits
+        predictions = log_probs[i][masked_indecies]#
 
-        for object in candidate_objects_dict[num_masks]:#获取当前每个候选词的预测概率
+        for object in candidate_objects_dict[num_masks]:#
             object_subword_probabiltiies = [
                 prediction[subword_id]
                 for subword_id, prediction in zip(
@@ -175,7 +175,7 @@ def run_evaluation(args, language, NUM_MASK, candidate_objects_dict, model=None,
         current_batch_size = len(samples_b)
 
         # Form multiple versions of the template
-        # with different number of masked tokens使用不同数量的掩码令牌形成模板的多个版本
+        # with different number of masked tokens
         for i, sample in enumerate(samples_b):
             masked_sentences = []
             for num_mask in range(1, NUM_MASK + 1):
@@ -192,7 +192,7 @@ def run_evaluation(args, language, NUM_MASK, candidate_objects_dict, model=None,
                 sentences_b.append([sentence])
             samples_b[i]["masked_sentences"] = masked_sentences
 
-        #  Fill the masks for all the templates of the current batch， # 返回logits[sentence_num, sen_len, vocab_size],token_list:每个句子的token id list, mask_indeces
+        #  Fill the masks for all the templates of the current batch， # 
         (
             original_log_probs_tensor,
             tokens_ids_list,
@@ -209,7 +209,7 @@ def run_evaluation(args, language, NUM_MASK, candidate_objects_dict, model=None,
         original_log_probs_tensor = torch.reshape(
             original_log_probs_tensor, dim_reshape
         )
-        #  Group the indecies of masked tokens of each sample掩码的位置
+        #  
         indecies_of_masked_tokens_list = [
             indecies_of_masked_tokens_list[
                 sample_index * NUM_MASK : (sample_index + 1) * NUM_MASK
@@ -229,8 +229,8 @@ def run_evaluation(args, language, NUM_MASK, candidate_objects_dict, model=None,
             )
         ]
 
-        # Run the ranking computation in parallel for the samples in the batch!为批处理中的样本并行运行排名计算!
-        # ranking_function_arguments中每个元素有4个部分，第一个部分logits[10,seq_len,vocab_size],第二个sample,三个mask index, 第四个每个长度对应的candidate set
+        # 
+        # 
         # experiment_result = get_ranking(ranking_function_arguments[0][0], ranking_function_arguments[0][1], ranking_function_arguments[0][2], ranking_function_arguments[0][3])
         batch_ranking_results = pool.starmap(get_ranking, ranking_function_arguments)
 
