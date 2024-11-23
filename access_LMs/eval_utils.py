@@ -76,20 +76,21 @@ def get_ranking(
     #     objects_true = [objects_true]
     # sample['obj_label'] = objects_true
 
-    for i, num_masks in enumerate(candidate_objects_dict):#
+    for i, num_masks in enumerate(candidate_objects_dict):#获取每个长度设置下的obj list
         # Find the range of the masked indecies
-        masked_indecies = masked_tokens_indecies[i] #
+        masked_indecies = masked_tokens_indecies[i] #一个mask位置时的mask位置
 
         # Extract the probabilities of subwords in the range of the masked tokens
-        predictions = log_probs[i][masked_indecies]#
-        for object in candidate_objects_dict[num_masks]:#
+        predictions = log_probs[i][masked_indecies]#获取当前位置下的prediction logits
+
+        for object in candidate_objects_dict[num_masks]:#获取当前每个候选词的预测概率
             object_subword_probabiltiies = [
                 prediction[subword_id]
                 for subword_id, prediction in zip(
                     candidate_objects_dict[num_masks][object], predictions
                 )
             ]
-            objects_probabilities[object] = np.mean(object_subword_probabiltiies)
+            objects_probabilities[object] = np.mean(object_subword_probabiltiies)#multi-token取平均
 
     # Sort the dictionary by the probabilities of the candidate objects
     sorted_objects_probabilities = sorted(
@@ -174,7 +175,7 @@ def run_evaluation(args, language, NUM_MASK, candidate_objects_dict, model=None,
         current_batch_size = len(samples_b)
 
         # Form multiple versions of the template
-        # with different number of masked tokens
+        # with different number of masked tokens使用不同数量的掩码令牌形成模板的多个版本
         for i, sample in enumerate(samples_b):
             masked_sentences = []
             for num_mask in range(1, NUM_MASK + 1):
@@ -191,7 +192,7 @@ def run_evaluation(args, language, NUM_MASK, candidate_objects_dict, model=None,
                 sentences_b.append([sentence])
             samples_b[i]["masked_sentences"] = masked_sentences
 
-        #  Fill the masks for all the templates of the current batch， # 
+        #  Fill the masks for all the templates of the current batch， # 返回logits[sentence_num, sen_len, vocab_size],token_list:每个句子的token id list, mask_indeces
         (
             original_log_probs_tensor,
             tokens_ids_list,
@@ -208,7 +209,7 @@ def run_evaluation(args, language, NUM_MASK, candidate_objects_dict, model=None,
         original_log_probs_tensor = torch.reshape(
             original_log_probs_tensor, dim_reshape
         )
-        #  Group the indecies of masked tokens of each sample
+        #  Group the indecies of masked tokens of each sample掩码的位置
         indecies_of_masked_tokens_list = [
             indecies_of_masked_tokens_list[
                 sample_index * NUM_MASK : (sample_index + 1) * NUM_MASK
@@ -228,8 +229,9 @@ def run_evaluation(args, language, NUM_MASK, candidate_objects_dict, model=None,
             )
         ]
 
-        # Run the ranking computation in parallel for the samples in the batch!
-        #
+        # Run the ranking computation in parallel for the samples in the batch!为批处理中的样本并行运行排名计算!
+        # ranking_function_arguments中每个元素有4个部分，第一个部分logits[10,seq_len,vocab_size],第二个sample,三个mask index, 第四个每个长度对应的candidate set
+        # experiment_result = get_ranking(ranking_function_arguments[0][0], ranking_function_arguments[0][1], ranking_function_arguments[0][2], ranking_function_arguments[0][3])
         batch_ranking_results = pool.starmap(get_ranking, ranking_function_arguments)
 
         assert len(batch_ranking_results) == len(samples_b)
@@ -262,7 +264,11 @@ def get_T5_ranking(language, model, tokenizer, candidate_answers, prompt, device
         The answers with their corresponding probabilities.
     """
     #  Replace the span for the object within the template
-    if language == 'he':
+    if len(language) == 2:
+        main_lang = language
+    else:
+        main_lang = language.split('_')[1]
+    if main_lang in ['he', 'ar']:
         input_ids = tokenizer(
         prompt.replace("[2]", "<extra_id_0>"), return_tensors="pt").input_ids
     
@@ -339,7 +345,7 @@ def calculate_candidate_probability(tokenizer, logits, candidate, candidate_star
 
 
 
-def get_decoder_ranking(language, model, tokenizer, candidate_answers, prompt, device):
+def get_decoder_ranking(sub_label, language, model, tokenizer, candidate_answers, prompt, device):
     """Rank the answers according to their probability of filling the masked object.
 
     Args:
@@ -354,12 +360,25 @@ def get_decoder_ranking(language, model, tokenizer, candidate_answers, prompt, d
     """
     config = get_generation_config(tokenizer)
     answers_probabilities = {}
+    if len(language) == 2:
+        main_lang = language
+    else:
+        main_lang = language.split('_')[1]
 
-    if language == 'he':
+    if main_lang in ['he', 'ar']:
         prompt_prefix = prompt.split('[2]')[0].strip()
+        # prompt_prefix = prompt + '[1]='+sub_label + ', [2]='
+    elif main_lang in ['ko']:
+        prompt_prefix = prompt.replace(sub_label, "[X]") + '[Y]는 다음과 같을 수 있어요:'
+        # prompt_prefix = "\"" +prompt+"\"" + ' 이 문장에서, 만약 [X]=\"'+sub_label + '\", [Y]=\"'
+
+        
     else:
         prompt_prefix = prompt.split('[Y]')[0].strip()
+        # prompt_prefix = prompt + '[X]='+sub_label + ', [Y]='
     input_ids = tokenizer.encode(prompt_prefix, return_tensors="pt").to(device)
+    # if language in ['he', 'ar']:
+    #     input_ids[:, 1:] = torch.flip(input_ids[:, 1:], dims=[1])
     with torch.no_grad():
         model_output = model.generate(
                     input_ids, generation_config=config, output_scores=True
@@ -367,16 +386,56 @@ def get_decoder_ranking(language, model, tokenizer, candidate_answers, prompt, d
 
     for i, answer in tqdm(enumerate(candidate_answers)):
         answer_subword_probabilities = []
-        if "Qwen2" in model.name_or_path:
-            answer_token_id = tokenizer.encode(" "+answer)
-        elif "Llama2" in model.name_or_path:
-            answer_token_id = tokenizer.encode(answer)[1:]
-        elif "Llama-3" in model.name_or_path:
-            answer_token_id = tokenizer.encode(" "+answer)[1:]
-        elif "Phi" in model.name_or_path:
-            answer_token_id = tokenizer.encode(answer)
-        # elif "t5" in model.name_or_path:
-        #     answer_token_id = tokenizer.encode(answer)
+        if len(language) == 2:
+            main_lang = language
+        else:
+            main_lang = language.split('_')[1]
+
+        if main_lang == 'en':
+            if "Qwen2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer)
+            elif "Llama-2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(answer)[1:]
+            elif "Llama-3" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer)[1:]
+        elif main_lang == 'zh':
+            if "Qwen2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(answer) # confirm
+            elif "Llama-2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(answer)[2:]
+            elif "Llama-3" in model.name_or_path:
+                answer_token_id = tokenizer.encode(answer)[1:]
+        elif main_lang == 'ru':
+            if "Qwen2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer) # confirm
+            elif "Llama-2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(answer)[1:]
+            elif "Llama-3" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer)[1:]
+        elif main_lang == 'ko':
+            if "Qwen2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer) # confirm
+            elif "Llama-2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(answer)[1:]
+            elif "Llama-3" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer)[1:]
+
+        elif main_lang == 'ar':
+            if "Qwen2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer) # confirm
+            elif "Llama-2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(answer)[1:]
+            elif "Llama-3" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer)[1:]
+        elif main_lang == 'he':
+            if "Qwen2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer) # confirm
+            elif "Llama-2" in model.name_or_path:
+                answer_token_id = tokenizer.encode(answer)[1:]
+            elif "Llama-3" in model.name_or_path:
+                answer_token_id = tokenizer.encode(" "+answer)[1:]
+
+
         for j, t_idx in enumerate(answer_token_id):
             try:
                 score = model_output["scores"][j]
