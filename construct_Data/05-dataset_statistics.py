@@ -9,7 +9,7 @@ def read_data(file_path):
             ret.append(record)
     return ret
 
-root_dir = "/mntcephfs/lab_data/zhouli/personal/FmLAMA"
+root_dir = "FmLAMA"
 
 f = open(f'{root_dir}/data/country_info.json', 'r')
 continent_info = f.read()
